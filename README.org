@@ -1,0 +1,548 @@
+#+HUGO_SECTION: zettels
+#+HUGO_SLUG: today_i_learn
+#+TITLE: today-i-learn
+#+roam_tags:
+
+
+* Command line
+** 打印文本第一行
+#+begin_src sh
+awk 'NR==1{print}' filename
+#+end_src
+** 获取文本最后一列
+主要是$NF
+#+begin_src sh
+awk -F ',' '{print $NF}'
+#+end_src
+
+** Delete all broken soft link
+# https://stackoverflow.com/questions/22097130/delete-all-broken-symbolic-links-with-a-line
+#+begin_src sh
+find -L . -name . -o -type d -prune -o -type l -exec rm {} +
+#+end_src
+
+** Rotate a image
+#+begin_src sh
+function ro() {
+    szFile=$1
+    convert $1 -rotate 90 $(basename "$szFile").png
+}
+#+end_src
+
+** Nohup to file and console
+#+begin_src sh
+nohup ./program  > Output.txt | tail -F Output.txt &
+#+end_src
+
+** 检验文件或者文件夹是否存在
+
+*** 判断文件是否存在
+#+begin_src sh
+if [ -e x.txt ]
+then
+    echo "ok"
+else
+    echo "nok"
+fi
+#+end_src
+
+*** 判断文件夹是否存在
+#+begin_src sh
+if [ -d folder1 ]
+then
+    echo "ok"
+else
+    echo "nok"
+fi
+#+end_src
+
+*** 判断软链接存在并且可用虽
+#+begin_src sh
+[ -L ${my_link} ] && [ -e ${my_link} ]
+#+end_src
+
+*** 判断文件夹不存在
+#+begin_src sh
+
+#+end_src
+
+** 获取本机ip
+#+begin_src sh
+ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}[0-9]*' | grep -v '127.0.0.1'
+# linux only
+hostname -i
+#+end_src
+
+** Delete file expect few files
+#+begin_src sh
+rm -v !("filname1"|"file2")
+#+end_src
+
+** Sync file from source to target increment
+#+begin_src sh
+rsync -av Documents/* /tmp/documents
+#+end_src
+
+** How to get Maven project version from cmd
+#+begin_src sh
+mvn -q -Dexec.executable=echo -Dexec.args='${project.artifactId}' --non-recursive exec:
+#+end_src
+
+** Maven use alternative repo
+#+begin_src sh
+mvn -DaltDeploymentRepository=repoid::default::http://ip/nexus/content/repositories/releases clean source:jar-no-fork deploy
+#+end_src
+
+** Scp with port
+#+begin_src sh
+scp -P 2222 file host@localhost:~/linux-study
+#+end_src
+
+** Check url exist
+
+*** Method1
+#+begin_src sh
+url=http://www.baidu.co
+if wget --spider $url 2>/dev/null; then
+  echo "File exists"
+else
+  echo "File does not exist"
+fi
+#+end_src
+
+*** Method2
+#+begin_src sh
+url=http://www.baidu.co
+if wget -q --method=HEAD $url;
+ then
+  echo "This page exists."
+ else
+  echo "This page does not exist."
+fi
+#+end_src
+
+** Get host ip
+#+begin_src sh
+curl ipaddy.net
+#+end_src
+
+** Generate short link
+#+begin_src sh
+curl -s 'tinyurl.com/api-create.php?url=http://www.baidu.com'
+#+end_src
+
+** Get weather
+#+begin_src sh
+curl wttr.in
+#+end_src
+
+** Pass passphrase to gpg
+[[https://unix.stackexchange.com/questions/60213/gpg-asks-for-password-even-with-passphrase][shell script - gpg asks for password even with --passphrase - Unix & Linux Stack Exchange]]
+#+begin_src sh
+gpg -c --batch --passphrase 1234 -o file.gpg
+#+end_src
+
+** Where xhost
+[[https://apple.stackexchange.com/questions/378348/xhost-on-macos-catalina][x11 - xhost on MacOS Catalina - Ask Different]]
+#+begin_src sh
+/opt/X11/bin/xhost
+#+end_src
+* Emacs
+** 给Emacs文档增加目录
+给Entry增加标签 =:TOC:=，限定目录层级#+OPTIONS: toc:1
+** Add command to keyboard macro
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Basic-Keyboard-Macro.html
+C-u f3 能执行macro直接到按下f4
+** Set major mode on file
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Choosing-Modes.html
+#+begin_src emacs-lisp
+;; set major mode, with this, other set will be ignore
+; -*-Lisp-*-
+#+end_src
+** Add minor mode on file
+#+begin_src emacs-lisp
+; -*- eval: (rainbow-mode) -*-
+#+end_src
+** Straight use builtin org
+将下面的配置加到straight配置前
+#+begin_src emacs-lisp
+(straight-use-package '(org :type built-in))
+#+end_src
+** Delete blank line
+https://www.masteringemacs.org/article/removing-blank-lines-buffer
+#+begin_example
+M-x flush-lines RET ^$ RET
+#+end_example
+** Insert file contents to org source area
+In src area, run *C-x i*
+#+begin_src sh
+grep 'cool thing' ~/Donwnloads
+#+end_src
+** Add note to blog
+1. #+STARTUP: logdrawer
+2. 在需要加note的item执行 *C-c C-z*
+** Yas add custom style date
+[[https://emacs.stackexchange.com/questions/27158/insert-current-date-with-yasnippet][Insert current date with yasnippet - Emacs Stack Exchange]]
+#+begin_src emacs-lisp
+`(format-time-string "%Y-%m-%d")`$0
+#+end_src
+** Change org babel export language
+[[https://stackoverflow.com/questions/68085596/how-to-change-the-language-of-a-result-of-results-output-code-in-emacs-org-mo][How to change the language of a result of ":results output code" in emacs org-mode - Stack Overflow]]
+
+#+BEGIN_SRC sh :exports results :results output code
+pwd
+#+END_SRC
+** Ignore error info
+#+begin_src emacs-lisp
+(condition-case nil
+    (progn
+      (message "hello")
+    t)
+  (error nil)
+#+end_src
+** Org babel python output always Nono
+[[https://emacs.stackexchange.com/questions/17926/python-org-mode-source-block-output-is-always-none][Python org-mode source block output is always ': None' - Emacs Stack Exchange]]
+Can use *return* or add *:results output*
+** Handle swiper search result
+Ctrl+s搜索后，再按 *Ctrl+c Ctrl+o* 打开处理结果的buffer
+** Change org reveal font color
+[[https://emacs.stackexchange.com/questions/38532/change-font-color-on-a-org-reveal-slide][org mode - Change font color on a =org-reveal= slide - Emacs Stack Exchange]]
+
+1. Add header
+#+begin_src emacs-lisp
+#+MACRO: color @@html:<font color="$1">$2</font>@@
+#+end_src
+
+2. Use macro
+#+begin_src emacs-lisp
+{{{color(red, 基于2019.1版本.)}}}
+#+end_src
+* Git
+
+** 查看git配置的来源
+在正常工作中会针对不同的工作目录设置不同的配置，可以根据以下命令来确认当前仓库使用的配置来源
+#+begin_src sh
+git config --show-origin --get user.email
+#+end_src
+
+** 删除大于指定大小的仓库信息
+迁移仓库时遇到异常，提示镜像文件大于了100M，无法操作，经同事帮助找到此工具，减少仓库信息没得说
+#+begin_src sh
+bfg --strip-blobs-bigger-than 100M some-big-repo.git
+#+end_src
+
+** Rebase user info
+#+begin_src sh
+git rebase -i "commit id"
+# pick to edit then save change
+git commit --amend --author="{username} <{email}>" --no-edit
+git rebase --continue
+git push
+#+end_src
+
+** Migrate code to new origin
+#+begin_src sh
+git clone --mirror <url_of_old_repo>
+git remote add new-origin <url_of_new_repo>
+git push new-origin --all
+#+end_src
+
+* Github
+
+** Add profile page to github
+https://twitter.com/tomylitoo/status/1580396505118441472
+Create a repositoy with name same to github name.
+
+** Github emoji shortcode
+https://github.com/ikatyang/emoji-cheat-sheet
+
+* JAVA
+
+** How to judge byte[] is compressed with gzip
+#+HEADERS: :classname TestCase
+#+begin_src java
+private boolean isCompressed(byte[] bytes) {
+    if ((bytes == null) || (bytes.length < 2)) {
+        return false;
+    } else {
+        return ((bytes[0] == (byte) (GZIPInputStream.GZIP_MAGIC)) && (bytes[1] == (byte) (GZIPInputStream.GZIP_MAGIC
+                >> 8)));
+    }
+}
+
+#+end_src
+
+** Jenv export java_home
+#+begin_src sh
+jenv enable-plugin export
+#+end_src
+
+** Iterable to list
+#+begin_src xml
+<dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-collections4</artifactId>
+    <version>4.4</version>
+</dependency>
+#+end_src
+#+begin_src java
+IterableUtils.toList(list);
+#+end_src
+
+** JVM
+
+*** Show java program jvm params
+#+begin_src sh
+jcmd 2886 VM.flags
+#+end_src
+
+*** Why set -XX:NativeMemoryTracking=detail got ative memory tracking is not enabled
+Os security, must execute with root
+[[https://stackoverflow.com/questions/42295509/why-jcmd-throws-native-memory-tracking-is-not-enabled-message-even-though-nmt][java - Why JCMD throws "native memory tracking is not enabled" message even though NMT is enabled? - Stack Overflow]]
+
+** Get two date interval days by java8
+[[https://stackoverflow.com/questions/27005861/calculate-days-between-two-dates-in-java-8][Calculate days between two Dates in Java 8 - Stack Overflow]]
+#+begin_src java
+LocalDate today = LocalDate.now()
+LocalDate yesterday = today.minusDays(1);
+Duration.between(today.atStartOfDay(), yesterday.atStartOfDay()).toDays() // another option
+#+end_src
+
+** Convert Milliseconds to LocalDateTime
+#+begin_src java
+long millis = 1614926594000L; // UTC Fri Mar 05 2021 06:43:14
+LocalDate dateTime = Instant.ofEpochMilli(millis)
+        .atZone(ZoneId.systemDefault()) // default zone
+        .toLocalDate(); // returns actual LocalDate object
+#+end_src
+
+** Convert LocalDate to Milliseconds
+#+begin_src java
+ocalDate dateTime1 = LocalDate.of(2021, 3, 5);
+long seconds = dateTime1.atStartOfDay(ZoneId.systemDefault())
+        .toEpochSecond(); // returns seconds
+long millis1 = seconds * 1000; // seconds to milliseconds
+#+end_src
+
+* Spring
+
+** How to get handleMethod from webflux
+1. inject handleMapping
+2. you got it!
+#+HEADERS: :classname Solution
+#+begin_src java
+(HandlerMethod) this.handlerMapping.getHandler(serverWebExchange).toProcessor().peek();
+#+end_src
+
+** Spring profie effect scope
+Profiles affect only bean creation, not method.
+
+* KM
+
+** How to show km error log
+#+begin_src sh
+tail -f ~/Library/Logs/Keyboard\ Maestro/Engine.log
+#+end_src
+
+* Python
+
+** python with git
+#+begin_src sh
+pip3 install GitPython
+#+end_src
+
+** python with clipboard
+#+begin_src sh
+pip3 install pyperclip
+#+end_src
+
+** python urldecode
+#+begin_src python
+from urllib.parse import unquote
+url = unquote(url)
+#+end_src
+
+** python with cross-platform home directory
+[[https://stackoverflow.com/questions/4028904/what-is-a-cross-platform-way-to-get-the-home-directory][python - What is a cross-platform way to get the home directory? - Stack Overflow]]
+#+begin_src python :results output
+from pathlib import Path
+home = str(Path.home())
+print(home)
+#+end_src
+
+** python set to string
+#+begin_src python :results output
+s = {'a', 'b'}
+str = ', '.join(s)
+print(str)
+#+end_src
+
+* Brew
+
+** get installed program path
+
+#+begin_src sh
+(brew --prefix go)
+#+end_src
+
+** handle rebase-apply error
+#+begin_src sh
+brew update-reset
+#+end_src
+
+** Make brew python and pyenv togehter
+# https://stackoverflow.com/questions/30499795/how-can-i-make-homebrews-python-and-pyenv-live-together
+#+begin_src sh
+ln -s $(brew --cellar python)/* ~/.pyenv/versions/
+#+end_src
+
+** fixed font exists in multiple taps
+[[https://github.com/Homebrew/homebrew-cask/issues/59227][How can I fix Error: font exists in multiple taps ? · Issue #59227 · Homebrew/homebrew-cask]]
+#+begin_src sh
+brew untap caskroom/fonts
+brew tap homebrew/cask-fonts
+brew cask install font-hack-nerd-font
+#+end_src
+* MAC
+
+** del macOS Xcode CoreSimulator folder
+#+begin_src sh
+xcrun simctl delete unavailable
+#+end_src
+
+** Brew mysql install connect issue
+因为有老的mysql数据没有清理完全，执行完以下操作后，重新安装即可
+#+begin_src sh
+sudo rm -rf /usr/local/var/mysql
+#+end_src
+
+** Mount/unmount smbs
+#+begin_src sh
+sudo mount -t smbfs '//vagrant:vagrant@localhost:10139/kernel-source' /Volumes
+unmont kernel-source
+#+end_src
+
+** Get running app
+#+begin_src sh
+osascript -e 'tell application "System Events" to get name of (processes where background only is false)'
+#+end_src
+
+* Linux
+
+** Change default program
+#+begin_src sh
+update-alternatives --set java java-11-openjdk.x86_64
+#+end_src
+You can issue java path by
+#+begin_src sh
+update-alternatives --config java
+#+end_src
+
+** SSH paswordless with public key authentication
+
+*** Generate key from host
+#+begin_src sh
+ssh-keygen -t rsa
+#+end_src
+
+*** Scp to dest machine
+#+begin_src sh
+scp .ssh/id_rsa.pub user@host:.
+#+end_src
+
+*** Add pub key to dest machine auth key
+#+begin_src sh
+cat id_rsa.pub >> .ssh/authorized_keys
+#+end_src
+
+** Man with color
+[[https://gist.github.com/supermarin/6dca255da372c3f9eb26][Colored `man` pages on OSX]]
+#+begin_src sh
+man() {
+	env \
+		LESS_TERMCAP_mb=$(printf "\e[1;31m") \
+		LESS_TERMCAP_md=$(printf "\e[1;31m") \
+		LESS_TERMCAP_me=$(printf "\e[0m") \
+		LESS_TERMCAP_se=$(printf "\e[0m") \
+		LESS_TERMCAP_so=$(printf "\e[1;44;33m") \
+		LESS_TERMCAP_ue=$(printf "\e[0m") \
+		LESS_TERMCAP_us=$(printf "\e[1;32m") \
+		man "$@"
+}
+#+end_src
+
+* Mysql
+
+** Show db table create/update time
+#+begin_src sql
+select table_name, create_time, update_time
+from information_schema.TABLES
+where information_schema.TABLES.TABLE_SCHEMA = 'yw_cooperate_oppo' and information_schema.TABLES.TABLE_NAME = 'book_mrg';
+show table status like 'book_mrg';
+#+end_src
+
+* IDEA
+
+** Use alt key quickly on commit window
+Alt+i not work, need to use Alt+Ctrl+i
+
+* Convert vvt to srt
+#+begin_src sh
+ffmpeg -i in.vvt out.srt
+#+end_src
+
+* JACKSON
+
+** JsonNode to class
+#+begin_src java
+MyClass newJsonNode = jsonObjectMapper.treeToValue(someJsonNode, MyClass.class);
+#+end_src
+
+** Json to Map
+#+begin_src java
+String jsonInput = "{\"key\": \"value\"}";
+TypeReference<HashMap<String, String>> typeRef
+  = new TypeReference<HashMap<String, String>>() {};
+Map<String, String> map = mapper.readValue(jsonInput, typeRef);
+#+end_src
+
+** Unwarp map
+[[https://stackoverflow.com/questions/57312679/jackson-hashmap-ignore-map-name-when-writing-to-string][java - Jackson HashMap, ignore map name when writing to String - Stack Overflow]]
+#+begin_src java
+private Map<String, TaskStatusDTO> taskMap;
+
+@JsonAnySetter
+public void setTaskMap(String key, TaskStatusDTO value) {
+    this.taskMap.put(key, value);
+}
+
+@JsonAnyGetter
+public Map<String, TaskStatusDTO> getTaskMap() {
+    return taskMap;
+}
+#+end_src
+
+* Redis
+
+** Batch del key
+#+begin_src sh
+redis-cli keys "*match" | xargs redis-cli del
+#+end_src
+
+** Find big key
+#+begin_src sh
+redis-cli --bigkeys
+#+end_src
+
+* Nginx
+
+** underscore header issue
+Must set *underscores_in_headers* to tell nginx not drop it.
+#+begin_src sh
+underscores_in_headers on
+#+end_src
+[[https://stackoverflow.com/questions/22856136/why-do-http-servers-forbid-underscores-in-http-header-names][apache - Why do HTTP servers forbid underscores in HTTP header names - Stack Overflow]]
+
+* Wexin develop
+** [[https://blog.csdn.net/medivhq/article/details/49659971][微信模板消息换行 - Jinx - CSDN博客]]
+** [[https://blog.csdn.net/X_hazel/article/details/85206241][微信公众号开发者模式回复信息带表情（QQ，emoji） - X_hazel的博客 - CSDN博客]]
