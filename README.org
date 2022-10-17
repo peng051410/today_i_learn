@@ -324,6 +324,15 @@ long seconds = dateTime1.atStartOfDay(ZoneId.systemDefault())
 long millis1 = seconds * 1000; // seconds to milliseconds
 #+end_src
 
+** com.google.protobuf.GeneratedMessageV3.isStringEmpty not found
+need import protobuf-java dependency
+#+begin_src xml
+<dependency>
+  <groupId>com.google.protobuf</groupId>
+  <artifactId>protobuf-java</artifactId>
+  <version>3.19.1</version>
+</dependency>
+#+end_src
 * Spring
 
 ** How to get handleMethod from webflux
