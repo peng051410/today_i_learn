@@ -147,6 +147,14 @@ gpg -c --batch --passphrase 1234 -o file.gpg
 #+begin_src sh
 /opt/X11/bin/xhost
 #+end_src
+
+** Display custom date
+显示3小时之前的时间
+#+begin_src sh
+date -d '3 hours ago' +"%Y-%m-%d %T"
+# another way
+date -d "-3 Hours" "+%Y-%m-%d %T"
+#+end_src
 * Emacs
 ** 给Emacs文档增加目录
 给Entry增加标签 =:TOC:=，限定目录层级#+OPTIONS: toc:1
@@ -333,6 +341,15 @@ need import protobuf-java dependency
   <version>3.19.1</version>
 </dependency>
 #+end_src
+
+** Get returntype by aspectj joinpoint
+#+begin_src java
+Method method = ((MethodSignature) proceedingJoinPoint.getSignature()).getMethod();
+Class<?> returnType = method.getReturnType();
+
+//or
+Class<?> returnType1 = ((MethodSignature) proceedingJoinPoint.getSignature()).getReturnType();
+#+end_src
 * Spring
 
 ** How to get handleMethod from webflux
@@ -386,6 +403,13 @@ str = ', '.join(s)
 print(str)
 #+end_src
 
+** python decimal to binary
+https://stackoverflow.com/questions/3528146/convert-decimal-to-binary-in-python
+
+#+begin_src python :results output
+abinary = bin(1024)
+print(abinary)
+#+end_src
 * Brew
 
 ** get installed program path
