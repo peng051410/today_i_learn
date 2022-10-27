@@ -460,6 +460,10 @@ unmont kernel-source
 osascript -e 'tell application "System Events" to get name of (processes where background only is false)'
 #+end_src
 
+** Reset macos  accessibility
+#+begin_src sh
+sudo tccutil reset Accessibility
+#+end_src
 * Linux
 
 ** Change default program
