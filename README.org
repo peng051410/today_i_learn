@@ -610,3 +610,15 @@ underscores_in_headers on
 * Wexin develop
 ** [[https://blog.csdn.net/medivhq/article/details/49659971][微信模板消息换行 - Jinx - CSDN博客]]
 ** [[https://blog.csdn.net/X_hazel/article/details/85206241][微信公众号开发者模式回复信息带表情（QQ，emoji） - X_hazel的博客 - CSDN博客]]
+* JS
+** Get table td content
+#+begin_src js
+var table = document.getElementById("mytable");
+var rows = table.rows;//获取所有行
+console.log("lenth",rows.length) //
+for(var i=1; i < rows.length; i++){
+  var row = rows[i];//获取每一行
+  var id = row.cells[1].innerHTML;//获取具体单元格
+  console.log(id)
+}
+#+end_src
