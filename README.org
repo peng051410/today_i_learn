@@ -169,6 +169,19 @@ echo "filanme is $filename, file extendsion is $extension"
 #+RESULTS:
 | filanme is main-webapp_log_Onl_jar_backend | file extendsion is yml |
 
+** Truncate file
+truncate file only retain 10 line
+
+*** In-place
+#+begin_src sh
+sed -i.bak '11,$ d' myfile.txt
+#+end_src
+
+*** New file
+#+begin_src sh
+head -n10 myfile.txt > myfile.txt.bak
+#+end_src
+https://stackoverflow.com/questions/19017994/how-do-i-limit-or-truncate-text-file-by-number-of-lines
 * Emacs
 ** 给Emacs文档增加目录
 给Entry增加标签 =:TOC:=，限定目录层级#+OPTIONS: toc:1
