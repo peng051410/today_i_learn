@@ -4,6 +4,8 @@
 #+roam_tags:
 
 
+* [[https://github.githistory.xyz/peng051410/today_i_learn/blob/main/README.org][Quick history]]
+
 * Command line
 ** 打印文本第一行
 #+begin_src sh
