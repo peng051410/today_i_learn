@@ -184,6 +184,17 @@ sed -i.bak '11,$ d' myfile.txt
 head -n10 myfile.txt > myfile.txt.bak
 #+end_src
 https://stackoverflow.com/questions/19017994/how-do-i-limit-or-truncate-text-file-by-number-of-lines
+
+** Cut file
+#+begin_src sh :exports both :results output code
+echo "hello world" | cut -b 2-5
+#+end_src
+
+#+RESULTS:
+#+begin_src sh
+ello
+#+end_src
+
 * Emacs
 ** 给Emacs文档增加目录
 给Entry增加标签 =:TOC:=，限定目录层级#+OPTIONS: toc:1
