@@ -295,6 +295,15 @@ git remote add new-origin <url_of_new_repo>
 git push new-origin --all
 #+end_src
 
+** Remove untracked file
+#+begin_src sh
+git clean -xf
+#+end_src
+
+交互式的进行删除
+#+begin_src sh
+git clean -i
+#+end_src
 * Github
 
 ** Add profile page to github
