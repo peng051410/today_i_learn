@@ -265,6 +265,8 @@ Ctrl+s搜索后，再按 *Ctrl+c Ctrl+o* 打开处理结果的buffer
 #+begin_src emacs-lisp
 {{{color(red, 基于2019.1版本.)}}}
 #+end_src
+** So-lang mode
+When a file very big, [[https://elpa.gnu.org/packages/so-long.html][so-lang]] mode can fixed it
 * Git
 
 ** 查看git配置的来源
@@ -303,6 +305,19 @@ git clean -xf
 交互式的进行删除
 #+begin_src sh
 git clean -i
+#+end_src
+
+** How to clone git repo wiki
+add .wiki after repo
+
+*** clone today_i_learn repo
+#+begin_src sh
+git clone https://github.com/peng051410/today_i_learn
+#+end_src
+
+*** clone today_i_learn repo wiki
+#+begin_src sh
+git clone https://github.com/peng051410/today_i_learn.wiki
 #+end_src
 * Github
 
