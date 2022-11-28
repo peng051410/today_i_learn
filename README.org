@@ -265,8 +265,8 @@ Ctrl+s搜索后，再按 *Ctrl+c Ctrl+o* 打开处理结果的buffer
 #+begin_src emacs-lisp
 {{{color(red, 基于2019.1版本.)}}}
 #+end_src
-** So-lang mode
-When a file very big, [[https://elpa.gnu.org/packages/so-long.html][so-lang]] mode can fixed it
+** So-long mode
+When a file very big, [[https://elpa.gnu.org/packages/so-long.html][so-long]] mode can fixed it
 * Git
 
 ** 查看git配置的来源
