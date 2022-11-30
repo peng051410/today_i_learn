@@ -267,6 +267,9 @@ Ctrl+s搜索后，再按 *Ctrl+c Ctrl+o* 打开处理结果的buffer
 #+end_src
 ** So-long mode
 When a file very big, [[https://elpa.gnu.org/packages/so-long.html][so-long]] mode can fixed it
+** Trim changed line white space
+https://github.com/redguardtoo/emacs.d/issues/1014
+Emacs has an minor mode called [[ https://github.com/lewang/ws-butler][ws-butler-mode]] can trim white space only with changed line.
 * Git
 
 ** 查看git配置的来源
