@@ -269,7 +269,10 @@ Ctrl+s搜索后，再按 *Ctrl+c Ctrl+o* 打开处理结果的buffer
 When a file very big, [[https://elpa.gnu.org/packages/so-long.html][so-long]] mode can fixed it
 ** Trim changed line white space
 https://github.com/redguardtoo/emacs.d/issues/1014
-Emacs has an minor mode called [[ https://github.com/lewang/ws-butler][ws-butler-mode]] can trim white space only with changed line.
+Emacs has an minor mode called [[https://github.com/lewang/ws-butler][ws-butler-mode]] can trim white space only with changed line.
+** Open chrome-extension: prefix url
+#+transclude: [[id:BC157E91-6C94-4678-8764-3AEF52CD430B][Chrome browser]] :only-contents
+
 * Git
 
 ** 查看git配置的来源
@@ -652,6 +655,9 @@ underscores_in_headers on
 ** [[https://blog.csdn.net/X_hazel/article/details/85206241][微信公众号开发者模式回复信息带表情（QQ，emoji） - X_hazel的博客 - CSDN博客]]
 * JS
 ** Get table td content
+:PROPERTIES:
+:ID:       15B61F24-749B-41D7-81DD-FF18552D66A2
+:END:
 #+begin_src js
 var table = document.getElementById("mytable");
 var rows = table.rows;//获取所有行
