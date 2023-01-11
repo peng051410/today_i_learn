@@ -420,6 +420,33 @@ Class<?> returnType = method.getReturnType();
 //or
 Class<?> returnType1 = ((MethodSignature) proceedingJoinPoint.getSignature()).getReturnType();
 #+end_src
+
+** SpringFlux+Netty config access log
+
+*** add netty system param
+#+begin_src sh
+-Dreactor.netty.http.server.accessLogEnabled=true
+#+end_src
+
+*** config log4j for access log
+#+begin_src xml
+<RollingFile name="RollingFileAccess"
+             fileName="${sys:logPath}/access.log"
+             filePattern="${sys:logPath}/access.log.%d{yyyy-MM-dd_HH}.gz">
+  <ThresholdFilter level="INFO"/>
+  <PatternLayout>
+    <pattern>%d{HH:mm:ss.SSS} %-5level %class{36} %L %M - %msg%xEx%n</pattern>
+  </PatternLayout>
+  <Policies>
+    <TimeBasedTriggeringPolicy/>
+  </Policies>
+</RollingFile>
+
+<Logger name="reactor.netty.http.server.AccessLog" level="info" additivity="false">
+  <AppenderRef ref="RollingFileAccess"/>
+</Logger>
+
+#+end_src
 * Spring
 
 ** How to get handleMethod from webflux
@@ -505,6 +532,11 @@ ln -s $(brew --cellar python)/* ~/.pyenv/versions/
 brew untap caskroom/fonts
 brew tap homebrew/cask-fonts
 brew cask install font-hack-nerd-font
+#+end_src
+
+** Clean brew cache
+#+begin_src sh
+brew cleanup -s
 #+end_src
 * MAC
 
