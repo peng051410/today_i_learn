@@ -6,7 +6,7 @@
 
 * [[https://github.githistory.xyz/peng051410/today_i_learn/blob/main/README.org][Quick history]]
 
-* English
+* [[./english/vocabulary.org][English]]
 
 * Command line
 ** 打印文本第一行
