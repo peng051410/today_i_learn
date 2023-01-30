@@ -1,6 +1,7 @@
 #+HUGO_SECTION: zettels
 #+HUGO_SLUG: today_i_learn
 #+TITLE: today-i-learn
+#+OPTIONS: ^:nil ~:nil num:nil timestamp:nil
 #+roam_tags:
 
 
@@ -277,6 +278,18 @@ Emacs has an minor mode called [[https://github.com/lewang/ws-butler][ws-butler-
 ** Copy rectangle area content
 It's useful to yank org table cols without additional custom func.
 https://cdn.jsdelivr.net/gh/peng051410/bucket@main/img/copy-rectangle.gif
+** Org hugo add shortcode
+Hugo支持短代码形式在生成html时填充模板内容，shortcode配置的html文件放在 */layouts/shortcodes* 目录下即可，下面的代码就可以实现在博客中嵌入[[https://www.bilibili.com/video/BV1pD4y1K7iw/][B站]]的视频
+#+begin_export hugo
+{{< bilibili 736118195 >}}
+#+end_export
+
+Hugo也支持 *begin_myshortcode* 方式进行嵌入，使用中发现这种形式都是要成对出现的，类似html的闭合标签，目前的使用方式就是 *代码+参数* ，先记住 *export hugo* 方式就可以了
+*** [[https://ox-hugo.scripter.co/doc/shortcodes/][Shortcodes — ox-hugo - Org to Hugo exporter]]
+Captured On: [2023-01-30 Mon 17:16]
+
+*** [[https://blog.iyu.icu/posts/shortcode_bilibili/][使用Shortcodes在Hugo博客中优雅的嵌入B站视频 – Yu's Blog]]
+Captured On: [2023-01-30 Mon 17:10]
 * Git
 
 ** 查看git配置的来源
