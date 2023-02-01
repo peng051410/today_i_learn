@@ -1,19 +1,15 @@
-
-# Table of Contents
-
--   [some](#orga42bc95)
--   [fine](#orgb476af8)
--   [bold](#org57ebee6)
+- [some](#org4e76ebf)
+- [fine](#orgf43a69f)
+- [bold](#orgbd26f0c)
 
 Record my english study process.
 
 
-<a id="orga42bc95"></a>
+<a id="org4e76ebf"></a>
 
 # some
 
-<https://www.collinsdictionary.com/dictionary/english/some>
-又表示大，又表示小
+<https://www.collinsdictionary.com/dictionary/english/some> 又表示大，又表示小
 
 
 ## 一些
@@ -64,12 +60,11 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="orgb476af8"></a>
+<a id="orgf43a69f"></a>
 
 # fine
 
-<https://www.collinsdictionary.com/dictionary/english/fine>
-不仅代表好，可能还是罚款
+<https://www.collinsdictionary.com/dictionary/english/fine> 不仅代表好，可能还是罚款
 
 
 ## 好的
@@ -132,12 +127,11 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="org57ebee6"></a>
+<a id="orgbd26f0c"></a>
 
 # bold
 
-<https://www.collinsdictionary.com/dictionary/english/bold>
-bold不只表示粗体，还可以很勇敢
+<https://www.collinsdictionary.com/dictionary/english/bold> bold不只表示粗体，还可以很勇敢
 
 
 ## 勇敢的，大胆的

@@ -86,6 +86,7 @@ https://www.collinsdictionary.com/dictionary/english/fine
 :END:
 https://www.collinsdictionary.com/dictionary/english/bold
 bold不只表示粗体，还可以很勇敢
+
 ** 勇敢的，大胆的
 *** Poland was already making bold economic reforms.
 ** 放肆的

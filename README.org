@@ -647,6 +647,10 @@ Alt+i not work, need to use Alt+Ctrl+i
 ffmpeg -i in.vvt out.srt
 #+end_src
 
+* Save video part stuff
+截取视频的特定时间的内容
+#+transclude: [[id:EDE33AD7-AA31-4C77-850E-4BA357F3F073][Split video]] :only-contents
+
 * JACKSON
 
 ** JsonNode to class
