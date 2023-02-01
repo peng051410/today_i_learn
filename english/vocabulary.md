@@ -1,13 +1,14 @@
 
 # Table of Contents
 
--   [some](#orgd17369c)
--   [fine](#orgce6abf4)
+-   [some](#orga42bc95)
+-   [fine](#orgb476af8)
+-   [bold](#org57ebee6)
 
 Record my english study process.
 
 
-<a id="orgd17369c"></a>
+<a id="orga42bc95"></a>
 
 # some
 
@@ -63,7 +64,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="orgce6abf4"></a>
+<a id="orgb476af8"></a>
 
 # fine
 
@@ -129,3 +130,35 @@ Record my english study process.
 
 
 ### She was fined for speeding.
+
+
+<a id="org57ebee6"></a>
+
+# bold
+
+<https://www.collinsdictionary.com/dictionary/english/bold>
+bold不只表示粗体，还可以很勇敢
+
+
+## 勇敢的，大胆的
+
+
+### Poland was already making bold economic reforms.
+
+
+## 放肆的
+
+
+### She marched into his office as bold as brass.
+
+
+## 明显的
+
+
+### Bold colours
+
+
+## 粗体
+
+
+### All the headings are in bold type.
