@@ -95,3 +95,22 @@ bold不只表示粗体，还可以很勇敢
 *** Bold colours
 ** 粗体
 *** All the headings are in bold type.
+* detail
+:PROPERTIES:
+:ID:       0DDC7D03-D4BC-460B-98D7-2DC668084CC3
+:END:
+https://www.collinsdictionary.com/dictionary/english/detail
+detail的细节还挺多
+
+** 细节
+I recall every detail of the party.
+** 信息
+Full details will be announced soon.
+** 枝节
+Only minor details now remain to be settled.
+** 细微之处
+We like his attention to detail and enthusiasm.
+** 详述
+The report details the progress we have made over the last years.
+** 指派
+Four soldiers were detailed to guard duty.

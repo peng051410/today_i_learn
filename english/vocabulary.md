@@ -1,11 +1,12 @@
-- [some](#org4e76ebf)
-- [fine](#orgf43a69f)
-- [bold](#orgbd26f0c)
+- [some](#org05a4a9a)
+- [fine](#org38ed686)
+- [bold](#org7a89cd5)
+- [detail](#org6bc6a93)
 
 Record my english study process.
 
 
-<a id="org4e76ebf"></a>
+<a id="org05a4a9a"></a>
 
 # some
 
@@ -60,7 +61,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="orgf43a69f"></a>
+<a id="org38ed686"></a>
 
 # fine
 
@@ -127,7 +128,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="orgbd26f0c"></a>
+<a id="org7a89cd5"></a>
 
 # bold
 
@@ -156,3 +157,40 @@ Record my english study process.
 
 
 ### All the headings are in bold type.
+
+
+<a id="org6bc6a93"></a>
+
+# detail
+
+<https://www.collinsdictionary.com/dictionary/english/detail> detail的细节还挺多
+
+
+## 细节
+
+I recall every detail of the party.
+
+
+## 信息
+
+Full details will be announced soon.
+
+
+## 枝节
+
+Only minor details now remain to be settled.
+
+
+## 细微之处
+
+We like his attention to detail and enthusiasm.
+
+
+## 详述
+
+The report details the progress we have made over the last years.
+
+
+## 指派
+
+Four soldiers were detailed to guard duty.
