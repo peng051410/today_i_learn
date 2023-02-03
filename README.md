@@ -1,165 +1,166 @@
 
 # Table of Contents
 
--   [Quick history](#org10c96e3)
--   [English](#org27607de)
--   [Command line](#org189459c)
-    -   [打印文本第一行](#orga812e79)
-    -   [获取文本最后一列](#org03fdb11)
-    -   [Delete all broken soft link](#org3261566)
-    -   [Rotate a image](#org5444399)
-    -   [Nohup to file and console](#orgef6c653)
-    -   [检验文件或者文件夹是否存在](#orgb12a375)
-        -   [判断文件是否存在](#orge072930)
-        -   [判断文件夹是否存在](#orgbf66439)
-        -   [判断软链接存在并且可用虽](#org6f2d5f1)
-        -   [判断文件夹不存在](#orge6e04da)
-    -   [获取本机ip](#org92c7545)
-    -   [Delete file expect few files](#org736fed0)
-    -   [Sync file from source to target increment](#org1d37e79)
-    -   [How to get Maven project version from cmd](#orgb01acff)
-    -   [Maven use alternative repo](#org1d0ad9f)
-    -   [Scp with port](#org3142ad6)
-    -   [Check url exist](#org106c509)
-        -   [Method1](#orge0b07e7)
-        -   [Method2](#orga438d4a)
-    -   [Get host ip](#org99e8117)
-    -   [Generate short link](#orge4eacdc)
-    -   [Get weather](#orgd759c10)
-    -   [Pass passphrase to gpg](#org39398c2)
-    -   [Where xhost](#org6721d9b)
-    -   [Display custom date](#org715b6f9)
-    -   [Extract filename and extension from file](#orgee120c5)
-    -   [Truncate file](#org2f635d7)
-        -   [In-place](#org3b47aec)
-        -   [New file](#org16be400)
-    -   [Cut file](#org10518dd)
--   [Emacs](#org0561f71)
-    -   [给Emacs文档增加目录](#org8c9d5c5)
-    -   [Add command to keyboard macro](#orgf381362)
-    -   [Set major mode on file](#org2795fa9)
-    -   [Add minor mode on file](#org20f8c6f)
-    -   [Straight use builtin org](#orgf1cc69d)
-    -   [Delete blank line](#orgfa91c88)
-    -   [Insert file contents to org source area](#org4059844)
-    -   [Add note to blog](#orgda530ed)
-    -   [Yas add custom style date](#org617c6e7)
-    -   [Change org babel export language](#orgc883ce8)
-    -   [Ignore error info](#org632364d)
-    -   [Org babel python output always Nono](#org3e2ca8d)
-    -   [Handle swiper search result](#org1d2a7af)
-    -   [Change org reveal font color](#org32e4b52)
-    -   [So-long mode](#org7ebc6f9)
-    -   [Trim changed line white space](#orga4454ba)
-    -   [Open chrome-extension: prefix url](#orge384f8d)
-    -   [Copy rectangle area content](#orga3a4e64)
-    -   [Org hugo add shortcode](#org0c97a7d)
-        -   [Shortcodes — ox-hugo - Org to Hugo exporter](#orgd29141a)
-        -   [使用Shortcodes在Hugo博客中优雅的嵌入B站视频 – Yu's Blog](#org335f7ff)
--   [Git](#orgba71efb)
-    -   [查看git配置的来源](#org0f3df21)
-    -   [删除大于指定大小的仓库信息](#orge865767)
-    -   [Rebase user info](#orga2ec96d)
-    -   [Migrate code to new origin](#orgbbe42e7)
-    -   [Remove untracked file](#orgb06005b)
-    -   [How to clone git repo wiki](#org5a4d7c4)
-        -   [clone today\_i\_learn repo](#org32b412d)
-        -   [clone today\_i\_learn repo wiki](#org7601daa)
--   [Github](#orgf3ddd8b)
-    -   [Add profile page to github](#org07cc53f)
-    -   [Github emoji shortcode](#org01cedc8)
--   [JAVA](#orgd54a945)
-    -   [How to judge byte[] is compressed with gzip](#org2a5cb36)
-    -   [Jenv export java\_home](#org4ce89db)
-    -   [Iterable to list](#org17a29a5)
-    -   [JVM](#orge8534cc)
-        -   [Show java program jvm params](#org5fc8f9c)
-        -   [Why set -XX:NativeMemoryTracking=detail got ative memory tracking is not enabled](#org934e7ee)
-    -   [Get two date interval days by java8](#org7b819e7)
-    -   [Convert Milliseconds to LocalDateTime](#orgb09227b)
-    -   [Convert LocalDate to Milliseconds](#org19a970b)
-    -   [com.google.protobuf.GeneratedMessageV3.isStringEmpty not found](#org81ebae2)
-    -   [Get returntype by aspectj joinpoint](#org82deb23)
-    -   [SpringFlux+Netty config access log](#org9259f40)
-        -   [add netty system param](#orgcf16d5e)
-        -   [config log4j for access log](#org9b63d90)
--   [Spring](#org83f0fa2)
-    -   [How to get handleMethod from webflux](#org4336e1b)
-    -   [Spring profie effect scope](#org2f86b06)
--   [KM](#org1128eeb)
-    -   [How to show km error log](#orgdae8aa6)
--   [Python](#org760e0bd)
-    -   [python with git](#org0c7d6cd)
-    -   [python with clipboard](#orgae90109)
-    -   [python urldecode](#org1962d93)
-    -   [python with cross-platform home directory](#org63042bc)
-    -   [python set to string](#org4561c12)
-    -   [python decimal to binary](#org5c3002c)
--   [Brew](#org68b29fb)
-    -   [get installed program path](#org99bdc7e)
-    -   [handle rebase-apply error](#orgbd10acc)
-    -   [Make brew python and pyenv togehter](#org3a97c05)
-    -   [fixed font exists in multiple taps](#org6513e2c)
-    -   [Clean brew cache](#org6bba3a5)
--   [MAC](#org05bfa04)
-    -   [del macOS Xcode CoreSimulator folder](#org70c97d6)
-    -   [Brew mysql install connect issue](#orgeb0cab7)
-    -   [Mount/unmount smbs](#orgc368a17)
-    -   [Get running app](#org5ab4cb8)
-    -   [Reset macos accessibility](#orgfad569b)
--   [Linux](#org39404ac)
-    -   [Change default program](#org759f89f)
-    -   [SSH paswordless with public key authentication](#org8e35a35)
-        -   [Generate key from host](#org371e336)
-        -   [Scp to dest machine](#org0662947)
-        -   [Add pub key to dest machine auth key](#org4e2959a)
-    -   [Man with color](#orgdf4f4d5)
--   [Mysql](#orgfc2cae2)
-    -   [Show db table create/update time](#org263f4e0)
--   [IDEA](#orgbd2e19d)
-    -   [Use alt key quickly on commit window](#org19ed9c5)
--   [Convert vvt to srt](#org545e3bc)
--   [Save video part stuff](#org77f093a)
--   [JACKSON](#orge450a68)
-    -   [JsonNode to class](#orgea0527e)
-    -   [Json to Map](#org8043ca8)
-    -   [Unwarp map](#orgddf66a4)
--   [Redis](#orgf128910)
-    -   [Batch del key](#org2ee4795)
-    -   [Find big key](#org8b35cf2)
--   [Nginx](#orgc89e7de)
-    -   [underscore header issue](#org14c7e77)
--   [Wexin develop](#org475fba5)
-    -   [微信模板消息换行 - Jinx - CSDN博客](#org8d6c5f6)
-    -   [微信公众号开发者模式回复信息带表情（QQ，emoji） - X\_hazel的博客 - CSDN博客](#org7618da1)
--   [JS](#orgd44dccc)
-    -   [Get table td content](#org53367e5)
+-   [Quick history](#orgf1be19a)
+-   [English](#org309256f)
+-   [Command line](#org1971f74)
+    -   [打印文本第一行](#org6cb65a5)
+    -   [获取文本最后一列](#org2a1eb4d)
+    -   [Delete all broken soft link](#orgff232da)
+    -   [Rotate a image](#org546f204)
+    -   [Nohup to file and console](#org1327a92)
+    -   [检验文件或者文件夹是否存在](#org4bcb5b6)
+        -   [判断文件是否存在](#org93e49d8)
+        -   [判断文件夹是否存在](#org6a64aef)
+        -   [判断软链接存在并且可用虽](#orga02711e)
+        -   [判断文件夹不存在](#org18c9f61)
+    -   [获取本机ip](#orgfb6c5a1)
+    -   [Delete file expect few files](#org8df4657)
+    -   [Sync file from source to target increment](#org952e7bd)
+    -   [How to get Maven project version from cmd](#org66d6eaf)
+    -   [Maven use alternative repo](#org996acf4)
+    -   [Scp with port](#org85935f8)
+    -   [Check url exist](#orgd45bdc3)
+        -   [Method1](#orge539e35)
+        -   [Method2](#orgf169cdd)
+    -   [Get host ip](#org3c78027)
+    -   [Generate short link](#org20fe413)
+    -   [Get weather](#org5f42116)
+    -   [Pass passphrase to gpg](#org606aa4a)
+    -   [Where xhost](#orgf35509b)
+    -   [Display custom date](#org4949917)
+    -   [Extract filename and extension from file](#orgdb7dc76)
+    -   [Truncate file](#orgaa0886d)
+        -   [In-place](#org1799977)
+        -   [New file](#org1cd819a)
+    -   [Cut file](#orgfb6571f)
+-   [Emacs](#org2a33765)
+    -   [给Emacs文档增加目录](#org77106a7)
+    -   [Add command to keyboard macro](#org7a1303e)
+    -   [Set major mode on file](#org8c80fdd)
+    -   [Add minor mode on file](#org2cace70)
+    -   [Straight use builtin org](#org3fa0e44)
+    -   [Delete blank line](#org65ece4a)
+    -   [Insert file contents to org source area](#org56d5451)
+    -   [Add note to blog](#orge0c7ff6)
+    -   [Yas add custom style date](#orgdfae514)
+    -   [Change org babel export language](#orgf5dc7bc)
+    -   [Ignore error info](#orgef3827a)
+    -   [Org babel python output always Nono](#orgd6080dc)
+    -   [Handle swiper search result](#org1aebd4c)
+    -   [Change org reveal font color](#orgb2ef17e)
+    -   [So-long mode](#org0bb0ca0)
+    -   [Trim changed line white space](#orgca81ab7)
+    -   [Open chrome-extension: prefix url](#org650904f)
+    -   [Copy rectangle area content](#org3b79ef8)
+-   [Org hugo add shortcode](#org75a103c)
+        -   [Shortcodes — ox-hugo - Org to Hugo exporter](#org1212e4b)
+        -   [使用Shortcodes在Hugo博客中优雅的嵌入B站视频 – Yu's Blog](#org81dfd29)
+    -   [Batch modify file name in emacs](#orgc8d31d2)
+-   [git](#orga527fb0)
+    -   [查看git配置的来源](#org8775570)
+    -   [删除大于指定大小的仓库信息](#org42906dd)
+    -   [Rebase user info](#orgcf7e616)
+    -   [Migrate code to new origin](#orgf89437b)
+    -   [Remove untracked file](#orgb9e986c)
+    -   [How to clone git repo wiki](#orga1660fc)
+        -   [clone today\_i\_learn repo](#org0957797)
+        -   [clone today\_i\_learn repo wiki](#org34bd83a)
+-   [Github](#org0c93050)
+    -   [Add profile page to github](#orgb7aed08)
+    -   [Github emoji shortcode](#org11b05bc)
+-   [JAVA](#org1463b47)
+    -   [How to judge byte[] is compressed with gzip](#orgc890f0b)
+    -   [Jenv export java\_home](#orgd08896f)
+    -   [Iterable to list](#org4fd5e52)
+    -   [JVM](#org34b22f9)
+        -   [Show java program jvm params](#orgf8553fb)
+        -   [Why set -XX:NativeMemoryTracking=detail got ative memory tracking is not enabled](#org907fa76)
+    -   [Get two date interval days by java8](#org482d63a)
+    -   [Convert Milliseconds to LocalDateTime](#orgc4311b5)
+    -   [Convert LocalDate to Milliseconds](#org734f149)
+    -   [com.google.protobuf.GeneratedMessageV3.isStringEmpty not found](#orgbf117e5)
+    -   [Get returntype by aspectj joinpoint](#org5042213)
+    -   [SpringFlux+Netty config access log](#org9f34d5a)
+        -   [add netty system param](#orgf38ae36)
+        -   [config log4j for access log](#org864dc47)
+-   [Spring](#orgc4b1b0b)
+    -   [How to get handleMethod from webflux](#orgda96041)
+    -   [Spring profie effect scope](#org37c0a94)
+-   [KM](#org509df68)
+    -   [How to show km error log](#orgdc2a288)
+-   [Python](#org97638c8)
+    -   [python with git](#orged87dda)
+    -   [python with clipboard](#org28a9dab)
+    -   [python urldecode](#orgb3d75c1)
+    -   [python with cross-platform home directory](#org242c3fe)
+    -   [python set to string](#orgfb8e5ac)
+    -   [python decimal to binary](#org61f6a9a)
+-   [Brew](#orga57545f)
+    -   [get installed program path](#orga62d852)
+    -   [handle rebase-apply error](#orgd01367a)
+    -   [Make brew python and pyenv togehter](#orgea4b43e)
+    -   [fixed font exists in multiple taps](#orgfb822d5)
+    -   [Clean brew cache](#orge0ecfca)
+-   [MAC](#orgf17bedb)
+    -   [del macOS Xcode CoreSimulator folder](#orgf2cfd9d)
+    -   [Brew mysql install connect issue](#org71349e6)
+    -   [Mount/unmount smbs](#orgec5cb55)
+    -   [Get running app](#orga9be36e)
+    -   [Reset macos accessibility](#org0471b94)
+-   [Linux](#org7003c31)
+    -   [Change default program](#org56dfca5)
+    -   [SSH paswordless with public key authentication](#org07b628f)
+        -   [Generate key from host](#orgaf29bf2)
+        -   [Scp to dest machine](#orgb0991a1)
+        -   [Add pub key to dest machine auth key](#org4c38584)
+    -   [Man with color](#org50c743f)
+-   [Mysql](#orgef87000)
+    -   [Show db table create/update time](#org03ba616)
+-   [IDEA](#org0cf601f)
+    -   [Use alt key quickly on commit window](#org96af6a4)
+-   [Convert vvt to srt](#orgc5aa803)
+-   [Save video part stuff](#orgf35921a)
+-   [JACKSON](#org32e5f0f)
+    -   [JsonNode to class](#orgdb6dbc4)
+    -   [Json to Map](#org1dab887)
+    -   [Unwarp map](#orgd356cb7)
+-   [Redis](#org587f590)
+    -   [Batch del key](#org9d599fa)
+    -   [Find big key](#org63c0f6e)
+-   [Nginx](#orgc75d982)
+    -   [underscore header issue](#org6549489)
+-   [Wexin develop](#orgba321e5)
+    -   [微信模板消息换行 - Jinx - CSDN博客](#orgb6625b0)
+    -   [微信公众号开发者模式回复信息带表情（QQ，emoji） - X\_hazel的博客 - CSDN博客](#org6368321)
+-   [JS](#orgbff9348)
+    -   [Get table td content](#org13f3be4)
 
 
 
-<a id="org10c96e3"></a>
+<a id="orgf1be19a"></a>
 
 # [Quick history](https://github.githistory.xyz/peng051410/today_i_learn/blob/main/README.org)
 
 
-<a id="org27607de"></a>
+<a id="org309256f"></a>
 
 # [English](./english/vocabulary.md)
 
 
-<a id="org189459c"></a>
+<a id="org1971f74"></a>
 
 # Command line
 
 
-<a id="orga812e79"></a>
+<a id="org6cb65a5"></a>
 
 ## 打印文本第一行
 
     awk 'NR==1{print}' filename
 
 
-<a id="org03fdb11"></a>
+<a id="org2a1eb4d"></a>
 
 ## 获取文本最后一列
 
@@ -168,14 +169,14 @@
     awk -F ',' '{print $NF}'
 
 
-<a id="org3261566"></a>
+<a id="orgff232da"></a>
 
 ## Delete all broken soft link
 
     find -L . -name . -o -type d -prune -o -type l -exec rm {} +
 
 
-<a id="org5444399"></a>
+<a id="org546f204"></a>
 
 ## Rotate a image
 
@@ -185,19 +186,19 @@
     }
 
 
-<a id="orgef6c653"></a>
+<a id="org1327a92"></a>
 
 ## Nohup to file and console
 
     nohup ./program  > Output.txt | tail -F Output.txt &
 
 
-<a id="orgb12a375"></a>
+<a id="org4bcb5b6"></a>
 
 ## 检验文件或者文件夹是否存在
 
 
-<a id="orge072930"></a>
+<a id="org93e49d8"></a>
 
 ### 判断文件是否存在
 
@@ -209,7 +210,7 @@
     fi
 
 
-<a id="orgbf66439"></a>
+<a id="org6a64aef"></a>
 
 ### 判断文件夹是否存在
 
@@ -221,19 +222,19 @@
     fi
 
 
-<a id="org6f2d5f1"></a>
+<a id="orga02711e"></a>
 
 ### 判断软链接存在并且可用虽
 
     [ -L ${my_link} ] && [ -e ${my_link} ]
 
 
-<a id="orge6e04da"></a>
+<a id="org18c9f61"></a>
 
 ### 判断文件夹不存在
 
 
-<a id="org92c7545"></a>
+<a id="orgfb6c5a1"></a>
 
 ## 获取本机ip
 
@@ -242,47 +243,47 @@
     hostname -i
 
 
-<a id="org736fed0"></a>
+<a id="org8df4657"></a>
 
 ## Delete file expect few files
 
     rm -v !("filname1"|"file2")
 
 
-<a id="org1d37e79"></a>
+<a id="org952e7bd"></a>
 
 ## Sync file from source to target increment
 
     rsync -av Documents/* /tmp/documents
 
 
-<a id="orgb01acff"></a>
+<a id="org66d6eaf"></a>
 
 ## How to get Maven project version from cmd
 
     mvn -q -Dexec.executable=echo -Dexec.args='${project.artifactId}' --non-recursive exec:
 
 
-<a id="org1d0ad9f"></a>
+<a id="org996acf4"></a>
 
 ## Maven use alternative repo
 
     mvn -DaltDeploymentRepository=repoid::default::http://ip/nexus/content/repositories/releases clean source:jar-no-fork deploy
 
 
-<a id="org3142ad6"></a>
+<a id="org85935f8"></a>
 
 ## Scp with port
 
     scp -P 2222 file host@localhost:~/linux-study
 
 
-<a id="org106c509"></a>
+<a id="orgd45bdc3"></a>
 
 ## Check url exist
 
 
-<a id="orge0b07e7"></a>
+<a id="orge539e35"></a>
 
 ### Method1
 
@@ -294,7 +295,7 @@
     fi
 
 
-<a id="orga438d4a"></a>
+<a id="orgf169cdd"></a>
 
 ### Method2
 
@@ -307,28 +308,28 @@
     fi
 
 
-<a id="org99e8117"></a>
+<a id="org3c78027"></a>
 
 ## Get host ip
 
     curl ipaddy.net
 
 
-<a id="orge4eacdc"></a>
+<a id="org20fe413"></a>
 
 ## Generate short link
 
     curl -s 'tinyurl.com/api-create.php?url=http://www.baidu.com'
 
 
-<a id="orgd759c10"></a>
+<a id="org5f42116"></a>
 
 ## Get weather
 
     curl wttr.in
 
 
-<a id="org39398c2"></a>
+<a id="org606aa4a"></a>
 
 ## Pass passphrase to gpg
 
@@ -337,7 +338,7 @@
     gpg -c --batch --passphrase 1234 -o file.gpg
 
 
-<a id="org6721d9b"></a>
+<a id="orgf35509b"></a>
 
 ## Where xhost
 
@@ -346,7 +347,7 @@
     /opt/X11/bin/xhost
 
 
-<a id="org715b6f9"></a>
+<a id="org4949917"></a>
 
 ## Display custom date
 
@@ -357,7 +358,7 @@
     date -d "-3 Hours" "+%Y-%m-%d %T"
 
 
-<a id="orgee120c5"></a>
+<a id="orgdb7dc76"></a>
 
 ## Extract filename and extension from file
 
@@ -370,21 +371,21 @@
     echo "filanme is $filename, file extendsion is $extension"
 
 
-<a id="org2f635d7"></a>
+<a id="orgaa0886d"></a>
 
 ## Truncate file
 
 truncate file only retain 10 line
 
 
-<a id="org3b47aec"></a>
+<a id="org1799977"></a>
 
 ### In-place
 
     sed -i.bak '11,$ d' myfile.txt
 
 
-<a id="org16be400"></a>
+<a id="org1cd819a"></a>
 
 ### New file
 
@@ -393,7 +394,7 @@ truncate file only retain 10 line
 <https://stackoverflow.com/questions/19017994/how-do-i-limit-or-truncate-text-file-by-number-of-lines>
 
 
-<a id="org10518dd"></a>
+<a id="orgfb6571f"></a>
 
 ## Cut file
 
@@ -402,19 +403,19 @@ truncate file only retain 10 line
     ello
 
 
-<a id="org0561f71"></a>
+<a id="org2a33765"></a>
 
 # Emacs
 
 
-<a id="org8c9d5c5"></a>
+<a id="org77106a7"></a>
 
 ## 给Emacs文档增加目录
 
 给Entry增加标签 =:TOC:=，限定目录层级#+OPTIONS: toc:1
 
 
-<a id="orgf381362"></a>
+<a id="org7a1303e"></a>
 
 ## Add command to keyboard macro
 
@@ -422,7 +423,7 @@ truncate file only retain 10 line
 C-u f3 能执行macro直接到按下f4
 
 
-<a id="org2795fa9"></a>
+<a id="org8c80fdd"></a>
 
 ## Set major mode on file
 
@@ -432,14 +433,14 @@ C-u f3 能执行macro直接到按下f4
     ; -*-Lisp-*-
 
 
-<a id="org20f8c6f"></a>
+<a id="org2cace70"></a>
 
 ## Add minor mode on file
 
     ; -*- eval: (rainbow-mode) -*-
 
 
-<a id="orgf1cc69d"></a>
+<a id="org3fa0e44"></a>
 
 ## Straight use builtin org
 
@@ -448,7 +449,7 @@ C-u f3 能执行macro直接到按下f4
     (straight-use-package '(org :type built-in))
 
 
-<a id="orgfa91c88"></a>
+<a id="org65ece4a"></a>
 
 ## Delete blank line
 
@@ -457,7 +458,7 @@ C-u f3 能执行macro直接到按下f4
     M-x flush-lines RET ^$ RET
 
 
-<a id="org4059844"></a>
+<a id="org56d5451"></a>
 
 ## Insert file contents to org source area
 
@@ -466,7 +467,7 @@ In src area, run **C-x i**
     grep 'cool thing' ~/Donwnloads
 
 
-<a id="orgda530ed"></a>
+<a id="orge0c7ff6"></a>
 
 ## Add note to blog
 
@@ -474,7 +475,7 @@ In src area, run **C-x i**
 2.  在需要加note的item执行 **C-c C-z**
 
 
-<a id="org617c6e7"></a>
+<a id="orgdfae514"></a>
 
 ## Yas add custom style date
 
@@ -483,7 +484,7 @@ In src area, run **C-x i**
     `(format-time-string "%Y-%m-%d")`$0
 
 
-<a id="orgc883ce8"></a>
+<a id="orgf5dc7bc"></a>
 
 ## Change org babel export language
 
@@ -492,7 +493,7 @@ In src area, run **C-x i**
     /Users/tomyli/github/today_i_learn
 
 
-<a id="org632364d"></a>
+<a id="orgef3827a"></a>
 
 ## Ignore error info
 
@@ -503,7 +504,7 @@ In src area, run **C-x i**
       (error nil)
 
 
-<a id="org3e2ca8d"></a>
+<a id="orgd6080dc"></a>
 
 ## Org babel python output always Nono
 
@@ -511,14 +512,14 @@ In src area, run **C-x i**
 Can use **return** or add **:results output**
 
 
-<a id="org1d2a7af"></a>
+<a id="org1aebd4c"></a>
 
 ## Handle swiper search result
 
 Ctrl+s搜索后，再按 **Ctrl+c Ctrl+o** 打开处理结果的buffer
 
 
-<a id="org32e4b52"></a>
+<a id="orgb2ef17e"></a>
 
 ## Change org reveal font color
 
@@ -533,14 +534,14 @@ Ctrl+s搜索后，再按 **Ctrl+c Ctrl+o** 打开处理结果的buffer
     {{{color(red, 基于2019.1版本.)}}}
 
 
-<a id="org7ebc6f9"></a>
+<a id="org0bb0ca0"></a>
 
 ## So-long mode
 
 When a file very big, [so-long](https://elpa.gnu.org/packages/so-long.html) mode can fixed it
 
 
-<a id="orga4454ba"></a>
+<a id="orgca81ab7"></a>
 
 ## Trim changed line white space
 
@@ -548,14 +549,14 @@ When a file very big, [so-long](https://elpa.gnu.org/packages/so-long.html) mode
 Emacs has an minor mode called [ws-butler-mode](https://github.com/lewang/ws-butler) can trim white space only with changed line.
 
 
-<a id="orge384f8d"></a>
+<a id="org650904f"></a>
 
 ## Open chrome-extension: prefix url
 
     (setq browse-url-chrome-program "/Applications/Chromium.app/Contents/MacOS/Chromium")
 
 
-<a id="orga3a4e64"></a>
+<a id="org3b79ef8"></a>
 
 ## Copy rectangle area content
 
@@ -563,35 +564,44 @@ It's useful to yank org table cols without additional custom func.
 ![img](https://cdn.jsdelivr.net/gh/peng051410/bucket@main/img/copy-rectangle.gif)
 
 
-<a id="org0c97a7d"></a>
+<a id="org75a103c"></a>
 
-## Org hugo add shortcode
+# Org hugo add shortcode
 
 Hugo支持短代码形式在生成html时填充模板内容，shortcode配置的html文件放在 **/layouts/shortcodes** 目录下即可，下面的代码就可以实现在博客中嵌入[B站](https://www.bilibili.com/video/BV1pD4y1K7iw/)的视频
 
 Hugo也支持 **begin\_myshortcode** 方式进行嵌入，使用中发现这种形式都是要成对出现的，类似html的闭合标签，目前的使用方式就是 **代码+参数** ，先记住 **export hugo** 方式就可以了
 
 
-<a id="orgd29141a"></a>
+<a id="org1212e4b"></a>
 
 ### [Shortcodes — ox-hugo - Org to Hugo exporter](https://ox-hugo.scripter.co/doc/shortcodes/)
 
 Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2023-01-30 Mon 17:16]</span></span>
 
 
-<a id="org335f7ff"></a>
+<a id="org81dfd29"></a>
 
 ### [使用Shortcodes在Hugo博客中优雅的嵌入B站视频 – Yu's Blog](https://blog.iyu.icu/posts/shortcode_bilibili/)
 
 Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2023-01-30 Mon 17:10]</span></span>
 
 
-<a id="orgba71efb"></a>
+<a id="orgc8d31d2"></a>
 
-# Git
+## Batch modify file name in emacs
+
+借助库 [dired](https://www.gnu.org/software/emacs/manual/html_node/emacs/Dired.html) 即可实现，参照 [李杀](http://xahlee.info/emacs/emacs/rename_file_pattern.html) 的教程
+
+![img](https://cdn.jsdelivr.net/gh/peng051410/bucket@main/img/emacs-dired-batch-file.gif)
 
 
-<a id="org0f3df21"></a>
+<a id="orga527fb0"></a>
+
+# git
+
+
+<a id="org8775570"></a>
 
 ## 查看git配置的来源
 
@@ -600,7 +610,7 @@ Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2023-01-30
     git config --show-origin --get user.email
 
 
-<a id="orge865767"></a>
+<a id="org42906dd"></a>
 
 ## 删除大于指定大小的仓库信息
 
@@ -609,7 +619,7 @@ Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2023-01-30
     bfg --strip-blobs-bigger-than 100M some-big-repo.git
 
 
-<a id="orga2ec96d"></a>
+<a id="orgcf7e616"></a>
 
 ## Rebase user info
 
@@ -620,7 +630,7 @@ Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2023-01-30
     git push
 
 
-<a id="orgbbe42e7"></a>
+<a id="orgf89437b"></a>
 
 ## Migrate code to new origin
 
@@ -629,7 +639,7 @@ Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2023-01-30
     git push new-origin --all
 
 
-<a id="orgb06005b"></a>
+<a id="orgb9e986c"></a>
 
 ## Remove untracked file
 
@@ -640,33 +650,33 @@ Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2023-01-30
     git clean -i
 
 
-<a id="org5a4d7c4"></a>
+<a id="orga1660fc"></a>
 
 ## How to clone git repo wiki
 
 add .wiki after repo
 
 
-<a id="org32b412d"></a>
+<a id="org0957797"></a>
 
 ### clone today\_i\_learn repo
 
     git clone https://github.com/peng051410/today_i_learn
 
 
-<a id="org7601daa"></a>
+<a id="org34bd83a"></a>
 
 ### clone today\_i\_learn repo wiki
 
     git clone https://github.com/peng051410/today_i_learn.wiki
 
 
-<a id="orgf3ddd8b"></a>
+<a id="org0c93050"></a>
 
 # Github
 
 
-<a id="org07cc53f"></a>
+<a id="orgb7aed08"></a>
 
 ## Add profile page to github
 
@@ -674,19 +684,19 @@ add .wiki after repo
 Create a repositoy with name same to github name.
 
 
-<a id="org01cedc8"></a>
+<a id="org11b05bc"></a>
 
 ## Github emoji shortcode
 
 <https://github.com/ikatyang/emoji-cheat-sheet>
 
 
-<a id="orgd54a945"></a>
+<a id="org1463b47"></a>
 
 # JAVA
 
 
-<a id="org2a5cb36"></a>
+<a id="orgc890f0b"></a>
 
 ## How to judge byte[] is compressed with gzip
 
@@ -700,14 +710,14 @@ Create a repositoy with name same to github name.
     }
 
 
-<a id="org4ce89db"></a>
+<a id="orgd08896f"></a>
 
 ## Jenv export java\_home
 
     jenv enable-plugin export
 
 
-<a id="org17a29a5"></a>
+<a id="org4fd5e52"></a>
 
 ## Iterable to list
 
@@ -720,19 +730,19 @@ Create a repositoy with name same to github name.
     IterableUtils.toList(list);
 
 
-<a id="orge8534cc"></a>
+<a id="org34b22f9"></a>
 
 ## JVM
 
 
-<a id="org5fc8f9c"></a>
+<a id="orgf8553fb"></a>
 
 ### Show java program jvm params
 
     jcmd 2886 VM.flags
 
 
-<a id="org934e7ee"></a>
+<a id="org907fa76"></a>
 
 ### Why set -XX:NativeMemoryTracking=detail got ative memory tracking is not enabled
 
@@ -740,7 +750,7 @@ Os security, must execute with root
 [java - Why JCMD throws "native memory tracking is not enabled" message even though NMT is enabled? - Stack Overflow](https://stackoverflow.com/questions/42295509/why-jcmd-throws-native-memory-tracking-is-not-enabled-message-even-though-nmt)
 
 
-<a id="org7b819e7"></a>
+<a id="org482d63a"></a>
 
 ## Get two date interval days by java8
 
@@ -751,7 +761,7 @@ Os security, must execute with root
     Duration.between(today.atStartOfDay(), yesterday.atStartOfDay()).toDays() // another option
 
 
-<a id="orgb09227b"></a>
+<a id="orgc4311b5"></a>
 
 ## Convert Milliseconds to LocalDateTime
 
@@ -761,7 +771,7 @@ Os security, must execute with root
             .toLocalDate(); // returns actual LocalDate object
 
 
-<a id="org19a970b"></a>
+<a id="org734f149"></a>
 
 ## Convert LocalDate to Milliseconds
 
@@ -771,7 +781,7 @@ Os security, must execute with root
     long millis1 = seconds * 1000; // seconds to milliseconds
 
 
-<a id="org81ebae2"></a>
+<a id="orgbf117e5"></a>
 
 ## com.google.protobuf.GeneratedMessageV3.isStringEmpty not found
 
@@ -784,7 +794,7 @@ need import protobuf-java dependency
     </dependency>
 
 
-<a id="org82deb23"></a>
+<a id="org5042213"></a>
 
 ## Get returntype by aspectj joinpoint
 
@@ -795,19 +805,19 @@ need import protobuf-java dependency
     Class<?> returnType1 = ((MethodSignature) proceedingJoinPoint.getSignature()).getReturnType();
 
 
-<a id="org9259f40"></a>
+<a id="org9f34d5a"></a>
 
 ## SpringFlux+Netty config access log
 
 
-<a id="orgcf16d5e"></a>
+<a id="orgf38ae36"></a>
 
 ### add netty system param
 
     -Dreactor.netty.http.server.accessLogEnabled=true
 
 
-<a id="org9b63d90"></a>
+<a id="org864dc47"></a>
 
 ### config log4j for access log
 
@@ -828,12 +838,12 @@ need import protobuf-java dependency
     </Logger>
 
 
-<a id="org83f0fa2"></a>
+<a id="orgc4b1b0b"></a>
 
 # Spring
 
 
-<a id="org4336e1b"></a>
+<a id="orgda96041"></a>
 
 ## How to get handleMethod from webflux
 
@@ -843,45 +853,45 @@ need import protobuf-java dependency
     (HandlerMethod) this.handlerMapping.getHandler(serverWebExchange).toProcessor().peek();
 
 
-<a id="org2f86b06"></a>
+<a id="org37c0a94"></a>
 
 ## Spring profie effect scope
 
 Profiles affect only bean creation, not method.
 
 
-<a id="org1128eeb"></a>
+<a id="org509df68"></a>
 
 # KM
 
 
-<a id="orgdae8aa6"></a>
+<a id="orgdc2a288"></a>
 
 ## How to show km error log
 
     tail -f ~/Library/Logs/Keyboard\ Maestro/Engine.log
 
 
-<a id="org760e0bd"></a>
+<a id="org97638c8"></a>
 
 # Python
 
 
-<a id="org0c7d6cd"></a>
+<a id="orged87dda"></a>
 
 ## python with git
 
     pip3 install GitPython
 
 
-<a id="orgae90109"></a>
+<a id="org28a9dab"></a>
 
 ## python with clipboard
 
     pip3 install pyperclip
 
 
-<a id="org1962d93"></a>
+<a id="orgb3d75c1"></a>
 
 ## python urldecode
 
@@ -889,7 +899,7 @@ Profiles affect only bean creation, not method.
     url = unquote(url)
 
 
-<a id="org63042bc"></a>
+<a id="org242c3fe"></a>
 
 ## python with cross-platform home directory
 
@@ -900,7 +910,7 @@ Profiles affect only bean creation, not method.
     print(home)
 
 
-<a id="org4561c12"></a>
+<a id="orgfb8e5ac"></a>
 
 ## python set to string
 
@@ -909,7 +919,7 @@ Profiles affect only bean creation, not method.
     print(str)
 
 
-<a id="org5c3002c"></a>
+<a id="org61f6a9a"></a>
 
 ## python decimal to binary
 
@@ -919,33 +929,33 @@ Profiles affect only bean creation, not method.
     print(abinary)
 
 
-<a id="org68b29fb"></a>
+<a id="orga57545f"></a>
 
 # Brew
 
 
-<a id="org99bdc7e"></a>
+<a id="orga62d852"></a>
 
 ## get installed program path
 
     (brew --prefix go)
 
 
-<a id="orgbd10acc"></a>
+<a id="orgd01367a"></a>
 
 ## handle rebase-apply error
 
     brew update-reset
 
 
-<a id="org3a97c05"></a>
+<a id="orgea4b43e"></a>
 
 ## Make brew python and pyenv togehter
 
     ln -s $(brew --cellar python)/* ~/.pyenv/versions/
 
 
-<a id="org6513e2c"></a>
+<a id="orgfb822d5"></a>
 
 ## fixed font exists in multiple taps
 
@@ -956,26 +966,26 @@ Profiles affect only bean creation, not method.
     brew cask install font-hack-nerd-font
 
 
-<a id="org6bba3a5"></a>
+<a id="orge0ecfca"></a>
 
 ## Clean brew cache
 
     brew cleanup -s
 
 
-<a id="org05bfa04"></a>
+<a id="orgf17bedb"></a>
 
 # MAC
 
 
-<a id="org70c97d6"></a>
+<a id="orgf2cfd9d"></a>
 
 ## del macOS Xcode CoreSimulator folder
 
     xcrun simctl delete unavailable
 
 
-<a id="orgeb0cab7"></a>
+<a id="org71349e6"></a>
 
 ## Brew mysql install connect issue
 
@@ -984,7 +994,7 @@ Profiles affect only bean creation, not method.
     sudo rm -rf /usr/local/var/mysql
 
 
-<a id="orgc368a17"></a>
+<a id="orgec5cb55"></a>
 
 ## Mount/unmount smbs
 
@@ -992,26 +1002,26 @@ Profiles affect only bean creation, not method.
     unmont kernel-source
 
 
-<a id="org5ab4cb8"></a>
+<a id="orga9be36e"></a>
 
 ## Get running app
 
     osascript -e 'tell application "System Events" to get name of (processes where background only is false)'
 
 
-<a id="orgfad569b"></a>
+<a id="org0471b94"></a>
 
 ## Reset macos accessibility
 
     sudo tccutil reset Accessibility
 
 
-<a id="org39404ac"></a>
+<a id="org7003c31"></a>
 
 # Linux
 
 
-<a id="org759f89f"></a>
+<a id="org56dfca5"></a>
 
 ## Change default program
 
@@ -1022,33 +1032,33 @@ You can issue java path by
     update-alternatives --config java
 
 
-<a id="org8e35a35"></a>
+<a id="org07b628f"></a>
 
 ## SSH paswordless with public key authentication
 
 
-<a id="org371e336"></a>
+<a id="orgaf29bf2"></a>
 
 ### Generate key from host
 
     ssh-keygen -t rsa
 
 
-<a id="org0662947"></a>
+<a id="orgb0991a1"></a>
 
 ### Scp to dest machine
 
     scp .ssh/id_rsa.pub user@host:.
 
 
-<a id="org4e2959a"></a>
+<a id="org4c38584"></a>
 
 ### Add pub key to dest machine auth key
 
     cat id_rsa.pub >> .ssh/authorized_keys
 
 
-<a id="orgdf4f4d5"></a>
+<a id="org50c743f"></a>
 
 ## Man with color
 
@@ -1067,12 +1077,12 @@ You can issue java path by
     }
 
 
-<a id="orgfc2cae2"></a>
+<a id="orgef87000"></a>
 
 # Mysql
 
 
-<a id="org263f4e0"></a>
+<a id="org03ba616"></a>
 
 ## Show db table create/update time
 
@@ -1082,26 +1092,26 @@ You can issue java path by
     show table status like 'book_mrg';
 
 
-<a id="orgbd2e19d"></a>
+<a id="org0cf601f"></a>
 
 # IDEA
 
 
-<a id="org19ed9c5"></a>
+<a id="org96af6a4"></a>
 
 ## Use alt key quickly on commit window
 
 Alt+i not work, need to use Alt+Ctrl+i
 
 
-<a id="org545e3bc"></a>
+<a id="orgc5aa803"></a>
 
 # Convert vvt to srt
 
     ffmpeg -i in.vvt out.srt
 
 
-<a id="org77f093a"></a>
+<a id="orgf35921a"></a>
 
 # Save video part stuff
 
@@ -1112,19 +1122,19 @@ Alt+i not work, need to use Alt+Ctrl+i
 Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2023-02-01 Wed 11:14]</span></span>
 
 
-<a id="orge450a68"></a>
+<a id="org32e5f0f"></a>
 
 # JACKSON
 
 
-<a id="orgea0527e"></a>
+<a id="orgdb6dbc4"></a>
 
 ## JsonNode to class
 
     MyClass newJsonNode = jsonObjectMapper.treeToValue(someJsonNode, MyClass.class);
 
 
-<a id="org8043ca8"></a>
+<a id="org1dab887"></a>
 
 ## Json to Map
 
@@ -1134,7 +1144,7 @@ Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2023-02-01
     Map<String, String> map = mapper.readValue(jsonInput, typeRef);
 
 
-<a id="orgddf66a4"></a>
+<a id="orgd356cb7"></a>
 
 ## Unwarp map
 
@@ -1153,31 +1163,31 @@ Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2023-02-01
     }
 
 
-<a id="orgf128910"></a>
+<a id="org587f590"></a>
 
 # Redis
 
 
-<a id="org2ee4795"></a>
+<a id="org9d599fa"></a>
 
 ## Batch del key
 
     redis-cli keys "*match" | xargs redis-cli del
 
 
-<a id="org8b35cf2"></a>
+<a id="org63c0f6e"></a>
 
 ## Find big key
 
     redis-cli --bigkeys
 
 
-<a id="orgc89e7de"></a>
+<a id="orgc75d982"></a>
 
 # Nginx
 
 
-<a id="org14c7e77"></a>
+<a id="org6549489"></a>
 
 ## underscore header issue
 
@@ -1188,27 +1198,27 @@ Must set **underscores\_in\_headers** to tell nginx not drop it.
 [apache - Why do HTTP servers forbid underscores in HTTP header names - Stack Overflow](https://stackoverflow.com/questions/22856136/why-do-http-servers-forbid-underscores-in-http-header-names)
 
 
-<a id="org475fba5"></a>
+<a id="orgba321e5"></a>
 
 # Wexin develop
 
 
-<a id="org8d6c5f6"></a>
+<a id="orgb6625b0"></a>
 
 ## [微信模板消息换行 - Jinx - CSDN博客](https://blog.csdn.net/medivhq/article/details/49659971)
 
 
-<a id="org7618da1"></a>
+<a id="org6368321"></a>
 
 ## [微信公众号开发者模式回复信息带表情（QQ，emoji） - X\_hazel的博客 - CSDN博客](https://blog.csdn.net/X_hazel/article/details/85206241)
 
 
-<a id="orgd44dccc"></a>
+<a id="orgbff9348"></a>
 
 # JS
 
 
-<a id="org53367e5"></a>
+<a id="org13f3be4"></a>
 
 ## Get table td content
 
