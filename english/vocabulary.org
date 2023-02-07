@@ -114,3 +114,23 @@ We like his attention to detail and enthusiasm.
 The report details the progress we have made over the last years.
 ** 指派
 Four soldiers were detailed to guard duty.
+* firm
+:PROPERTIES:
+:ID:       A71B1211-501D-4AED-B537-D664A70ADAFC
+:END:
+https://www.collinsdictionary.com/dictionary/english/firm
+商户是坚挺的
+** 商户(小型的)
+The firm's employees were expecting large bonuses.
+** 坚固的
+Choose a soft, medium or firm mattress to suit their individual needs.
+** 强有力的
+The quick handshake was firm and cool.
+** 坚决的
+China express strong indignation and firm opposition.
+** 确定的
+It is my firm belife that an effective partnership approach between police and the public is absolutely necessary.
+** 坚挺的
+Cotton prices remain firm and demand is strong.
+** 压
+Firm more soil over the roots and water thoroughly.

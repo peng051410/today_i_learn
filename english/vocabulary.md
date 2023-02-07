@@ -1,16 +1,21 @@
-- [some](#org05a4a9a)
-- [fine](#org38ed686)
-- [bold](#org7a89cd5)
-- [detail](#org6bc6a93)
+
+# Table of Contents
+
+-   [some](#orgc1655d6)
+-   [fine](#orgd1929ee)
+-   [bold](#org4613f9b)
+-   [detail](#org0acb6c1)
+-   [firm](#org07d7699)
 
 Record my english study process.
 
 
-<a id="org05a4a9a"></a>
+<a id="orgc1655d6"></a>
 
 # some
 
-<https://www.collinsdictionary.com/dictionary/english/some> 又表示大，又表示小
+<https://www.collinsdictionary.com/dictionary/english/some>
+又表示大，又表示小
 
 
 ## 一些
@@ -61,11 +66,12 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="org38ed686"></a>
+<a id="orgd1929ee"></a>
 
 # fine
 
-<https://www.collinsdictionary.com/dictionary/english/fine> 不仅代表好，可能还是罚款
+<https://www.collinsdictionary.com/dictionary/english/fine>
+不仅代表好，可能还是罚款
 
 
 ## 好的
@@ -128,11 +134,12 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="org7a89cd5"></a>
+<a id="org4613f9b"></a>
 
 # bold
 
-<https://www.collinsdictionary.com/dictionary/english/bold> bold不只表示粗体，还可以很勇敢
+<https://www.collinsdictionary.com/dictionary/english/bold>
+bold不只表示粗体，还可以很勇敢
 
 
 ## 勇敢的，大胆的
@@ -159,11 +166,12 @@ Record my english study process.
 ### All the headings are in bold type.
 
 
-<a id="org6bc6a93"></a>
+<a id="org0acb6c1"></a>
 
 # detail
 
-<https://www.collinsdictionary.com/dictionary/english/detail> detail的细节还挺多
+<https://www.collinsdictionary.com/dictionary/english/detail>
+detail的细节还挺多
 
 
 ## 细节
@@ -194,3 +202,46 @@ The report details the progress we have made over the last years.
 ## 指派
 
 Four soldiers were detailed to guard duty.
+
+
+<a id="org07d7699"></a>
+
+# firm
+
+<https://www.collinsdictionary.com/dictionary/english/firm>
+商户是坚挺的
+
+
+## 商户(小型的)
+
+The firm's employees were expecting large bonuses.
+
+
+## 坚固的
+
+Choose a soft, medium or firm mattress to suit their individual needs.
+
+
+## 强有力的
+
+The quick handshake was firm and cool.
+
+
+## 坚决的
+
+China express strong indignation and firm opposition.
+
+
+## 确定的
+
+It is my firm belife that an effective partnership approach between police and the public is absolutely necessary.
+
+
+## 坚挺的
+
+Cotton prices remain firm and demand is strong.
+
+
+## 压
+
+Firm more soil over the roots and water thoroughly.
