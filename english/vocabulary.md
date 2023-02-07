@@ -1,16 +1,17 @@
 
 # Table of Contents
 
--   [some](#orgc1655d6)
--   [fine](#orgd1929ee)
--   [bold](#org4613f9b)
--   [detail](#org0acb6c1)
--   [firm](#org07d7699)
+-   [some](#orgf2199fb)
+-   [fine](#orgeca1632)
+-   [bold](#orge9b6881)
+-   [detail](#org384ae59)
+-   [firm](#orge3d0f56)
+-   [false](#orgc79c747)
 
 Record my english study process.
 
 
-<a id="orgc1655d6"></a>
+<a id="orgf2199fb"></a>
 
 # some
 
@@ -66,7 +67,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="orgd1929ee"></a>
+<a id="orgeca1632"></a>
 
 # fine
 
@@ -134,7 +135,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="org4613f9b"></a>
+<a id="orge9b6881"></a>
 
 # bold
 
@@ -166,7 +167,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="org0acb6c1"></a>
+<a id="org384ae59"></a>
 
 # detail
 
@@ -204,7 +205,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="org07d7699"></a>
+<a id="orge3d0f56"></a>
 
 # firm
 
@@ -245,3 +246,28 @@ Cotton prices remain firm and demand is strong.
 ## 压
 
 Firm more soil over the roots and water thoroughly.
+
+
+<a id="orgc79c747"></a>
+
+# false
+
+<https://www.collinsdictionary.com/dictionary/english/false>
+假的就是假的
+
+
+## 不正确的
+
+You do not know whether what you're told is true or false.
+
+
+## 人造的，假的
+
+I don't want to give you any false hopes.
+
+
+## 虚伪的
+
+She bowed her head and smiled in false modesty.
+
+She's so false.
