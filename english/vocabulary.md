@@ -1,17 +1,18 @@
 
 # Table of Contents
 
--   [some](#orgf2199fb)
--   [fine](#orgeca1632)
--   [bold](#orge9b6881)
--   [detail](#org384ae59)
--   [firm](#orge3d0f56)
--   [false](#orgc79c747)
+-   [some](#org12f4508)
+-   [fine](#org523b2cd)
+-   [bold](#org13594e6)
+-   [detail](#orgc9001bd)
+-   [firm](#org91f711a)
+-   [false](#org6c91909)
+-   [string](#org279f39b)
 
 Record my english study process.
 
 
-<a id="orgf2199fb"></a>
+<a id="org12f4508"></a>
 
 # some
 
@@ -67,7 +68,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="orgeca1632"></a>
+<a id="org523b2cd"></a>
 
 # fine
 
@@ -135,7 +136,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="orge9b6881"></a>
+<a id="org13594e6"></a>
 
 # bold
 
@@ -167,7 +168,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="org384ae59"></a>
+<a id="orgc9001bd"></a>
 
 # detail
 
@@ -205,7 +206,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="orge3d0f56"></a>
+<a id="org91f711a"></a>
 
 # firm
 
@@ -248,7 +249,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="orgc79c747"></a>
+<a id="org6c91909"></a>
 
 # false
 
@@ -271,3 +272,38 @@ I don't want to give you any false hopes.
 She bowed her head and smiled in false modesty.
 
 She's so false.
+
+
+<a id="org279f39b"></a>
+
+# string
+
+不只表示字符串，还可以是琴弦
+
+
+## 细绳
+
+He held out a small bag tied with string.
+
+
+## 一串
+
+She wore a string of pearls around her neck.
+
+
+## 一系列
+
+The incident was the latest in a string of attacks.
+
+
+## 弦
+
+He went off to change a guitar string.
+
+
+## 计算机中的字符串
+
+
+## 系
+
+He had strug a banner across the wall.

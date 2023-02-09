@@ -145,3 +145,19 @@ I don't want to give you any false hopes.
 She bowed her head and smiled in false modesty.
 
 She's so false.
+* string
+:PROPERTIES:
+:ID:       75792300-A4B7-4075-801C-55FDE5F2F185
+:END:
+不只表示字符串，还可以是琴弦
+** 细绳
+He held out a small bag tied with string.
+** 一串
+She wore a string of pearls around her neck.
+** 一系列
+The incident was the latest in a string of attacks.
+** 弦
+He went off to change a guitar string.
+** 计算机中的字符串
+** 系
+He had strug a banner across the wall.
