@@ -1,18 +1,19 @@
 
 # Table of Contents
 
--   [some](#org12f4508)
--   [fine](#org523b2cd)
--   [bold](#org13594e6)
--   [detail](#orgc9001bd)
--   [firm](#org91f711a)
--   [false](#org6c91909)
--   [string](#org279f39b)
+-   [some](#org20bb9c0)
+-   [fine](#orgf3cfd4b)
+-   [bold](#orgad2c73c)
+-   [detail](#orgf98ad81)
+-   [firm](#org2f5e549)
+-   [false](#org863c00e)
+-   [string](#org62f26de)
+-   [approach](#orgbe044eb)
 
 Record my english study process.
 
 
-<a id="org12f4508"></a>
+<a id="org20bb9c0"></a>
 
 # some
 
@@ -68,7 +69,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="org523b2cd"></a>
+<a id="orgf3cfd4b"></a>
 
 # fine
 
@@ -136,7 +137,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="org13594e6"></a>
+<a id="orgad2c73c"></a>
 
 # bold
 
@@ -168,7 +169,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="orgc9001bd"></a>
+<a id="orgf98ad81"></a>
 
 # detail
 
@@ -206,7 +207,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="org91f711a"></a>
+<a id="org2f5e549"></a>
 
 # firm
 
@@ -249,7 +250,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="org6c91909"></a>
+<a id="org863c00e"></a>
 
 # false
 
@@ -274,7 +275,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="org279f39b"></a>
+<a id="org62f26de"></a>
 
 # string
 
@@ -307,3 +308,25 @@ He went off to change a guitar string.
 ## 系
 
 He had strug a banner across the wall.
+
+
+<a id="orgbe044eb"></a>
+
+# approach
+
+接近的方式
+
+
+## 接近
+
+When i approached, they grew silent.
+
+
+## 处理
+
+Employees are insterested in how you approach problems.
+
+
+## 方法
+
+We will be exploring different approaches to gathering information.
