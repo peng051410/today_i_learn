@@ -161,3 +161,14 @@ He went off to change a guitar string.
 ** 计算机中的字符串
 ** 系
 He had strug a banner across the wall.
+* approach
+:PROPERTIES:
+:ID:       022796B3-DE24-4A1B-9C49-43DC818B76C2
+:END:
+接近的方式
+** 接近
+When i approached, they grew silent.
+** 处理
+Employees are insterested in how you approach problems.
+** 方法
+We will be exploring different approaches to gathering information.
