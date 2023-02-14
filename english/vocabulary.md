@@ -1,19 +1,20 @@
 
 # Table of Contents
 
--   [some](#org20bb9c0)
--   [fine](#orgf3cfd4b)
--   [bold](#orgad2c73c)
--   [detail](#orgf98ad81)
--   [firm](#org2f5e549)
--   [false](#org863c00e)
--   [string](#org62f26de)
--   [approach](#orgbe044eb)
+-   [some](#orgeb69a92)
+-   [fine](#org8f0c384)
+-   [bold](#orgb29ed71)
+-   [detail](#org3840521)
+-   [firm](#org2789274)
+-   [false](#org843a510)
+-   [string](#orgceea837)
+-   [approach](#org2599a98)
+-   [take](#orgf4bf104)
 
 Record my english study process.
 
 
-<a id="org20bb9c0"></a>
+<a id="orgeb69a92"></a>
 
 # some
 
@@ -69,7 +70,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="orgf3cfd4b"></a>
+<a id="org8f0c384"></a>
 
 # fine
 
@@ -137,7 +138,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="orgad2c73c"></a>
+<a id="orgb29ed71"></a>
 
 # bold
 
@@ -169,7 +170,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="orgf98ad81"></a>
+<a id="org3840521"></a>
 
 # detail
 
@@ -207,7 +208,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="org2f5e549"></a>
+<a id="org2789274"></a>
 
 # firm
 
@@ -250,7 +251,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="org863c00e"></a>
+<a id="org843a510"></a>
 
 # false
 
@@ -275,7 +276,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="org62f26de"></a>
+<a id="orgceea837"></a>
 
 # string
 
@@ -310,7 +311,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="orgbe044eb"></a>
+<a id="org2599a98"></a>
 
 # approach
 
@@ -330,3 +331,70 @@ Employees are insterested in how you approach problems.
 ## 方法
 
 We will be exploring different approaches to gathering information.
+
+
+<a id="orgf4bf104"></a>
+
+# take
+
+不只有拿意思
+
+
+## 移动
+
+John took us to the airport.
+
+
+## 动作
+
+Would like to take a look?
+
+
+## 拿走
+
+Take you feet off the seats.
+
+
+## 花费
+
+It took a few minutes for his eyes to adjust to the dark.
+
+
+## 接受
+
+Will you take the job?
+
+
+## 拿着
+
+Let me take you coat.
+
+
+## 收集
+
+The police took a statement from both witness.
+
+
+## 感觉
+
+You will take pride in you work.
+
+
+## 服用
+
+Take two tablets before bedroom.
+
+
+## 教
+
+Who take you for english?
+
+
+## 写
+
+Let me take you email address.
+
+
+## 升级
+
+If you want take it further, you should consult an attorney.
