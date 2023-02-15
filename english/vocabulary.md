@@ -1,20 +1,21 @@
 
 # Table of Contents
 
--   [some](#orgeb69a92)
--   [fine](#org8f0c384)
--   [bold](#orgb29ed71)
--   [detail](#org3840521)
--   [firm](#org2789274)
--   [false](#org843a510)
--   [string](#orgceea837)
--   [approach](#org2599a98)
--   [take](#orgf4bf104)
+-   [some](#orgc494550)
+-   [fine](#orgeb237b1)
+-   [bold](#org1c6b81d)
+-   [detail](#orga425707)
+-   [firm](#org6c0c4d5)
+-   [false](#org408e197)
+-   [string](#orgb6b78c0)
+-   [approach](#org4ef2267)
+-   [take](#org1946bb5)
+-   [over](#orgbf25603)
 
 Record my english study process.
 
 
-<a id="orgeb69a92"></a>
+<a id="orgc494550"></a>
 
 # some
 
@@ -70,7 +71,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="org8f0c384"></a>
+<a id="orgeb237b1"></a>
 
 # fine
 
@@ -138,7 +139,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="orgb29ed71"></a>
+<a id="org1c6b81d"></a>
 
 # bold
 
@@ -170,7 +171,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="org3840521"></a>
+<a id="orga425707"></a>
 
 # detail
 
@@ -208,7 +209,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="org2789274"></a>
+<a id="org6c0c4d5"></a>
 
 # firm
 
@@ -251,7 +252,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="org843a510"></a>
+<a id="org408e197"></a>
 
 # false
 
@@ -276,7 +277,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="orgceea837"></a>
+<a id="orgb6b78c0"></a>
 
 # string
 
@@ -311,7 +312,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="org2599a98"></a>
+<a id="org4ef2267"></a>
 
 # approach
 
@@ -333,7 +334,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="orgf4bf104"></a>
+<a id="org1946bb5"></a>
 
 # take
 
@@ -398,3 +399,55 @@ Let me take you email address.
 ## 升级
 
 If you want take it further, you should consult an attorney.
+
+
+<a id="orgbf25603"></a>
+
+# over
+
+在结束之上
+
+
+## 在xxx之上
+
+A bridge over the river Danube.
+
+
+## 挂在xxx上面
+
+A grey mackintosh was folded over her arm.
+
+
+## 可以看见
+
+His rooms looked out over a narrow lane behind the collge.
+
+
+## 穿过
+
+I stepped over a broken piece of wood.
+
+
+## 在xxx的另一边
+
+John, who lived in the house over the road.
+
+
+## 去，到
+
+I thought you might have invited her over.
+
+
+## 倒下
+
+He was knocked over by a bus and broke his leg.
+
+
+## 超过
+
+The japanese were producing over 100 million tons of steel.
+
+
+## 结束
+
+The time for empty talk is  over.
