@@ -1,21 +1,22 @@
 
 # Table of Contents
 
--   [some](#orgc494550)
--   [fine](#orgeb237b1)
--   [bold](#org1c6b81d)
--   [detail](#orga425707)
--   [firm](#org6c0c4d5)
--   [false](#org408e197)
--   [string](#orgb6b78c0)
--   [approach](#org4ef2267)
--   [take](#org1946bb5)
--   [over](#orgbf25603)
+-   [some](#orgc205bac)
+-   [fine](#org7133e9f)
+-   [bold](#org8f78651)
+-   [detail](#org350f041)
+-   [firm](#org3a7a448)
+-   [false](#orgb522f15)
+-   [string](#orge33bd69)
+-   [approach](#org57920fd)
+-   [take](#org87cae0d)
+-   [over](#orgdc73a8b)
+-   [double](#org888df09)
 
 Record my english study process.
 
 
-<a id="orgc494550"></a>
+<a id="orgc205bac"></a>
 
 # some
 
@@ -71,7 +72,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="orgeb237b1"></a>
+<a id="org7133e9f"></a>
 
 # fine
 
@@ -139,7 +140,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="org1c6b81d"></a>
+<a id="org8f78651"></a>
 
 # bold
 
@@ -171,7 +172,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="orga425707"></a>
+<a id="org350f041"></a>
 
 # detail
 
@@ -209,7 +210,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="org6c0c4d5"></a>
+<a id="org3a7a448"></a>
 
 # firm
 
@@ -252,7 +253,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="org408e197"></a>
+<a id="orgb522f15"></a>
 
 # false
 
@@ -277,7 +278,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="orgb6b78c0"></a>
+<a id="orge33bd69"></a>
 
 # string
 
@@ -312,7 +313,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="org4ef2267"></a>
+<a id="org57920fd"></a>
 
 # approach
 
@@ -334,7 +335,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="org1946bb5"></a>
+<a id="org87cae0d"></a>
 
 # take
 
@@ -401,7 +402,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="orgbf25603"></a>
+<a id="orgdc73a8b"></a>
 
 # over
 
@@ -451,3 +452,56 @@ The japanese were producing over 100 million tons of steel.
 ## 结束
 
 The time for empty talk is  over.
+
+
+<a id="org888df09"></a>
+
+# double
+
+成双成对
+
+
+## 语义
+
+
+### 成双的
+
+A pair of double doors into the room from the new entrance hall.
+
+
+### 双重的
+
+The government committed a double blunder.
+
+
+### 两倍的
+
+These designers was discussing how to double the scale of the park.
+
+
+### 双人间
+
+Bed and breakfast for $180 for two people in a double room.
+
+
+### 加倍
+
+The number of managers must double to 100 whithin 3 years.
+
+
+### 相似的
+
+You mother sees you as her double.
+
+
+### 兼职
+
+Jack doubles as director and producer.
+
+
+## 短语
+
+
+### double shift
+
+双班倒
