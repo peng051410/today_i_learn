@@ -1,22 +1,23 @@
 
 # Table of Contents
 
--   [some](#orgc205bac)
--   [fine](#org7133e9f)
--   [bold](#org8f78651)
--   [detail](#org350f041)
--   [firm](#org3a7a448)
--   [false](#orgb522f15)
--   [string](#orge33bd69)
--   [approach](#org57920fd)
--   [take](#org87cae0d)
--   [over](#orgdc73a8b)
--   [double](#org888df09)
+-   [some](#org67e9555)
+-   [fine](#orge512fff)
+-   [bold](#org806befc)
+-   [detail](#org5b58609)
+-   [firm](#orgaed21d2)
+-   [false](#orgc0ac776)
+-   [string](#org386177f)
+-   [approach](#org0948098)
+-   [take](#org1e084f9)
+-   [over](#org07a3023)
+-   [double](#org6f8e627)
+-   [right](#org782341c)
 
 Record my english study process.
 
 
-<a id="orgc205bac"></a>
+<a id="org67e9555"></a>
 
 # some
 
@@ -72,7 +73,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="org7133e9f"></a>
+<a id="orge512fff"></a>
 
 # fine
 
@@ -140,7 +141,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="org8f78651"></a>
+<a id="org806befc"></a>
 
 # bold
 
@@ -172,7 +173,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="org350f041"></a>
+<a id="org5b58609"></a>
 
 # detail
 
@@ -210,7 +211,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="org3a7a448"></a>
+<a id="orgaed21d2"></a>
 
 # firm
 
@@ -253,7 +254,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="orgb522f15"></a>
+<a id="orgc0ac776"></a>
 
 # false
 
@@ -278,7 +279,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="orge33bd69"></a>
+<a id="org386177f"></a>
 
 # string
 
@@ -313,7 +314,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="org57920fd"></a>
+<a id="org0948098"></a>
 
 # approach
 
@@ -335,7 +336,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="org87cae0d"></a>
+<a id="org1e084f9"></a>
 
 # take
 
@@ -402,7 +403,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="orgdc73a8b"></a>
+<a id="org07a3023"></a>
 
 # over
 
@@ -454,7 +455,7 @@ The japanese were producing over 100 million tons of steel.
 The time for empty talk is  over.
 
 
-<a id="org888df09"></a>
+<a id="org6f8e627"></a>
 
 # double
 
@@ -505,3 +506,87 @@ Jack doubles as director and producer.
 ### double shift
 
 双班倒
+
+
+<a id="org782341c"></a>
+
+# right
+
+正确的权力
+
+
+## 语义
+
+
+### 正确的
+
+That absolutely right.
+
+
+### 准确的
+
+They have conputererized systems to ensure delivery of the right pizza to the right place.
+
+
+### 正派的
+
+Through his father, he had met all the right people.
+
+
+### 最好的
+
+He made the right choice in leaving New York.
+
+
+### 正常的
+
+He went info hospital and came out after a week. But he still wasn't right.
+
+
+### 扭转
+
+They recognise the urgency of righting the economy.
+
+
+### 纠正
+
+We'are made progress in righting the worngs of the past.
+
+
+### 摆正
+
+He righted the car and continued the race.
+
+
+### 右边
+
+He had a knife in his right hand.
+
+
+### 权利
+
+The new charter establishes the rights and duties of citizens.
+
+
+## 短语
+
+
+### are going right
+
+进展顺利
+
+I can't think of anything in my life that't going right.
+
+
+### in the right
+
+有理的
+
+He was't entirely in the right.
+
+
+### Mr Right
+
+真命王子
+
+She confesses to having trouble finding Mr Right.
