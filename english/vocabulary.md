@@ -1,23 +1,24 @@
 
 # Table of Contents
 
--   [some](#org67e9555)
--   [fine](#orge512fff)
--   [bold](#org806befc)
--   [detail](#org5b58609)
--   [firm](#orgaed21d2)
--   [false](#orgc0ac776)
--   [string](#org386177f)
--   [approach](#org0948098)
--   [take](#org1e084f9)
--   [over](#org07a3023)
--   [double](#org6f8e627)
--   [right](#org782341c)
+-   [some](#orga265e08)
+-   [fine](#org72e388e)
+-   [bold](#orgfd3a9eb)
+-   [detail](#orgf9079f8)
+-   [firm](#org18bea47)
+-   [false](#org0a3aafb)
+-   [string](#org63a680e)
+-   [approach](#orge1b063c)
+-   [take](#org8d8591d)
+-   [over](#org609ebfc)
+-   [double](#orgbf8dec1)
+-   [right](#org990bd3e)
+-   [play](#org67d1e97)
 
 Record my english study process.
 
 
-<a id="org67e9555"></a>
+<a id="orga265e08"></a>
 
 # some
 
@@ -73,7 +74,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="orge512fff"></a>
+<a id="org72e388e"></a>
 
 # fine
 
@@ -141,7 +142,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="org806befc"></a>
+<a id="orgfd3a9eb"></a>
 
 # bold
 
@@ -173,7 +174,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="org5b58609"></a>
+<a id="orgf9079f8"></a>
 
 # detail
 
@@ -211,7 +212,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="orgaed21d2"></a>
+<a id="org18bea47"></a>
 
 # firm
 
@@ -254,7 +255,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="orgc0ac776"></a>
+<a id="org0a3aafb"></a>
 
 # false
 
@@ -279,7 +280,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="org386177f"></a>
+<a id="org63a680e"></a>
 
 # string
 
@@ -314,7 +315,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="org0948098"></a>
+<a id="orge1b063c"></a>
 
 # approach
 
@@ -336,7 +337,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="org1e084f9"></a>
+<a id="org8d8591d"></a>
 
 # take
 
@@ -403,7 +404,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="org07a3023"></a>
+<a id="org609ebfc"></a>
 
 # over
 
@@ -455,7 +456,7 @@ The japanese were producing over 100 million tons of steel.
 The time for empty talk is  over.
 
 
-<a id="org6f8e627"></a>
+<a id="orgbf8dec1"></a>
 
 # double
 
@@ -508,7 +509,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="org782341c"></a>
+<a id="org990bd3e"></a>
 
 # right
 
@@ -590,3 +591,81 @@ He was't entirely in the right.
 真命王子
 
 She confesses to having trouble finding Mr Right.
+
+
+<a id="org67d1e97"></a>
+
+# play
+
+就是玩
+
+
+## 语义
+
+
+### 玩
+
+They played in the little garden.
+
+
+### 参加
+
+I used to play basketball.
+
+
+### 比赛
+
+I've played against him a few times.
+
+
+### 踢
+
+Think first before playing the ball.
+
+
+### 开玩笑
+
+I thought: "This cannot be happening, somebody must be palying a joke".
+
+
+### 剧本
+
+His ambition is to play the part of Dracula.
+
+
+### 假装
+
+Hill tried to play the peacemaker.
+
+
+### 对待
+
+Investors are playing it cautious, and they're playing it smart.
+
+
+### 演奏
+
+Nina had been playing the piano.
+
+
+### 播放
+
+He played her records too loudly.
+
+
+### 表演
+
+A band was playing.
+
+
+## 短语
+
+
+### what is playing at
+
+What the hell are you playing at?
+
+
+### bring into play
+
+Breathing brings many muscles into play.

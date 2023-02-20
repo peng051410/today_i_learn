@@ -277,3 +277,33 @@ He was't entirely in the right.
 真命王子
 
 She confesses to having trouble finding Mr Right.
+* play
+就是玩
+** 语义
+*** 玩
+They played in the little garden.
+*** 参加
+I used to play basketball.
+*** 比赛
+I've played against him a few times.
+*** 踢
+Think first before playing the ball.
+*** 开玩笑
+I thought: "This cannot be happening, somebody must be palying a joke".
+*** 剧本
+His ambition is to play the part of Dracula.
+*** 假装
+Hill tried to play the peacemaker.
+*** 对待
+Investors are playing it cautious, and they're playing it smart.
+*** 演奏
+Nina had been playing the piano.
+*** 播放
+He played her records too loudly.
+*** 表演
+A band was playing.
+** 短语
+*** what is playing at
+What the hell are you playing at?
+*** bring into play
+Breathing brings many muscles into play.
