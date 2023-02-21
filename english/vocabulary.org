@@ -307,3 +307,25 @@ A band was playing.
 What the hell are you playing at?
 *** bring into play
 Breathing brings many muscles into play.
+* class
+班级里有课程，还有阶级？
+** 语义
+*** 班级
+Reducing class sizes should be a top priority.
+*** 课程
+He acquired a law degree by taking classes at night.
+*** 课堂
+There is lots of reading in class.
+
+I missed Bible class last week.
+*** 阶级
+What is will do is create a whole new ruling class.
+*** 把。。。归类
+I class myself of an ordinary working person.
+*** 风度
+He got the same style off the pitch as he has on it -- sheer class.
+*** 一流的
+Kite is undoubtedly a class player.
+** 短语
+*** in a class of(like messi?)
+As a player, he was in a class of his own.

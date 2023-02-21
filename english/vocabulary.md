@@ -1,29 +1,26 @@
-
-# Table of Contents
-
--   [some](#orga265e08)
--   [fine](#org72e388e)
--   [bold](#orgfd3a9eb)
--   [detail](#orgf9079f8)
--   [firm](#org18bea47)
--   [false](#org0a3aafb)
--   [string](#org63a680e)
--   [approach](#orge1b063c)
--   [take](#org8d8591d)
--   [over](#org609ebfc)
--   [double](#orgbf8dec1)
--   [right](#org990bd3e)
--   [play](#org67d1e97)
+- [some](#orgc62fc41)
+- [fine](#org797fa23)
+- [bold](#org7b81864)
+- [detail](#orgc10ed2b)
+- [firm](#org3094535)
+- [false](#org5145940)
+- [string](#org4798b1c)
+- [approach](#org350a0de)
+- [take](#org4d4b46b)
+- [over](#org528ccef)
+- [double](#orgd54aa90)
+- [right](#org3f72552)
+- [play](#org65a6204)
+- [class](#org0f02d01)
 
 Record my english study process.
 
 
-<a id="orga265e08"></a>
+<a id="orgc62fc41"></a>
 
 # some
 
-<https://www.collinsdictionary.com/dictionary/english/some>
-又表示大，又表示小
+<https://www.collinsdictionary.com/dictionary/english/some> 又表示大，又表示小
 
 
 ## 一些
@@ -74,12 +71,11 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="org72e388e"></a>
+<a id="org797fa23"></a>
 
 # fine
 
-<https://www.collinsdictionary.com/dictionary/english/fine>
-不仅代表好，可能还是罚款
+<https://www.collinsdictionary.com/dictionary/english/fine> 不仅代表好，可能还是罚款
 
 
 ## 好的
@@ -142,12 +138,11 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="orgfd3a9eb"></a>
+<a id="org7b81864"></a>
 
 # bold
 
-<https://www.collinsdictionary.com/dictionary/english/bold>
-bold不只表示粗体，还可以很勇敢
+<https://www.collinsdictionary.com/dictionary/english/bold> bold不只表示粗体，还可以很勇敢
 
 
 ## 勇敢的，大胆的
@@ -174,12 +169,11 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="orgf9079f8"></a>
+<a id="orgc10ed2b"></a>
 
 # detail
 
-<https://www.collinsdictionary.com/dictionary/english/detail>
-detail的细节还挺多
+<https://www.collinsdictionary.com/dictionary/english/detail> detail的细节还挺多
 
 
 ## 细节
@@ -212,12 +206,11 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="org18bea47"></a>
+<a id="org3094535"></a>
 
 # firm
 
-<https://www.collinsdictionary.com/dictionary/english/firm>
-商户是坚挺的
+<https://www.collinsdictionary.com/dictionary/english/firm> 商户是坚挺的
 
 
 ## 商户(小型的)
@@ -255,12 +248,11 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="org0a3aafb"></a>
+<a id="org5145940"></a>
 
 # false
 
-<https://www.collinsdictionary.com/dictionary/english/false>
-假的就是假的
+<https://www.collinsdictionary.com/dictionary/english/false> 假的就是假的
 
 
 ## 不正确的
@@ -280,7 +272,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="org63a680e"></a>
+<a id="org4798b1c"></a>
 
 # string
 
@@ -315,7 +307,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="orge1b063c"></a>
+<a id="org350a0de"></a>
 
 # approach
 
@@ -337,7 +329,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="org8d8591d"></a>
+<a id="org4d4b46b"></a>
 
 # take
 
@@ -404,7 +396,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="org609ebfc"></a>
+<a id="org528ccef"></a>
 
 # over
 
@@ -453,10 +445,10 @@ The japanese were producing over 100 million tons of steel.
 
 ## 结束
 
-The time for empty talk is  over.
+The time for empty talk is over.
 
 
-<a id="orgbf8dec1"></a>
+<a id="orgd54aa90"></a>
 
 # double
 
@@ -509,7 +501,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="org990bd3e"></a>
+<a id="org3f72552"></a>
 
 # right
 
@@ -593,7 +585,7 @@ He was't entirely in the right.
 She confesses to having trouble finding Mr Right.
 
 
-<a id="org67d1e97"></a>
+<a id="org65a6204"></a>
 
 # play
 
@@ -669,3 +661,58 @@ What the hell are you playing at?
 ### bring into play
 
 Breathing brings many muscles into play.
+
+
+<a id="org0f02d01"></a>
+
+# class
+
+班级里有课程，还有阶级？
+
+
+## 语义
+
+
+### 班级
+
+Reducing class sizes should be a top priority.
+
+
+### 课程
+
+He acquired a law degree by taking classes at night.
+
+
+### 课堂
+
+There is lots of reading in class.
+
+I missed Bible class last week.
+
+
+### 阶级
+
+What is will do is create a whole new ruling class.
+
+
+### 把。。。归类
+
+I class myself of an ordinary working person.
+
+
+### 风度
+
+He got the same style off the pitch as he has on it &#x2013; sheer class.
+
+
+### 一流的
+
+Kite is undoubtedly a class player.
+
+
+## 短语
+
+
+### in a class of(like messi?)
+
+As a player, he was in a class of his own.
