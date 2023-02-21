@@ -278,6 +278,8 @@ Emacs has an minor mode called [[https://github.com/lewang/ws-butler][ws-butler-
 ** Copy rectangle area content
 It's useful to yank org table cols without additional custom func.
 https://cdn.jsdelivr.net/gh/peng051410/bucket@main/img/copy-rectangle.gif
+** Insert stuff like vi column mode but with string-rectangle
+https://twitter.com/i/status/1620721190536114177
 * Org hugo add shortcode
 Hugo支持短代码形式在生成html时填充模板内容，shortcode配置的html文件放在 */layouts/shortcodes* 目录下即可，下面的代码就可以实现在博客中嵌入[[https://www.bilibili.com/video/BV1pD4y1K7iw/][B站]]的视频
 #+begin_export hugo
