@@ -1,26 +1,31 @@
-- [some](#orgc62fc41)
-- [fine](#org797fa23)
-- [bold](#org7b81864)
-- [detail](#orgc10ed2b)
-- [firm](#org3094535)
-- [false](#org5145940)
-- [string](#org4798b1c)
-- [approach](#org350a0de)
-- [take](#org4d4b46b)
-- [over](#org528ccef)
-- [double](#orgd54aa90)
-- [right](#org3f72552)
-- [play](#org65a6204)
-- [class](#org0f02d01)
+
+# Table of Contents
+
+-   [some](#org8514614)
+-   [fine](#orga9e8e41)
+-   [bold](#org2b94fab)
+-   [detail](#org8d61e52)
+-   [firm](#org0889dc2)
+-   [false](#org57036bb)
+-   [string](#org4732f4d)
+-   [approach](#org6f1af17)
+-   [take](#org30f7b4e)
+-   [over](#orge2ddc95)
+-   [double](#orga95e051)
+-   [right](#org8f705ca)
+-   [play](#orgdbd28ba)
+-   [class](#org5ea6b30)
+-   [context](#orgce43124)
 
 Record my english study process.
 
 
-<a id="orgc62fc41"></a>
+<a id="org8514614"></a>
 
 # some
 
-<https://www.collinsdictionary.com/dictionary/english/some> 又表示大，又表示小
+<https://www.collinsdictionary.com/dictionary/english/some>
+又表示大，又表示小
 
 
 ## 一些
@@ -71,11 +76,12 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="org797fa23"></a>
+<a id="orga9e8e41"></a>
 
 # fine
 
-<https://www.collinsdictionary.com/dictionary/english/fine> 不仅代表好，可能还是罚款
+<https://www.collinsdictionary.com/dictionary/english/fine>
+不仅代表好，可能还是罚款
 
 
 ## 好的
@@ -138,11 +144,12 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="org7b81864"></a>
+<a id="org2b94fab"></a>
 
 # bold
 
-<https://www.collinsdictionary.com/dictionary/english/bold> bold不只表示粗体，还可以很勇敢
+<https://www.collinsdictionary.com/dictionary/english/bold>
+bold不只表示粗体，还可以很勇敢
 
 
 ## 勇敢的，大胆的
@@ -169,11 +176,12 @@ Record my english study process.
 ### All the headings are in bold type.
 
 
-<a id="orgc10ed2b"></a>
+<a id="org8d61e52"></a>
 
 # detail
 
-<https://www.collinsdictionary.com/dictionary/english/detail> detail的细节还挺多
+<https://www.collinsdictionary.com/dictionary/english/detail>
+detail的细节还挺多
 
 
 ## 细节
@@ -206,11 +214,12 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="org3094535"></a>
+<a id="org0889dc2"></a>
 
 # firm
 
-<https://www.collinsdictionary.com/dictionary/english/firm> 商户是坚挺的
+<https://www.collinsdictionary.com/dictionary/english/firm>
+商户是坚挺的
 
 
 ## 商户(小型的)
@@ -248,11 +257,12 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="org5145940"></a>
+<a id="org57036bb"></a>
 
 # false
 
-<https://www.collinsdictionary.com/dictionary/english/false> 假的就是假的
+<https://www.collinsdictionary.com/dictionary/english/false>
+假的就是假的
 
 
 ## 不正确的
@@ -272,7 +282,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="org4798b1c"></a>
+<a id="org4732f4d"></a>
 
 # string
 
@@ -307,7 +317,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="org350a0de"></a>
+<a id="org6f1af17"></a>
 
 # approach
 
@@ -329,7 +339,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="org4d4b46b"></a>
+<a id="org30f7b4e"></a>
 
 # take
 
@@ -396,7 +406,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="org528ccef"></a>
+<a id="orge2ddc95"></a>
 
 # over
 
@@ -445,10 +455,10 @@ The japanese were producing over 100 million tons of steel.
 
 ## 结束
 
-The time for empty talk is over.
+The time for empty talk is  over.
 
 
-<a id="orgd54aa90"></a>
+<a id="orga95e051"></a>
 
 # double
 
@@ -501,7 +511,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="org3f72552"></a>
+<a id="org8f705ca"></a>
 
 # right
 
@@ -585,7 +595,7 @@ He was't entirely in the right.
 She confesses to having trouble finding Mr Right.
 
 
-<a id="org65a6204"></a>
+<a id="orgdbd28ba"></a>
 
 # play
 
@@ -663,7 +673,7 @@ What the hell are you playing at?
 Breathing brings many muscles into play.
 
 
-<a id="org0f02d01"></a>
+<a id="org5ea6b30"></a>
 
 # class
 
@@ -716,3 +726,36 @@ Kite is undoubtedly a class player.
 ### in a class of(like messi?)
 
 As a player, he was in a class of his own.
+
+
+<a id="orgce43124"></a>
+
+# context
+
+背景与上下文
+
+
+## 语义
+
+
+### 背景
+
+We are doing this work in the context of reforms in the economic, social and cultural spheres.
+
+
+### 上下文
+
+Without a context, I would have assumed it was written by a man.
+
+
+## 短语
+
+
+### in context
+
+It is important that we put Jesus into the context of history.
+
+
+### out of context
+
+Thomas says that he has been taken out of context on the issue.

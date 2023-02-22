@@ -329,3 +329,15 @@ Kite is undoubtedly a class player.
 ** 短语
 *** in a class of(like messi?)
 As a player, he was in a class of his own.
+* context
+背景与上下文
+** 语义
+*** 背景
+We are doing this work in the context of reforms in the economic, social and cultural spheres.
+*** 上下文
+Without a context, I would have assumed it was written by a man.
+** 短语
+*** in context
+It is important that we put Jesus into the context of history.
+*** out of context
+Thomas says that he has been taken out of context on the issue.
