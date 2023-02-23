@@ -1,26 +1,28 @@
 
 # Table of Contents
 
--   [some](#org8514614)
--   [fine](#orga9e8e41)
--   [bold](#org2b94fab)
--   [detail](#org8d61e52)
--   [firm](#org0889dc2)
--   [false](#org57036bb)
--   [string](#org4732f4d)
--   [approach](#org6f1af17)
--   [take](#org30f7b4e)
--   [over](#orge2ddc95)
--   [double](#orga95e051)
--   [right](#org8f705ca)
--   [play](#orgdbd28ba)
--   [class](#org5ea6b30)
--   [context](#orgce43124)
+-   [some](#orgd6212ca)
+-   [fine](#org903c591)
+-   [bold](#org3ddaf49)
+-   [detail](#org176ac4c)
+-   [firm](#orgbb1a99d)
+-   [false](#org43ac504)
+-   [string](#orgba3ce7d)
+-   [approach](#orgc65c6b9)
+-   [take](#orgccf6298)
+-   [over](#org2a63e5e)
+-   [double](#org756f707)
+-   [right](#orgf7ebc4a)
+-   [play](#org284e459)
+-   [class](#org2693848)
+-   [context](#org99c6fb6)
+-   [some time解析](#org9403ac4)
+-   [say](#orgea3bec7)
 
 Record my english study process.
 
 
-<a id="org8514614"></a>
+<a id="orgd6212ca"></a>
 
 # some
 
@@ -76,7 +78,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="orga9e8e41"></a>
+<a id="org903c591"></a>
 
 # fine
 
@@ -144,7 +146,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="org2b94fab"></a>
+<a id="org3ddaf49"></a>
 
 # bold
 
@@ -176,7 +178,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="org8d61e52"></a>
+<a id="org176ac4c"></a>
 
 # detail
 
@@ -214,7 +216,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="org0889dc2"></a>
+<a id="orgbb1a99d"></a>
 
 # firm
 
@@ -257,7 +259,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="org57036bb"></a>
+<a id="org43ac504"></a>
 
 # false
 
@@ -282,7 +284,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="org4732f4d"></a>
+<a id="orgba3ce7d"></a>
 
 # string
 
@@ -317,7 +319,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="org6f1af17"></a>
+<a id="orgc65c6b9"></a>
 
 # approach
 
@@ -339,7 +341,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="org30f7b4e"></a>
+<a id="orgccf6298"></a>
 
 # take
 
@@ -406,7 +408,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="orge2ddc95"></a>
+<a id="org2a63e5e"></a>
 
 # over
 
@@ -458,7 +460,7 @@ The japanese were producing over 100 million tons of steel.
 The time for empty talk is  over.
 
 
-<a id="orga95e051"></a>
+<a id="org756f707"></a>
 
 # double
 
@@ -511,7 +513,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="org8f705ca"></a>
+<a id="orgf7ebc4a"></a>
 
 # right
 
@@ -595,7 +597,7 @@ He was't entirely in the right.
 She confesses to having trouble finding Mr Right.
 
 
-<a id="orgdbd28ba"></a>
+<a id="org284e459"></a>
 
 # play
 
@@ -673,7 +675,7 @@ What the hell are you playing at?
 Breathing brings many muscles into play.
 
 
-<a id="org5ea6b30"></a>
+<a id="org2693848"></a>
 
 # class
 
@@ -728,7 +730,7 @@ Kite is undoubtedly a class player.
 As a player, he was in a class of his own.
 
 
-<a id="orgce43124"></a>
+<a id="org99c6fb6"></a>
 
 # context
 
@@ -759,3 +761,96 @@ It is important that we put Jesus into the context of history.
 ### out of context
 
 Thomas says that he has been taken out of context on the issue.
+
+
+<a id="org9403ac4"></a>
+
+# some time解析
+
+
+## sometime
+
+Why don't you come and see me sometime?
+
+
+## some time
+
+Andy and tom talked for some time.
+
+
+## sometimes
+
+During the summer, my skin sometimes gets grasy.
+
+
+## some times
+
+I looked for you some times.
+
+
+## 助记
+
+分开一段时间，相聚在某个时刻，合并s是有时，分开s是几次
+
+
+<a id="orgea3bec7"></a>
+
+# say
+
+来说说, 人说物说比方说
+
+
+## 语义
+
+
+### 说
+
+I hope you did't say anything about Gretchen.
+
+
+### 宣称
+
+The report says there is widespread and routine torture of political prisoners in the country.
+
+
+### 自己想
+
+Phrhaps I'm still dreaming. I said to myself.
+
+
+### 发言权
+
+You can get married at sixteen, and yet you have't got a say in the running of the country.
+
+
+### 显示
+
+The clock said four minutes past eleven.
+
+
+### 表明
+
+The appearance of the place and the building says something about the importance of the project.
+
+
+### 假定
+
+Say you could change anything about the world we live in, what would it be?
+
+
+### 比方说
+
+Someone with, say, between 300 and 500 acres could be losing thousands of pounds a year.
+
+
+## 短语
+
+
+### goes without saying
+
+It goes without saying that if someone has lung problems they should not smoke.
+
+
+### to say nothing of
+
+Unemployment leads to a sence of useless, to say nothing of financial problems.

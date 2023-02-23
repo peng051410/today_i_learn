@@ -341,3 +341,38 @@ Without a context, I would have assumed it was written by a man.
 It is important that we put Jesus into the context of history.
 *** out of context
 Thomas says that he has been taken out of context on the issue.
+* some time解析
+** sometime
+Why don't you come and see me sometime?
+** some time
+Andy and tom talked for some time.
+** sometimes
+During the summer, my skin sometimes gets grasy.
+** some times
+I looked for you some times.
+** 助记
+分开一段时间，相聚在某个时刻，合并s是有时，分开s是几次
+* say
+来说说, 人说物说比方说
+** 语义
+*** 说
+I hope you did't say anything about Gretchen.
+*** 宣称
+The report says there is widespread and routine torture of political prisoners in the country.
+*** 自己想
+Phrhaps I'm still dreaming. I said to myself.
+*** 发言权
+You can get married at sixteen, and yet you have't got a say in the running of the country.
+*** 显示
+The clock said four minutes past eleven.
+*** 表明
+The appearance of the place and the building says something about the importance of the project.
+*** 假定
+Say you could change anything about the world we live in, what would it be?
+*** 比方说
+Someone with, say, between 300 and 500 acres could be losing thousands of pounds a year.
+** 短语
+*** goes without saying
+It goes without saying that if someone has lung problems they should not smoke.
+*** to say nothing of
+Unemployment leads to a sence of useless, to say nothing of financial problems.
