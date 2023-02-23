@@ -349,6 +349,15 @@ git clone https://github.com/peng051410/today_i_learn
 #+begin_src sh
 git clone https://github.com/peng051410/today_i_learn.wiki
 #+end_src
+
+** Create new repo from other existing repo branch
+#+begin_src sh
+git push new_repo_address +old_repo_branch:master
+#+end_src
+*** [[https://stackoverflow.com/questions/9527999/how-do-i-create-a-new-github-repo-from-a-branch-in-an-existing-repo][git - How do I create a new GitHub repo from a branch in an existing repo? - Stack Overflow]]
+Captured On: [2023-02-23 Thu 14:22]
+
+
 * Github
 
 ** Add profile page to github
