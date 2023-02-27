@@ -1,29 +1,30 @@
 
 # Table of Contents
 
--   [some](#org3e3c27e)
--   [fine](#org018ed3b)
--   [bold](#orga6860c4)
--   [detail](#orgd95d4d9)
--   [firm](#org90e5a07)
--   [false](#orgf7de04c)
--   [string](#orgd78a5b9)
--   [approach](#org1524f9c)
--   [take](#org6162317)
--   [over](#orgb2f8d6b)
--   [double](#orge797b11)
--   [right](#org2429c7a)
--   [play](#org9a7b297)
--   [class](#orgf8390e4)
--   [context](#orgaf93613)
--   [some time解析](#orge38e2ea)
--   [say](#org58757b1)
--   [thought](#org0759b1d)
+-   [some](#org9fcc8ec)
+-   [fine](#org1aa140e)
+-   [bold](#org391522d)
+-   [detail](#org6afd5bb)
+-   [firm](#org520f17f)
+-   [false](#org33399bf)
+-   [string](#org0bee8f2)
+-   [approach](#orgf6f037e)
+-   [take](#orgc9de055)
+-   [over](#orgaa43aa1)
+-   [double](#org956f391)
+-   [right](#orga5ee536)
+-   [play](#orgd8f2be0)
+-   [class](#org7576155)
+-   [context](#org5652a08)
+-   [some time解析](#orga48b8f0)
+-   [say](#org9a15881)
+-   [thought](#org4dabb74)
+-   [account](#org5fd2426)
 
 Record my english study process.
 
 
-<a id="org3e3c27e"></a>
+<a id="org9fcc8ec"></a>
 
 # some
 
@@ -79,7 +80,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="org018ed3b"></a>
+<a id="org1aa140e"></a>
 
 # fine
 
@@ -147,7 +148,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="orga6860c4"></a>
+<a id="org391522d"></a>
 
 # bold
 
@@ -179,7 +180,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="orgd95d4d9"></a>
+<a id="org6afd5bb"></a>
 
 # detail
 
@@ -217,7 +218,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="org90e5a07"></a>
+<a id="org520f17f"></a>
 
 # firm
 
@@ -260,7 +261,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="orgf7de04c"></a>
+<a id="org33399bf"></a>
 
 # false
 
@@ -285,7 +286,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="orgd78a5b9"></a>
+<a id="org0bee8f2"></a>
 
 # string
 
@@ -320,7 +321,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="org1524f9c"></a>
+<a id="orgf6f037e"></a>
 
 # approach
 
@@ -342,7 +343,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="org6162317"></a>
+<a id="orgc9de055"></a>
 
 # take
 
@@ -409,7 +410,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="orgb2f8d6b"></a>
+<a id="orgaa43aa1"></a>
 
 # over
 
@@ -461,7 +462,7 @@ The japanese were producing over 100 million tons of steel.
 The time for empty talk is  over.
 
 
-<a id="orge797b11"></a>
+<a id="org956f391"></a>
 
 # double
 
@@ -514,7 +515,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="org2429c7a"></a>
+<a id="orga5ee536"></a>
 
 # right
 
@@ -598,7 +599,7 @@ He was't entirely in the right.
 She confesses to having trouble finding Mr Right.
 
 
-<a id="org9a7b297"></a>
+<a id="orgd8f2be0"></a>
 
 # play
 
@@ -676,7 +677,7 @@ What the hell are you playing at?
 Breathing brings many muscles into play.
 
 
-<a id="orgf8390e4"></a>
+<a id="org7576155"></a>
 
 # class
 
@@ -731,7 +732,7 @@ Kite is undoubtedly a class player.
 As a player, he was in a class of his own.
 
 
-<a id="orgaf93613"></a>
+<a id="org5652a08"></a>
 
 # context
 
@@ -764,7 +765,7 @@ It is important that we put Jesus into the context of history.
 Thomas says that he has been taken out of context on the issue.
 
 
-<a id="orge38e2ea"></a>
+<a id="orga48b8f0"></a>
 
 # some time解析
 
@@ -794,7 +795,7 @@ I looked for you some times.
 分开一段时间，相聚在某个时刻，合并s是有时，分开s是几次
 
 
-<a id="org58757b1"></a>
+<a id="org9a15881"></a>
 
 # say
 
@@ -857,7 +858,7 @@ It goes without saying that if someone has lung problems they should not smoke.
 Unemployment leads to a sence of useless, to say nothing of financial problems.
 
 
-<a id="org0759b1d"></a>
+<a id="org4dabb74"></a>
 
 # thought
 
@@ -891,3 +892,76 @@ This school of thought argues that depression is best treated by drugs.
 
 
 ## 短语
+
+
+<a id="org5fd2426"></a>
+
+# account
+
+请解释一下你的账户
+
+
+## 语义
+
+
+### 账户
+
+Some bank make it difficult to open an account.
+
+
+### 固定客户
+
+This agency company has got two Beijing accounts.
+
+
+### 账目
+
+Can you charge this to my account please?
+
+
+### 描述
+
+He gave a detailed account of what happened on fateful night.
+
+
+### 解释
+
+Science, on Weber's account, is an essentially value-free activity.
+
+
+### 认为
+
+The opening day of the battle was, nervertheless, accounted a success.
+
+
+## 短语
+
+
+### by all account
+
+He is, by all account, a superb teacher.
+
+
+### give a good account of
+
+The team fought hard and gave a good account of themselves.
+
+
+### of no account/of little account
+
+These obscure groups were of little account in national politics.
+
+
+### on account
+
+He bought two bottles of vodka on account.
+
+
+### on account of
+
+The president declined to deliver the speech himself, on account of sore throat.
+
+
+### on someone account
+
+Tony told me what she's done and i was really scared on her account.

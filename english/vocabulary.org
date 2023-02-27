@@ -390,3 +390,45 @@ Morris has now banished all thoughts of retirement.
 This school of thought argues that depression is best treated by drugs.
 
 ** 短语
+
+* account
+请解释一下你的账户
+
+** 语义
+*** 账户
+Some bank make it difficult to open an account.
+
+*** 固定客户
+This agency company has got two Beijing accounts.
+
+*** 账目
+Can you charge this to my account please?
+
+*** 描述
+He gave a detailed account of what happened on fateful night.
+
+*** 解释
+Science, on Weber's account, is an essentially value-free activity.
+
+*** 认为
+The opening day of the battle was, nervertheless, accounted a success.
+
+** 短语
+
+*** by all account
+He is, by all account, a superb teacher.
+
+*** give a good account of
+The team fought hard and gave a good account of themselves.
+
+*** of no account/of little account
+These obscure groups were of little account in national politics.
+
+*** on account
+He bought two bottles of vodka on account.
+
+*** on account of
+The president declined to deliver the speech himself, on account of sore throat.
+
+*** on someone account
+Tony told me what she's done and i was really scared on her account.
