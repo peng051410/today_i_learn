@@ -1,28 +1,29 @@
 
 # Table of Contents
 
--   [some](#orgd6212ca)
--   [fine](#org903c591)
--   [bold](#org3ddaf49)
--   [detail](#org176ac4c)
--   [firm](#orgbb1a99d)
--   [false](#org43ac504)
--   [string](#orgba3ce7d)
--   [approach](#orgc65c6b9)
--   [take](#orgccf6298)
--   [over](#org2a63e5e)
--   [double](#org756f707)
--   [right](#orgf7ebc4a)
--   [play](#org284e459)
--   [class](#org2693848)
--   [context](#org99c6fb6)
--   [some time解析](#org9403ac4)
--   [say](#orgea3bec7)
+-   [some](#org3e3c27e)
+-   [fine](#org018ed3b)
+-   [bold](#orga6860c4)
+-   [detail](#orgd95d4d9)
+-   [firm](#org90e5a07)
+-   [false](#orgf7de04c)
+-   [string](#orgd78a5b9)
+-   [approach](#org1524f9c)
+-   [take](#org6162317)
+-   [over](#orgb2f8d6b)
+-   [double](#orge797b11)
+-   [right](#org2429c7a)
+-   [play](#org9a7b297)
+-   [class](#orgf8390e4)
+-   [context](#orgaf93613)
+-   [some time解析](#orge38e2ea)
+-   [say](#org58757b1)
+-   [thought](#org0759b1d)
 
 Record my english study process.
 
 
-<a id="orgd6212ca"></a>
+<a id="org3e3c27e"></a>
 
 # some
 
@@ -78,7 +79,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="org903c591"></a>
+<a id="org018ed3b"></a>
 
 # fine
 
@@ -146,7 +147,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="org3ddaf49"></a>
+<a id="orga6860c4"></a>
 
 # bold
 
@@ -178,7 +179,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="org176ac4c"></a>
+<a id="orgd95d4d9"></a>
 
 # detail
 
@@ -216,7 +217,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="orgbb1a99d"></a>
+<a id="org90e5a07"></a>
 
 # firm
 
@@ -259,7 +260,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="org43ac504"></a>
+<a id="orgf7de04c"></a>
 
 # false
 
@@ -284,7 +285,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="orgba3ce7d"></a>
+<a id="orgd78a5b9"></a>
 
 # string
 
@@ -319,7 +320,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="orgc65c6b9"></a>
+<a id="org1524f9c"></a>
 
 # approach
 
@@ -341,7 +342,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="orgccf6298"></a>
+<a id="org6162317"></a>
 
 # take
 
@@ -408,7 +409,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="org2a63e5e"></a>
+<a id="orgb2f8d6b"></a>
 
 # over
 
@@ -460,7 +461,7 @@ The japanese were producing over 100 million tons of steel.
 The time for empty talk is  over.
 
 
-<a id="org756f707"></a>
+<a id="orge797b11"></a>
 
 # double
 
@@ -513,7 +514,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="orgf7ebc4a"></a>
+<a id="org2429c7a"></a>
 
 # right
 
@@ -597,7 +598,7 @@ He was't entirely in the right.
 She confesses to having trouble finding Mr Right.
 
 
-<a id="org284e459"></a>
+<a id="org9a7b297"></a>
 
 # play
 
@@ -675,7 +676,7 @@ What the hell are you playing at?
 Breathing brings many muscles into play.
 
 
-<a id="org2693848"></a>
+<a id="orgf8390e4"></a>
 
 # class
 
@@ -730,7 +731,7 @@ Kite is undoubtedly a class player.
 As a player, he was in a class of his own.
 
 
-<a id="org99c6fb6"></a>
+<a id="orgaf93613"></a>
 
 # context
 
@@ -763,7 +764,7 @@ It is important that we put Jesus into the context of history.
 Thomas says that he has been taken out of context on the issue.
 
 
-<a id="org9403ac4"></a>
+<a id="orge38e2ea"></a>
 
 # some time解析
 
@@ -793,7 +794,7 @@ I looked for you some times.
 分开一段时间，相聚在某个时刻，合并s是有时，分开s是几次
 
 
-<a id="orgea3bec7"></a>
+<a id="org58757b1"></a>
 
 # say
 
@@ -854,3 +855,39 @@ It goes without saying that if someone has lung problems they should not smoke.
 ### to say nothing of
 
 Unemployment leads to a sence of useless, to say nothing of financial problems.
+
+
+<a id="org0759b1d"></a>
+
+# thought
+
+
+## 语义
+
+
+### 想法
+
+The thought of Nick made her throat tighten.
+
+
+### 沉思
+
+He had given some thought to what she had told him.
+
+
+### 希望/意图
+
+Morris has now banished all thoughts of retirement.
+
+
+### 关心/帮助
+
+'He has given them this seven hundred pounds.'- 'What a lovely thought.'
+
+
+### 观念体系
+
+This school of thought argues that depression is best treated by drugs.
+
+
+## 短语
