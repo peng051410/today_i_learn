@@ -432,3 +432,31 @@ The president declined to deliver the speech himself, on account of sore throat.
 
 *** on someone account
 Tony told me what she's done and i was really scared on her account.
+
+* size
+非常大的尺寸
+
+** 语义
+
+*** 尺寸
+He's a small boy, about John's size.
+
+*** 非常大
+I can't believe the size of her car!
+
+*** 尺码
+The shirts come in three sizes: small, medium, and large.
+
+*** 按大小分类
+Shrimp are sized and selected for canning.
+
+** 短语
+
+*** size up
+Some US manufacturers have been sizing up the UK as a possible market for their clothes.
+
+*** is cut down to size
+The once-powerful post unions have been cut down to size.
+
+*** for size
+She was trying on an $8000 jacket for size.
