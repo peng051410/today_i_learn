@@ -460,3 +460,18 @@ The once-powerful post unions have been cut down to size.
 
 *** for size
 She was trying on an $8000 jacket for size.
+
+* array
+大量的数组
+
+** 大量
+There was a vast arry of colours to choose from.
+
+** 整齐排列
+We visited the local markets and saw wonderful arrays of fruit and vegetables.
+
+** 数组
+The image is then stored on the computer hard disk as a vast arry of black and white dots.
+
+** 布置
+Make-up arrayed on the bashroom counter.

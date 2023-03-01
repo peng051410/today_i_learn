@@ -1,31 +1,32 @@
 
 # Table of Contents
 
--   [some](#org6f27a22)
--   [fine](#orgdbc30e0)
--   [bold](#org67333b3)
--   [detail](#org92b0c92)
--   [firm](#orgd3a86b6)
--   [false](#orge210461)
--   [string](#org64f79b9)
--   [approach](#org3a74055)
--   [take](#org473d57b)
--   [over](#org994c070)
--   [double](#org7d85a9e)
--   [right](#org7626f23)
--   [play](#org90406b0)
--   [class](#orgbaabca2)
--   [context](#orgf262525)
--   [some time解析](#orgc86c3cc)
--   [say](#org308dd39)
--   [thought](#orgab08484)
--   [account](#org2d170e5)
--   [size](#orgc7918e8)
+-   [some](#orgf51fb87)
+-   [fine](#orgfd1649c)
+-   [bold](#orgd5c7c9b)
+-   [detail](#org7351037)
+-   [firm](#orgef912c0)
+-   [false](#org53231c0)
+-   [string](#orgd7d300a)
+-   [approach](#orgf7be43b)
+-   [take](#orgf402f18)
+-   [over](#orgef5c2f9)
+-   [double](#org73810bb)
+-   [right](#org04aea2a)
+-   [play](#orgfff3df4)
+-   [class](#org13f1b37)
+-   [context](#orge8528a4)
+-   [some time解析](#orgecfde95)
+-   [say](#org83e38a5)
+-   [thought](#org5fd3523)
+-   [account](#org21874e4)
+-   [size](#org1cdb0b7)
+-   [array](#org2ddd8a6)
 
 Record my english study process.
 
 
-<a id="org6f27a22"></a>
+<a id="orgf51fb87"></a>
 
 # some
 
@@ -81,7 +82,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="orgdbc30e0"></a>
+<a id="orgfd1649c"></a>
 
 # fine
 
@@ -149,7 +150,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="org67333b3"></a>
+<a id="orgd5c7c9b"></a>
 
 # bold
 
@@ -181,7 +182,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="org92b0c92"></a>
+<a id="org7351037"></a>
 
 # detail
 
@@ -219,7 +220,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="orgd3a86b6"></a>
+<a id="orgef912c0"></a>
 
 # firm
 
@@ -262,7 +263,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="orge210461"></a>
+<a id="org53231c0"></a>
 
 # false
 
@@ -287,7 +288,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="org64f79b9"></a>
+<a id="orgd7d300a"></a>
 
 # string
 
@@ -322,7 +323,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="org3a74055"></a>
+<a id="orgf7be43b"></a>
 
 # approach
 
@@ -344,7 +345,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="org473d57b"></a>
+<a id="orgf402f18"></a>
 
 # take
 
@@ -411,7 +412,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="org994c070"></a>
+<a id="orgef5c2f9"></a>
 
 # over
 
@@ -463,7 +464,7 @@ The japanese were producing over 100 million tons of steel.
 The time for empty talk is  over.
 
 
-<a id="org7d85a9e"></a>
+<a id="org73810bb"></a>
 
 # double
 
@@ -516,7 +517,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="org7626f23"></a>
+<a id="org04aea2a"></a>
 
 # right
 
@@ -600,7 +601,7 @@ He was't entirely in the right.
 She confesses to having trouble finding Mr Right.
 
 
-<a id="org90406b0"></a>
+<a id="orgfff3df4"></a>
 
 # play
 
@@ -678,7 +679,7 @@ What the hell are you playing at?
 Breathing brings many muscles into play.
 
 
-<a id="orgbaabca2"></a>
+<a id="org13f1b37"></a>
 
 # class
 
@@ -733,7 +734,7 @@ Kite is undoubtedly a class player.
 As a player, he was in a class of his own.
 
 
-<a id="orgf262525"></a>
+<a id="orge8528a4"></a>
 
 # context
 
@@ -766,7 +767,7 @@ It is important that we put Jesus into the context of history.
 Thomas says that he has been taken out of context on the issue.
 
 
-<a id="orgc86c3cc"></a>
+<a id="orgecfde95"></a>
 
 # some time解析
 
@@ -796,7 +797,7 @@ I looked for you some times.
 分开一段时间，相聚在某个时刻，合并s是有时，分开s是几次
 
 
-<a id="org308dd39"></a>
+<a id="org83e38a5"></a>
 
 # say
 
@@ -859,7 +860,7 @@ It goes without saying that if someone has lung problems they should not smoke.
 Unemployment leads to a sence of useless, to say nothing of financial problems.
 
 
-<a id="orgab08484"></a>
+<a id="org5fd3523"></a>
 
 # thought
 
@@ -895,7 +896,7 @@ This school of thought argues that depression is best treated by drugs.
 ## 短语
 
 
-<a id="org2d170e5"></a>
+<a id="org21874e4"></a>
 
 # account
 
@@ -968,7 +969,7 @@ The president declined to deliver the speech himself, on account of sore throat.
 Tony told me what she's done and i was really scared on her account.
 
 
-<a id="orgc7918e8"></a>
+<a id="org1cdb0b7"></a>
 
 # size
 
@@ -1014,3 +1015,30 @@ The once-powerful post unions have been cut down to size.
 ### for size
 
 She was trying on an $8000 jacket for size.
+
+
+<a id="org2ddd8a6"></a>
+
+# array
+
+大量的数组
+
+
+## 大量
+
+There was a vast arry of colours to choose from.
+
+
+## 整齐排列
+
+We visited the local markets and saw wonderful arrays of fruit and vegetables.
+
+
+## 数组
+
+The image is then stored on the computer hard disk as a vast arry of black and white dots.
+
+
+## 布置
+
+Make-up arrayed on the bashroom counter.
