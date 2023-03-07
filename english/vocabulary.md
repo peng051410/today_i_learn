@@ -1,32 +1,33 @@
 
 # Table of Contents
 
--   [some](#orgf51fb87)
--   [fine](#orgfd1649c)
--   [bold](#orgd5c7c9b)
--   [detail](#org7351037)
--   [firm](#orgef912c0)
--   [false](#org53231c0)
--   [string](#orgd7d300a)
--   [approach](#orgf7be43b)
--   [take](#orgf402f18)
--   [over](#orgef5c2f9)
--   [double](#org73810bb)
--   [right](#org04aea2a)
--   [play](#orgfff3df4)
--   [class](#org13f1b37)
--   [context](#orge8528a4)
--   [some time解析](#orgecfde95)
--   [say](#org83e38a5)
--   [thought](#org5fd3523)
--   [account](#org21874e4)
--   [size](#org1cdb0b7)
--   [array](#org2ddd8a6)
+-   [some](#orgd063d27)
+-   [fine](#org9b9cd2c)
+-   [bold](#org8bf0498)
+-   [detail](#org66be27a)
+-   [firm](#org22dd745)
+-   [false](#orgd70b576)
+-   [string](#orgb2b25a6)
+-   [approach](#org61c9ea3)
+-   [take](#org69ad70b)
+-   [over](#org1d7325d)
+-   [double](#orgcafde60)
+-   [right](#orgf79a171)
+-   [play](#orgffcfb2a)
+-   [class](#org0915e53)
+-   [context](#org5b8fa15)
+-   [some time解析](#orged5bc5f)
+-   [say](#org05ca9fb)
+-   [thought](#org170ed46)
+-   [account](#orga21b694)
+-   [size](#org36e8bdd)
+-   [array](#orga581472)
+-   [order](#org0abf772)
 
 Record my english study process.
 
 
-<a id="orgf51fb87"></a>
+<a id="orgd063d27"></a>
 
 # some
 
@@ -82,7 +83,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="orgfd1649c"></a>
+<a id="org9b9cd2c"></a>
 
 # fine
 
@@ -150,7 +151,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="orgd5c7c9b"></a>
+<a id="org8bf0498"></a>
 
 # bold
 
@@ -182,7 +183,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="org7351037"></a>
+<a id="org66be27a"></a>
 
 # detail
 
@@ -220,7 +221,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="orgef912c0"></a>
+<a id="org22dd745"></a>
 
 # firm
 
@@ -263,7 +264,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="org53231c0"></a>
+<a id="orgd70b576"></a>
 
 # false
 
@@ -288,7 +289,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="orgd7d300a"></a>
+<a id="orgb2b25a6"></a>
 
 # string
 
@@ -323,7 +324,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="orgf7be43b"></a>
+<a id="org61c9ea3"></a>
 
 # approach
 
@@ -345,7 +346,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="orgf402f18"></a>
+<a id="org69ad70b"></a>
 
 # take
 
@@ -412,7 +413,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="orgef5c2f9"></a>
+<a id="org1d7325d"></a>
 
 # over
 
@@ -464,7 +465,7 @@ The japanese were producing over 100 million tons of steel.
 The time for empty talk is  over.
 
 
-<a id="org73810bb"></a>
+<a id="orgcafde60"></a>
 
 # double
 
@@ -517,7 +518,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="org04aea2a"></a>
+<a id="orgf79a171"></a>
 
 # right
 
@@ -601,7 +602,7 @@ He was't entirely in the right.
 She confesses to having trouble finding Mr Right.
 
 
-<a id="orgfff3df4"></a>
+<a id="orgffcfb2a"></a>
 
 # play
 
@@ -679,7 +680,7 @@ What the hell are you playing at?
 Breathing brings many muscles into play.
 
 
-<a id="org13f1b37"></a>
+<a id="org0915e53"></a>
 
 # class
 
@@ -734,7 +735,7 @@ Kite is undoubtedly a class player.
 As a player, he was in a class of his own.
 
 
-<a id="orge8528a4"></a>
+<a id="org5b8fa15"></a>
 
 # context
 
@@ -767,7 +768,7 @@ It is important that we put Jesus into the context of history.
 Thomas says that he has been taken out of context on the issue.
 
 
-<a id="orgecfde95"></a>
+<a id="orged5bc5f"></a>
 
 # some time解析
 
@@ -797,7 +798,7 @@ I looked for you some times.
 分开一段时间，相聚在某个时刻，合并s是有时，分开s是几次
 
 
-<a id="org83e38a5"></a>
+<a id="org05ca9fb"></a>
 
 # say
 
@@ -860,7 +861,7 @@ It goes without saying that if someone has lung problems they should not smoke.
 Unemployment leads to a sence of useless, to say nothing of financial problems.
 
 
-<a id="org5fd3523"></a>
+<a id="org170ed46"></a>
 
 # thought
 
@@ -896,7 +897,7 @@ This school of thought argues that depression is best treated by drugs.
 ## 短语
 
 
-<a id="org21874e4"></a>
+<a id="orga21b694"></a>
 
 # account
 
@@ -969,7 +970,7 @@ The president declined to deliver the speech himself, on account of sore throat.
 Tony told me what she's done and i was really scared on her account.
 
 
-<a id="org1cdb0b7"></a>
+<a id="org36e8bdd"></a>
 
 # size
 
@@ -1017,7 +1018,7 @@ The once-powerful post unions have been cut down to size.
 She was trying on an $8000 jacket for size.
 
 
-<a id="org2ddd8a6"></a>
+<a id="orga581472"></a>
 
 # array
 
@@ -1042,3 +1043,71 @@ The image is then stored on the computer hard disk as a vast arry of black and w
 ## 布置
 
 Make-up arrayed on the bashroom counter.
+
+
+<a id="org0abf772"></a>
+
+# order
+
+一种有顺序的订单
+
+
+## 语义
+
+
+### 顺序
+
+Make sure that you put the books back in the right order.
+
+
+### 指令
+
+The captain had to give the order to abandon ship.
+
+
+### 秩序
+
+The riots are a threat to public order.
+
+
+### 点菜
+
+The waiter took our orders.
+
+
+### 订单
+
+Goods will be sent within 24 hours of receving you order.
+
+
+### 命令
+
+The court ordered his release from prison.
+
+
+## 短语
+
+
+### in order to do something
+
+Samnel trained every day in order to improve his performance.
+
+
+### in order for
+
+Sunight is needed in order for the process of photosynthesis to take place in plants.
+
+
+### be out of order
+
+The phone is out of order again.
+
+
+### be in order
+
+Everything is in order.
+
+
+### the order of things
+
+People accepted the class system as part of the natural order of things.

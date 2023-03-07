@@ -475,3 +475,43 @@ The image is then stored on the computer hard disk as a vast arry of black and w
 
 ** 布置
 Make-up arrayed on the bashroom counter.
+
+* order
+一种有顺序的订单
+
+** 语义
+
+*** 顺序
+Make sure that you put the books back in the right order.
+
+*** 指令
+The captain had to give the order to abandon ship.
+
+*** 秩序
+The riots are a threat to public order.
+
+*** 点菜
+The waiter took our orders.
+
+*** 订单
+Goods will be sent within 24 hours of receving you order.
+
+*** 命令
+The court ordered his release from prison.
+
+** 短语
+
+*** in order to do something
+Samnel trained every day in order to improve his performance.
+
+*** in order for
+Sunight is needed in order for the process of photosynthesis to take place in plants.
+
+*** be out of order
+The phone is out of order again.
+
+*** be in order
+Everything is in order.
+
+*** the order of things
+People accepted the class system as part of the natural order of things.
