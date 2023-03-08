@@ -1,33 +1,34 @@
 
 # Table of Contents
 
--   [some](#orgd063d27)
--   [fine](#org9b9cd2c)
--   [bold](#org8bf0498)
--   [detail](#org66be27a)
--   [firm](#org22dd745)
--   [false](#orgd70b576)
--   [string](#orgb2b25a6)
--   [approach](#org61c9ea3)
--   [take](#org69ad70b)
--   [over](#org1d7325d)
--   [double](#orgcafde60)
--   [right](#orgf79a171)
--   [play](#orgffcfb2a)
--   [class](#org0915e53)
--   [context](#org5b8fa15)
--   [some time解析](#orged5bc5f)
--   [say](#org05ca9fb)
--   [thought](#org170ed46)
--   [account](#orga21b694)
--   [size](#org36e8bdd)
--   [array](#orga581472)
--   [order](#org0abf772)
+-   [some](#org0855fb4)
+-   [fine](#org37e6a11)
+-   [bold](#org5c101d8)
+-   [detail](#org6ca9307)
+-   [firm](#orgf7290b3)
+-   [false](#orga5f8026)
+-   [string](#org7185cc0)
+-   [approach](#orgb649529)
+-   [take](#org25f7936)
+-   [over](#org2ff6100)
+-   [double](#orgd1d23b5)
+-   [right](#orgd91b6ea)
+-   [play](#org0c6ef83)
+-   [class](#org8c2897b)
+-   [context](#orgde86d4b)
+-   [some time解析](#org06365d0)
+-   [say](#org117d3ca)
+-   [thought](#orgb39f476)
+-   [account](#org1631f89)
+-   [size](#orgb0721f8)
+-   [array](#org37231f8)
+-   [order](#orgcb3fae1)
+-   [clear](#orgea1890e)
 
 Record my english study process.
 
 
-<a id="orgd063d27"></a>
+<a id="org0855fb4"></a>
 
 # some
 
@@ -83,7 +84,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="org9b9cd2c"></a>
+<a id="org37e6a11"></a>
 
 # fine
 
@@ -151,7 +152,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="org8bf0498"></a>
+<a id="org5c101d8"></a>
 
 # bold
 
@@ -183,7 +184,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="org66be27a"></a>
+<a id="org6ca9307"></a>
 
 # detail
 
@@ -221,7 +222,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="org22dd745"></a>
+<a id="orgf7290b3"></a>
 
 # firm
 
@@ -264,7 +265,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="orgd70b576"></a>
+<a id="orga5f8026"></a>
 
 # false
 
@@ -289,7 +290,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="orgb2b25a6"></a>
+<a id="org7185cc0"></a>
 
 # string
 
@@ -324,7 +325,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="org61c9ea3"></a>
+<a id="orgb649529"></a>
 
 # approach
 
@@ -346,7 +347,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="org69ad70b"></a>
+<a id="org25f7936"></a>
 
 # take
 
@@ -413,7 +414,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="org1d7325d"></a>
+<a id="org2ff6100"></a>
 
 # over
 
@@ -465,7 +466,7 @@ The japanese were producing over 100 million tons of steel.
 The time for empty talk is  over.
 
 
-<a id="orgcafde60"></a>
+<a id="orgd1d23b5"></a>
 
 # double
 
@@ -518,7 +519,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="orgf79a171"></a>
+<a id="orgd91b6ea"></a>
 
 # right
 
@@ -602,7 +603,7 @@ He was't entirely in the right.
 She confesses to having trouble finding Mr Right.
 
 
-<a id="orgffcfb2a"></a>
+<a id="org0c6ef83"></a>
 
 # play
 
@@ -680,7 +681,7 @@ What the hell are you playing at?
 Breathing brings many muscles into play.
 
 
-<a id="org0915e53"></a>
+<a id="org8c2897b"></a>
 
 # class
 
@@ -735,7 +736,7 @@ Kite is undoubtedly a class player.
 As a player, he was in a class of his own.
 
 
-<a id="org5b8fa15"></a>
+<a id="orgde86d4b"></a>
 
 # context
 
@@ -768,7 +769,7 @@ It is important that we put Jesus into the context of history.
 Thomas says that he has been taken out of context on the issue.
 
 
-<a id="orged5bc5f"></a>
+<a id="org06365d0"></a>
 
 # some time解析
 
@@ -798,7 +799,7 @@ I looked for you some times.
 分开一段时间，相聚在某个时刻，合并s是有时，分开s是几次
 
 
-<a id="org05ca9fb"></a>
+<a id="org117d3ca"></a>
 
 # say
 
@@ -861,7 +862,7 @@ It goes without saying that if someone has lung problems they should not smoke.
 Unemployment leads to a sence of useless, to say nothing of financial problems.
 
 
-<a id="org170ed46"></a>
+<a id="orgb39f476"></a>
 
 # thought
 
@@ -897,7 +898,7 @@ This school of thought argues that depression is best treated by drugs.
 ## 短语
 
 
-<a id="orga21b694"></a>
+<a id="org1631f89"></a>
 
 # account
 
@@ -970,7 +971,7 @@ The president declined to deliver the speech himself, on account of sore throat.
 Tony told me what she's done and i was really scared on her account.
 
 
-<a id="org36e8bdd"></a>
+<a id="orgb0721f8"></a>
 
 # size
 
@@ -1018,7 +1019,7 @@ The once-powerful post unions have been cut down to size.
 She was trying on an $8000 jacket for size.
 
 
-<a id="orga581472"></a>
+<a id="org37231f8"></a>
 
 # array
 
@@ -1045,7 +1046,7 @@ The image is then stored on the computer hard disk as a vast arry of black and w
 Make-up arrayed on the bashroom counter.
 
 
-<a id="org0abf772"></a>
+<a id="orgcb3fae1"></a>
 
 # order
 
@@ -1111,3 +1112,136 @@ Everything is in order.
 ### the order of things
 
 People accepted the class system as part of the natural order of things.
+
+
+<a id="orgea1890e"></a>
+
+# clear
+
+清理的很干净
+
+
+## 语义
+
+
+### 清楚的
+
+The question wasn't very clear.
+
+
+### 明显的
+
+They won by a clear majority.
+
+
+### 确信的
+
+Are you all clear now about what you have to do?
+
+
+### 清晰的
+
+He felt that her thinking was clearer now.
+
+
+### 透明的
+
+It's a clear glass bottles.
+
+
+### 晴朗的
+
+The skies were clear and blue.
+
+
+### 听的清的
+
+The radio reception isn't very clear.
+
+
+### 净得
+
+Sam make a clear $90000 per year.
+
+
+### 有空的
+
+Next Monday is clear, how about ten o'clock?
+
+
+### 整段的
+
+Allow three clear days for delivery.
+
+
+### 畅通的
+
+The roads were fairly clear this morning.
+
+
+### 清理
+
+Snowplows have been out clearing the roads.
+
+
+### 被指无罪的
+
+Rawlings was cleared after new evidence was produced.
+
+
+### 批准
+
+He was cleared by doctors to resume skating in August.
+
+
+### 变清澈
+
+Wait for the water to clear before adding any fish.
+
+
+### 越过
+
+The plane cleared Chinese airspace.
+
+
+### 远离
+
+Please stand clear of the doors.
+
+
+## 短语
+
+
+### a clear conscience
+
+I don't think I could vote for him with a clear conscience.
+
+
+### clear view
+
+From the top floor you get a clear view of the bay.
+
+
+### say your way clear
+
+If you see your way clear, then it can be a hundred million dollars business.
+
+
+### be clear of something
+
+Wait to cross until the street is clear of cars.
+
+
+### clear my head
+
+A good walk might clear my mind.
+
+
+### clear the way for something
+
+This agreement will clear the way for further talks.
+
+
+### steer clear
+
+If you are a beginner, steer clear of resorts with reputations for difficult skiing.
