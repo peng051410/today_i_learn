@@ -1,34 +1,35 @@
 
 # Table of Contents
 
--   [some](#org0855fb4)
--   [fine](#org37e6a11)
--   [bold](#org5c101d8)
--   [detail](#org6ca9307)
--   [firm](#orgf7290b3)
--   [false](#orga5f8026)
--   [string](#org7185cc0)
--   [approach](#orgb649529)
--   [take](#org25f7936)
--   [over](#org2ff6100)
--   [double](#orgd1d23b5)
--   [right](#orgd91b6ea)
--   [play](#org0c6ef83)
--   [class](#org8c2897b)
--   [context](#orgde86d4b)
--   [some time解析](#org06365d0)
--   [say](#org117d3ca)
--   [thought](#orgb39f476)
--   [account](#org1631f89)
--   [size](#orgb0721f8)
--   [array](#org37231f8)
--   [order](#orgcb3fae1)
--   [clear](#orgea1890e)
+-   [some](#orge7dcc4b)
+-   [fine](#org8c27e7b)
+-   [bold](#orgaa4b175)
+-   [detail](#orgf6c08c6)
+-   [firm](#orgcffdd68)
+-   [false](#org937570a)
+-   [string](#org06ad7ab)
+-   [approach](#org8b221f0)
+-   [take](#org84f3e75)
+-   [over](#org83668b8)
+-   [double](#org38a85aa)
+-   [right](#org40727fb)
+-   [play](#org86ba16a)
+-   [class](#orgfb81a14)
+-   [context](#orgc83d0f9)
+-   [some time解析](#orga8c8991)
+-   [say](#org663de4f)
+-   [thought](#org77a2988)
+-   [account](#org8ca54f7)
+-   [size](#org5dd5218)
+-   [array](#orgaf512f9)
+-   [order](#orgf2ce6bc)
+-   [clear](#orgab4c769)
+-   [step](#org673bfd2)
 
 Record my english study process.
 
 
-<a id="org0855fb4"></a>
+<a id="orge7dcc4b"></a>
 
 # some
 
@@ -84,7 +85,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="org37e6a11"></a>
+<a id="org8c27e7b"></a>
 
 # fine
 
@@ -152,7 +153,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="org5c101d8"></a>
+<a id="orgaa4b175"></a>
 
 # bold
 
@@ -184,7 +185,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="org6ca9307"></a>
+<a id="orgf6c08c6"></a>
 
 # detail
 
@@ -222,7 +223,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="orgf7290b3"></a>
+<a id="orgcffdd68"></a>
 
 # firm
 
@@ -265,7 +266,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="orga5f8026"></a>
+<a id="org937570a"></a>
 
 # false
 
@@ -290,7 +291,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="org7185cc0"></a>
+<a id="org06ad7ab"></a>
 
 # string
 
@@ -325,7 +326,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="orgb649529"></a>
+<a id="org8b221f0"></a>
 
 # approach
 
@@ -347,7 +348,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="org25f7936"></a>
+<a id="org84f3e75"></a>
 
 # take
 
@@ -414,7 +415,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="org2ff6100"></a>
+<a id="org83668b8"></a>
 
 # over
 
@@ -466,7 +467,7 @@ The japanese were producing over 100 million tons of steel.
 The time for empty talk is  over.
 
 
-<a id="orgd1d23b5"></a>
+<a id="org38a85aa"></a>
 
 # double
 
@@ -519,7 +520,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="orgd91b6ea"></a>
+<a id="org40727fb"></a>
 
 # right
 
@@ -603,7 +604,7 @@ He was't entirely in the right.
 She confesses to having trouble finding Mr Right.
 
 
-<a id="org0c6ef83"></a>
+<a id="org86ba16a"></a>
 
 # play
 
@@ -681,7 +682,7 @@ What the hell are you playing at?
 Breathing brings many muscles into play.
 
 
-<a id="org8c2897b"></a>
+<a id="orgfb81a14"></a>
 
 # class
 
@@ -736,7 +737,7 @@ Kite is undoubtedly a class player.
 As a player, he was in a class of his own.
 
 
-<a id="orgde86d4b"></a>
+<a id="orgc83d0f9"></a>
 
 # context
 
@@ -769,7 +770,7 @@ It is important that we put Jesus into the context of history.
 Thomas says that he has been taken out of context on the issue.
 
 
-<a id="org06365d0"></a>
+<a id="orga8c8991"></a>
 
 # some time解析
 
@@ -799,7 +800,7 @@ I looked for you some times.
 分开一段时间，相聚在某个时刻，合并s是有时，分开s是几次
 
 
-<a id="org117d3ca"></a>
+<a id="org663de4f"></a>
 
 # say
 
@@ -862,7 +863,7 @@ It goes without saying that if someone has lung problems they should not smoke.
 Unemployment leads to a sence of useless, to say nothing of financial problems.
 
 
-<a id="orgb39f476"></a>
+<a id="org77a2988"></a>
 
 # thought
 
@@ -898,7 +899,7 @@ This school of thought argues that depression is best treated by drugs.
 ## 短语
 
 
-<a id="org1631f89"></a>
+<a id="org8ca54f7"></a>
 
 # account
 
@@ -971,7 +972,7 @@ The president declined to deliver the speech himself, on account of sore throat.
 Tony told me what she's done and i was really scared on her account.
 
 
-<a id="orgb0721f8"></a>
+<a id="org5dd5218"></a>
 
 # size
 
@@ -1019,7 +1020,7 @@ The once-powerful post unions have been cut down to size.
 She was trying on an $8000 jacket for size.
 
 
-<a id="org37231f8"></a>
+<a id="orgaf512f9"></a>
 
 # array
 
@@ -1046,7 +1047,7 @@ The image is then stored on the computer hard disk as a vast arry of black and w
 Make-up arrayed on the bashroom counter.
 
 
-<a id="orgcb3fae1"></a>
+<a id="orgf2ce6bc"></a>
 
 # order
 
@@ -1114,7 +1115,7 @@ Everything is in order.
 People accepted the class system as part of the natural order of things.
 
 
-<a id="orgea1890e"></a>
+<a id="orgab4c769"></a>
 
 # clear
 
@@ -1245,3 +1246,86 @@ This agreement will clear the way for further talks.
 ### steer clear
 
 If you are a beginner, steer clear of resorts with reputations for difficult skiing.
+
+
+<a id="org673bfd2"></a>
+
+# step
+
+脚步
+
+
+## 语义
+
+
+### 脚步
+
+He took one step and fell.
+
+
+### 步骤
+
+This is the first step in reforming the welfare system.
+
+
+### 等级
+
+Each book goes up one step in diffculty.
+
+
+### 阶梯
+
+He climbed the wooden steps and rang the bell.
+
+
+### 距离
+
+Roy was standing only a few steps away.
+
+
+### 脚步声
+
+I heard a step in the corridor.
+
+
+### 舞步
+
+The steps for the Charleston.
+
+
+### 跨步
+
+He stepped back to let me through.
+
+
+### 继的
+
+The problems of stepfamilies.
+
+
+## 短语
+
+
+### in step with
+
+He isn't in step with ordinary voters.
+
+
+### watch your step
+
+You'd better watch your step - He's the boss here.
+
+
+### fall into step
+
+Maggie fell into step beside her.
+
+
+### be stay one step ahead
+
+A good teacher is always at least one step ahead of his students.
+
+
+### step on someboday's toes
+
+I'm not worried about stepping on anybody's toes.
