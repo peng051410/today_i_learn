@@ -4199,4 +4199,4209 @@ In my latest book, I wanted to fly the kite for an unfashionable theory.
 *** be a fly on the wall
 I wish I'd been a fly on the wall during that conversation.
 *** on the fly
+The code is translated on the fly.#+OPTIONS: toc:1 ^:nil ~:nil num:nil reveal_title_slide:nil timestamp:nil
+#+TAGS: AWL(a)
+
+Record my english study process.
+1. C represent less 1000 occur on youtube
+
+* some
+https://www.collinsdictionary.com/dictionary/english/some
+又表示大，又表示小
+** 一些
+
+*** He went to fetch some books.
+
+** 大量
+
+*** He remained silent for some time.
+
+** 有几分
+
+*** Is't there some chance that William might lead a normal life?
+
+** (整体的)部分
+
+*** Some of us like football, others like basketball.
+
+** 某个
+
+*** If you are worried about some aspect of you child's health, call us!
+
+** 大约(用在数字前)
+
+*** I have kept birds for some 30 years.
+
+** 有点
+
+*** I party some.
+
+** 赞同/不赞同
+
+*** That was some party last night!
+
+* fine
+https://www.collinsdictionary.com/dictionary/english/fine
+不仅代表好，可能还是罚款
+
+** 好的
+
+*** This is a fine book.
+
+** 健康的
+
+*** Lina is fine and sends you her love and best wishes.
+
+** 满意的
+
+*** Everything was going to be just fine.
+
+** 可以
+
+*** This fine with me.
+
+** 纤细的
+
+*** Very fine hairs.
+
+** 精美的
+
+*** We waited in our fine clothes.
+
+** 精确的
+
+*** The market like the broad outline but is reserving judgment on the fine detail.
+
+** 高尚的
+
+*** You feather is a fine man, a real gentlemen.
+
+** 天气晴朗的
+
+*** If it's fine tomorrow we will go out.
+
+** 罚款
+
+*** She was fined for speeding.
+* bold
+:PROPERTIES:
+:ID:       1E459DE3-54E0-4A3D-B1FB-8C7471524E5D
+:END:
+https://www.collinsdictionary.com/dictionary/english/bold
+bold不只表示粗体，还可以很勇敢
+
+** 勇敢的，大胆的
+*** Poland was already making bold economic reforms.
+** 放肆的
+*** She marched into his office as bold as brass.
+** 明显的
+*** Bold colours
+** 粗体
+*** All the headings are in bold type.
+* detail
+:PROPERTIES:
+:ID:       0DDC7D03-D4BC-460B-98D7-2DC668084CC3
+:END:
+https://www.collinsdictionary.com/dictionary/english/detail
+detail的细节还挺多
+
+** 细节
+I recall every detail of the party.
+** 信息
+Full details will be announced soon.
+** 枝节
+Only minor details now remain to be settled.
+** 细微之处
+We like his attention to detail and enthusiasm.
+** 详述
+The report details the progress we have made over the last years.
+** 指派
+Four soldiers were detailed to guard duty.
+* firm
+:PROPERTIES:
+:ID:       A71B1211-501D-4AED-B537-D664A70ADAFC
+:END:
+https://www.collinsdictionary.com/dictionary/english/firm
+商户是坚挺的
+** 商户(小型的)
+The firm's employees were expecting large bonuses.
+** 坚固的
+Choose a soft, medium or firm mattress to suit their individual needs.
+** 强有力的
+The quick handshake was firm and cool.
+** 坚决的
+China express strong indignation and firm opposition.
+** 确定的
+It is my firm belife that an effective partnership approach between police and the public is absolutely necessary.
+** 坚挺的
+Cotton prices remain firm and demand is strong.
+** 压
+Firm more soil over the roots and water thoroughly.
+* false
+[[https://www.collinsdictionary.com/dictionary/english/false]]
+假的就是假的
+** 不正确的
+You do not know whether what you're told is true or false.
+** 人造的，假的
+I don't want to give you any false hopes.
+** 虚伪的
+She bowed her head and smiled in false modesty.
+
+She's so false.
+* string
+:PROPERTIES:
+:ID:       75792300-A4B7-4075-801C-55FDE5F2F185
+:END:
+不只表示字符串，还可以是琴弦
+** 细绳
+He held out a small bag tied with string.
+** 一串
+She wore a string of pearls around her neck.
+** 一系列
+The incident was the latest in a string of attacks.
+** 弦
+He went off to change a guitar string.
+** 计算机中的字符串
+** 系
+He had strug a banner across the wall.
+* approach
+:PROPERTIES:
+:ID:       022796B3-DE24-4A1B-9C49-43DC818B76C2
+:END:
+接近的方式
+** 接近
+When i approached, they grew silent.
+** 处理
+Employees are insterested in how you approach problems.
+** 方法
+We will be exploring different approaches to gathering information.
+* take
+:PROPERTIES:
+:ID:       5B88B8C2-8B33-4C93-8165-92D8F4E61B5F
+:END:
+不只有拿意思
+** 移动
+John took us to the airport.
+** 动作
+Would like to take a look?
+** 拿走
+Take you feet off the seats.
+** 花费
+It took a few minutes for his eyes to adjust to the dark.
+** 接受
+Will you take the job?
+** 拿着
+Let me take you coat.
+** 收集
+The police took a statement from both witness.
+** 感觉
+You will take pride in you work.
+** 服用
+Take two tablets before bedroom.
+** 教
+Who take you for english?
+** 写
+Let me take you email address.
+** 升级
+If you want take it further, you should consult an attorney.
+* over
+在结束之上
+** 在xxx之上
+A bridge over the river Danube.
+** 挂在xxx上面
+A grey mackintosh was folded over her arm.
+** 可以看见
+His rooms looked out over a narrow lane behind the collge.
+** 穿过
+I stepped over a broken piece of wood.
+** 在xxx的另一边
+John, who lived in the house over the road.
+** 去，到
+I thought you might have invited her over.
+** 倒下
+He was knocked over by a bus and broke his leg.
+** 超过
+The japanese were producing over 100 million tons of steel.
+** 结束
+The time for empty talk is  over.
+* double
+成双成对
+** 语义
+*** 成双的
+A pair of double doors into the room from the new entrance hall.
+*** 双重的
+The government committed a double blunder.
+*** 两倍的
+These designers was discussing how to double the scale of the park.
+*** 双人间
+Bed and breakfast for $180 for two people in a double room.
+*** 加倍
+The number of managers must double to 100 whithin 3 years.
+*** 相似的
+You mother sees you as her double.
+*** 兼职
+Jack doubles as director and producer.
+** 短语
+*** double shift
+双班倒
+* right
+正确的权力
+** 语义
+*** 正确的
+That absolutely right.
+*** 准确的
+They have conputererized systems to ensure delivery of the right pizza to the right place.
+*** 正派的
+Through his father, he had met all the right people.
+*** 最好的
+He made the right choice in leaving New York.
+*** 正常的
+He went info hospital and came out after a week. But he still wasn't right.
+*** 扭转
+They recognise the urgency of righting the economy.
+*** 纠正
+We'are made progress in righting the worngs of the past.
+*** 摆正
+He righted the car and continued the race.
+*** 右边
+He had a knife in his right hand.
+*** 权利
+The new charter establishes the rights and duties of citizens.
+** 短语
+*** are going right
+进展顺利
+
+I can't think of anything in my life that't going right.
+*** in the right
+有理的
+
+He was't entirely in the right.
+*** Mr Right
+真命王子
+
+She confesses to having trouble finding Mr Right.
+* play
+就是玩
+** 语义
+*** 玩
+They played in the little garden.
+*** 参加
+I used to play basketball.
+*** 比赛
+I've played against him a few times.
+*** 踢
+Think first before playing the ball.
+*** 开玩笑
+I thought: "This cannot be happening, somebody must be palying a joke".
+*** 剧本
+His ambition is to play the part of Dracula.
+*** 假装
+Hill tried to play the peacemaker.
+*** 对待
+Investors are playing it cautious, and they're playing it smart.
+*** 演奏
+Nina had been playing the piano.
+*** 播放
+He played her records too loudly.
+*** 表演
+A band was playing.
+** 短语
+*** what is playing at
+What the hell are you playing at?
+*** bring into play
+Breathing brings many muscles into play.
+*** play out
+It's not clear how his fate will play out.
+*** play down
+https://youglish.com/getbyid/34020161/play%20down/english
+
+The White House spokewoman sought to play down the significance of the event.
+
+* class
+班级里有课程，还有阶级？
+** 语义
+*** 班级
+Reducing class sizes should be a top priority.
+*** 课程
+He acquired a law degree by taking classes at night.
+*** 课堂
+There is lots of reading in class.
+
+I missed Bible class last week.
+*** 阶级
+What is will do is create a whole new ruling class.
+*** 把。。。归类
+I class myself of an ordinary working person.
+*** 风度
+He got the same style off the pitch as he has on it -- sheer class.
+*** 一流的
+Kite is undoubtedly a class player.
+** 短语
+*** in a class of(like messi?)
+As a player, he was in a class of his own.
+* context
+背景与上下文
+** 语义
+*** 背景
+We are doing this work in the context of reforms in the economic, social and cultural spheres.
+*** 上下文
+Without a context, I would have assumed it was written by a man.
+** 短语
+*** in context
+It is important that we put Jesus into the context of history.
+*** out of context
+Thomas says that he has been taken out of context on the issue.
+* some time解析
+** sometime
+Why don't you come and see me sometime?
+** some time
+Andy and tom talked for some time.
+** sometimes
+During the summer, my skin sometimes gets grasy.
+** some times
+I looked for you some times.
+** 助记
+分开一段时间，相聚在某个时刻，合并s是有时，分开s是几次
+* say
+来说说, 人说物说比方说
+** 语义
+*** 说
+I hope you did't say anything about Gretchen.
+*** 宣称
+The report says there is widespread and routine torture of political prisoners in the country.
+*** 自己想
+Phrhaps I'm still dreaming. I said to myself.
+*** 发言权
+You can get married at sixteen, and yet you have't got a say in the running of the country.
+*** 显示
+The clock said four minutes past eleven.
+*** 表明
+The appearance of the place and the building says something about the importance of the project.
+*** 假定
+Say you could change anything about the world we live in, what would it be?
+*** 比方说
+Someone with, say, between 300 and 500 acres could be losing thousands of pounds a year.
+** 短语
+*** goes without saying
+It goes without saying that if someone has lung problems they should not smoke.
+*** to say nothing of
+Unemployment leads to a sence of useless, to say nothing of financial problems.
+* thought
+** 语义
+*** 想法
+The thought of Nick made her throat tighten.
+*** 沉思
+He had given some thought to what she had told him.
+*** 希望/意图
+Morris has now banished all thoughts of retirement.
+*** 关心/帮助
+'He has given them this seven hundred pounds.'- 'What a lovely thought.'
+*** 观念体系
+This school of thought argues that depression is best treated by drugs.
+
+** 短语
+
+* account
+请解释一下你的账户
+
+** 语义
+*** 账户
+Some bank make it difficult to open an account.
+
+*** 固定客户
+This agency company has got two Beijing accounts.
+
+*** 账目
+Can you charge this to my account please?
+
+*** 描述
+He gave a detailed account of what happened on fateful night.
+
+*** 解释
+Science, on Weber's account, is an essentially value-free activity.
+
+*** 认为
+The opening day of the battle was, nervertheless, accounted a success.
+
+** 短语
+
+*** by all account
+He is, by all account, a superb teacher.
+
+*** give a good account of
+The team fought hard and gave a good account of themselves.
+
+*** of no account/of little account
+These obscure groups were of little account in national politics.
+
+*** on account
+He bought two bottles of vodka on account.
+
+*** on account of
+The president declined to deliver the speech himself, on account of sore throat.
+
+*** on someone account
+Tony told me what she's done and i was really scared on her account.
+
+*** take into account
+Analysis of slowing car sales should take into account the strong seasonality & cyclical factor.
+* size
+非常大的尺寸
+
+** 语义
+
+*** 尺寸
+He's a small boy, about John's size.
+
+*** 非常大
+I can't believe the size of her car!
+
+*** 尺码
+The shirts come in three sizes: small, medium, and large.
+
+*** 按大小分类
+Shrimp are sized and selected for canning.
+
+** 短语
+
+*** size up
+Some US manufacturers have been sizing up the UK as a possible market for their clothes.
+
+*** is cut down to size
+The once-powerful post unions have been cut down to size.
+
+*** for size
+She was trying on an $8000 jacket for size.
+
+* array
+大量的数组
+
+** 大量
+There was a vast arry of colours to choose from.
+
+** 整齐排列
+We visited the local markets and saw wonderful arrays of fruit and vegetables.
+
+** 数组
+The image is then stored on the computer hard disk as a vast arry of black and white dots.
+
+** 布置
+Make-up arrayed on the bashroom counter.
+
+* order
+一种有顺序的订单
+
+** 语义
+
+*** 顺序
+Make sure that you put the books back in the right order.
+
+*** 指令
+The captain had to give the order to abandon ship.
+
+*** 秩序
+The riots are a threat to public order.
+
+*** 点菜
+The waiter took our orders.
+
+*** 订单
+Goods will be sent within 24 hours of receving you order.
+
+*** 命令
+The court ordered his release from prison.
+
+** 短语
+
+*** in order to do something
+Samnel trained every day in order to improve his performance.
+
+*** in order for
+Sunight is needed in order for the process of photosynthesis to take place in plants.
+
+*** be out of order
+The phone is out of order again.
+
+*** be in order
+Everything is in order.
+
+*** the order of things
+People accepted the class system as part of the natural order of things.
+
+* clear
+清理的很干净
+
+** 语义
+*** 清楚的
+The question wasn't very clear.
+
+*** 明显的
+They won by a clear majority.
+
+*** 确信的
+Are you all clear now about what you have to do?
+
+*** 清晰的
+He felt that her thinking was clearer now.
+
+*** 透明的
+It's a clear glass bottles.
+
+*** 晴朗的
+The skies were clear and blue.
+
+*** 听的清的
+The radio reception isn't very clear.
+
+*** 净得
+Sam make a clear $90000 per year.
+
+*** 有空的
+Next Monday is clear, how about ten o'clock?
+
+*** 整段的
+Allow three clear days for delivery.
+
+*** 畅通的
+The roads were fairly clear this morning.
+
+*** 清理
+Snowplows have been out clearing the roads.
+
+*** 被指无罪的
+Rawlings was cleared after new evidence was produced.
+
+*** 批准
+He was cleared by doctors to resume skating in August.
+
+*** 变清澈
+Wait for the water to clear before adding any fish.
+
+*** 越过
+The plane cleared Chinese airspace.
+
+*** 远离
+Please stand clear of the doors.
+
+** 短语
+
+*** a clear conscience
+I don't think I could vote for him with a clear conscience.
+
+*** clear view
+From the top floor you get a clear view of the bay.
+
+*** say your way clear
+If you see your way clear, then it can be a hundred million dollars business.
+
+*** be clear of something
+Wait to cross until the street is clear of cars.
+
+*** clear my head
+A good walk might clear my mind.
+
+*** clear the way for something
+This agreement will clear the way for further talks.
+
+*** steer clear
+If you are a beginner, steer clear of resorts with reputations for difficult skiing.
+
+* step
+脚步
+
+** 语义
+
+*** 脚步
+He took one step and fell.
+
+*** 步骤
+This is the first step in reforming the welfare system.
+
+*** 等级
+Each book goes up one step in diffculty.
+
+*** 阶梯
+He climbed the wooden steps and rang the bell.
+
+*** 距离
+Roy was standing only a few steps away.
+
+*** 脚步声
+I heard a step in the corridor.
+
+*** 舞步
+The steps for the Charleston.
+
+*** 跨步
+He stepped back to let me through.
+
+*** 继的
+The problems of stepfamilies.
+** 短语
+
+*** in step with
+He isn't in step with ordinary voters.
+
+*** watch your step
+You'd better watch your step - He's the boss here.
+
+*** fall into step
+Maggie fell into step beside her.
+
+*** be stay one step ahead
+A good teacher is always at least one step ahead of his students.
+
+*** step on someboday's toes
+I'm not worried about stepping on anybody's toes.
+
+* state
+政府的状态
+
+** 语义
+
+*** 状态
+There are fears for the state of the country's economy.
+
+*** 政府
+The state has accocated special funds for the emergency.
+
+*** 国家
+a NATO member state
+
+*** 州
+Queensland is one of the states of Australia.
+
+*** 国事访问
+the Queen's first state visit here in 17 years.
+
+*** 陈述
+Please state your name and address.
+
+*** 写明
+The price of the tickets is states on the back.
+
+** 短语
+
+*** in a terrible state
+When we bought the house, it was in a terrible state
+
+*** in no fit state to do something
+David's in no fit state to drive.
+
+*** in a good state of repair
+The boat was in a good state of repair.
+
+*** the States
+Which part of the States would you suggest I visit?
+
+*** state of affairs
+<<<<<<< HEAD
+I must say this is a very unsatisfactory state of affairs.
+
+* book
+预订一本书
+
+** 语义
+
+*** 书
+I've just started reading a book by Graham Greene.
+
+*** 本子
+A black address book.
+
+*** 账目
+An accountant will examine the company's books.
+
+*** 名册
+A agent with a lot of popular actors on his books.
+
+*** 预订
+The flight was already fully booked.
+
+** 短语
+
+*** by the book
+She feels she has to go by the book and can't use her crativity.
+
+*** a closed book
+Chemistry is a closed book to me.
+
+*** in my book
+In my book, nothing is more important than football.
+
+*** brought somebody to book
+War criminals must be brought to book.
+
+*** be booked up
+The courses quickly get booked up.
+
+* quite
+非常，very->quite->extremely
+** 语义
+*** 非常
+The food in the cafeteria is usually quite good.
+
+*** 很
+The film was quite good, but the book was much better.
+
+*** 完全的
+I'm sorry. That's quit impossible.
+
+*** 同意
+'And if you by the record it's you choice isn't it.' -  'Quite'.
+
+** 短语
+
+*** quite a something
+He's quite a good soccer player.
+
+*** quite a lot
+He's got quite a lot of friends.
+
+*** not quite what
+The play wasn't quite what we expected.
+
+* mean
+想要表达什么意思，有点小气的样子
+
+** 语义
+
+*** 意思是
+The red line means 'Stop'.
+
+*** 意思是说
+It's pretty obvious what she means.
+
+*** 打算
+I've been meaning to ask you if want to come for a meal next week.
+
+*** 意味着
+Don't let him see you, It will only mean trouble.
+
+*** 能理解
+He said his name was 'Randall' but it meant nothing to me.
+
+*** 说到做到
+With children, if you say 'no', you have mean it.
+
+*** 重要
+I know how much your work means to you.
+
+*** 表示
+Finding a lump does not necessarily mean you have cancer.
+
+*** 残酷的
+That was a mean thing to do.
+
+*** 吝啬的
+He's too mean to buy a present for his wife.
+
+*** 平均
+The study involved 60 patients with a mean age 58.2 years.
+
+*** 破旧的
+She walkd briskly through the mean and dirty street.
+
+*** 平均数
+The mean of 7, 9 and 14 is 10.
+
+** 短语
+
+*** what I mean is
+What I mean is, I don't feel alone anymore.
+
+*** mean somebody to do
+I never meant you to find out.
+
+*** mean no harm
+I'm sure he did't mean any harm.
+
+*** mean business
+This decision shows the public that we mean business.
+
+*** be meant to do something
+I thought the police were meant to protect people.
+
+*** be meant for somebody
+The book meant for children.
+
+They were meant for each other.
+
+*** something was meant to happen
+Dan left me after a month so I guess it just wasn't meant to do.
+
+*** be no mean performer
+Kinnock is no mean performer on the rugby field.
+
+*** the mean between something and something
+It's a case of finding the mean between firmness and compassion.
+
+* term
+一个时期，一个术语
+
+** 语义
+
+*** 术语
+'Multimedia' is the term for any technique combining sounds and images.
+
+*** 时期，任期
+The mayor was coming to the end of his term in office.
+
+*** 学期
+The exam are at the end of the summer term.
+
+*** 到期
+The agreement reaches its term next year.
+
+*** 条款
+Under the terms of the agreement, the debt would be repaid over 20 years.
+
+*** 把...称为
+This condition is sometimes termed RSI, or repetive strain injury.
+
+** 短语
+
+*** in terms of
+It's a mistake to think of Florida only *in terms of* its tourist attractions.
+
+*** in no uncertain terms
+Journalist were told *in no uncertain terms* that they were not welcome.
+
+*** in the long term
+*In the long term* , alcohol causes high blood pressure.
+
+*** come to terms with something
+Counselling helped her *come to terms with* her grief.
+
+*** equal terms
+Small business have to compete on *equal terms* with large organisations.
+
+*** be on good terms
+By now, Usha and I *were on familiar terms* .
+
+* act
+:PROPERTIES:
+:ID:       4B6A82F0-D88F-4793-960B-8885C6EE9EA1
+:END:
+行为，也是法令
+** 语义
+:PROPERTIES:
+:ID:       5ACCE50F-B719-485F-91A1-18BBFF3EAA86
+:END:
+*** 行为
+:PROPERTIES:
+:ID:       7D3D8850-2FE8-4E57-9015-B1363FCD95B5
+:END:
+The new president's first act should be to end the war.
+*** 法令
+:PROPERTIES:
+:ID:       CEF740FC-51DC-4617-ABEE-BD70D063255E
+:END:
+the Housing and Community Development Act of 1977.
+*** 装模作样
+:PROPERTIES:
+:ID:       59C67FFD-2198-49EE-BB4E-24AB5F809168
+:END:
+Mike played the loving husband in front of the children but it was all an act.
+*** 戏剧的一幕
+:PROPERTIES:
+:ID:       106E1C1E-656E-41A6-BE7B-9ECD26C468AB
+:END:
+I arrived at the theater late and missed the first act.
+*** 一段表演
+:PROPERTIES:
+:ID:       E8434EB2-EF9A-4B92-BA09-453B5B0D1B98
+:END:
+The argument was just part of their act.
+*** 演出者
+:PROPERTIES:
+:ID:       99518B49-71FD-4577-A15E-174B23312224
+:END:
+The band is one of many acts that have been booked for the concert.
+*** 行动
+:PROPERTIES:
+:ID:       74D1BFF0-58C6-4857-99F3-4598B13F2FA0
+:END:
+The company acted correctly in sacking him.
+*** 表现
+:PROPERTIES:
+:ID:       52E44B8A-3CEA-4B9F-AB69-593AAED8C9F4
+:END:
+He's been acting strangely ever since his mom died.
+*** 假装
+:PROPERTIES:
+:ID:       DFCB8420-F43C-4551-A452-4A154AF07E4D
+:END:
+When he's angry, he acts the fool.
+** 短语
+:PROPERTIES:
+:ID:       758CF8B4-86DF-4655-8184-0740AD67EE10
+:END:
+
+*** act of something
+:PROPERTIES:
+:ID:       A831D037-64EF-43FA-8B7B-4FCF6C56E01B
+:END:
+The *act of* writing a list can help to calm you down.
+
+*** in the act of doing something
+:PROPERTIES:
+:I*D:       ECEC6371-25B*F-431C-ADFF-377A760E5BB5
+:ID:       C4D14F46-5314-4382-A337-03EEEC318DAE
+:END:
+Lindsay paused *in the act of putting* down the phone
+
+*** get your act together
+:PROPERTIES:
+:ID:       9D254454-F20B-46BF-9D7F-17BA2196D698
+:END:
+You need to *get your act together* if you're going to find the right house to buy.
+
+*** a hard act to follow
+:PROPERTIES:
+:ID:       76C16CDA-A9A3-41AF-9F54-0901FAF4A1E9
+:END:
+He has been a very successful captain and will be *a hard act to follow*.
+
+*** act a role
+:PROPERTIES:
+:ID:       CB3E6C0F-1636-434D-A5D6-78B5D8F14B87
+:END:
+She is *acting the role* of Lady Macbeth six evenings a week.
+
+*** act as
+:PROPERTIES:
+:ID:       D1D99854-C084-4FC4-954C-B794263404B9
+:END:
+The padding *acts as* a cushion if the player fails or is hit by the ball.
+
+*** act on
+:PROPERTIES:
+:ID:       34E1EEF2-FC4C-49C8-9F3F-0E9704D60A10
+:END:
+A patient will usually listen to the doctor's advice and *act on* it.
+
+* capital
+首都很有钱
+
+** 语义
+
+*** 首都
+Washington.D.C., the capital of the Unite States.
+
+*** 资金
+The government is eager to attract foreign capital.
+
+*** 中心
+Hollywood is the capital of the movie industry.
+
+*** 大写的
+The name and the address are written in capitals.
+
+*** 情节严重的
+Espionage is a capital offence in this country.
+
+** 短语
+
+*** is making capital out of
+He rebuked the President for trying to make political capital out of the hostage situation.
+
+*** capital punishment
+https://youglish.com/getbyid/17265977/capital%20punishment/english
+
+* range
+一系列的界限
+
+** 语义
+
+*** 一系列
+The drug is effective against a range of bacteria.
+
+*** 范围
+Your blood pressure's well within the normal range.
+
+*** 系列产品
+The watches in this range are priced at $24.5.
+
+*** 射程
+We waited until the enemy was within range.
+
+*** 音域
+He vocal range is amazing.
+
+*** 山脉
+A land of high mountain ranges and deep valleys.
+
+*** 射击场
+The police shooting range.
+
+*** 能力范围
+An actor of extraordinary range and intensity.
+
+*** 包含
+The show has a massive audience, ranging from children to grandparents.
+
+*** 闲逛
+Cattle ranged over the pastures in search of food.
+
+*** 排列
+In the dining room, team photographs were ranged along the wall.
+** 短语
+*** range from something to something
+There were 120 students whose ages ranged from 10 to 18.
+
+*** range yourself against somebody
+Individuals who had ranged themselves against the authorities.
+
+*** range over
+The conversation had ranged over a variety of topics, from sport to current affairs.
+
+*** at close range
+He was shot in the head at close range.
+
+* result
+
+** 语义
+
+*** 后果
+Accidents are the inevitable result of driving too fast.
+
+*** 比赛成绩
+The results will be announced at midnight.
+
+*** 研究结果
+Results suggest that diet is very important.
+
+*** 考试成绩
+When do we got our exam results?
+
+*** 成效
+He certainly knows how to get results.
+
+*** 业绩
+Google has announced disappointing results for the first half of the year.
+
+*** 造成
+How would you cope with unemployment and the resulting loss of income?
+
+** 短语
+
+*** As a result of
+*As a result of* the pilots strike, all fights have had to be cancelled.
+
+* heart
+我的心
+** 语义
+*** 心脏
+Can you hear my heart beating?
+*** 内心
+His heart was full of anger and grief.
+*** 心口
+He put his hand on his heart.
+*** 信心
+This inspring service gave us new heart.
+*** 红桃
+Have you got any hearts?
+** 短语
+*** from the heart
+Tony spoken from the heart.
+*** in your heart
+Deep in his heart, he wanted Laura back.
+*** the heart of something
+We must got the heart of the problem.
+*** at heart
+Let's face it, we're all romantics at heart.
+*** in the heart
+A house in the heart of London.
+*** dear to somebody heart
+Money is dear to Kathleen's heart.
+*** by heart
+Actors have to learn their lines by heart.
+*** with all you heart
+We sang he hymn with all our hearts.
+*** somebody's heart goes out to somebody
+My heart goes out to the families of the victims.
+*** do something to your heart's content
+The dog can run to its heart's content out there.
+*** set your heart on something
+She had set her heart on becoming a hairdresser.
+*** be in good heart
+The team are in good heart and ready for season's matches.
+* look
+看
+** 语义
+*** 看
+If you look carefully you can see that the painting represents a human figure.
+*** 寻找
+I looked everywhere but Jimmy was nowhere to be found.
+*** 看起来
+From the way things look at the moment, the Republicans are unlikely to win this election.
+*** 看上去
+How do I look?
+*** 面向
+The cabin looks east, so we get the morning sum.
+*** 打算
+We are looking to buy a new car early next year.
+*** 当心
+Look! There's a fox!
+*** 眼色
+Mike gave his such a severe look he didn't dare argue.
+*** 考虑
+Have you had a chance to take a look at my proposal yet?
+*** 寻找
+I can't find them anywhere. Have a look yourself.
+*** 外观
+The area has a very seedy look to it.
+*** 美貌
+You get your good looks from your mother.
+*** 风格
+The hippy look is back again.
+
+** 短语
+
+*** look at
+The man all turned to look at her as she entered the room.
+
+*** look for
+Could you help me look for my contact lens.
+
+*** it look as if
+It look as if it might rain later.
+
+*** look somebody in the eye
+Owen didn't dare look his father in the eye.
+
+*** look down you nose at somebody
+He looks down his nose at anyone foreign.
+
+*** look the other way
+Prison guards looked the other way as the man was attacked by fellow prisoners.
+
+* single
+单身一个？
+
+** 语义
+
+*** 单一的
+A single tree gave shade from the sun.
+
+*** 单身的
+The change in tax rates will benefit single people the most.
+
+*** 单间
+You have to pay extra for a single room.
+
+*** 单曲唱片
+Have you heard their latest single?
+
+*** 单打比赛
+I prefer palying singles.
+
+*** 单身者
+The show is especially popular among young singles.
+
+*** 单程票
+A single to Oxford, please.
+
+*** 一美元
+Anyone have five singles?
+
+*** 单人房间
+I'm afraid we have't got any singles available.
+
+*** 挑出
+I don't see why he should be singled out for special treatment.
+** 短语
+*** every single
+He works *every single* day.
+
+*** not a single
+The plane was bought down safety and *not a single* passenger was killed.
+
+*** the single biggest
+Tourism is *the* courty's *single biggest* earner.
+
+* ask
+问什么？
+** 语义
+*** 询问
+The kid's always asking awkward questions.
+
+*** 请求
+If you need anything, you only to have ask.
+
+*** 索要价格
+How much is he asking?
+
+*** 邀请
+Let's ask them to have dinner with us some time.
+
+*** 要求
+You have no right to ask anything to me.
+
+** 短语
+
+*** ask around
+I'll *ask around*, see if I can find you a place to stay.
+
+*** ask somebody for something
+He repeatedly asked Bailey for the report.
+
+*** be asking for trouble
+Saying that to a feminist is just *asking for trouble*.
+
+*** ask yourself something
+You have to *ask yourself* where your responsebilities really lie.
+
+*** ask for
+There's someone at the door *asking for* Dad.
+
+*** a big ask
+We need to win the next three games. It's *a big ask*, but I'm confident we can do it.
+
+* great
+好的，棒的. good<great
+** 语义
+*** 很大程度
+The movie was a great success.
+*** 非常好
+The weather here is great.
+*** 伟大的
+What make a novel truly great?
+*** 大量的
+A great crowd had gathered.
+*** 太糟了
+'Denial's cancelled the party.''Oh great!'
+*** 杰出人物
+Jack Nicklaus is one of golf's all-time greats.
+** 短语
+*** to a greater or lesser extent
+https://youglish.com/getbyid/19780019/to%20a%20greater%20or%20lesser%20extent/english
+
+Most companies operate in conditions that are *to a greater or lesser* extent competitive.
+*** the great outdoors
+https://youglish.com/getbyid/31114693/the%20great%20outdoors/english
+
+He had a taste for adventure and *the great outdoors*.
+*** the greater good
+https://youglish.com/getbyid/77869609/the%20greater%20good/english
+
+Some wars are fought for *the greater good*.
+*** the great divide
+https://youglish.com/getbyid/66080455/the%20great%20divide/english
+
+*The great divide* between north and south seems to be as unbridgeable an ever.
+
+* deal
+根据协议改善待遇
+** 语义
+*** 协议
+They made a deal to sell the land to a property developer.
+*** 待遇
+The prime minister promised farmers a new deal.
+*** 纸牌
+It's your deal, Alison.
+*** 松木
+A deal table.
+
+** 短语
+
+*** a great deal
+It took *a great deal* of time and effort.
+
+*** a raw deal
+Women tend to get *a raw deal* from employers.
+
+*** it's a deal
+OK, *it's a deal*.
+
+*** what's the deal?
+So *what's the deal*? Why is he so mad?
+
+*** get a good deal
+He thought he had *got a good deal*.
+
+*** deal a severe blow
+The sanctions have *dealt a severe blow* to the local tourism industry.
+
+*** deal in
+As a scientist, I do not deal in speculation.
+
+*** deal with
+Don't worry, I'll deal with this.
+
+* space
+空间，但也能表示时间
+** 语义
+*** 空间
+How much space is there on each disk?
+
+*** 空位
+There are a supermarket with 700 free parking spaces.
+
+*** 空隙
+There was an empty space where the flowers had been.
+
+*** 太空
+Who was the first American in space?
+
+*** 间隔
+Leave a space after each number.
+
+*** 篇幅
+The story got very little space in the national newspapers.
+
+*** 将...均匀隔开(分隔)
+They used three microphones spaced serval yard apart.
+
+*** 昏昏沉沉
+I completely spaced out during the leture.
+
+** 短语
+
+*** in the space of
+Mandy had four children *in the space of* four years.
+
+https://youglish.com/getbyid/89350391/in%20the%20space%20of/english
+*** staring into space
+He just sat in the dressing-room staring *into space*.
+
+https://youglish.com/getbyid/36794080/staring%20into%20space/english
+*** watch this space
+*Watch this space* for details of our next event.
+
+https://youglish.com/getbyid/77988301/watch%20this%20space/english
+*** waste of space
+Even Sarah treated his as if he were a *waste of space*.
+
+https://youglish.com/getbyid/19940016/waste%20of%20space/english
+* off
+离开
+** 语义
+*** 离开
+He got info his car and drove off.
+*** 不在...上面, 从...离开
+Keep off the grass.
+*** 下(火车)
+I'll got off at the next station.
+*** 停止
+Will someone switch the radion off?
+*** 不上学、休息
+Clare had to stay off school because her mother was ill.
+*** 从某人那里
+My brother once borrowed some money off him.
+*** 减价
+If you buy more than ten, they knock 10% off.
+*** 被取消
+The wedding's off.
+*** 失礼
+She walked out before the end of your lecture, which I thought was a bit off.
+*** 不想要
+Toby's been off his food for a few days.
+*** 不再服用
+The operation was a success, and she's off the morphine.
+*** 杀死
+The guy who did this ought to be offed.
+** 短语
+*** be off for
+The school's fairly well off for books these days.
+
+https://youglish.com/getbyid/155201453/off%20for/english
+*** off and on
+We've been going out together for five years, *off and on*.
+
+https://youglish.com/getbyid/2727677/off%20and%20on/english
+*** go off something
+I used to enjoy tennis, but I've *gone off* it a bit now.
+
+https://youglish.com/getbyid/7152267/go%20off/english
+*** off day
+Brian never usually loses his temper - he must be having an *off day*.
+
+*** off season
+In the off season, there's hardly anyone staying at the hotel.
+
+* present
+目前存在的
+** 语义
+*** 存在的
+Foreign observes were present at the elections.
+The memory of her brothers's death is still present in her mind.
+*** 目前的
+At the present time we have no explanation for this.
+*** 授予
+She was present with an award.
+*** 造成
+Large classes present great problems to many teachers.
+*** 展示自己
+He presents himself well.
+*** 描述
+We'll present the information using a chart.
+*** 陈述
+Our manager is due to present the report at the end of the month.
+*** 出示
+Your must present your passport to the customs officer.
+*** 上演
+Edinburgh Theatre Company presents 'The Wind in the Willows'.
+*** 主持
+Thursday's 'The Late Show' was presents by Cynthia Rose.
+*** 使用具有...的外观
+The restaurant likes to present food with style.
+*** 引见
+I was presented to the Queen in 1964.
+*** 表现出证状
+Three of the five patients presented with fever and severe headcaches.
+*** 礼物
+I'm looking for a present for Mark.
+
+** 短语
+*** the present day
+The pratice has continued from medieval times to *the present day*.
+
+https://youglish.com/getbyid/119816107/the%20present%20day/english
+*** present company excepted
+Women are never statisfied with anything! Present company excepted, of course.
+
+https://youglish.com/getbyid/66080397/Present%20company%20excepted/english
+*** something present itself
+I'll tell her as soon as the opportunity present itself.
+
+https://youglish.com/getbyid/152978353/opportunity%20present%20itself/english
+*** present your apologies
+Mrs. Gottlieb *presents her apologies* and regrets she will not be able to attend.
+
+https://youglish.com/getbyid/115683910/present%20apologies/english
+*** at present
+The item you want is not available *at present*.
+
+https://youglish.com/getbyid/76379729/at%20present/english
+*** for the present
+The company is still in business, at least *for the present*.
+
+https://youglish.com/getbyid/29577879/for%20the%20present/english
+*** there is no time like the present
+Don't wait until New Year to resolve to origanise your life, *There's no time like the present*.
+
+https://youglish.com/getbyid/103217505/there%20is%20no%20time%20like%20the%20present/english
+
+* host
+主人主持会议
+
+** 语义
+
+*** 主人
+Our host greeted us at the door.
+
+*** 节目主持人
+A game show host.
+
+*** 主办
+Which country is going to host next World Cup?
+
+*** 主持
+Next week's show will be hosted by Sarah Cox.
+** 短语
+*** play host to something
+The gallery is playing host to an exhibition of sculpture.
+
+https://youglish.com/getbyid/31244631/play%20host%20to/english
+*** a host of people
+A host of show business celebrities have pledged their support.
+
+https://youglish.com/getbyid/136651182/A%20host%20of/english
+
+* can
+我能做成罐头
+** 语义
+*** 能
+Even a small personal computer can store vast amounts of information.
+*** 可以...吗?
+Can I have a drink, please?
+*** 可以
+You can't park here - It's a no parking zone.
+*** 会
+I am confident a solution can be found.
+*** 有时可能会
+It can be quite cold here at night.
+*** 必须
+If you won't keep quiet, you can get out.
+*** 金属罐
+All we've got is a couple of cans of soup.
+*** 装罐
+The fish is canned in this factory.
+
+** 短语
+
+*** can of worms
+I just don't know what to do - every solution I can think of would just open up a whole new *can of worms*.
+
+https://youglish.com/getbyid/23071025/can%20of%20worms/english
+*** in the can
+All went well, the film was *in the can*.
+
+*** can it
+"*Can it*!" I growled
+
+* quality
+质量
+** 语义
+*** 质量
+Much of the land was of poor quality.
+
+Everyone can greatly improve the quality of life.
+*** 素质
+He shows strong leadership qualities.
+*** 品性
+The qualities of honesty and indepedence.
+*** 特征
+The drug's addictive quality.
+*** 优质
+His pride in the quality of his craftsmanship.
+*** 优质的
+He's a quality player.
+** 短语
+* issue
+问题
+** 语义
+*** 问题
+We should raise the issue of discrimination with the council.
+*** 期(杂志)
+The growing problem is underlined in the latest issue of the Lancet.
+*** 分配
+The issue of identity cards to all non-residents.
+*** 新发行的一套(邮票，股票)
+We launched the share issue on March 1.
+*** 发表
+Silva issued a statement denying all knowledge of the affair.
+*** 分发
+The US State Department issues millions of passports each year.
+** 短语
+*** take issue with somebody
+It is difficult to take issue with his analysis.
+
+https://youglish.com/getbyid/76222944/take%20issue%20with/english
+*** make an issue of something
+I was upset by Alla's remarks, but didn't make an issue of it.
+
+https://youglish.com/getbyid/79850870/make%20an%20issue%20of/english
+*** at issue
+At issue here is the extent to which exam results reflect a student's ability.
+
+https://youglish.com/getbyid/33077050/at%20issue/english
+*** issue from
+A tiny voice issued from a speaker.
+
+https://youglish.com/getbyid/15482739/issue%20from/english
+*** has issue
+I think once you do have issues with food you're going to have them for the rest of your life.
+
+https://youglish.com/getbyid/77760548/has%20issue/english
+* current
+当前的水流
+** 来源
+running, flowing
+** 语义
+*** 当前的
+In its current state, the car is worth $10000.
+*** 流行的
+The custom was still current in the late 1960s.
+*** 水流
+Strong currents can be very dangerous for swimmers.
+*** 气流
+Some birds use warm air currents to help them fly.
+*** 潮流
+The committee reflects the different political currents within the organization.
+
+** 短语
+
+* yet
+还没学明白这个词，用于强调
+
+** 语义
+
+*** 还没
+I haven't asked him yet!
+
+*** 现在就
+You can't give up yet!
+
+*** 更，又
+He got a call from the factory, telling of yet more problems.
+
+*** 但是
+She does not speak our language and yet she seems to understand what we say.
+** 短语
+*** the biggest something yet
+This could turn out to be our biggest mistake yet.
+
+https://youglish.com/getbyid/102958589/biggest%20yet/english
+*** as yet
+We've had no luck as yet.
+
+https://youglish.com/getbyid/127236512/as%20yet/english
+*** months yet
+It could be months yet before they know thier fate.
+
+https://youglish.com/getbyid/67645183/months%20yet/english
+*** could yet do something
+This plan could yet succeed.
+
+https://youglish.com/getbyid/76095074/could%20yet/english
+*** somebody has yet to do something
+The bank has yet to response to our latter.
+
+https://youglish.com/getbyid/162368961/has%20yet%20to/english
+
+* keep
+请继续保持
+** 语义
+*** 保持
+We huddled around the fire to keep warm.
+*** 继续
+I keep thinking about Joe, all alone in that place.
+
+I keep telling you, but you won't listen!
+*** 保留
+You can keep it. I don't need it anymore.
+*** 存放
+Where do you keep your teabags?
+*** 关押
+He was kept in prison for a week without charge.
+
+https://youglish.com/getbyid/21342765/kept%20in%20prison/english
+*** 耽搁
+He should be here by now. What's keeping him?
+*** 保鲜
+Eat the salmon because it won't keep till tomorrow.
+*** 饲养
+We keep chickens and a couple of pigs.
+*** 供养
+He did not earn enough to keep a wife and children.
+*** 保护
+The Lord bless you and keep you.
+** 短语
+*** keep off
+I managed to stick to the diet and keep off sweet foods.
+
+https://youglish.com/getbyid/21538591/keep%20off/english
+*** keep your word
+How do I know you'll keep your word?
+
+https://youglish.com/getbyid/10634654/keep%20your%20word/english
+*** keep going
+That woman's been through such a lot - I don't know how she keeps going.
+
+https://youglish.com/getbyid/15181103/keep%20going/english
+*** keep it up
+You're doing a great job! Keep it up!
+
+https://youglish.com/getbyid/15178193/keep%20it%20up/english
+*** keep somebody keepping
+Sorry to keep you waiting - I got stuck in a meeting.
+
+*** earn your keep
+It's time you got a job and started earning your keep.
+
+https://youglish.com/getbyid/77381842/earn%20your%20keep/english
+
+*** for keeps
+Marriage ought to be for keeps
+
+https://youglish.com/getbyid/15290/for%20keeps/english
+*** keeping something from someone
+She knew that Gabriel was keeping something from her.
+
+https://youglish.com/getbyid/19540386/keeping%20something%20from/english
+*** keep at it
+It may take a number of attempts, but it is worth keeping at it.
+
+https://youglish.com/getbyid/6768602/keep%20at%20it/english
+
+*** in keeping with
+His office was in keeping with his station and experience.
+
+https://youglish.com/getbyid/30085626/in%20keeping%20with/english
+
+*** keep yourself to yourself
+He was a quiet man who kept himself to himself.
+
+https://youglish.com/getbyid/157384317/kept%20himself%20to%20himself/english
+
+* even
+即使甚至要拉平
+
+** 语义
+
+*** 甚至
+Most companies have suffered a drop in their profits, even very large companies.
+
+*** 平的
+The floor must be completely even before we lay the tiles.
+
+*** 平稳的
+The room is kept at an even temperature.
+
+*** 平分的
+Divide the dough into three even amounts.
+
+*** 偶数的
+2, 4, 6 and 8 are even numbers.
+
+*** 水平相当的
+The first half was very even, and neither side scored.
+
+*** 平局的
+At the end of the first half the sorce is even.
+
+*** 平和的
+He read most of the speech in an even tone.
+** 短语
+*** even worse
+The news was even worse than we expected.
+*** even so
+I know he's only a child, but even so he should have known that he was doing was wrong.
+*** even if
+She's going to have problems finding a job even if she gets her A levels.
+*** even though
+Even though he's 24 now, he's still like a little child.
+*** even now
+Even now I find it hard to believe that he lied.
+*** even as
+He realized, even as he spoke, that no one would ever believe him.
+*** be even
+If your give me $5, we'll be even.
+*** at even chance
+I think we have *an even chance* of winning.
+*** get even with somebody
+I'll *get even with* his one day.
+*** break even
+We're hoping that we'll at least *break even*, and perhaps makes small profit.
+*** even out
+The differences in their income should *even out* over time.
+* once
+一旦曾经发生一次
+** 语义
+*** 一次
+I've only met her once.
+*** 曾经
+Sonya and lda had once been close friends.
+*** 一旦
+Once I get him a job, he'll be fine.
+** 短语
+*** once a week
+Staff meetings take place once a week.
+*** at once
+Now, go upstairs at once and clean your room!
+
+I can't do two thing at once!
+*** once more
+I looked at myself in the mirror once more.
+*** once again
+Once again, it must be stressed that the pilot was not to blame.
+*** all at once(1)
+All at once there was a loud banging on the door.
+*** all at once(2)
+A lot of practical details needed to be attended to all at once.
+*** once in a while
+I do get a little anxious once in a while.
+*** never once
+I never once saw him get angry or upset.
+*** for once
+Just for once, let me make my own decision.
+*** once and for all
+Let's settle this matter once and for all.
+*** once or twise
+I wrote to him once or twise, but he didn't anwser.
+*** this once
+I'll make an exception this once.
+*** once upon a time
+Once upon a time you used to be able to leave your front door unlocked.
+*** once in a blue moon
+It only happens like this once in a blue moon.
+*** do something once too often
+He tried that trick once too often and in the end they caught him.
+*** once a ..., always a ..
+Once a thief, always a thief.
+* raise
+举起养育再加薪
+** 语义
+*** 举起
+Can you raise the lamp so I can see?
+*** 增加
+Many shops have raised their prices.
+*** 筹集
+The Trust hopes to raise $1 million to buy land.
+*** 提高
+Changing the law cannot raise standards.
+*** 提起
+He did not raise the suject again.
+*** 引起
+This attack raises fears of increased violence against foreigners.
+*** 抬起
+Albert raised he eyes and stared at Ruth.
+*** 养育
+Stan's dad died, leaving his mother to raise three sons alone.
+*** 饲养
+He raised cattle in Nebraska when he was young.
+*** 召集
+The =rebels= quickly raised an army.
+*** 多下注
+I'll raise you $100.
+*** 与...通话
+They finally managed to raise him at Miller's sheep farm.
+*** 叫醒
+Try as he might he could not raise her.
+*** 使复活
+Jesus raised Lazarus from the grave.
+*** 自乘
+2 raised to the power 3 is 8.
+*** 加薪
+Within two months Kelly got a raise.
+** 短语
+*** raise yourelf
+He raised himself up on one elbow to watch.
+
+https://youglish.com/getbyid/102471947/raise%20herself/english
+*** [#C] raise a smile
+I could't raise a smile.
+*** [#C] raise your eyebrows
+Blanche raised her =eyebrows= in surprise.
+*** raise your voice
+He's never raised his voice to me.
+*** raise your glass
+Ladies and gentlemen, will you raise your glasses to the bride and groom.
+*** raise its head
+Another problem then raised its ugly head.
+
+https://youglish.com/getbyid/78364205/raise%20its%20head/english
+*** raise the bar
+He has raised the bar for other filmmakers.
+
+https://youglish.com/getbyid/77876524/raise%20the%20bar/english
+*** raise hell
+I'll raise hell with whoever is responseible for this mess.
+
+https://youglish.com/getbyid/24116630/raise%20hell/english
+* rush
+急速行进还非常忙
+** 语义
+*** 急速行进
+A small girl rushed past her.
+*** 仓促行事
+He does not intend to rush his decision.
+*** 急送
+The Red Cross rushed medical supplies to the war zone.
+*** 催促
+I'm sorry to rush you, but we need a decision by Friday.
+*** 快速流动
+Water rushed through the *gorge*.
+*** 突然袭击
+They rushed the guard and stole his keys.
+*** 冲
+She felt a cold rush of air as she wound down her window.
+*** 匆忙
+I knew there would be a last-minute rush to meet the deadline.
+
+Don't worry, there's no rush. We don't have to be at the station until 10.
+*** 特别忙碌的时期
+The shop's opening coincided with Christmas rush.
+*** 亢奋
+The feeling of power gave me such a rush.
+*** 高峰
+I got caught in the morning rush hour.
+** 短语
+*** rush to do something
+I rushed to pack my suitcase before he came back.
+
+https://youglish.com/getbyid/89298137/rush%20to/english
+*** rush into
+I'm not rusing into marriage agian.
+
+https://youglish.com/getbyid/81569982/rush%20into/english
+*** rush through
+She rushed through her script.
+
+https://youglish.com/getbyid/28362006/rush%20through/english
+*** rush things
+When we first met, neither of us wanted to rush things.
+
+https://youglish.com/getbyid/145333658/rush%20things/english
+*** blood rushes to somebody's face
+I felt the blood rush to my face as I heard my name.
+
+https://youglish.com/getbyid/122221271/blood%20rushes%20to/english
+*** rush around
+Get things ready early so that you don't have to rush around at the last minute.
+
+https://youglish.com/getbyid/24909831/rush%20around/english
+*** rush out
+The new edition was rushed out just before Christmas.
+
+https://youglish.com/getbyid/5417555/rush%20out/english
+*** in a rush
+He words came out in a rush.
+
+https://youglish.com/getbyid/32046773/in%20a%20rush/english
+*** be in a rush
+I'm sorry, I can't talk now - I'm in a rush.
+
+https://youglish.com/getbyid/66474461/in%20a%20rush/english
+*** rush on
+There's always a rush on swimsuits in the hot weather.
+
+https://youglish.com/getbyid/3301795/rush%20on/english
+*** rush of excitement
+I felt a rush of excitement when she arrived.
+
+https://youglish.com/getbyid/45645150/rush%20of%20excitement/english
+*** [#C] rushed off your feet
+We used to be rushed off our feet at lunchtimes.
+
+https://youglish.com/getbyid/133610586/rushed%20off%20your%20feet/english
+* remain
+继续停留处理残骸
+** 语义
+*** 继续
+Please remain seated until all the lights are on.
+*** 停留
+She was too ill to remain at home.
+*** 剩下
+Little of the original building remains.
+*** 尚待处理
+Several points remain to be settled.
+*** 残骸
+The unrecognizable remains of a man had been found.
+*** 遗迹
+There are Roman remains all around us.
+** 短语
+*** it remains to be seen
+It remains to be seen whether the operation was successful.
+
+https://youglish.com/getbyid/106823506/remains%20to%20be%20seen/english
+* can
+能装到罐里
+** 语义
+*** 能
+Even a small personal computer can store vast amounts of information.
+*** 能...吗？
+Can I have a drink, please?
+*** 可以
+A police officer can insist on seeing a driver's license.
+*** 有可能
+I am confident a solution can be found.
+*** 怎么可以...
+You can't be serious.
+*** 有时可能会
+It can be quite cold here at night.
+*** 必须
+If you won't keep quiet, you can get out.
+*** 金属罐
+All we're got is a couple of cans of soup.
+** 短语
+*** [#A] no can do
+Sorry, John, no can do.
+
+https://youglish.com/getbyid/7265435/no%20can%20do/english
+*** can of worms
+I just don't know what to do - every solution I can think of would just open up a whole new can of worms.
+
+https://youglish.com/getbyid/65825609/can%20of%20worms/english
+*** [#A] in the can
+Having two sequels in the can before the first film even opens is risky, though.
+
+https://youglish.com/getbyid/1785895/in%20the%20can/english
+*** can it!
+"Can it!" I growled.
+
+https://youglish.com/getbyid/110299629/can%20it%20!/english
+* ever
+:PROPERTIES:
+:EXPORT_FILE_NAME: ever.md
+:END:
+在任何时候总是
+** 语义
+*** 在任何时候
+Nothing ever seems to upset him.
+*** 总是
+Ever optimistic, I decided to take the exam again.
+*** 可曾
+Have you ever seen anything like it?
+** 短语
+*** hardly ever
+We hardly ever go out.
+
+https://youglish.com/getbyid/32186648/hardly%20ever/english
+*** [#A] never ever
+You never ever offer to help!
+
+https://youglish.com/getbyid/19695658/never%20ever/english
+*** [#A] for ever
+Nothing lasts for ever.
+
+https://youglish.com/getbyid/65946960/for%20ever/english
+*** as ever
+As ever, Joe was late.
+
+https://youglish.com/getbyid/87614760/as%20ever/english
+*** ever since
+My back has been bad ever since I fell and hurt it two years ago.
+
+https://youglish.com/getbyid/19630030/ever%20since/english
+*** ever after
+I suppose they'll get married and live happily ever after.
+
+https://youglish.com/getbyid/68731378/ever%20after/english
+*** better than ever
+Last night's show was better than ever.
+
+https://youglish.com/getbyid/15180877/better%20than%20ever/english
+*** as bad as ever
+The food was as bad as ever!
+
+https://youglish.com/getbyid/154337110/as%20bad%20as%20ever/english
+*** ever such a
+She's ever such a nice girl.
+
+https://youglish.com/getbyid/89304987/ever%20such%20a/english
+*** ever-increasing
+the ever-increasing problem of drugs in the inner cities.
+
+https://youglish.com/getbyid/109871940/ever%20increasing/english
+*** if ever there was one
+He's a natural comedian if ever there was one.
+
+https://youglish.com/getbyid/157351273/if%20ever%20there%20was%20one/english
+* back
+后退就可以回到原处了
+** 语义
+*** 原处
+I'll be back in minute.
+*** 恢复原状
+It took me a long time to get my confidence back.
+*** 回到以前的地方
+She was the one who had fired him from his first job back in South Africa.
+*** 在后面
+He glanced back at the house.
+*** 回应
+Can I call you back later?
+*** 归还
+I want all my books back as soon as you've finished with them.
+*** 从前
+A lot of emotional problems can be traced back to childhood.
+*** 再次
+Go back over you work to check for any mistakes.
+*** 离开
+Her hair was brushed back from her face.
+*** 往回
+Turn back to the summaries at the end of section 1.5.
+*** 后背
+My feet were sore and my back was aching.
+*** 脊柱
+He broke his back in a motorbike accident.
+*** 后面
+a T-shirt with a picture of a snake on the back.
+*** 背面
+Paul scribbled his address on the back of an envelope.
+*** 末尾
+The sports pages are usually at the back.
+*** 支持
+The scheme has been backed by several major companies in the region.
+*** 向后移动
+I backed the car into the garage.
+*** 伴奏
+They performed all their hits, backed by a 40-piece orchestra.
+*** 后面的
+You'll be sleeping in the back bedroom.
+** 短语
+*** go back to
+There's no way I'm going back to being poor.
+
+https://youglish.com/getbyid/89291036/go%20back%20to/english
+*** back home
+It reminded me of evenings back home.
+
+https://youglish.com/getbyid/7088734/back%20home/english
+*** back in
+The house was built back in 1235.
+
+https://youglish.com/getbyid/8634777/back%20in/english
+*** a while back
+He called me a while back.
+
+https://youglish.com/getbyid/127457229/a%20while%20back/english
+*** sit back
+Sit back, relax, and enjoy the show!
+
+https://youglish.com/getbyid/19695463/sit%20back/english
+*** back and forth
+We travel back and forth all the time between Canada and England.
+
+https://youglish.com/getbyid/15181155/back%20and%20forth/english
+*** in the back
+Two men were sitting in the back of the car.
+
+https://youglish.com/getbyid/7167329/in%20the%20back/english
+*** in back
+Kids should always wear seat belts, even in back.
+
+https://youglish.com/getbyid/81551526/in%20back/english
+*** out back
+Tom's working on the car out back.
+
+https://youglish.com/getbyid/32205889/out%20back/english
+*** [#C] at the back of your mind
+At the back of her mind was the thought that he might be with someone else.
+
+https://youglish.com/getbyid/25728447/at%20the%20back%20of%20your%20mind/english
+*** back to back
+Stand back to back and we'll see who's tallest.
+
+https://youglish.com/getbyid/145404825/back%20to%20back/english
+*** back to front
+You've got your sweater on back to front.
+
+https://youglish.com/getbyid/67276479/back%20to%20front/english
+*** behind somebody's back
+I don't like the idea of the two of them talking about me behind my back.
+
+https://youglish.com/getbyid/77876996/behind%20my%20back/english
+*** [#C] when somebody's back in turned
+What are your kids up to when your back is turned?
+
+https://youglish.com/getbyid/77386046/when%20back%20is%20turned/english
+*** put somebody's backs up
+Simone was the kid of person who was always putting people's backs up.
+
+https://youglish.com/getbyid/155472525/put%20backs%20up/english
+*** get off somebody's back
+Maybe the only way to get him off my back is to tell him the truth.
+
+https://youglish.com/getbyid/20383553/get%20him%20off%20back/english
+*** be on somebody's back
+Why are you and Dad always on my back?
+
+https://youglish.com/getbyid/32214309/on%20my%20back/english
+*** on the back of something
+The company should be able to generate business on the back of existing contracts.
+
+https://youglish.com/getbyid/15802697/on%20the%20back%20of/english
+*** on the backs of somebody
+Economic prosperity was won on the backs of the urban poor.
+
+https://youglish.com/getbyid/4837431/on%20the%20backs%20of/english
+*** the back of beyond
+It's a nice little cottage but it really is in the back of beyond.
+*** put your back into it
+If we really put our backs into it, we could finish today.
+*** at your back
+They had the wind at their backs as they set off.
+* suppose
+应该假定一下
+** 语义
+*** 应该
+We're supposed to check out of the hotel by 11 o'clock.
+*** 被相信
+Mrs Carver is supposed to have a lot of money.
+*** 猜想
+There were many more deaths than was first supposed.
+*** 假定
+The company's plan supposes a steady increase in orders.
+** 短语
+*** do you suppose
+Do you suppose he was telling the truth?
+
+https://youglish.com/getbyid/24919817/do%20you%20suppose/english
+* base
+基地
+** 语义
+*** 以...为基地
+The paper had intended to base itself in London.
+*** 以...为基础
+Their relationship was based upon mutual respect.
+*** 根基
+There is a door at the base of the tower.
+*** 基础
+India has a good scientific research base.
+*** 总部
+He used the house as a base for his printing business.
+*** 基地
+Gunfire was heard at an army base close to the airport.
+*** 支柱
+The company has built up a loyal customer base.
+*** 下流的
+Love has the power to overcome the baser emotions.
+** 短语
+*** be based in something
+The new organization will be based in Dallas.
+
+https://youglish.com/getbyid/162009451/base%20in/english
+*** base for
+Vodka is the base for many cocktails.
+
+https://youglish.com/getbyid/80578926/base%20for/english
+*** be off base
+His estimate for painting the kitchen seems way off base.
+
+https://youglish.com/getbyid/2653896/off%20base/english
+*** touch base
+Being here gave me a chance to touch base with three friends whom I had not seen for a year.
+
+https://youglish.com/getbyid/81105549/touch%20base/english
+*** touch all the bases
+He has mananged to touch all the bases necessary, and trade goes on.
+
+https://youglish.com/getbyid/81202651/touch%20all%20the%20bases/english
+* run
+跑着去竞选
+** 语义
+*** 跑
+She turned and ran away.
+*** 参加
+I'd never run a marathon before.
+*** 举行
+The Derby will be run at 3 o'clock.
+*** 组织
+Many people don't care who runs the country.
+*** 迅速做
+Run and ask your mother where she's put the keys.
+*** 定时行驶
+The buses don't run on Sundays.
+*** 运行
+The software will run on any PC.
+*** 运转
+She got out of the car and left the engine running.
+*** 录音
+She didn't realize the tape was running as she spoke.
+*** 刊登
+The company is running a series of advertisements in national newspapers.
+*** 失控
+Her car ran off the road and into a tree.
+*** 开车送
+Shall I run you home?
+*** 参加竞选
+Salinas is running for a second term as president.
+*** 延伸
+The road runs along a valley.
+*** 向...流动
+Water was running off the roof.
+*** 有效
+The contract runs for a year.
+*** 连续上演
+The play ran for two years.
+*** 发生
+Andy kept things running smoothly while I was away.
+*** 包含
+The story runs that someone offered Lynch a further $500.
+*** 掉色
+The T-shirt ran and made all my other clothes pink.
+*** 跑的时间
+She usually goes for a run before breakfast.
+*** 一连串
+An unbeaten run of 19 games.
+*** 产量
+A limited run of 200 copies.
+*** 连续上演
+His first play had a three-month run in the West End.
+*** 固定行程
+It's only a 55-monute run from London to Brighton.
+*** 棒球一分
+Jones made 32 runs this afternoon.
+*** 竞选
+He is preparing a run for the presidency.
+** 短语
+*** run to do something
+Several people ran to help her when she fell.
+*** run off something
+It run off batteries.
+
+https://youglish.com/getbyid/115077862/run%20off/english
+*** run somebody to something
+Let me run you to the station.
+*** [#C] run a bath
+I could hear her running a bath upstairs.
+
+https://youglish.com/getbyid/83843944/run%20a%20bath/english
+*** run at
+*Inflation* was running at 5%.
+
+https://youglish.com/getbyid/3520933/run%20at/english
+*** run its course
+Recession in the country has run its course and left an aftermath of uncertainly.
+
+https://youglish.com/getbyid/82225834/run%20its%20course/english
+*** run and run
+This is a story that will run and run.
+
+https://youglish.com/getbyid/82225834/run%20its%20course/english
+*** run high
+Feelings have been running high in the town, following the murder of a young girl.
+
+https://youglish.com/getbyid/31927887/run%20high/english
+*** run somebody's life
+Don't try to run my life!
+
+https://youglish.com/getbyid/47847531/run%20my%20life/english
+*** [#C] run for cover
+He was shot in the leg as he ran for cover.
+
+https://youglish.com/getbyid/123888395/run%20for%20cover/english
+*** [#C] run a check on
+Ask your doctor to run a test on your blood sugar levels.
+
+https://youglish.com/getbyid/89303116/run%20a%20check%20on/english
+*** run in the family
+Diabetes appears to run in families.
+
+https://youglish.com/getbyid/19635466/run%20in%20the%20family/english
+*** run a mile
+If someone asked me to marry them, I'd probably run a mile.
+*** [#C] be running scared
+The party are running scared.
+
+https://youglish.com/getbyid/154360875/be%20running%20scared/english
+*** [#C] come running
+He thinks he's only got to look at me and I'll come running.
+
+https://youglish.com/getbyid/2157619/come%20running/english
+*** run your eyes along something
+He ran his eyes along the books on the shelf.
+*** run before you can walk
+A lot of language students want to run before they can walk.
+*** in the long run
+Moving to Spain will be better for you in the long run.
+*** be on the run
+Typical of stress is this feeling of being continuously on the run.
+
+https://youglish.com/getbyid/69395305/on%20the%20run/english
+*** do something on the run
+I always seem to eat on the run these days.
+
+https://youglish.com/getbyid/29043372/on%20the%20run/english
+*** [#A] the run of something
+We had the run of the house for the afternoon.
+
+https://youglish.com/getbyid/17673708/the%20run%20of/english
+*** [#A] a run on something
+There's always a run on roses before Valentine's Day.
+
+https://youglish.com/getbyid/54843580/a%20run%20on/english
+*** give somebody a run for their money
+They've given some of the top teams a run for their money this season.
+
+https://youglish.com/getbyid/104266073/a%20run%20for%20their%20money/english
+*** have a run for your money
+Investors have also had a good run for their money.
+* significant
+重要的还有点意味深长的
+** 语义
+*** 重要的
+His most significant political achievement was the abolition of the death penalty.
+
+https://youglish.com/getbyid/12966192/significant/english
+*** 相当数量的
+A significant number of drivers fail to keep to speed limits.
+
+https://youglish.com/getbyid/4837390/significant/english
+*** 意味深长的
+He gave me a significant look.
+
+https://youglish.com/getbyid/3603452/significant%20look/english
+** 短语
+*** it is significant that
+It is significant that is highly significant for the future of the province.
+
+https://youglish.com/getbyid/82012877/it%20is%20significant%20that/english
+* practical
+实际的
+** 语义
+*** 实践的
+They provide financial and practical help for disabled students.
+*** 有效的
+It doesn't sound like a very practical solution.
+*** 务实的
+She's a very practical person.
+*** 实用的
+Skirts aren't very practical in my kind of work.
+*** 心灵手巧的
+I'm not very practical - I can't even change a light bulb.
+*** 实验课
+It involves 75 percent practical and 25 percent theory.
+** 短语
+*** [#C] for all practical purposed
+The time you spend on it doesn't, for all practical purposes, affect the final result.
+
+https://youglish.com/getbyid/109540131/for%20all%20practical%20purpose/english
+*** practical certainty
+Sampras looks a practical certainty to win Wimbledon this year.
+* house
+房子
+** 语义
+*** 房子
+Why don't you all come over to our house for coffee?
+*** 大厦
+the BBC television studios at Broadcasting House.
+*** 议院
+The president will address both houses of Congress.
+*** 公司
+America's oldest publishing house.
+*** 观众席
+The show has been playing to full houses.
+*** 店酒
+A glass of house red, please.
+*** 名门望族
+the House of Windsor
+*** 让...居住
+The refugees are being housed in temporary accommodation.
+*** 存放
+The collection is currently housed in British Museum.
+*** 组
+He was a prefect and house captain.
+** 短语
+*** the house
+He gets up at six and disturbs the whole house.
+*** in house
+https://youglish.com/getbyid/133697271/in%20house/english
+*** put you house in order
+The chanllenge for American leadership is this: Can we put our economic house in order?
+
+https://youglish.com/getbyid/32046581/put%20house%20in%20order/english
+*** bring the house down
+It's really an amazing dance. It just always brings the house down.
+
+https://youglish.com/getbyid/131780256/bring%20the%20house%20down/english
+*** be on the house
+The owner knew about the engagement and brought them glasses of champagne on the house.
+
+https://youglish.com/getbyid/65719796/be%20on%20the%20house/english
+*** get on like a house on fire
+https://youglish.com/getbyid/43214852/get%20on%20like%20a%20house%20on%20fire/english
+*** set up house
+The two of them set up house in Brighton.
+
+https://youglish.com/getbyid/8962963/set%20up%20house/english
+*** keep house
+His daughter keeps house for him.
+
+https://youglish.com/getbyid/75666390/keep%20house/english
+* address
+地址
+** 语义
+*** 地址
+I can give you the address of a good attorney.
+*** 网址
+They have changed the address of their website.
+*** 演讲
+The new president delivered his inaugural address in Creole.
+*** 寄给
+That letter was addressed to me.
+*** 向...讲话
+She turned to address the man on her left.
+*** 提出
+You will have to address your comments to our Head Office.
+*** 对...发表演说
+He addressed an audience of 10,000 supporters.
+*** 称呼
+The president should be addressed as 'Mr. President'.
+** 短语
+*** address a promblem
+Our products address the needs of real users.
+
+https://youglish.com/getbyid/15894612/address%20the/english
+*** address yourself to something
+Marlowe new addressed himself to the task of searing the room.
+
+https://youglish.com/getbyid/12222175/address%20himself/english
+* against
+反对和你比赛，有可能会碰到
+** 语义
+*** 反对
+Every council member voted against the proposal.
+*** 违背
+They got married against her parents' wishes.
+*** 禁止
+There ought to be a law against it.
+*** 和...比赛
+We'll be competing against the best companies in Europe.
+*** 对...不利
+Your lack of experience could count against you.
+*** 碰
+The car skidded and we could hear the crunch of metal against metal.
+*** 靠着
+There was a ladder propped up against the wall.
+*** 逆
+She dived down and swam out strongly against the current.
+*** 衬托
+It is important to know what colours look good against your skin.
+*** 在...情况下
+The reforms were introduced against a background of social unrest.
+*** 与...相比
+The pound has fallen 10% against the dollar.
+*** 防
+insurance against accident and sickness
+*** 声明...有错
+He has always emphatically denied the allegations against him.
+** 短语
+*** be up against something
+You see, this is what we're up against - the suppliers just aren't reliable.
+
+https://youglish.com/getbyid/89356219/up%20against/english
+*** have something against something
+I don't have anything against babies. I just don't feel very comfortable with them.
+
+https://youglish.com/getbyid/44041993/have%20anything%20against/english
+*** as against
+Over 50% divorced men regretted their divorce, as against 25% of women.
+
+https://youglish.com/getbyid/24790305/as%20against/english
+* function
+功能
+** 语义
+*** 功能
+In your new job you will perform a variety of functions.
+*** 大型聚会
+This room may be hired for weddings and other functions.
+*** 函数;因素
+The degree of drought is largely a function of temperature and drainage.
+*** 起作用
+Flights in and out of Taipei are functioning normally again.
+*** 运转
+The authorities say the prison is now functioning normally.
+** 短语
+
+*** function as
+A library is functioning as a temporary hospital to cope with casualties.
+
+https://youglish.com/getbyid/162441180/function%20as/english
+*** a function of
+Investment is a function of the interest rate.
+
+https://youglish.com/getbyid/105533158/a%20function%20of/english
+* charge
+:PROPERTIES:
+:EXPORT_FILE_NAME: charge.md
+:END:
+被指控攻击的价钱太贵
+** 语义
+*** 价钱
+There is a charge for the use of the swimming pool.
+*** 负责
+He asked to speak to the person in charge.
+*** 由某人照料
+The files were left in your charge.
+*** 指控
+He was found guilty of all six charges against him.
+*** 指责
+Wallace denied charges that he had lied to investigators.
+*** 电量
+Leave the battery on charge all night.
+*** 冲击力
+Cases of child abuse have a strong emotional charge.
+*** 开价
+The hotel charges $125 a night.
+*** 猛冲
+The boys charged noisily into the water.
+*** 进攻
+Then, with a final effort, our men charged the enemy for the last time.
+*** 使充电
+The shaver can be charged up.
+** 短语
+*** in charge of
+Stern put Travis in charge of the research team.
+
+https://youglish.com/getbyid/132686935/in%20charge%20of/english
+*** on a charge
+The following morning, he was arrested on a charge of burglary.
+
+https://youglish.com/getbyid/21626487/on%20a%20charge/english
+*** lead the charge
+It was small businesses that led the charge against health care changes.
+
+https://youglish.com/getbyid/65924968/lead%20the%20charge/english
+*** get a charge out of something
+I got a real charge out of seeing my niece take first steps.
+
+https://youglish.com/getbyid/118419325/get%20a%20charge%20out%20of/english
+*** charge to
+The old servant fulfilled his master's charge to care for the children.
+
+https://youglish.com/getbyid/75087871/charge%20to/english
+*** charge something to somebody's room
+Wilson charged the drinks to his room.
+*** charge with
+Gibbons has been charged with murder.
+
+https://youglish.com/getbyid/15681280/charge%20with/english
+*** charge that
+Demonstrators have charged that the police used excessive force against them.
+
+https://youglish.com/getbyid/4224698/charge%20that/english
+*** charge somebody with
+The commission is charged with investigating war crimes.
+* high
+:PROPERTIES:
+:EXPORT_FILE_NAME: high.md
+:END:
+高，也很高兴的
+#+begin_notes
+不能用来描述人、动物，要使用tall
+#+end_notes
+** 语义
+*** 高
+The camp was surrounded by a high fence.
+*** 高的
+The apartment had spacious rooms with high ceilings.
+*** 超乎寻常的
+Temperatures remained high for the rest of the week.
+*** 先进的
+We can offer all the benefits of the latest high technology.
+*** 高兴的
+I was still high from the *applause*.
+*** 高高地
+He kicked the ball high into the air, over the heads of the crowd.
+*** 高音调地
+A strange cry rang high into the night.
+*** 高的成就
+My parents always encouraged me to aim high.
+*** 最高点
+Hights of 40C were recorded in the region last summer.
+*** 高中的缩略
+Benjamin Franklin High
+** 短语
+
+*** high office
+Both of them held high office in the Anglican Church.
+
+https://youglish.com/getbyid/24927471/high%20office/english
+*** high opinion
+I've always had a high opinion of her work.
+
+https://youglish.com/getbyid/124062062/high%20opinion/english
+*** hold in high esteem
+As an educationalist, he was held in very high esteem.
+
+https://youglish.com/getbyid/4533171/hold%20in%20high%20esteem/english
+*** it is high time
+It's high time you got a job.
+
+https://youglish.com/getbyid/48427461/it%20is%20high%20time/english
+*** high life
+We're all stuck here, while he's off living the high life in New York.
+
+https://youglish.com/getbyid/19799480/high%20life/english
+*** on a high note
+The team finished their tour on a high note in Barbados.
+
+https://youglish.com/getbyid/131057517/on%20a%20high%20note/english
+*** high and mighty
+Don't get high and mighty with me.
+
+https://youglish.com/getbyid/4948367/high%20and%20mighty/english
+*** get on your high horse
+If she'd get down off her high horse for a moment, she might realize there's more than one point of view here.
+
+https://youglish.com/getbyid/61636648/get%20on%20your%20high%20horse/english
+*** high and dry
+The once-thriving port of Rye was left high and dry as sea levels retreated.
+
+https://youglish.com/getbyid/7325651/high%20and%20dry/english
+*** look high and low
+We looked high and low for Sandy but couldn't find her.
+
+https://youglish.com/getbyid/2594088/look%20high%20and%20low/english
+*** be on a high
+They're bound to be on a high after such an incredible victory.
+
+https://youglish.com/getbyid/11096410/be%20on%20a%20high/english
+*** from on high
+An order came from on high.
+
+https://youglish.com/getbyid/15207586/from%20on%20high/english
+*** on high
+Microwave on high for eight minutes.
+
+https://youglish.com/getbyid/148969560/on%20high/english
+* service
+:PROPERTIES:
+:EXPORT_FILE_NAME: service.md
+:END:
+通过公共服务把车送到检修的地方
+** 语义
+*** 公共服务
+Workers in the emergency services are forbidden from striking.
+*** 顾客服务
+A wide range of financial services are available.
+*** 服务
+The service was terrrible and so was the food.
+*** 服务业
+*Mining* rose by 9.1%, manufacturing by 9.4% and services by 4.3%.
+*** 工作
+Brian retired after 25 years of service to the company.
+*** 义务
+Her attacker was sentenced to 120 hours' community service.
+*** 宗教仪式
+The service was held in the *chapel*.
+*** 兵役
+Maybe you should join the service.
+*** 检修
+I'm getting the bus home - my car's in for a service.
+*** 发球
+It's your service.
+*** 服务站
+How far is it to the next services?
+*** 服侍
+If a young woman did not have a *dowry*, she went into demestic service.
+*** 班次
+A bus service operates between Bolton and Salford.
+*** 送达
+the service of a summons
+*** 维修
+I'm having the car serviced next week.
+*** 支持债息
+Almost a quarter of the country's export earnings go to service a foreign debt of $29 billion.
+** 短语
+*** [#A] in service
+There trains have been in service for many years.
+
+https://youglish.com/getbyid/152058638/in%20service/english
+*** out of service
+The escalator is out of service.
+
+https://youglish.com/getbyid/133868920/out%20of%20service/english
+*** [#A] the service
+Her son is in the service.
+
+https://youglish.com/getbyid/102508712/the%20service/english
+*** be of service
+Can I be of any service?
+
+https://youglish.com/getbyid/81196511/be%20of%20service/english
+*** at your service
+My secretary is at your service.
+
+https://youglish.com/getbyid/124277631/at%20your%20service/english
+* line
+:PROPERTIES:
+:EXPORT_FILE_NAME: line.md
+:END:
+各种线
+** 语义
+*** 线
+Draw a straight line across the top of the page.
+*** 边界线
+He was born in a small town just across the state line.
+*** 排
+There was a line of fir trees on either side of the road.
+*** 队
+I looked in despair at the long line in front of the ticket office.
+*** 路线
+Light travels in a straight line.
+*** 皱纹
+There were fine lines around her eyes.
+*** 电话线
+I'm sorry, the line is busy.
+*** 铁道
+We were delayed because of a problem further along the line.
+*** 分界线
+There is a fine line between superstition and religion.
+*** 线条
+She was wearing a loose dress which softened the lines of her body.
+*** 字行
+Scroll down to line 29.
+*** 态度
+I can't agree with the government's line on immigration.
+*** 方式
+It seemed useless to pursue this line of questioning.
+*** 防线
+They finally broke through the German line.
+*** 各级人员
+Decisions are taken by senior officers and fed down through the line of command to the ordinary soldiers.
+*** 绳子
+She hung the clothes out on the washing line.
+*** 种类
+The company has just launched a new line of small, low-priced computers.
+*** 罚抄写
+He got 50 lines for being cheeky to a teacher.
+*** 世系
+She comes from a long line of actors.
+*** 行业
+What line of business is he in?
+*** 运输公司
+He runs a transatlatic shipping line.
+*** 给...加衬里
+Are those curtains lined?
+*** 铺
+The birds use small leaves for lining their nests.
+*** 排成行
+Crowds lined the route to the palace.
+** 短语
+*** on the line
+Henry is on the line from New York.
+
+https://youglish.com/getbyid/6768586/on%20the%20line/english
+*** got on the line to
+I got on the line to the hospital as soon as I heard about the accident.
+*** [#C] chat-up lines
+This was one of his favourite chat-up lines.
+
+https://youglish.com/getbyid/106755609/chat%20up%20lines/english
+*** [#C] take a tough line on something
+The school takes a very tough line on drugs.
+
+https://youglish.com/getbyid/44873992/take%20a%20tough%20line%20on/english
+*** [#C] along these lines
+They're trying to organize a trip to the beach or something along those lines.
+
+https://youglish.com/getbyid/19777545/along%20these%20lines/english
+*** on line
+You can book tickets on line.
+
+https://youglish.com/getbyid/25926372/on%20line/english
+*** [#C] drop somebody a line
+Drop me a line and let me know how you're getting on.
+
+https://youglish.com/getbyid/76922731/drop%20me%20a%20line/english
+*** don't give me that line
+I know for a fact you weren't sick yesterday, so don't give me that line.
+*** [#C] fall into line
+Now that France and Germany have signed up, other countries will soon fall into line.
+
+https://youglish.com/getbyid/80157899/fall%20into%20line/english
+*** in line with
+*Pensions* will be increased in line with *inflation*.
+
+https://youglish.com/getbyid/93751640/in%20line%20with/english
+*** [#C] be out of line
+You just keep quiet! You're way out of line.
+
+https://youglish.com/getbyid/106666265/be%20out%20of%20line/english
+*** [#C] be in line for
+I should be in line for promotion soon.
+
+https://youglish.com/getbyid/76562059/be%20in%20line%20for/english
+*** be on the line
+From now on, all our jobs are on the line.
+
+https://youglish.com/getbyid/6768586/on%20the%20line/english
+*** [#C] be in somebody's line
+Acting's not really in my line, I'm afraid.
+
+https://youglish.com/getbyid/3045930/be%20in%20my%20line/english
+*** [#C] get a line on somebody
+We need to get some kind of a line on these guys.
+
+https://youglish.com/getbyid/35711135/get%20a%20line%20on/english
+*** [#C] somewhere along the line
+Somewhere along the line, Errol seemed to have lost interest in her.
+
+https://youglish.com/getbyid/69446040/somewhere%20along%20the%20line/english
+*** down the line
+There may be more costs further down the line,
+
+https://youglish.com/getbyid/15180986/down%20the%20line/english
+*** line up
+The windows should be lined up with the door frame.
+
+https://youglish.com/getbyid/165681614/line%20up/english
+* live
+:PROPERTIES:
+:EXPORT_FILE_NAME: live.md
+:END:
+活着但住的不好
+** 语义
+*** 住
+They lived in Holland for ten years.
+*** 生长
+These particular birds live on only one island in the Pacific.
+*** 生活
+He lived in the eighteenth century.
+*** 活着
+Whithout light, plants couldn't live.
+*** 过...生活
+The people in this country just want to live in peace.
+*** 靠...为生
+Fishing is the way their families have lived for generations.
+*** 享受生活
+She wanted to get out and live a little.
+*** 放置
+Those big dishes live in the cupboard next to the fridge.
+*** 流传下去
+His name will live forever.
+*** 活的
+Protesters want to stop the export of live shee and cattle.
+*** 现场直播的
+There will be live TV coverge of tonight's big match.
+*** 现场表演的
+A lot of the bars have live music.
+*** 通电的
+Be careful - those wires are live.
+*** 会爆炸的
+They came across a field of live, unexploded mines.
+*** 真的
+Troops fires live ammunition to disperse the crowd.
+*** 当前所关心的
+Drink-driving is still very much a live issue.
+*** 在现场直播
+The match will be shown live by the BBC.
+*** 现场演出
+I love their music, but I've never seen them perform live.
+** 短语
+*** [#C] live rough
+I ran away from home and lived rough for nine months.
+
+https://youglish.com/getbyid/77180792/live%20rough/english
+*** live to
+My grandmother lived to 85.
+
+https://youglish.com/getbyid/129669567/live%20to/english
+*** live by
+I have always tried to live by my faith.
+
+https://youglish.com/getbyid/101051275/live%20by/english
+*** live through
+She lived through her children's lives.
+
+https://youglish.com/getbyid/89326591/live%20through/english
+*** [#C] living quarters
+the White House living quarters
+
+https://youglish.com/getbyid/128779852/living%20quarters/english
+*** [#C] living expenses
+His tuition is paid, but he'll work to cover his living expenses.
+
+https://youglish.com/getbyid/153192140/living%20expenses/english
+*** [#C] living arrangements
+Her mother disapproved of the living arrangements, saying that two girls living with four boys was bound to cause problems.
+
+https://youglish.com/getbyid/69527792/living%20arrangements/english
+*** live it up
+Sam was living it up in London.
+
+https://youglish.com/getbyid/162108560/live%20it%20up/english
+*** [#C] live a lie
+I knew that I could not continue to live a lie.
+
+https://youglish.com/getbyid/4930506/live%20a%20lie/english
+*** be living on borrowed time
+She's been living on borrowed time for the last year.
+
+https://youglish.com/getbyid/75633934/living%20on%20borrowed%20time/english
+*** live and breathe
+Politics is the stuff I live and breathe.
+
+https://youglish.com/getbyid/1497999/live%20and%20breathe/english
+*** you haven't lived
+You haven't lived until you've tasted champagne.
+
+https://youglish.com/getbyid/13370082/you%20haven't%20lived/english
+*** somebody will live to regret it
+If you marry him, you'll live to regret it.
+*** live to fight another day
+Hopfully, the company will live to fight another day.
+
+https://youglish.com/getbyid/99997850/live%20to%20fight%20another%20day/english
+*** live life to the full
+She believes in living life to the full.
+
+https://youglish.com/getbyid/116210325/live%20life%20to%20the%20full/english
+*** live high on the hog
+*** [#C] live from hand to mouth
+We lived from hand to mouth, never knowing where the next meal was coming from.
+
+https://youglish.com/getbyid/2414230/live%20from%20hand%20to%20mouth/english
+*** long live free
+Long live free education!
+
+https://youglish.com/getbyid/19279132/long%20live%20free/english
+*** live coals
+She threw the paper onto the live coals.
+*** go live
+Their new information retrieval system went live last month.
+
+https://youglish.com/getbyid/77610992/go%20live/english
+* see
+:PROPERTIES:
+:EXPORT_FILE_NAME: see.md
+:END:
+看见另一种可能
+** 语义
+*** 看见
+The moment we saw the house, we knew we wanted to buy it.
+*** 看到
+More money must be invested if we are to see an improvement in services.
+*** 看得见
+I can't see a thing without my glasses.
+*** 查看
+I'll call him and see how the job interview went.
+*** 弄清楚
+It will be interesting to see if he makes it into the team.
+*** 参阅
+See press for details.
+*** 明白
+I see what you mean.
+*** 观看
+Did you see that programme on monkeys last night?
+*** 考虑
+Having a child makes you see things differently.
+*** 看望
+I'll be seeing her tomorrow night.
+*** 碰见
+I saw Jane while I was out.
+*** 约见
+Mr Thomas is seeing a client at 2:30.
+*** 与...来往
+They've been seeing a lot of each other.
+*** 想象
+He could see a great future for her in music.
+*** 确保
+Please see that the lights are switched off before you leave.
+*** 经历
+She's seen it all before in her long career.
+*** 历经
+This year has seen a big increase in road accidents.
+*** 陪伴
+My mother used to see me across the road.
+** 短语
+*** see for yourself
+These chocolates are *gorgeous*, Try some and see for yourself.
+
+https://youglish.com/getbyid/81105256/see%20for%20yourself/english
+*** [#C] it can be seen that
+From this graph, it can be seen that some people are more susceptible to the disease.
+
+https://youglish.com/getbyid/162154598/it%20can%20be%20seen%20that/english
+*** [#C] I'll see what I can do
+Leave the papers with me and I'll see what I can do.
+
+https://youglish.com/getbyid/105846719/I'll%20see%20what%20I%20can%20do/english
+*** be seeing someboty
+Is she seeing anyone at the moment?
+
+*** see something for what it is
+They are unimpressed with the scheme and rightly see it for what it is.
+
+https://youglish.com/getbyid/69528568/see%20for%20what%20it%20is/english
+*** let me see
+Let me see... where did I put that letter?
+
+https://youglish.com/getbyid/77973316/let%20me%20see/english
+*** I don't see why not
+'Can we go to the park?' 'I don't see why not.'
+
+https://youglish.com/getbyid/7684149/I%20don't%20see%20why%20not/english
+*** [#C] be seeing things
+There's no one there - you must be seeing things.
+
+https://youglish.com/getbyid/69232554/be%20seeing%20things/english
+*** [#C] have seen better days
+Her hat had seen better days.
+
+https://youglish.com/getbyid/123208164/have%20seen%20better%20days/english
+*** be glad to see the back of
+I'll be glad to see the back of him.
+
+https://youglish.com/getbyid/149612522/be%20glad%20to%20see%20the%20back%20of/english
+*** see the last of somebody
+I thought we'd seen the last of him.
+
+https://youglish.com/getbyid/60791138/see%20the%20last%20of/english
+*** see the light
+She finally saw the light and ended the relationship.
+
+https://youglish.com/getbyid/8639562/see%20the%20light/english
+*** see the light of day
+This decision will ensure that the Pentagon Papers never see the light of day.
+
+https://youglish.com/getbyid/5790017/see%20the%20light%20of%20day/english
+*** see red
+The thought of Pierre with Nicole had made her see red.
+
+https://youglish.com/getbyid/77973739/see%20red/english
+*** see eye to eye
+We didn't exactly see eye to eye.
+
+https://youglish.com/getbyid/81105364/see%20eye%20to%20eye/english
+*** see your way to doing something
+Small companies cannot see their way to taking on many trinees.
+
+https://youglish.com/getbyid/88570074/see%20your%20way%20to/english
+*** see somebody right
+Just do this for me and I'll see you right.
+*** not see that it matters
+I can't see that it matters what I think.
+* break
+:PROPERTIES:
+:EXPORT_FILE_NAME: break.md
+:END:
+使破裂
+** 语义
+*** 使破裂
+I had to break a window to get into the house.
+*** 使骨折
+She fell downstairs and broke her hip.
+*** 弄坏
+Someone's broken the TV.
+*** 损坏
+The washing machine's broken again.
+*** 违犯
+They're breaking the law by employing such young children.
+*** 违反
+I never break my promises.
+*** 休息
+Shall we break for lunch now?
+*** 打断
+We need to break the cycle of poverty and crime in the *inner cities*.
+*** 打垮
+Losing his business nearly broke him.
+*** 摧毁
+The government succeeded in breaking the unions.
+*** 破晓
+*Dawn* was breaking by the time we arrived home.
+*** 来临
+We were keen to get back to the hotel before the storm broke.
+*** 天气突然变化
+The following day the weather broke and we had ten days of soild rain.
+*** 拍岸
+We sat and watched the waves breaking on the *shore*.
+*** 变声
+He was fifteen, and his voice was just begining to break.
+*** 传开
+News of his *resignation* broke yesterday.
+*** 告诉
+I didn't know how I was going to break the news to my monther.
+*** 休息
+We'll have a short break for lunch, then start again at two o'clock.
+*** 中断
+She decided to take a career break when she had children.
+*** 短假期
+I was beginning to feel that I needed a break.
+*** 课间休息
+I'll speak to you at break.
+*** 广告时间
+Join us again after the break.
+*** 暂停
+We'll go for a walk if there's a break in the rain.
+*** 断绝
+I wanted a clean break so that I could restart my life.
+*** 裂口
+We crawled through a break in the *hedge*.
+*** 骨折
+It's quite a bad break, which will take serveral months to heal.
+*** 破发
+She really needs a break of serve now if she wants to win this match.
+** 短语
+*** break a habit
+A new drug which helps smokers to break their habit.
+
+https://youglish.com/getbyid/16162985/break%20a%20habit/english
+*** break a record
+He break the 10,000-metres world record.
+
+https://youglish.com/getbyid/89314518/break%20a%20record/english
+*** break a journey
+We decided to break our journey in Oxford.
+*** break somebody's heart
+He broke my heart when he left me.
+
+https://youglish.com/getbyid/89245671/break%20my%20heart/english
+*** break a strike
+The government has threatened to bring in the army to break the 10-month-old strike.
+
+https://youglish.com/getbyid/102464967/break%20a%20strike/english
+*** break a link
+The US has now broken all diplomatic links with the regime.
+
+https://youglish.com/getbyid/8843357/break%20a%20link/english
+*** break the skin
+Their teeth are sharp enough to break the skin.
+
+https://youglish.com/getbyid/103191141/break%20the%20skin/english
+*** break the back of something
+I think we've broken the back of the job now.
+
+https://youglish.com/getbyid/127418171/break%20the%20back%20of/english
+*** break the bank
+A new hard drive doesn't have to break the bank.
+
+https://youglish.com/getbyid/27242985/break%20the%20bank/english
+*** break somebody's concentration
+The slightest sound would break his concentration.
+
+https://youglish.com/getbyid/33332000/break%20concentration/english
+*** break the ice
+Sam's arrival broke the ice and people began to talk and laugh.
+
+https://youglish.com/getbyid/66125906/break%20the%20ice/english
+*** break a code
+Scientists worked day and night to break the code.
+
+https://youglish.com/getbyid/33470724/break%20a%20code/english
+*** break wind
+*** break serve
+Hewitt broke serve twice in the second set.
+*** break away
+More than 30 Labour MPs broke away to form a new left-wing party.
+
+https://youglish.com/getbyid/102379561/break%20away/english
+*** break down
+**** 故障
+The car broke down just north of Paris.
+**** 失败
+Negotiations broke down after only two days.
+**** 撞倒
+Police had to break down the door to get into the flat.
+
+https://youglish.com/getbyid/16861513/break%20down/english
+**** 消除
+Getting young people together will help to break down the barriers between them.
+
+**** 分解
+Food is broken down in the stomach.
+
+https://youglish.com/getbyid/128778736/break%20down/english
+**** 禁不住哭出来
+She broke down in tears when she heard the news.
+**** 拆分
+He showed us the whole dance, then broke it down so that we could learn it more easily.
+
+https://youglish.com/getbyid/19634216/break%20down/english
+*** break for
+He broke for the door, but the guards got there before he did.
+
+https://youglish.com/getbyid/19831620/break%20for/english
+*** break in
+**** 闯入
+Thieves broke in and stole $10000 worth of computer equipment.
+
+https://youglish.com/getbyid/24811498/break%20in/english
+**** 插话
+I didn't want to break in on his telephone conversation.
+**** 使...合脚
+I went for a walk to break in my new boots.
+**** 训练小马驮人
+We break the horses in when they're about two years old.
+*** break into
+**** 闯入
+Someone broke into my car and stole the radio.
+
+https://youglish.com/getbyid/8634886/break%20into/english
+**** 进入
+She made an attempt to break into jounalism.
+**** 动用
+I don't want to break into my savings unless I have to.
+**** 突然奔跑
+He broke into a run as he came round the corner.
+**** 突然笑起来
+He face broke into a smile.
+*** break somebody of something
+Try to break yourself of the habit of eating between meals.
+*** break off
+**** 停顿
+She started to speak, then broke off while a waitress served us coffee.
+**** 结束
+She broke off their angagement only a few weeks before they were due to be married.
+**** 使脱落
+One of the car's wing mirrors had broken off.
+
+https://youglish.com/getbyid/3023946/break%20off/english
+*** break out
+**** 爆发
+I was still living in London when the war broke out.
+
+https://youglish.com/getbyid/159524925/break%20out/english
+**** 越狱
+Three man have broken out of a top-security jail.
+**** 摆脱
+She felt the need to break out of her daily routine.
+
+https://youglish.com/getbyid/89072771/break%20out/english
+**** 出汗
+My whole body broke out in a sweat.
+*** break through
+https://youglish.com/getbyid/15181140/break%20through/english
+**** 突破某物
+Seveal demonstrators broke through the barriers despite warnings from the police.
+**** 冲破
+The sun broke through at around lunch time.
+**** 突破
+He's a very talented young actor who's just ready to break through.
+*** break up
+https://youglish.com/getbyid/77887576/break%20up/english
+**** 使碎裂
+It seems that the plane just broke up in the air.
+**** 分拆
+There are plans to break the company up into several smaller independent companies.
+**** 阻止
+Three policemen were needed to break up the fight.
+**** 驱散
+Government sholiders broke up the demonstration.
+**** 散伙
+The couple broke up last year.
+**** 散会
+The party didn't break up until after midnight.
+**** 放假
+School breaks up next week.
+**** 使某人大笑
+He breaks me up!
+*** break with
+https://youglish.com/getbyid/73420440/break%20with/english
+**** 与...断绝关系
+She had broken with her family years ago.
+**** 与过去决裂
+Now is the time to break with the past.
+*** give somebody a break
+Give the kid a break. It's only his second day on the job.
+
+https://youglish.com/getbyid/13771896/give%20he%20a%20break/english
+* check
+:PROPERTIES:
+:EXPORT_FILE_NAME: check.md
+:END:
+询问后又检查重量，还要托运
+** 语义
+*** 检查
+A first rule in solving any mystery is to check the facts.
+*** 询问
+I'm not authorized to give you a refund - I'll have to check first.
+*** 克制
+I had to check the urge to laugh out loud.
+*** 制止
+The police are failing to take adequate measures to check the growth in crime.
+*** 托运
+Any luggage over five kilos must be checked.
+*** 审查
+Conduct regular checks on your water quality.
+*** 控制
+You must learn to keep your emotions in check.
+*** 支票
+Can I pay by check?
+*** 方格图案
+Styles include stripes and checks.
+** 短语
+*** check in
+Check in two hours before the flight.
+
+https://youglish.com/getbyid/114943010/check%20in/english
+*** check off
+One by one he checked them off on his register.
+
+https://youglish.com/getbyid/130209271/check%20off/english
+*** check on
+Honey, can you go upstairs and check on the kids?
+
+https://youglish.com/getbyid/105535388/check%20on/english
+*** check out
+https://youglish.com/getbyid/124780851/check%20out/english
+**** 核实
+I made a phone call to check out his address.
+**** 查看
+If I hear about a website that sounds interesting, I check it out.
+**** 退房
+We checked out at noon.
+**** 借出
+The library allows you to check out six books at a time.
+*** check over
+They spent the rest of the morning checking over their equipment.
+
+https://youglish.com/getbyid/87043172/check%20over/english
+*** check up on
+Don't worry; no one is going to check up on you.
+
+https://youglish.com/getbyid/25877160/check%20up%20on/english
+* property
+:PROPERTIES:
+:EXPORT_FILE_NAME: property.md
+:END:
+财产
+** 语义
+*** 财产
+The hotel is not responsible for any loss or damage to guests' personal property.
+*** 房产
+Property prices have shot up recently.
+*** 特性
+A radio signal has both electrical and magnetic properties.
+** 短语
+* stand
+:PROPERTIES:
+:EXPORT_FILE_NAME: stand.md
+:END:
+站立
+** 语义
+*** 站立
+It looks we'll have to stand - there are no seats left.
+*** 起立
+Smiling, she stood and closed the blinds.
+*** 走
+She stood back to let him in.
+*** 使直立
+A lamp stood on the table.
+*** 处于
+The kitchen door stood open so she went in.
+*** 不能忍受
+I can't stand bad manners.
+*** 接受
+I couldn't stand the thought of leaving Danielle.
+*** 经得起
+His poetry will stand the test of time.
+*** 不动
+The car's been standing in the garage for weeks.
+*** 高达
+John stood six feet tall.
+*** 有...水平
+His former workforce of 1300 now stands at 220.
+*** 位于
+The president stands high in the public opinion polls.
+*** 竞选
+She announced her intention to stand for parliament.
+*** 保持不变
+Despite protests, the official decision stood.
+*** 架
+He adjusted the microphone stand.
+*** 摊位
+The shop was crowded with display stands and boxed.
+*** 主张
+She was accused of not taking a stand on feminism or civil rights.
+*** 反抗
+We have to take a stand against racism.
+*** 看台
+In the stands, fifty of Jill's friends and family have come to watch her last game.
+*** 车站
+There's taxi stand on Glen Road.
+** 短语
+*** stand clear of
+Stand clear of the doors, please.
+*** stand in
+Don't stand in that puddle!
+*** where do things stand
+Where do things stand in terms of the budget?
+*** stand to do something
+What do firms think they stand to gain by merging?
+*** where somebody stand
+You must decide where you stand.
+*** from where I stand
+I knew from where I stood that the stocks were practically worthless.
+*** know where you stand
+I'd like to know where I stand.
+*** stand in the way
+You can't stand in the way of progress!
+*** stand on your own feet
+She's never learned to stand on her own feet.
+*** it stands to reason
+It stands to reason that you cannot find the right person to do a job unless you know exatly what that job is.
+*** stand or fall on something
+The case against him will stand or fall on its own merits.
+*** stand trial
+Gresham will stand trial for murder.
+*** stand tall
+Stand tall with your feet comfortably apart.
+*** be stood on its head
+One area of the business which has been stood on its head is internal communications.
+*** not stand on ceremony
+Comeon, Mal. Don't stand on ceremony here at home.
+*** stand somebody a drink
+Come on, Jack, I'll stand you a drink if you like.
+*** stand against
+She hadn't the strength to stand against her aunt's demands.
+*** stand around
+We stood around saying goodbye for a while.
+*** stand by
+I'm not going to stand by and see her hurt.
+**** 遵守
+I stand by what I said earlier.
+**** 支持某人
+His wife stood by him during his years in prison.
+**** 准备行动
+Rescue crews were standing by in case of a breakdown.
+*** stand down
+He was obliged to stand down as a parliamentary candidate.
+*** stand for
+What does ATM stand for?
+**** 支持
+It's hard to tell what the party stands for these days?
+*** stand in
+Would you mind standing in for me a while?
+*** stand out
+She always stood out in a crowd.
+**** 出色
+That day still stands out as the greatest day in my life.
+**** 凸出
+The veins stood out on his throat and temples.
+*** stand over
+I can't concentrate with him standing over me like that.
+*** stand to
+The men have been stood to.
+*** stand up
+I've been standing up all day.
+**** 耐用
+Most of the plants stood up well to the heat.
+**** 证明真实
+The memoirs stand up well to cross-checking with other records.
+*** stand up for
+It's time we stood up for our rights.
+*** stand up to
+He'll respect you more if you stand up to him.
+* sort
+:PROPERTIES:
+:EXPORT_FILE_NAME: sort.md
+:END:
+排序的类型
+** 语义
+*** 类型
+What sort of shampoo do you use?
+*** 有点
+I sort of like him, but I don't know why.
+*** 将...分类
+The eggs are sorted according to size.
+** 短语
+*** it takes all sorts
+He goes climbing up cliffs without ropes or anything? Oh well, it takes all sorts.
+
+https://youglish.com/getbyid/526529/it%20takes%20all%20sorts/english
+*** out of sorts
+Louise went back to work feeling rather out of sorts.
+
+https://youglish.com/getbyid/25882860/out%20of%20sorts/english
+*** sort out
+**** 整理
+We need to sort out our camping gear before we go away.
+
+https://youglish.com/getbyid/15181192/sort%20out/english
+**** 挑出
+I've sorted out the papers that can be thrown away.
+**** 解决
+She went to a psychiatrist to try to sort out her problems.
+
+https://youglish.com/getbyid/78003096/sort%20out/english
+**** 安排好
+Have you sorted out where you're going to live yet?
+
+https://youglish.com/getbyid/77877467/sort%20out/english
+**** 自行解决
+Our financial problems should sort themselves out in a week or two.
+
+https://youglish.com/getbyid/68621049/sort%20out/english
+**** 收拾
+If he bothers you again, I'll sort him out.
+
+https://youglish.com/getbyid/120532724/sort%20him%20out/english
+*** sort through
+Vicky sat down and sorted through the files.
+
+https://youglish.com/getbyid/15181183/sort%20through/english
+*** all sorts of
+It was used by all sorts of people.
+
+https://youglish.com/getbyid/19777580/all%20sorts%20of/english
+* resource                                                                      :AWL:
+:PROPERTIES:
+:EXPORT_FILE_NAME: resource.md
+:END:
+有资源还有素质
+** 语义
+*** 资源
+Canada's vast mineral resources
+*** 物力
+She had no financial resources.
+*** 个人素质
+He proved that he has considerable inner resources.
+*** 资料
+A valuable new computer resource
+*** 谋略
+A man of great resource
+*** 向...提供资源
+The program wasn't adequately resourced.
+** 短语
+* return
+:PROPERTIES:
+:EXPORT_FILE_NAME: return.md
+:END:
+返回了
+** 语义
+*** 返回
+It was forty five minutes before she returned.
+*** 归还
+Carson returned the notebook to his pocket.
+*** 重新出现
+If the pain returns, take two of the tablets with some water.
+*** 回报
+He smiled at her warmly and she returned his smile.
+*** 回答
+'Yes,' he returned.'I'm a lucky man.'
+*** 选举
+Yeo was returned to Parliament with an increased majority.
+*** 产生利润
+The group returned increased profits last year.
+*** 回来
+We're all looking forward to your return!
+*** 送还
+A mother is appealing for the safe return of her baby son.
+*** 恢复
+The United States called for a return to democracy.
+*** 重新开始
+Rose's return to the teaching profession.
+*** 盈利
+The markets are showing extremely poor returns.
+*** 回车键
+Key in the file name and press return.
+*** 再度出现
+She felt a return of her old anxiety.
+*** 申报
+An analysis of 1851 census returns.
+*** 投票结果
+What are the returns from last night's voting?
+*** 往返的
+He bought a return ticket and boarded the next train for home.
+** 短语
+*** return to
+**** 回复原状
+David waited for a moment to let his breathing return to normal.
+
+https://youglish.com/getbyid/89091396/return%20to%20normal/english
+**** 继续
+The children return to school next week.
+**** 再讨论
+I will return to this problem in a moment.
+*** in return
+He is always helping people without expecting anything in return.
+
+https://youglish.com/getbyid/114943043/in%20return/english
+* part
+:PROPERTIES:
+:EXPORT_FILE_NAME: part.md
+:END:
+一部分零件要分手了
+** 语义
+*** 部分
+The front part of the car was damaged.
+*** 零件
+Lay all the parts out before you start assembling the model.
+*** 局部
+Part of the money will be spent on a new playground.
+*** 角色
+Could someone take the part of Romeo, please?
+*** 音部
+The violin part is diffcult.
+*** 份
+Prepare the glue with one part powder to three parts water.
+*** 使分开
+When he parted the curtains, the sunlight flooded into the room.
+*** 分手
+They parted on *amicable* terms.
+*** 和...分离
+They were hardly ever parted in 30 years of marriage.
+*** 部分地
+The project is part funded by the council.
+** 短语
+*** play a part
+Health education will play a part in preparing us for old age.
+
+https://youglish.com/getbyid/20909612/play%20a%20part/english
+*** take part
+About 400 students took part in the protest.
+
+https://youglish.com/getbyid/19708468/take%20part/english
+*** [#C] want no part of
+There was a plan to change the production style, and he wanted no part of it.
+
+https://youglish.com/getbyid/20173165/want%20no%20part%20of/english
+*** in part
+His reluctance to help could, in part, be explained by his poor eyesight.
+
+https://youglish.com/getbyid/4837430/in%20part/english
+*** be part of
+Falling over is part of learning how to ski.
+
+https://youglish.com/getbyid/19695656/be%20part%20of/english
+*** look the part
+**** 看上去样子像
+In his smart suit, he certainly looked the part.
+
+https://youglish.com/getbyid/121302744/look%20the%20part/english
+**** 崭露头角
+He's beginning to look the part on the soccer field.
+*** dress the part
+She's got a new high-powered job, and she's certainly dressing the part.
+
+https://youglish.com/getbyid/60481559/dress%20the%20part/english
+*** in these parts
+We don't get many tourists in these parts.
+
+https://youglish.com/getbyid/77998112/in%20these%20parts/english
+*** take somebody's part
+Dad always takes my brother's part when we argue.
+*** for my part
+For my part, I prefer living in the country.
+
+https://youglish.com/getbyid/68315288/for%20my%20part/english
+*** [#C] be part and parcel of something
+Working irregular hours is all part and parcel of being a journalist.
+
+https://youglish.com/getbyid/22601547/be%20part%20and%20parcel%20of/english
+*** [#C] man of many parts
+He was a man of many parts: writer, literary critic and historian.
+
+https://youglish.com/getbyid/8171884/man%20of%20many%20parts/english
+*** part company
+**** 分道而行
+The two women parted company outside their rooms.
+
+https://youglish.com/getbyid/34061772/part%20company/english
+**** 断绝关系
+Georage parted company with the band in 1996.
+
+https://youglish.com/getbyid/102877846/part%20company/english
+**** 意见不合
+He parted company with Lloyd George over post-war *diplomacy*.
+
+https://youglish.com/getbyid/25603064/part%20company/english
+*** part with
+I'm reluctant to part with any of the kittens, but we need the money.
+
+https://youglish.com/getbyid/21333181/part%20with/english
+* show
+:PROPERTIES:
+:EXPORT_FILE_NAME: show.md
+:END:
+显示给谁看？
+** 语义
+*** 给...看
+The children proudly showed me their presents.
+*** 证明
+Figures showed a 9% rise in inflation.
+*** 表现出
+Think positively and show some determination.
+*** 解释
+Show me how the gun works.
+*** 显示
+I want a photograph that shows his face.
+*** 带领
+Can you show Mrs Davies to the bathroom?
+*** 指向
+Can you show me exactly where he fell?
+*** 放映
+The film was shown on television last night.
+*** 被看见
+His happiness showed in his face.
+*** 容易显出
+Light-coloured clothes tend to show the dirt.
+*** 表明
+The price of players is the reason why many football clubs show big losses on their balance sheets.
+*** 展示
+Her recent *sculptures* are being shown at the Hayward Gallery.
+*** 安排比赛
+Do you plan to show your dogs?
+*** 到场
+I went to meet Hank, but he never showed.
+*** 演出
+I enjoyed the show immensely.
+*** 节目
+The *senator* appeared on the CBS show 'Face the Nation'.
+*** 展览会
+Kelly has a show of her latest work opening shortly.
+*** 假装
+Susan put on a show of regret all day.
+*** 美好景象
+Maple trees put on their best show in the autumn.
+*** 展评会
+The dog show was being held in the Agricultural Hall.
+*** 活动
+We need to find someone to run the show.
+** 短语
+*** have something to show for something
+If he fails, he'll have nothing to show for his time at school.
+
+https://youglish.com/getbyid/65863769/have%20nothing%20to%20show/english
+*** show your face
+She never shows her face around here.
+
+https://youglish.com/getbyid/28272653/show%20your%20face/english
+*** show your hand
+There were so many *rumours* that the company was farced to show its hand.
+
+https://youglish.com/getbyid/94692671/show%20its%20hand/english
+*** show somebody in a good light
+During an interview, you need to show yourself in the best possible light.
+
+https://youglish.com/getbyid/68815937/show%20in%20a%20good%20light/english
+*** [#A] on show
+The designer clothes will go on show in Chicago next month.
+
+https://youglish.com/getbyid/76385664/on%20show/english
+*** a show of something
+I felt I should make a show of *dignity*.
+
+https://youglish.com/getbyid/34504249/a%20show%20of/english
+*** [#A] show of hands
+Russell then asked for a show of hands concerning each of the targets.
+
+https://youglish.com/getbyid/32203143/a%20show%20of/english
+*** [#A] for show
+He does actually play his guitar - it's not just for show.
+
+https://youglish.com/getbyid/13634065/for%20show/english
+* hour
+:PROPERTIES:
+:EXPORT_FILE_NAME: hour.md
+:END:
+1小时会是一个重要时刻
+** 语义
+*** 小时
+I study for an hour every night.
+*** 时间
+Please call during office hours.
+*** 时间段
+There was a knock on the door in the early hours of the morning.
+*** 整点
+There are flights to Boston every hour on the hour.
+*** 重要时刻
+This was our country's finest hour.
+** 短语
+*** late hours
+She knew that he kept late hours.
+
+https://youglish.com/getbyid/78285983/late%20hours/english
+*** [#C] the hour of darkness
+Few people dared to venture out during the hours of darkness.
+
+https://youglish.com/getbyid/5970934/the%20hour%20of%20darkness/english
+*** [#C] at any hours
+If you have a problem, you know you can call at any hour of the day or night.
+
+https://youglish.com/getbyid/128077315/at%20any%20hours/english
+*** by the hour
+This financial crisis is growing more serious by the hour.
+
+https://youglish.com/getbyid/82261497/by%20the%20hour/english
+* bring
+:PROPERTIES:
+:EXPORT_FILE_NAME: bring.md
+:END:
+带来up, down, in, on, to
+** 语义
+*** 带来
+Did you bring an umbrella?
+*** 引起
+The strikes are expected to bring chaos.
+*** 处于某种状况
+It was the war that first brought him to power.
+*** 使发生
+The 1930s brought unemployment and economic recession.
+*** 向...播出
+This programme is brought to you by the BBC.
+** 短语
+*** [#C] bring a lawsuit
+Survivors of the fire later brought a billion-dollar lawsuit against the company.
+
+https://youglish.com/getbyid/35543606/bring%20a%20lawsuit/english
+*** [#C] bring a smile to somebody's lips
+Her words brought a sudden smile to his lips.
+
+https://youglish.com/getbyid/1583204/bring%20a%20smile/english
+*** [#C] bring the total to something
+This brings the total to 46.
+
+https://youglish.com/getbyid/11484428/bring%20the%20total%20to/english
+*** bring something to bear
+The full force of the law was brought to bear on anyone who criticized the government.
+
+https://youglish.com/getbyid/77972918/bring%20to%20bear/english
+*** bring around/round
+**** 把话题转移到某件事上
+I'll try to bring the conversation around to the subject of money.
+
+https://youglish.com/getbyid/9138794/bring%20around/english
+**** 使恢复知觉
+I slapped his face a couple of times to try to bring him round.
+**** 说服
+She won't listen to me. Let's see if Sue can bring her round.
+**** 把...带过来
+I'll bring the books around tommorrow.
+
+https://youglish.com/getbyid/87264943/bring%20around/english
+*** [#A] bring back
+**** 恢复
+The city council has decided to bring back the old electric *trams*.
+
+https://youglish.com/getbyid/77892814/bring%20back/english
+**** 使想起某事
+The trip brought back a lot of happy memories.
+**** 使重返岗位
+Following their latest defeat, soccer fans are urging the club to bring back the former manager.
+*** [#A] bring down
+**** 减少
+The government hopes these measures will help to bring down inflation.
+
+https://youglish.com/getbyid/77876560/bring%20down/english
+**** 使飞机降落
+The pilot managed to bring the plane down safely.
+**** 击落
+A bomber had been brought down by anti-aircraft fire.
+
+https://youglish.com/getbyid/5031973/bring%20down/english
+**** 使下台
+A crisis could bring down the government.
+**** 使跌倒
+He was brought down by the goalkeeper and awarded a penalty.
+*** bring something down on somebody
+His recklessness brought down disaster on the whole family.
+*** bring forward
+**** 将...提前
+The meeting's been brought forward to Thursday.
+**** 提出法规
+The government has brought forward new proposals to tackle the problem of increasing crime.
+
+https://youglish.com/getbyid/56250521/bring%20forward/english
+**** 结转
+The balance brought forward is $21765.
+*** bring in
+**** 推行
+Harsh anti-trade union laws were brought in in the early 1980s.
+**** 请...参与
+I'd like to bring in Doctor Hall here and ask him his views.
+
+https://youglish.com/getbyid/148388687/bring%20in/english
+**** 使挣到
+The sale of the house only brought in about $45000.
+**** 吸引
+We've got to bring in more business if we want the restaurant to survive.
+
+https://youglish.com/getbyid/139053925/bring%20in/english
+**** 作出判决
+The jury brought in a verdict of not guilty.
+*** bring into
+**** 使处于
+Most of the land has now been brought into cultivation.
+**** 使参与
+The government is trying to bring teachers into the debate on education.
+
+https://youglish.com/getbyid/77871204/bring%20into/english
+*** bring off
+They managed to bring off the most daring jewellery robbery in history.
+
+https://youglish.com/getbyid/1171094/bring%20off/english
+*** bring on
+**** 导致
+Stress can bring on an *asthma* attack.
+**** 使进步
+Teachers have to bring on the bright children and at the same time give extra help to those who need it.
+**** 促进生长
+Keeping the young plants in a greenhouse will help bring them on.
+*** bring onto
+This brings me onto the question of pay rises.
+*** bring out
+**** 使显现
+The spices really bring out the flavour of the meat.
+**** 推出
+He's bringing out a new *album* next month.
+**** 把...拿出来
+Jenny opened the cupboard and brought out a couple of bottles.
+*** bring out the best in somebody
+Alcohol just brings out the worst in her.
+*** bring somebody out of himself
+Changing schools has really brought her out of herself.
+*** bring somebody out in something
+Any foods containing *wheat* bring him out in a *rash*.
+*** bring somebody through
+Both my children have brought me through extremely difficult times since my husband died.
+*** bring together
+**** 把...召集起来
+We brought together researchers from three different universities to work on the project.
+**** 使联合起来
+Any attack by a foreign power will *inevitably* bring the people of a country together.
+*** bring up
+**** 提起
+Why dis you have to bring up the subject of money?
+**** 养育
+He was brought up by his grandparents.
+**** 把...调出来
+Can you bring up the list of candidates again?
+**** 吐出
+I had a sandwich for lunch and promptly brought it up again.
+**** 提审
+He was brought up before a *magistrate*, charged with dangerous driving.
+**** bring somebody up with a short
+Her question brought me up short.
+* carry
+:PROPERTIES:
+:EXPORT_FILE_NAME: carry.md
+:END:
+拿了就要承担责任了，不要让它再传播下去了
+** 语义
+*** 拿
+Let me carry that for you.
+*** 运送
+Thi ship was carrying drugs.
+*** 输送
+A drain carries surplus water to the river.
+*** 承载
+Pollution was carried inland by the wind.
+*** 携带
+I don't carry a handbag. I just carry money in my pocket.
+*** 具有
+Degree qualifications carry international recognition.
+*** 报道
+The national TV network carries religious programmes.
+*** 印有
+All tobacco products must carry a health warning.
+*** 承担责任
+Each team member is expected to carry a fair share of the workload.
+*** 供货销售
+The sports shop carries a full range of equipment.
+*** 支撑
+These two columns carry the whole roof.
+*** 传播
+The disease is carried by a black fly which lives in the rivers.
+*** 可判处
+Murder still carries the death penalty.
+*** 声音传播
+In the winter air, sounds carry clearly.
+*** 准确的唱
+I sang solos when I was six because I could carry a tune.
+*** 赢得...支持
+He had to carry a large majority of his colleagues to get the leadership.
+*** 超重
+Joe carries only nine pounds more than when he was 20.
+** 短语
+*** get carried away
+It's easy to get carried away when you can do so much with thegraphics software.
+*** be carried along
+The crowd were carried along on a tide of enthusiasm.
+*** carry something in your head
+Alice carried a map of London Underground in her head.
+*** be carried
+The amendment was carried by 292 votes to 246.
+*** carry the can
+He has been left to carry the can for a decision he didn't make.
+*** carry something too far
+I don't mind a joke, but this is carrying it too far.
+*** carry a torch for somebody
+He's been carrying a torch for your sister for years.
+*** carry the torch for something
+Leaders in the mountains carried the torch of Greek independence.
+*** as fast as his legs could carry him
+She ran as fast as her legs could carry her.
+* light
+:PROPERTIES:
+:EXPORT_FILE_NAME: light.md
+:END:
+光照亮我的心
+** 语义
+*** 光
+We saw a flash or light.
+*** 灯光
+Ahead of us we could see the lights of the city.
+*** 交通灯
+We waited for the lights to change.
+*** 车灯
+He was dazzled by the lights of oncoming traffic.
+*** 浅色的
+You look nice in light colours.
+*** 天亮
+We'll keep on looking while it's still light.
+*** 明亮的
+The kitchen was light and spacious.
+*** 轻的
+You should wear light, comfortable shoes.
+*** 少量的
+A light rain began to fall.
+*** 单薄的
+She took a light sweater in case the evening was cool.
+*** 轻柔的
+Leaves were blowing about in the light wind.
+*** 轻松的
+I found him some light work to do.
+*** 低度的
+We had a light white wine with the fish.
+*** 燃烧
+He stopped to light a cigarette.
+*** 照亮
+The room was lit by one large, central light.
+** 短语
+*** a light
+Have you got a light, please?
+*** set light to something
+The candle fell over and set light to the barn.
+*** come to light
+This evidence did not come to light until after the trial.
+*** throw light on
+These discoveries may throw new light on the origins of the universe.
+*** in the light of something
+In light of this tragic event, we have canceled the 4th of July celebrations.
+*** in a new light
+I suddenly saw my father in a new light.
+*** see the light
+At last doctors have seen the light!
+*** see the light of day
+Some of these documents will probably never see the light of day.
+*** light at the end of the tunnel
+It's been a hard few months, but we're finally beginning to see the light at the end of the tunnel.
+*** the light of somebody's life
+Her son was the light of her life.
+*** make light of something
+She tried to make light of the situation, but I could tell that she was worried.
+*** on a lighter note
+On a lighter note, the concert raised over $300 for school funds.
+*** make light work of something
+A freezer and microwave oven can make light work of cooking.
+*** be light on your feet
+She's very agile and light on her feet.
+*** light the way
+We had only a few *torches* between us to light the way.
+*** light up
+**** 照亮
+The flames lit up the sky.
+**** 变得明亮
+At night the *harbour* lights up.
+**** 流露出喜悦
+Suddenly a smile lit up her face.
+* fly
+:PROPERTIES:
+:EXPORT_FILE_NAME: fly.md
+:END:
+飞机风筝标志苍蝇都要飞
+** 语义
+*** 乘飞机
+She's flying back to the States tomorrow.
+*** 飞行
+The plane was attacked as it flew over restricted airspace.
+*** 空运货物
+US planes have been flying food and medical supplies into the area.
+*** 乘...飞行
+We usually fly economy class.
+*** 飞越
+Who was the first person to fly the Atlantic?
+*** 快速移动
+Ellen flew across the room and greeted her uncle with a kiss.
+*** 放飞
+In the park people were walking their dogs or flying their kites.
+*** 飘扬
+After the *invasion*, people were forbidden to fly their national flag.
+*** 逃走
+By the time the police arrived, the men ahd flown.
+*** 成功
+News is that the plan for the new hotel isn't going to fly.
+*** 苍蝇
+There were flies buzzing all around us.
+*** 裤子的门襟
+He quickly did up his fly.
+*** 时髦的
+Wear something really fly for your Friday date.
+** 短语
+*** fly into a rage
+Rebecca flew into a *rage* when she realized no-one had been listening to her.
+*** let fly
+The prisoner let fly with a torrent of abuse.
+*** fly in the face of something
+He likes to fly in the face of convention.
+*** be flying high
+The architectural firm has been flying high recently.
+*** fly the nest
+Now that the kids have flown the nets, I'm thinking about taking a job abroad.
+*** fly a kite
+In my latest book, I wanted to fly the kite for an unfashionable theory.
+*** be a fly on the wall
+I wish I'd been a fly on the wall during that conversation.
+*** on the fly
 The code is translated on the fly.
+=======
+I must say this is a very unsatisfactory state of affairs.
+>>>>>>> 9041d24 (Study state, close #15)
