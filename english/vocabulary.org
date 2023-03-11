@@ -433,6 +433,8 @@ The president declined to deliver the speech himself, on account of sore throat.
 *** on someone account
 Tony told me what she's done and i was really scared on her account.
 
+*** take into account
+Analysis of slowing car sales should take into account the strong seasonality & cyclical factor.
 * size
 非常大的尺寸
 
@@ -641,3 +643,46 @@ A good teacher is always at least one step ahead of his students.
 
 *** step on someboday's toes
 I'm not worried about stepping on anybody's toes.
+
+* state
+政府的状态
+
+** 语义
+
+*** 状态
+There are fears for the state of the country's economy.
+
+*** 政府
+The state has accocated special funds for the emergency.
+
+*** 国家
+a NATO member state
+
+*** 州
+Queensland is one of the states of Australia.
+
+*** 国事访问
+the Queen's first state visit here in 17 years.
+
+*** 陈述
+Please state your name and address.
+
+*** 写明
+The price of the tickets is states on the back.
+
+** 短语
+
+*** in a terrible state
+When we bought the house, it was in a terrible state
+
+*** in no fit state to do something
+David's in no fit state to drive.
+
+*** in a good state of repair
+The boat was in a good state of repair.
+
+*** the States
+Which part of the States would you suggest I visit?
+
+*** state of affairs
+I must say this is a very unsatisfactory state of affairs.
