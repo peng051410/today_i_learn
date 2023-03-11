@@ -1,35 +1,36 @@
 
 # Table of Contents
 
--   [some](#orge7dcc4b)
--   [fine](#org8c27e7b)
--   [bold](#orgaa4b175)
--   [detail](#orgf6c08c6)
--   [firm](#orgcffdd68)
--   [false](#org937570a)
--   [string](#org06ad7ab)
--   [approach](#org8b221f0)
--   [take](#org84f3e75)
--   [over](#org83668b8)
--   [double](#org38a85aa)
--   [right](#org40727fb)
--   [play](#org86ba16a)
--   [class](#orgfb81a14)
--   [context](#orgc83d0f9)
--   [some time解析](#orga8c8991)
--   [say](#org663de4f)
--   [thought](#org77a2988)
--   [account](#org8ca54f7)
--   [size](#org5dd5218)
--   [array](#orgaf512f9)
--   [order](#orgf2ce6bc)
--   [clear](#orgab4c769)
--   [step](#org673bfd2)
+-   [some](#org8730afb)
+-   [fine](#orga3c47d7)
+-   [bold](#org3608b19)
+-   [detail](#org71aed5a)
+-   [firm](#orgcb45e60)
+-   [false](#org4736692)
+-   [string](#orgc83bba4)
+-   [approach](#orgf6dc393)
+-   [take](#orgd1d71a5)
+-   [over](#orgc818d15)
+-   [double](#org31d8acb)
+-   [right](#org3f87c0a)
+-   [play](#orgd494255)
+-   [class](#org0d4ea28)
+-   [context](#orgfbb0333)
+-   [some time解析](#orgc3bcc0c)
+-   [say](#orgba082b6)
+-   [thought](#org8af0743)
+-   [account](#orgc18688f)
+-   [size](#org22a3e85)
+-   [array](#org2f48436)
+-   [order](#org5cd482e)
+-   [clear](#org5e4ed73)
+-   [step](#orgb13fad1)
+-   [state](#orgbf64e17)
 
 Record my english study process.
 
 
-<a id="orge7dcc4b"></a>
+<a id="org8730afb"></a>
 
 # some
 
@@ -85,7 +86,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="org8c27e7b"></a>
+<a id="orga3c47d7"></a>
 
 # fine
 
@@ -153,7 +154,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="orgaa4b175"></a>
+<a id="org3608b19"></a>
 
 # bold
 
@@ -185,7 +186,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="orgf6c08c6"></a>
+<a id="org71aed5a"></a>
 
 # detail
 
@@ -223,7 +224,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="orgcffdd68"></a>
+<a id="orgcb45e60"></a>
 
 # firm
 
@@ -266,7 +267,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="org937570a"></a>
+<a id="org4736692"></a>
 
 # false
 
@@ -291,7 +292,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="org06ad7ab"></a>
+<a id="orgc83bba4"></a>
 
 # string
 
@@ -326,7 +327,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="org8b221f0"></a>
+<a id="orgf6dc393"></a>
 
 # approach
 
@@ -348,7 +349,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="org84f3e75"></a>
+<a id="orgd1d71a5"></a>
 
 # take
 
@@ -415,7 +416,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="org83668b8"></a>
+<a id="orgc818d15"></a>
 
 # over
 
@@ -467,7 +468,7 @@ The japanese were producing over 100 million tons of steel.
 The time for empty talk is  over.
 
 
-<a id="org38a85aa"></a>
+<a id="org31d8acb"></a>
 
 # double
 
@@ -520,7 +521,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="org40727fb"></a>
+<a id="org3f87c0a"></a>
 
 # right
 
@@ -604,7 +605,7 @@ He was't entirely in the right.
 She confesses to having trouble finding Mr Right.
 
 
-<a id="org86ba16a"></a>
+<a id="orgd494255"></a>
 
 # play
 
@@ -682,7 +683,7 @@ What the hell are you playing at?
 Breathing brings many muscles into play.
 
 
-<a id="orgfb81a14"></a>
+<a id="org0d4ea28"></a>
 
 # class
 
@@ -737,7 +738,7 @@ Kite is undoubtedly a class player.
 As a player, he was in a class of his own.
 
 
-<a id="orgc83d0f9"></a>
+<a id="orgfbb0333"></a>
 
 # context
 
@@ -770,7 +771,7 @@ It is important that we put Jesus into the context of history.
 Thomas says that he has been taken out of context on the issue.
 
 
-<a id="orga8c8991"></a>
+<a id="orgc3bcc0c"></a>
 
 # some time解析
 
@@ -800,7 +801,7 @@ I looked for you some times.
 分开一段时间，相聚在某个时刻，合并s是有时，分开s是几次
 
 
-<a id="org663de4f"></a>
+<a id="orgba082b6"></a>
 
 # say
 
@@ -863,7 +864,7 @@ It goes without saying that if someone has lung problems they should not smoke.
 Unemployment leads to a sence of useless, to say nothing of financial problems.
 
 
-<a id="org77a2988"></a>
+<a id="org8af0743"></a>
 
 # thought
 
@@ -899,7 +900,7 @@ This school of thought argues that depression is best treated by drugs.
 ## 短语
 
 
-<a id="org8ca54f7"></a>
+<a id="orgc18688f"></a>
 
 # account
 
@@ -972,7 +973,12 @@ The president declined to deliver the speech himself, on account of sore throat.
 Tony told me what she's done and i was really scared on her account.
 
 
-<a id="org5dd5218"></a>
+### take into account
+
+Analysis of slowing car sales should take into account the strong seasonality & cyclical factor.
+
+
+<a id="org22a3e85"></a>
 
 # size
 
@@ -1020,7 +1026,7 @@ The once-powerful post unions have been cut down to size.
 She was trying on an $8000 jacket for size.
 
 
-<a id="orgaf512f9"></a>
+<a id="org2f48436"></a>
 
 # array
 
@@ -1047,7 +1053,7 @@ The image is then stored on the computer hard disk as a vast arry of black and w
 Make-up arrayed on the bashroom counter.
 
 
-<a id="orgf2ce6bc"></a>
+<a id="org5cd482e"></a>
 
 # order
 
@@ -1115,7 +1121,7 @@ Everything is in order.
 People accepted the class system as part of the natural order of things.
 
 
-<a id="orgab4c769"></a>
+<a id="org5e4ed73"></a>
 
 # clear
 
@@ -1248,7 +1254,7 @@ This agreement will clear the way for further talks.
 If you are a beginner, steer clear of resorts with reputations for difficult skiing.
 
 
-<a id="org673bfd2"></a>
+<a id="orgb13fad1"></a>
 
 # step
 
@@ -1329,3 +1335,76 @@ A good teacher is always at least one step ahead of his students.
 ### step on someboday's toes
 
 I'm not worried about stepping on anybody's toes.
+
+
+<a id="orgbf64e17"></a>
+
+# state
+
+政府的状态
+
+
+## 语义
+
+
+### 状态
+
+There are fears for the state of the country's economy.
+
+
+### 政府
+
+The state has accocated special funds for the emergency.
+
+
+### 国家
+
+a NATO member state
+
+
+### 州
+
+Queensland is one of the states of Australia.
+
+
+### 国事访问
+
+the Queen's first state visit here in 17 years.
+
+
+### 陈述
+
+Please state your name and address.
+
+
+### 写明
+
+The price of the tickets is states on the back.
+
+
+## 短语
+
+
+### in a terrible state
+
+When we bought the house, it was in a terrible state
+
+
+### in no fit state to do something
+
+David's in no fit state to drive.
+
+
+### in a good state of repair
+
+The boat was in a good state of repair.
+
+
+### the States
+
+Which part of the States would you suggest I visit?
+
+
+### state of affairs
+
+I must say this is a very unsatisfactory state of affairs.
