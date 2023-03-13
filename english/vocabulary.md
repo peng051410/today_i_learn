@@ -1,37 +1,38 @@
 
 # Table of Contents
 
--   [some](#org322b8b9)
--   [fine](#org03486b3)
--   [bold](#orgf01a9d6)
--   [detail](#orgea30162)
--   [firm](#orgcca7014)
--   [false](#orgb69ebbc)
--   [string](#org1ad729d)
--   [approach](#orgad7ae92)
--   [take](#org48a1d68)
--   [over](#org5bc8ce0)
--   [double](#orge417da6)
--   [right](#org603ccec)
--   [play](#org7e17518)
--   [class](#orgacad3c5)
--   [context](#org4527be9)
--   [some time解析](#orgc6b9645)
--   [say](#orgcfe0bf8)
--   [thought](#org3558337)
--   [account](#org4b04967)
--   [size](#orgf60b89e)
--   [array](#orgc1fd1a1)
--   [order](#org5f1dcb0)
--   [clear](#org477c7f1)
--   [step](#orgfebf342)
--   [state](#org8535ab3)
--   [book](#org5e686db)
+-   [some](#orgc5348c7)
+-   [fine](#org30aab40)
+-   [bold](#org624409b)
+-   [detail](#org47dbeb5)
+-   [firm](#org440d2b8)
+-   [false](#org6475ef1)
+-   [string](#org8d22b5b)
+-   [approach](#org9b8df45)
+-   [take](#org3e17c26)
+-   [over](#org1fd51db)
+-   [double](#org2c4c97a)
+-   [right](#orga32ee28)
+-   [play](#org7d6d866)
+-   [class](#org19fa355)
+-   [context](#org878bea7)
+-   [some time解析](#org58802a3)
+-   [say](#orgdc9f8cc)
+-   [thought](#orga448324)
+-   [account](#org6decd1b)
+-   [size](#org6ed3446)
+-   [array](#orgb3b3456)
+-   [order](#orge08b108)
+-   [clear](#org4bbc294)
+-   [step](#org109976e)
+-   [state](#org134461f)
+-   [book](#org69cdbe8)
+-   [quite](#orgbc79093)
 
 Record my english study process.
 
 
-<a id="org322b8b9"></a>
+<a id="orgc5348c7"></a>
 
 # some
 
@@ -87,7 +88,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="org03486b3"></a>
+<a id="org30aab40"></a>
 
 # fine
 
@@ -155,7 +156,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="orgf01a9d6"></a>
+<a id="org624409b"></a>
 
 # bold
 
@@ -187,7 +188,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="orgea30162"></a>
+<a id="org47dbeb5"></a>
 
 # detail
 
@@ -225,7 +226,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="orgcca7014"></a>
+<a id="org440d2b8"></a>
 
 # firm
 
@@ -268,7 +269,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="orgb69ebbc"></a>
+<a id="org6475ef1"></a>
 
 # false
 
@@ -293,7 +294,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="org1ad729d"></a>
+<a id="org8d22b5b"></a>
 
 # string
 
@@ -328,7 +329,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="orgad7ae92"></a>
+<a id="org9b8df45"></a>
 
 # approach
 
@@ -350,7 +351,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="org48a1d68"></a>
+<a id="org3e17c26"></a>
 
 # take
 
@@ -417,7 +418,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="org5bc8ce0"></a>
+<a id="org1fd51db"></a>
 
 # over
 
@@ -469,7 +470,7 @@ The japanese were producing over 100 million tons of steel.
 The time for empty talk is  over.
 
 
-<a id="orge417da6"></a>
+<a id="org2c4c97a"></a>
 
 # double
 
@@ -522,7 +523,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="org603ccec"></a>
+<a id="orga32ee28"></a>
 
 # right
 
@@ -606,7 +607,7 @@ He was't entirely in the right.
 She confesses to having trouble finding Mr Right.
 
 
-<a id="org7e17518"></a>
+<a id="org7d6d866"></a>
 
 # play
 
@@ -684,7 +685,7 @@ What the hell are you playing at?
 Breathing brings many muscles into play.
 
 
-<a id="orgacad3c5"></a>
+<a id="org19fa355"></a>
 
 # class
 
@@ -739,7 +740,7 @@ Kite is undoubtedly a class player.
 As a player, he was in a class of his own.
 
 
-<a id="org4527be9"></a>
+<a id="org878bea7"></a>
 
 # context
 
@@ -772,7 +773,7 @@ It is important that we put Jesus into the context of history.
 Thomas says that he has been taken out of context on the issue.
 
 
-<a id="orgc6b9645"></a>
+<a id="org58802a3"></a>
 
 # some time解析
 
@@ -802,7 +803,7 @@ I looked for you some times.
 分开一段时间，相聚在某个时刻，合并s是有时，分开s是几次
 
 
-<a id="orgcfe0bf8"></a>
+<a id="orgdc9f8cc"></a>
 
 # say
 
@@ -865,7 +866,7 @@ It goes without saying that if someone has lung problems they should not smoke.
 Unemployment leads to a sence of useless, to say nothing of financial problems.
 
 
-<a id="org3558337"></a>
+<a id="orga448324"></a>
 
 # thought
 
@@ -901,7 +902,7 @@ This school of thought argues that depression is best treated by drugs.
 ## 短语
 
 
-<a id="org4b04967"></a>
+<a id="org6decd1b"></a>
 
 # account
 
@@ -979,7 +980,7 @@ Tony told me what she's done and i was really scared on her account.
 Analysis of slowing car sales should take into account the strong seasonality & cyclical factor.
 
 
-<a id="orgf60b89e"></a>
+<a id="org6ed3446"></a>
 
 # size
 
@@ -1027,7 +1028,7 @@ The once-powerful post unions have been cut down to size.
 She was trying on an $8000 jacket for size.
 
 
-<a id="orgc1fd1a1"></a>
+<a id="orgb3b3456"></a>
 
 # array
 
@@ -1054,7 +1055,7 @@ The image is then stored on the computer hard disk as a vast arry of black and w
 Make-up arrayed on the bashroom counter.
 
 
-<a id="org5f1dcb0"></a>
+<a id="orge08b108"></a>
 
 # order
 
@@ -1122,7 +1123,7 @@ Everything is in order.
 People accepted the class system as part of the natural order of things.
 
 
-<a id="org477c7f1"></a>
+<a id="org4bbc294"></a>
 
 # clear
 
@@ -1255,7 +1256,7 @@ This agreement will clear the way for further talks.
 If you are a beginner, steer clear of resorts with reputations for difficult skiing.
 
 
-<a id="orgfebf342"></a>
+<a id="org109976e"></a>
 
 # step
 
@@ -1338,7 +1339,7 @@ A good teacher is always at least one step ahead of his students.
 I'm not worried about stepping on anybody's toes.
 
 
-<a id="org8535ab3"></a>
+<a id="org134461f"></a>
 
 # state
 
@@ -1411,7 +1412,7 @@ Which part of the States would you suggest I visit?
 I must say this is a very unsatisfactory state of affairs.
 
 
-<a id="org5e686db"></a>
+<a id="org69cdbe8"></a>
 
 # book
 
@@ -1472,3 +1473,51 @@ War criminals must be brought to book.
 ### be booked up
 
 The courses quickly get booked up.
+
+
+<a id="orgbc79093"></a>
+
+# quite
+
+非常，very->quite->extremely
+
+
+## 语义
+
+
+### 非常
+
+The food in the cafeteria is usually quite good.
+
+
+### 很
+
+The film was quite good, but the book was much better.
+
+
+### 完全的
+
+I'm sorry. That's quit impossible.
+
+
+### 同意
+
+'And if you by the record it's you choice isn't it.' -  'Quite'.
+
+
+## 短语
+
+
+### quite a something
+
+He's quite a good soccer player.
+
+
+### quite a lot
+
+He's got quite a lot of friends.
+
+
+### not quite what
+
+The play wasn't quite what we expected.

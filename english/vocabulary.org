@@ -723,3 +723,29 @@ War criminals must be brought to book.
 
 *** be booked up
 The courses quickly get booked up.
+
+* quite
+非常，very->quite->extremely
+** 语义
+*** 非常
+The food in the cafeteria is usually quite good.
+
+*** 很
+The film was quite good, but the book was much better.
+
+*** 完全的
+I'm sorry. That's quit impossible.
+
+*** 同意
+'And if you by the record it's you choice isn't it.' -  'Quite'.
+
+** 短语
+
+*** quite a something
+He's quite a good soccer player.
+
+*** quite a lot
+He's got quite a lot of friends.
+
+*** not quite what
+The play wasn't quite what we expected.
