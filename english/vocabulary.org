@@ -686,3 +686,40 @@ Which part of the States would you suggest I visit?
 
 *** state of affairs
 I must say this is a very unsatisfactory state of affairs.
+
+* book
+预订一本书
+
+** 语义
+
+*** 书
+I've just started reading a book by Graham Greene.
+
+*** 本子
+A black address book.
+
+*** 账目
+An accountant will examine the company's books.
+
+*** 名册
+A agent with a lot of popular actors on his books.
+
+*** 预订
+The flight was already fully booked.
+
+** 短语
+
+*** by the book
+She feels she has to go by the book and can't use her crativity.
+
+*** a closed book
+Chemistry is a closed book to me.
+
+*** in my book
+In my book, nothing is more important than football.
+
+*** brought somebody to book
+War criminals must be brought to book.
+
+*** be booked up
+The courses quickly get booked up.

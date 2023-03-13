@@ -1,36 +1,37 @@
 
 # Table of Contents
 
--   [some](#org8730afb)
--   [fine](#orga3c47d7)
--   [bold](#org3608b19)
--   [detail](#org71aed5a)
--   [firm](#orgcb45e60)
--   [false](#org4736692)
--   [string](#orgc83bba4)
--   [approach](#orgf6dc393)
--   [take](#orgd1d71a5)
--   [over](#orgc818d15)
--   [double](#org31d8acb)
--   [right](#org3f87c0a)
--   [play](#orgd494255)
--   [class](#org0d4ea28)
--   [context](#orgfbb0333)
--   [some time解析](#orgc3bcc0c)
--   [say](#orgba082b6)
--   [thought](#org8af0743)
--   [account](#orgc18688f)
--   [size](#org22a3e85)
--   [array](#org2f48436)
--   [order](#org5cd482e)
--   [clear](#org5e4ed73)
--   [step](#orgb13fad1)
--   [state](#orgbf64e17)
+-   [some](#org322b8b9)
+-   [fine](#org03486b3)
+-   [bold](#orgf01a9d6)
+-   [detail](#orgea30162)
+-   [firm](#orgcca7014)
+-   [false](#orgb69ebbc)
+-   [string](#org1ad729d)
+-   [approach](#orgad7ae92)
+-   [take](#org48a1d68)
+-   [over](#org5bc8ce0)
+-   [double](#orge417da6)
+-   [right](#org603ccec)
+-   [play](#org7e17518)
+-   [class](#orgacad3c5)
+-   [context](#org4527be9)
+-   [some time解析](#orgc6b9645)
+-   [say](#orgcfe0bf8)
+-   [thought](#org3558337)
+-   [account](#org4b04967)
+-   [size](#orgf60b89e)
+-   [array](#orgc1fd1a1)
+-   [order](#org5f1dcb0)
+-   [clear](#org477c7f1)
+-   [step](#orgfebf342)
+-   [state](#org8535ab3)
+-   [book](#org5e686db)
 
 Record my english study process.
 
 
-<a id="org8730afb"></a>
+<a id="org322b8b9"></a>
 
 # some
 
@@ -86,7 +87,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="orga3c47d7"></a>
+<a id="org03486b3"></a>
 
 # fine
 
@@ -154,7 +155,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="org3608b19"></a>
+<a id="orgf01a9d6"></a>
 
 # bold
 
@@ -186,7 +187,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="org71aed5a"></a>
+<a id="orgea30162"></a>
 
 # detail
 
@@ -224,7 +225,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="orgcb45e60"></a>
+<a id="orgcca7014"></a>
 
 # firm
 
@@ -267,7 +268,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="org4736692"></a>
+<a id="orgb69ebbc"></a>
 
 # false
 
@@ -292,7 +293,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="orgc83bba4"></a>
+<a id="org1ad729d"></a>
 
 # string
 
@@ -327,7 +328,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="orgf6dc393"></a>
+<a id="orgad7ae92"></a>
 
 # approach
 
@@ -349,7 +350,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="orgd1d71a5"></a>
+<a id="org48a1d68"></a>
 
 # take
 
@@ -416,7 +417,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="orgc818d15"></a>
+<a id="org5bc8ce0"></a>
 
 # over
 
@@ -468,7 +469,7 @@ The japanese were producing over 100 million tons of steel.
 The time for empty talk is  over.
 
 
-<a id="org31d8acb"></a>
+<a id="orge417da6"></a>
 
 # double
 
@@ -521,7 +522,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="org3f87c0a"></a>
+<a id="org603ccec"></a>
 
 # right
 
@@ -605,7 +606,7 @@ He was't entirely in the right.
 She confesses to having trouble finding Mr Right.
 
 
-<a id="orgd494255"></a>
+<a id="org7e17518"></a>
 
 # play
 
@@ -683,7 +684,7 @@ What the hell are you playing at?
 Breathing brings many muscles into play.
 
 
-<a id="org0d4ea28"></a>
+<a id="orgacad3c5"></a>
 
 # class
 
@@ -738,7 +739,7 @@ Kite is undoubtedly a class player.
 As a player, he was in a class of his own.
 
 
-<a id="orgfbb0333"></a>
+<a id="org4527be9"></a>
 
 # context
 
@@ -771,7 +772,7 @@ It is important that we put Jesus into the context of history.
 Thomas says that he has been taken out of context on the issue.
 
 
-<a id="orgc3bcc0c"></a>
+<a id="orgc6b9645"></a>
 
 # some time解析
 
@@ -801,7 +802,7 @@ I looked for you some times.
 分开一段时间，相聚在某个时刻，合并s是有时，分开s是几次
 
 
-<a id="orgba082b6"></a>
+<a id="orgcfe0bf8"></a>
 
 # say
 
@@ -864,7 +865,7 @@ It goes without saying that if someone has lung problems they should not smoke.
 Unemployment leads to a sence of useless, to say nothing of financial problems.
 
 
-<a id="org8af0743"></a>
+<a id="org3558337"></a>
 
 # thought
 
@@ -900,7 +901,7 @@ This school of thought argues that depression is best treated by drugs.
 ## 短语
 
 
-<a id="orgc18688f"></a>
+<a id="org4b04967"></a>
 
 # account
 
@@ -978,7 +979,7 @@ Tony told me what she's done and i was really scared on her account.
 Analysis of slowing car sales should take into account the strong seasonality & cyclical factor.
 
 
-<a id="org22a3e85"></a>
+<a id="orgf60b89e"></a>
 
 # size
 
@@ -1026,7 +1027,7 @@ The once-powerful post unions have been cut down to size.
 She was trying on an $8000 jacket for size.
 
 
-<a id="org2f48436"></a>
+<a id="orgc1fd1a1"></a>
 
 # array
 
@@ -1053,7 +1054,7 @@ The image is then stored on the computer hard disk as a vast arry of black and w
 Make-up arrayed on the bashroom counter.
 
 
-<a id="org5cd482e"></a>
+<a id="org5f1dcb0"></a>
 
 # order
 
@@ -1121,7 +1122,7 @@ Everything is in order.
 People accepted the class system as part of the natural order of things.
 
 
-<a id="org5e4ed73"></a>
+<a id="org477c7f1"></a>
 
 # clear
 
@@ -1254,7 +1255,7 @@ This agreement will clear the way for further talks.
 If you are a beginner, steer clear of resorts with reputations for difficult skiing.
 
 
-<a id="orgb13fad1"></a>
+<a id="orgfebf342"></a>
 
 # step
 
@@ -1337,7 +1338,7 @@ A good teacher is always at least one step ahead of his students.
 I'm not worried about stepping on anybody's toes.
 
 
-<a id="orgbf64e17"></a>
+<a id="org8535ab3"></a>
 
 # state
 
@@ -1408,3 +1409,66 @@ Which part of the States would you suggest I visit?
 ### state of affairs
 
 I must say this is a very unsatisfactory state of affairs.
+
+
+<a id="org5e686db"></a>
+
+# book
+
+预订一本书
+
+
+## 语义
+
+
+### 书
+
+I've just started reading a book by Graham Greene.
+
+
+### 本子
+
+A black address book.
+
+
+### 账目
+
+An accountant will examine the company's books.
+
+
+### 名册
+
+A agent with a lot of popular actors on his books.
+
+
+### 预订
+
+The flight was already fully booked.
+
+
+## 短语
+
+
+### by the book
+
+She feels she has to go by the book and can't use her crativity.
+
+
+### a closed book
+
+Chemistry is a closed book to me.
+
+
+### in my book
+
+In my book, nothing is more important than football.
+
+
+### brought somebody to book
+
+War criminals must be brought to book.
+
+
+### be booked up
+
+The courses quickly get booked up.
