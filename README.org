@@ -285,8 +285,8 @@ https://twitter.com/i/status/1620721190536114177
 ** Run region code with command line
 I have an request to run curl script with shell, normaly the content is paste from other place, so I think this is any way the emacs can do this, After search emacs doc and
 request google, I found the 'shell-commond-on-region'. When I run this command, it works, but another issue occurs that the result only shows in the minibuffer which I can't
-do it more like search or copy. Fortunately, the SO user @[[https://emacs.stackexchange.com/users/3889/xuchunyang][xuchunyang]] give me the perfect anwser, an customed 'shell-command-on-region' which output the result after the request bufere
-. With this, I can do more imaginable.
+do it more like search or copy. Fortunately, the SO user @[[https://emacs.stackexchange.com/users/3889/xuchunyang][xuchunyang]] give me the perfect anwser, an customed 'shell-command-on-region' which output the result after the
+request bufer. With this, I can do more imaginable.
 *** [[https://emacs.stackexchange.com/questions/55506/run-current-line-or-selection-in-shell-then-insert-result-in-emacs-buffer-acme][key bindings - Run current line or selection in shell then insert result in Emacs buffer (Acme workflow) - Emacs Stack Exchange]]
 Captured On: [2023-03-14 Tue 15:03]
 

@@ -307,6 +307,8 @@ A band was playing.
 What the hell are you playing at?
 *** bring into play
 Breathing brings many muscles into play.
+*** play out
+It's not clear how his fate will play out.
 * class
 班级里有课程，还有阶级？
 ** 语义
@@ -824,3 +826,46 @@ Kinnock is no mean performer on the rugby field.
 
 *** the mean between something and something
 It's a case of finding the mean between firmness and compassion.
+
+* term
+一个时期，一个术语
+
+** 语义
+
+*** 术语
+'Multimedia' is the term for any technique combining sounds and images.
+
+*** 时期，任期
+The mayor was coming to the end of his term in office.
+
+*** 学期
+The exam are at the end of the summer term.
+
+*** 到期
+The agreement reaches its term next year.
+
+*** 条款
+Under the terms of the agreement, the debt would be repaid over 20 years.
+
+*** 把...称为
+This condition is sometimes termed RSI, or repetive strain injury.
+
+** 短语
+
+*** in terms of
+It's a mistake to think of Florida only *in terms of* its tourist attractions.
+
+*** in no uncertain terms
+Journalist were told *in no uncertain terms* that they were not welcome.
+
+*** in the long term
+*In the long term* , alcohol causes high blood pressure.
+
+*** come to terms with something
+Counselling helped her *come to terms with* her grief.
+
+*** equal terms
+Small business have to compete on *equal terms* with large organisations.
+
+*** be on good terms
+By now, Usha and I *were on familiar terms* .
