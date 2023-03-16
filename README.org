@@ -331,7 +331,18 @@ do it more like search or copy. Fortunately, the SO user @[[https://emacs.stacke
 request bufer. With this, I can do more imaginable.
 *** [[https://emacs.stackexchange.com/questions/55506/run-current-line-or-selection-in-shell-then-insert-result-in-emacs-buffer-acme][key bindings - Run current line or selection in shell then insert result in Emacs buffer (Acme workflow) - Emacs Stack Exchange]]
 Captured On: [2023-03-14 Tue 15:03]
+** Joint multi lines to one line
+Sometimes in develop, we need to convert multi line content to one line, we can realize with Emacs 'join line' command.
+#+begin_src xml
+<dependency>
+  <groupId>org.springframework</groupId>
+  <artifactId>spring-core</artifactId>
+  <version>5.3.23</version>
+  <scope>compile</scope>
+</dependency>
+#+end_src
 
+https://cdn.jsdelivr.net/gh/peng051410/bucket@main/img/emacs-join-lines.gif
 
 * Org hugo add shortcode
 Hugo支持短代码形式在生成html时填充模板内容，shortcode配置的html文件放在 */layouts/shortcodes* 目录下即可，下面的代码就可以实现在博客中嵌入[[https://www.bilibili.com/video/BV1pD4y1K7iw/][B站]]的视频
