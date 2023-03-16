@@ -258,54 +258,39 @@
     hostname -i
 
 
-<a id="org2b5255e"></a>
+<a id="org265922f"></a>
 
 ## Delete file expect few files
 
     rm -v !("filname1"|"file2")
 
 
-<a id="orgc7d3c60"></a>
+<a id="orgc8622b9"></a>
 
 ## Sync file from source to target increment
 
     rsync -av Documents/* /tmp/documents
 
 
-<a id="org14c8e89"></a>
+<a id="org880d092"></a>
 
 ## How to get Maven project version from cmd
 
     mvn -q -Dexec.executable=echo -Dexec.args='${project.artifactId}' --non-recursive exec:
 
 
-<a id="orgb806285"></a>
+<a id="org8715920"></a>
 
 ## Maven use alternative repo
 
     mvn -DaltDeploymentRepository=repoid::default::http://ip/nexus/content/repositories/releases clean source:jar-no-fork deploy
 
 
-<a id="org44b1d7f"></a>
+<a id="org8abb323"></a>
 
 ## Maven download dependency source code
 
 mvn can download all project dependency jar source code by the [maven-dependency-plugin](https://maven.apache.org/plugins/maven-dependency-plugin/)
-, there are two approach to reach the goal.
-
-
-<a id="orgafe861a"></a>
-
-### Run dependency command directly
-
-    mvn dependency:sources -Dsilent=true
-
-I prefer this way.
-
-
-<a id="orgd815611"></a>
-
-### Config on pom.xml
 
     <plugin>
         <groupId>org.apache.maven.plugins</groupId>
