@@ -100,6 +100,35 @@ mvn -q -Dexec.executable=echo -Dexec.args='${project.artifactId}' --non-recursiv
 mvn -DaltDeploymentRepository=repoid::default::http://ip/nexus/content/repositories/releases clean source:jar-no-fork deploy
 #+end_src
 
+** Maven download dependency source code
+mvn can download all project dependency jar source code by the [[https://maven.apache.org/plugins/maven-dependency-plugin/][maven-dependency-plugin]]
+#+begin_src xml
+<plugin>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-dependency-plugin</artifactId>
+    <version>3.5.0</version>
+    <executions>
+      <execution>
+        <id>download-sources</id>
+        <goals>
+          <goal>sources</goal>
+        </goals>
+        <configuration>
+        </configuration>
+      </execution>
+    </executions>
+  </plugin>
+#+end_src
+
+After add the plugin config, run cmd to download source code
+
+#+begin_src sh
+mvn dependency:sources -Dsilent=true
+#+end_src
+
+*** [[https://stackoverflow.com/questions/11361331/how-to-download-sources-for-a-jar-with-maven][java - How to download sources for a jar with Maven? - Stack Overflow]]
+Captured On: [2023-03-16 Thu 16:04]
+
 ** Scp with port
 #+begin_src sh
 scp -P 2222 file host@localhost:~/linux-study
