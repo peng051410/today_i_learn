@@ -90,49 +90,6 @@ rm -v !("filname1"|"file2")
 rsync -av Documents/* /tmp/documents
 #+end_src
 
-** How to get Maven project version from cmd
-#+begin_src sh
-mvn -q -Dexec.executable=echo -Dexec.args='${project.artifactId}' --non-recursive exec:
-#+end_src
-
-** Maven use alternative repo
-#+begin_src sh
-mvn -DaltDeploymentRepository=repoid::default::http://ip/nexus/content/repositories/releases clean source:jar-no-fork deploy
-#+end_src
-
-** Maven download dependency source code
-mvn can download all project dependency jar source code by the [[https://maven.apache.org/plugins/maven-dependency-plugin/][maven-dependency-plugin]]
-, there are two approach to reach the goal.
-*** Run dependency command directly
-#+begin_src sh
-mvn dependency:sources -Dsilent=true
-#+end_src
-
-I prefer this way.
-*** Config on pom.xml
-#+begin_src xml
-<plugin>
-    <groupId>org.apache.maven.plugins</groupId>
-    <artifactId>maven-dependency-plugin</artifactId>
-    <version>3.5.0</version>
-    <executions>
-      <execution>
-        <id>download-sources</id>
-        <goals>
-          <goal>sources</goal>
-        </goals>
-        <configuration>
-        </configuration>
-      </execution>
-    </executions>
-  </plugin>
-#+end_src
-
-After add the plugin config, run normal mvn command to download source code
-
-*** [[https://stackoverflow.com/questions/11361331/how-to-download-sources-for-a-jar-with-maven][java - How to download sources for a jar with Maven? - Stack Overflow]]
-Captured On: [2023-03-16 Thu 16:04]
-
 ** Scp with port
 #+begin_src sh
 scp -P 2222 file host@localhost:~/linux-study
@@ -232,6 +189,58 @@ echo "hello world" | cut -b 2-5
 #+begin_src sh
 ello
 #+end_src
+
+* Maven
+** How to get Maven project version from cmd
+#+begin_src sh
+mvn -q -Dexec.executable=echo -Dexec.args='${project.artifactId}' --non-recursive exec:
+#+end_src
+
+** Maven use alternative repo
+#+begin_src sh
+mvn -DaltDeploymentRepository=repoid::default::http://ip/nexus/content/repositories/releases clean source:jar-no-fork deploy
+#+end_src
+
+** Maven download dependency source code
+mvn can download all project dependency jar source code by the [[https://maven.apache.org/plugins/maven-dependency-plugin/][maven-dependency-plugin]]
+, there are two approach to reach the goal.
+*** Run dependency command directly
+#+begin_src sh
+mvn dependency:sources -Dsilent=true
+#+end_src
+
+I prefer this way.
+*** Config on pom.xml
+#+begin_src xml
+<plugin>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-dependency-plugin</artifactId>
+    <version>3.5.0</version>
+    <executions>
+      <execution>
+        <id>download-sources</id>
+        <goals>
+          <goal>sources</goal>
+        </goals>
+        <configuration>
+        </configuration>
+      </execution>
+    </executions>
+  </plugin>
+#+end_src
+
+After add the plugin config, run normal mvn command to download source code
+
+*** [[https://stackoverflow.com/questions/11361331/how-to-download-sources-for-a-jar-with-maven][java - How to download sources for a jar with Maven? - Stack Overflow]]
+Captured On: [2023-03-16 Thu 16:04]
+
+** Maven get settings file location
+#+begin_src sh
+mvn -X clean | grep "settings"
+#+end_src
+*** [[https://www.baeldung.com/maven-settings-xml][The settings.xml File in Maven | Baeldung]]
+Captured On: [2023-03-16 Thu 16:35]
+
 
 * Emacs
 ** 给Emacs文档增加目录
