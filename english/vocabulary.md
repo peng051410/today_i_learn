@@ -1,41 +1,42 @@
 
 # Table of Contents
 
--   [some](#orgaba1b3f)
--   [fine](#org84101d6)
--   [bold](#orgb559504)
--   [detail](#orgf621d15)
--   [firm](#org08aae52)
--   [false](#org28cbf2d)
--   [string](#orgc02be1a)
--   [approach](#orgf535950)
--   [take](#orgfabfe4c)
--   [over](#org98cfacb)
--   [double](#orgca7f0fc)
--   [right](#org79c16be)
--   [play](#org6bd23cd)
--   [class](#org19ab90e)
--   [context](#orgbd944b9)
--   [some time解析](#orgdeb41f3)
--   [say](#org26c0952)
--   [thought](#orge62d171)
--   [account](#org99c2502)
--   [size](#orge64b22e)
--   [array](#org642984e)
--   [order](#orge5bcb67)
--   [clear](#org68ce84a)
--   [step](#org963e092)
--   [state](#orga6bb333)
--   [book](#org68cc3ec)
--   [quite](#orgaa50052)
--   [mean](#org402d011)
--   [term](#orgb233797)
--   [act](#org3047f37)
+-   [some](#org6e2d828)
+-   [fine](#orgc33ad71)
+-   [bold](#orga5c2f3d)
+-   [detail](#org0c552ca)
+-   [firm](#org94eac84)
+-   [false](#org1f92a2d)
+-   [string](#org9c1a84d)
+-   [approach](#orgffac093)
+-   [take](#org42f5b26)
+-   [over](#org201653f)
+-   [double](#orgc2a11ce)
+-   [right](#orgbb4dd2f)
+-   [play](#orgb508591)
+-   [class](#org5bf6be2)
+-   [context](#orgfe72b9e)
+-   [some time解析](#orgc839a75)
+-   [say](#org4caf8a9)
+-   [thought](#orgb0e3835)
+-   [account](#orgd504e15)
+-   [size](#orge8a75a2)
+-   [array](#orgcd71efa)
+-   [order](#orgf837855)
+-   [clear](#orgbc51311)
+-   [step](#orgcb7c287)
+-   [state](#orgb3518dc)
+-   [book](#orgf35660a)
+-   [quite](#org23a87a7)
+-   [mean](#org761a756)
+-   [term](#orgb517943)
+-   [act](#org4fced1a)
+-   [capital](#org52607c2)
 
 Record my english study process.
 
 
-<a id="orgaba1b3f"></a>
+<a id="org6e2d828"></a>
 
 # some
 
@@ -91,7 +92,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="org84101d6"></a>
+<a id="orgc33ad71"></a>
 
 # fine
 
@@ -159,7 +160,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="orgb559504"></a>
+<a id="orga5c2f3d"></a>
 
 # bold
 
@@ -191,7 +192,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="orgf621d15"></a>
+<a id="org0c552ca"></a>
 
 # detail
 
@@ -229,7 +230,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="org08aae52"></a>
+<a id="org94eac84"></a>
 
 # firm
 
@@ -272,7 +273,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="org28cbf2d"></a>
+<a id="org1f92a2d"></a>
 
 # false
 
@@ -297,7 +298,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="orgc02be1a"></a>
+<a id="org9c1a84d"></a>
 
 # string
 
@@ -332,7 +333,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="orgf535950"></a>
+<a id="orgffac093"></a>
 
 # approach
 
@@ -354,7 +355,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="orgfabfe4c"></a>
+<a id="org42f5b26"></a>
 
 # take
 
@@ -421,7 +422,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="org98cfacb"></a>
+<a id="org201653f"></a>
 
 # over
 
@@ -473,7 +474,7 @@ The japanese were producing over 100 million tons of steel.
 The time for empty talk is  over.
 
 
-<a id="orgca7f0fc"></a>
+<a id="orgc2a11ce"></a>
 
 # double
 
@@ -526,7 +527,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="org79c16be"></a>
+<a id="orgbb4dd2f"></a>
 
 # right
 
@@ -610,7 +611,7 @@ He was't entirely in the right.
 She confesses to having trouble finding Mr Right.
 
 
-<a id="org6bd23cd"></a>
+<a id="orgb508591"></a>
 
 # play
 
@@ -693,7 +694,7 @@ Breathing brings many muscles into play.
 It's not clear how his fate will play out.
 
 
-<a id="org19ab90e"></a>
+<a id="org5bf6be2"></a>
 
 # class
 
@@ -748,7 +749,7 @@ Kite is undoubtedly a class player.
 As a player, he was in a class of his own.
 
 
-<a id="orgbd944b9"></a>
+<a id="orgfe72b9e"></a>
 
 # context
 
@@ -781,7 +782,7 @@ It is important that we put Jesus into the context of history.
 Thomas says that he has been taken out of context on the issue.
 
 
-<a id="orgdeb41f3"></a>
+<a id="orgc839a75"></a>
 
 # some time解析
 
@@ -811,7 +812,7 @@ I looked for you some times.
 分开一段时间，相聚在某个时刻，合并s是有时，分开s是几次
 
 
-<a id="org26c0952"></a>
+<a id="org4caf8a9"></a>
 
 # say
 
@@ -874,7 +875,7 @@ It goes without saying that if someone has lung problems they should not smoke.
 Unemployment leads to a sence of useless, to say nothing of financial problems.
 
 
-<a id="orge62d171"></a>
+<a id="orgb0e3835"></a>
 
 # thought
 
@@ -910,7 +911,7 @@ This school of thought argues that depression is best treated by drugs.
 ## 短语
 
 
-<a id="org99c2502"></a>
+<a id="orgd504e15"></a>
 
 # account
 
@@ -988,7 +989,7 @@ Tony told me what she's done and i was really scared on her account.
 Analysis of slowing car sales should take into account the strong seasonality & cyclical factor.
 
 
-<a id="orge64b22e"></a>
+<a id="orge8a75a2"></a>
 
 # size
 
@@ -1036,7 +1037,7 @@ The once-powerful post unions have been cut down to size.
 She was trying on an $8000 jacket for size.
 
 
-<a id="org642984e"></a>
+<a id="orgcd71efa"></a>
 
 # array
 
@@ -1063,7 +1064,7 @@ The image is then stored on the computer hard disk as a vast arry of black and w
 Make-up arrayed on the bashroom counter.
 
 
-<a id="orge5bcb67"></a>
+<a id="orgf837855"></a>
 
 # order
 
@@ -1131,7 +1132,7 @@ Everything is in order.
 People accepted the class system as part of the natural order of things.
 
 
-<a id="org68ce84a"></a>
+<a id="orgbc51311"></a>
 
 # clear
 
@@ -1264,7 +1265,7 @@ This agreement will clear the way for further talks.
 If you are a beginner, steer clear of resorts with reputations for difficult skiing.
 
 
-<a id="org963e092"></a>
+<a id="orgcb7c287"></a>
 
 # step
 
@@ -1347,7 +1348,7 @@ A good teacher is always at least one step ahead of his students.
 I'm not worried about stepping on anybody's toes.
 
 
-<a id="orga6bb333"></a>
+<a id="orgb3518dc"></a>
 
 # state
 
@@ -1420,7 +1421,7 @@ Which part of the States would you suggest I visit?
 I must say this is a very unsatisfactory state of affairs.
 
 
-<a id="org68cc3ec"></a>
+<a id="orgf35660a"></a>
 
 # book
 
@@ -1483,7 +1484,7 @@ War criminals must be brought to book.
 The courses quickly get booked up.
 
 
-<a id="orgaa50052"></a>
+<a id="org23a87a7"></a>
 
 # quite
 
@@ -1531,7 +1532,7 @@ He's got quite a lot of friends.
 The play wasn't quite what we expected.
 
 
-<a id="org402d011"></a>
+<a id="org761a756"></a>
 
 # mean
 
@@ -1656,7 +1657,7 @@ Kinnock is no mean performer on the rugby field.
 It's a case of finding the mean between firmness and compassion.
 
 
-<a id="orgb233797"></a>
+<a id="orgb517943"></a>
 
 # term
 
@@ -1729,7 +1730,7 @@ Small business have to compete on **equal terms** with large organisations.
 By now, Usha and I **were on familiar terms** .
 
 
-<a id="org3047f37"></a>
+<a id="org4fced1a"></a>
 
 # act
 
@@ -1820,3 +1821,46 @@ The padding **acts as** a cushion if the player fails or is hit by the ball.
 ### act on
 
 A patient will usually listen to the doctor's advice and **act on** it.
+
+
+<a id="org52607c2"></a>
+
+# capital
+
+首都很有钱
+
+
+## 语义
+
+
+### 首都
+
+Washington.D.C., the capital of the Unite States.
+
+
+### 资金
+
+The government is eager to attract foreign capital.
+
+
+### 中心
+
+Hollywood is the capital of the movie industry.
+
+
+### 大写的
+
+The name and the address are written in capitals.
+
+
+### 情节严重的
+
+Espionage is a capital offence in this country.
+
+
+## 短语
+
+
+### is making capital out of
+
+He rebuked the President for trying to make political capital out of the hostage situation.

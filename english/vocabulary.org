@@ -971,3 +971,28 @@ The padding *acts as* a cushion if the player fails or is hit by the ball.
 :ID:       34E1EEF2-FC4C-49C8-9F3F-0E9704D60A10
 :END:
 A patient will usually listen to the doctor's advice and *act on* it.
+
+* capital
+首都很有钱
+
+** 语义
+
+*** 首都
+Washington.D.C., the capital of the Unite States.
+
+*** 资金
+The government is eager to attract foreign capital.
+
+*** 中心
+Hollywood is the capital of the movie industry.
+
+*** 大写的
+The name and the address are written in capitals.
+
+*** 情节严重的
+Espionage is a capital offence in this country.
+
+** 短语
+
+*** is making capital out of
+He rebuked the President for trying to make political capital out of the hostage situation.
