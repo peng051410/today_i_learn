@@ -869,3 +869,105 @@ Small business have to compete on *equal terms* with large organisations.
 
 *** be on good terms
 By now, Usha and I *were on familiar terms* .
+
+* act
+:PROPERTIES:
+:ID:       4B6A82F0-D88F-4793-960B-8885C6EE9EA1
+:END:
+行为，也是法令
+** 语义
+:PROPERTIES:
+:ID:       5ACCE50F-B719-485F-91A1-18BBFF3EAA86
+:END:
+*** 行为
+:PROPERTIES:
+:ID:       7D3D8850-2FE8-4E57-9015-B1363FCD95B5
+:END:
+The new president's first act should be to end the war.
+*** 法令
+:PROPERTIES:
+:ID:       CEF740FC-51DC-4617-ABEE-BD70D063255E
+:END:
+the Housing and Community Development Act of 1977.
+*** 装模作样
+:PROPERTIES:
+:ID:       59C67FFD-2198-49EE-BB4E-24AB5F809168
+:END:
+Mike played the loving husband in front of the children but it was all an act.
+*** 戏剧的一幕
+:PROPERTIES:
+:ID:       106E1C1E-656E-41A6-BE7B-9ECD26C468AB
+:END:
+I arrived at the theater late and missed the first act.
+*** 一段表演
+:PROPERTIES:
+:ID:       E8434EB2-EF9A-4B92-BA09-453B5B0D1B98
+:END:
+The argument was just part of their act.
+*** 演出者
+:PROPERTIES:
+:ID:       99518B49-71FD-4577-A15E-174B23312224
+:END:
+The band is one of many acts that have been booked for the concert.
+*** 行动
+:PROPERTIES:
+:ID:       74D1BFF0-58C6-4857-99F3-4598B13F2FA0
+:END:
+The company acted correctly in sacking him.
+*** 表现
+:PROPERTIES:
+:ID:       52E44B8A-3CEA-4B9F-AB69-593AAED8C9F4
+:END:
+He's been acting strangely ever since his mom died.
+*** 假装
+:PROPERTIES:
+:ID:       DFCB8420-F43C-4551-A452-4A154AF07E4D
+:END:
+When he's angry, he acts the fool.
+** 短语
+:PROPERTIES:
+:ID:       758CF8B4-86DF-4655-8184-0740AD67EE10
+:END:
+
+*** act of something
+:PROPERTIES:
+:ID:       A831D037-64EF-43FA-8B7B-4FCF6C56E01B
+:END:
+The *act of* writing a list can help to calm you down.
+
+*** in the act of doing something
+:PROPERTIES:
+:I*D:       ECEC6371-25B*F-431C-ADFF-377A760E5BB5
+:ID:       C4D14F46-5314-4382-A337-03EEEC318DAE
+:END:
+Lindsay paused *in the act of putting* down the phone
+
+*** get your act together
+:PROPERTIES:
+:ID:       9D254454-F20B-46BF-9D7F-17BA2196D698
+:END:
+You need to *get your act together* if you're going to find the right house to buy.
+
+*** a hard act to follow
+:PROPERTIES:
+:ID:       76C16CDA-A9A3-41AF-9F54-0901FAF4A1E9
+:END:
+He has been a very successful captain and will be *a hard act to follow*.
+
+*** act a role
+:PROPERTIES:
+:ID:       CB3E6C0F-1636-434D-A5D6-78B5D8F14B87
+:END:
+She is *acting the role* of Lady Macbeth six evenings a week.
+
+*** act as
+:PROPERTIES:
+:ID:       D1D99854-C084-4FC4-954C-B794263404B9
+:END:
+The padding *acts as* a cushion if the player fails or is hit by the ball.
+
+*** act on
+:PROPERTIES:
+:ID:       34E1EEF2-FC4C-49C8-9F3F-0E9704D60A10
+:END:
+A patient will usually listen to the doctor's advice and *act on* it.

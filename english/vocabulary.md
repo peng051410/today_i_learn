@@ -1,40 +1,41 @@
 
 # Table of Contents
 
--   [some](#org17ad8b3)
--   [fine](#org04d2e59)
--   [bold](#org3de20d3)
--   [detail](#org3bfdc46)
--   [firm](#org8764979)
--   [false](#org2506c54)
--   [string](#org7c3fccb)
--   [approach](#org27d2666)
--   [take](#org98f7786)
--   [over](#org6676403)
--   [double](#org6e8c6bd)
--   [right](#org7829fad)
--   [play](#orge5f5da8)
--   [class](#orgc44f18c)
--   [context](#orga63c33e)
--   [some time解析](#orgb7c894e)
--   [say](#org7ffff4d)
--   [thought](#org9f110f6)
--   [account](#orgec36b7d)
--   [size](#org5b180d8)
--   [array](#orgb605262)
--   [order](#orgfa25c6b)
--   [clear](#org6a73861)
--   [step](#org2e48895)
--   [state](#org4bac854)
--   [book](#org33f6627)
--   [quite](#orge05b799)
--   [mean](#org2b967ab)
--   [term](#orgd7fdd2e)
+-   [some](#orgaba1b3f)
+-   [fine](#org84101d6)
+-   [bold](#orgb559504)
+-   [detail](#orgf621d15)
+-   [firm](#org08aae52)
+-   [false](#org28cbf2d)
+-   [string](#orgc02be1a)
+-   [approach](#orgf535950)
+-   [take](#orgfabfe4c)
+-   [over](#org98cfacb)
+-   [double](#orgca7f0fc)
+-   [right](#org79c16be)
+-   [play](#org6bd23cd)
+-   [class](#org19ab90e)
+-   [context](#orgbd944b9)
+-   [some time解析](#orgdeb41f3)
+-   [say](#org26c0952)
+-   [thought](#orge62d171)
+-   [account](#org99c2502)
+-   [size](#orge64b22e)
+-   [array](#org642984e)
+-   [order](#orge5bcb67)
+-   [clear](#org68ce84a)
+-   [step](#org963e092)
+-   [state](#orga6bb333)
+-   [book](#org68cc3ec)
+-   [quite](#orgaa50052)
+-   [mean](#org402d011)
+-   [term](#orgb233797)
+-   [act](#org3047f37)
 
 Record my english study process.
 
 
-<a id="org17ad8b3"></a>
+<a id="orgaba1b3f"></a>
 
 # some
 
@@ -90,7 +91,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="org04d2e59"></a>
+<a id="org84101d6"></a>
 
 # fine
 
@@ -158,7 +159,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="org3de20d3"></a>
+<a id="orgb559504"></a>
 
 # bold
 
@@ -190,7 +191,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="org3bfdc46"></a>
+<a id="orgf621d15"></a>
 
 # detail
 
@@ -228,7 +229,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="org8764979"></a>
+<a id="org08aae52"></a>
 
 # firm
 
@@ -271,7 +272,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="org2506c54"></a>
+<a id="org28cbf2d"></a>
 
 # false
 
@@ -296,7 +297,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="org7c3fccb"></a>
+<a id="orgc02be1a"></a>
 
 # string
 
@@ -331,7 +332,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="org27d2666"></a>
+<a id="orgf535950"></a>
 
 # approach
 
@@ -353,7 +354,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="org98f7786"></a>
+<a id="orgfabfe4c"></a>
 
 # take
 
@@ -420,7 +421,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="org6676403"></a>
+<a id="org98cfacb"></a>
 
 # over
 
@@ -472,7 +473,7 @@ The japanese were producing over 100 million tons of steel.
 The time for empty talk is  over.
 
 
-<a id="org6e8c6bd"></a>
+<a id="orgca7f0fc"></a>
 
 # double
 
@@ -525,7 +526,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="org7829fad"></a>
+<a id="org79c16be"></a>
 
 # right
 
@@ -609,7 +610,7 @@ He was't entirely in the right.
 She confesses to having trouble finding Mr Right.
 
 
-<a id="orge5f5da8"></a>
+<a id="org6bd23cd"></a>
 
 # play
 
@@ -692,7 +693,7 @@ Breathing brings many muscles into play.
 It's not clear how his fate will play out.
 
 
-<a id="orgc44f18c"></a>
+<a id="org19ab90e"></a>
 
 # class
 
@@ -747,7 +748,7 @@ Kite is undoubtedly a class player.
 As a player, he was in a class of his own.
 
 
-<a id="orga63c33e"></a>
+<a id="orgbd944b9"></a>
 
 # context
 
@@ -780,7 +781,7 @@ It is important that we put Jesus into the context of history.
 Thomas says that he has been taken out of context on the issue.
 
 
-<a id="orgb7c894e"></a>
+<a id="orgdeb41f3"></a>
 
 # some time解析
 
@@ -810,7 +811,7 @@ I looked for you some times.
 分开一段时间，相聚在某个时刻，合并s是有时，分开s是几次
 
 
-<a id="org7ffff4d"></a>
+<a id="org26c0952"></a>
 
 # say
 
@@ -873,7 +874,7 @@ It goes without saying that if someone has lung problems they should not smoke.
 Unemployment leads to a sence of useless, to say nothing of financial problems.
 
 
-<a id="org9f110f6"></a>
+<a id="orge62d171"></a>
 
 # thought
 
@@ -909,7 +910,7 @@ This school of thought argues that depression is best treated by drugs.
 ## 短语
 
 
-<a id="orgec36b7d"></a>
+<a id="org99c2502"></a>
 
 # account
 
@@ -987,7 +988,7 @@ Tony told me what she's done and i was really scared on her account.
 Analysis of slowing car sales should take into account the strong seasonality & cyclical factor.
 
 
-<a id="org5b180d8"></a>
+<a id="orge64b22e"></a>
 
 # size
 
@@ -1035,7 +1036,7 @@ The once-powerful post unions have been cut down to size.
 She was trying on an $8000 jacket for size.
 
 
-<a id="orgb605262"></a>
+<a id="org642984e"></a>
 
 # array
 
@@ -1062,7 +1063,7 @@ The image is then stored on the computer hard disk as a vast arry of black and w
 Make-up arrayed on the bashroom counter.
 
 
-<a id="orgfa25c6b"></a>
+<a id="orge5bcb67"></a>
 
 # order
 
@@ -1130,7 +1131,7 @@ Everything is in order.
 People accepted the class system as part of the natural order of things.
 
 
-<a id="org6a73861"></a>
+<a id="org68ce84a"></a>
 
 # clear
 
@@ -1263,7 +1264,7 @@ This agreement will clear the way for further talks.
 If you are a beginner, steer clear of resorts with reputations for difficult skiing.
 
 
-<a id="org2e48895"></a>
+<a id="org963e092"></a>
 
 # step
 
@@ -1346,7 +1347,7 @@ A good teacher is always at least one step ahead of his students.
 I'm not worried about stepping on anybody's toes.
 
 
-<a id="org4bac854"></a>
+<a id="orga6bb333"></a>
 
 # state
 
@@ -1419,7 +1420,7 @@ Which part of the States would you suggest I visit?
 I must say this is a very unsatisfactory state of affairs.
 
 
-<a id="org33f6627"></a>
+<a id="org68cc3ec"></a>
 
 # book
 
@@ -1482,7 +1483,7 @@ War criminals must be brought to book.
 The courses quickly get booked up.
 
 
-<a id="orge05b799"></a>
+<a id="orgaa50052"></a>
 
 # quite
 
@@ -1530,7 +1531,7 @@ He's got quite a lot of friends.
 The play wasn't quite what we expected.
 
 
-<a id="org2b967ab"></a>
+<a id="org402d011"></a>
 
 # mean
 
@@ -1655,7 +1656,7 @@ Kinnock is no mean performer on the rugby field.
 It's a case of finding the mean between firmness and compassion.
 
 
-<a id="orgd7fdd2e"></a>
+<a id="orgb233797"></a>
 
 # term
 
@@ -1726,3 +1727,96 @@ Small business have to compete on **equal terms** with large organisations.
 ### be on good terms
 
 By now, Usha and I **were on familiar terms** .
+
+
+<a id="org3047f37"></a>
+
+# act
+
+行为，也是法令
+
+
+## 语义
+
+
+### 行为
+
+The new president's first act should be to end the war.
+
+
+### 法令
+
+the Housing and Community Development Act of 1977.
+
+
+### 装模作样
+
+Mike played the loving husband in front of the children but it was all an act.
+
+
+### 戏剧的一幕
+
+I arrived at the theater late and missed the first act.
+
+
+### 一段表演
+
+The argument was just part of their act.
+
+
+### 演出者
+
+The band is one of many acts that have been booked for the concert.
+
+
+### 行动
+
+The company acted correctly in sacking him.
+
+
+### 表现
+
+He's been acting strangely ever since his mom died.
+
+
+### 假装
+
+When he's angry, he acts the fool.
+
+
+## 短语
+
+
+### act of something
+
+The **act of** writing a list can help to calm you down.
+
+
+### in the act of doing something
+
+Lindsay paused **in the act of putting** down the phone
+
+
+### get your act together
+
+You need to **get your act together** if you're going to find the right house to buy.
+
+
+### a hard act to follow
+
+He has been a very successful captain and will be **a hard act to follow**.
+
+
+### act a role
+
+She is **acting the role** of Lady Macbeth six evenings a week.
+
+
+### act as
+
+The padding **acts as** a cushion if the player fails or is hit by the ball.
+
+
+### act on
+
+A patient will usually listen to the doctor's advice and **act on** it.
