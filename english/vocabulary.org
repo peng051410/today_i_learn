@@ -996,3 +996,53 @@ Espionage is a capital offence in this country.
 
 *** is making capital out of
 He rebuked the President for trying to make political capital out of the hostage situation.
+
+* range
+一系列的界限
+
+** 语义
+
+*** 一系列
+The drug is effective against a range of bacteria.
+
+*** 范围
+Your blood pressure's well within the normal range.
+
+*** 系列产品
+The watches in this range are priced at $24.5.
+
+*** 射程
+We waited until the enemy was within range.
+
+*** 音域
+He vocal range is amazing.
+
+*** 山脉
+A land of high mountain ranges and deep valleys.
+
+*** 射击场
+The police shooting range.
+
+*** 能力范围
+An actor of extraordinary range and intensity.
+
+*** 包含
+The show has a massive audience, ranging from children to grandparents.
+
+*** 闲逛
+Cattle ranged over the pastures in search of food.
+
+*** 排列
+In the dining room, team photographs were ranged along the wall.
+** 短语
+*** range from something to something
+There were 120 students whose ages ranged from 10 to 18.
+
+*** range yourself against somebody
+Individuals who had ranged themselves against the authorities.
+
+*** range over
+The conversation had ranged over a variety of topics, from sport to current affairs.
+
+*** at close range
+He was shot in the head at close range.

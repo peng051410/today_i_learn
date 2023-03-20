@@ -1,42 +1,43 @@
 
 # Table of Contents
 
--   [some](#org6e2d828)
--   [fine](#orgc33ad71)
--   [bold](#orga5c2f3d)
--   [detail](#org0c552ca)
--   [firm](#org94eac84)
--   [false](#org1f92a2d)
--   [string](#org9c1a84d)
--   [approach](#orgffac093)
--   [take](#org42f5b26)
--   [over](#org201653f)
--   [double](#orgc2a11ce)
--   [right](#orgbb4dd2f)
--   [play](#orgb508591)
--   [class](#org5bf6be2)
--   [context](#orgfe72b9e)
--   [some time解析](#orgc839a75)
--   [say](#org4caf8a9)
--   [thought](#orgb0e3835)
--   [account](#orgd504e15)
--   [size](#orge8a75a2)
--   [array](#orgcd71efa)
--   [order](#orgf837855)
--   [clear](#orgbc51311)
--   [step](#orgcb7c287)
--   [state](#orgb3518dc)
--   [book](#orgf35660a)
--   [quite](#org23a87a7)
--   [mean](#org761a756)
--   [term](#orgb517943)
--   [act](#org4fced1a)
--   [capital](#org52607c2)
+-   [some](#org8a00519)
+-   [fine](#orge28d2ad)
+-   [bold](#org56a3e4d)
+-   [detail](#org659cd11)
+-   [firm](#org8f9f7a6)
+-   [false](#org2d671a5)
+-   [string](#org65f12ca)
+-   [approach](#orgb29c335)
+-   [take](#org682ae36)
+-   [over](#orgd8d5737)
+-   [double](#org5e3a3b3)
+-   [right](#org284cf6b)
+-   [play](#org545d273)
+-   [class](#org26f9e29)
+-   [context](#orge89c9a1)
+-   [some time解析](#orgf92237f)
+-   [say](#org225f5fb)
+-   [thought](#orgffb6c8f)
+-   [account](#org8f61bd9)
+-   [size](#orga92d6c5)
+-   [array](#orgf11c5d0)
+-   [order](#orgc9373d5)
+-   [clear](#org76a4f76)
+-   [step](#orgf6cbf59)
+-   [state](#org145229a)
+-   [book](#orge3e1f90)
+-   [quite](#org7edd6ff)
+-   [mean](#org9587c1f)
+-   [term](#orgbae823b)
+-   [act](#org6588b77)
+-   [capital](#org68881a9)
+-   [range](#org5de7a5e)
 
 Record my english study process.
 
 
-<a id="org6e2d828"></a>
+<a id="org8a00519"></a>
 
 # some
 
@@ -92,7 +93,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="orgc33ad71"></a>
+<a id="orge28d2ad"></a>
 
 # fine
 
@@ -160,7 +161,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="orga5c2f3d"></a>
+<a id="org56a3e4d"></a>
 
 # bold
 
@@ -192,7 +193,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="org0c552ca"></a>
+<a id="org659cd11"></a>
 
 # detail
 
@@ -230,7 +231,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="org94eac84"></a>
+<a id="org8f9f7a6"></a>
 
 # firm
 
@@ -273,7 +274,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="org1f92a2d"></a>
+<a id="org2d671a5"></a>
 
 # false
 
@@ -298,7 +299,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="org9c1a84d"></a>
+<a id="org65f12ca"></a>
 
 # string
 
@@ -333,7 +334,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="orgffac093"></a>
+<a id="orgb29c335"></a>
 
 # approach
 
@@ -355,7 +356,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="org42f5b26"></a>
+<a id="org682ae36"></a>
 
 # take
 
@@ -422,7 +423,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="org201653f"></a>
+<a id="orgd8d5737"></a>
 
 # over
 
@@ -474,7 +475,7 @@ The japanese were producing over 100 million tons of steel.
 The time for empty talk is  over.
 
 
-<a id="orgc2a11ce"></a>
+<a id="org5e3a3b3"></a>
 
 # double
 
@@ -527,7 +528,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="orgbb4dd2f"></a>
+<a id="org284cf6b"></a>
 
 # right
 
@@ -611,7 +612,7 @@ He was't entirely in the right.
 She confesses to having trouble finding Mr Right.
 
 
-<a id="orgb508591"></a>
+<a id="org545d273"></a>
 
 # play
 
@@ -694,7 +695,7 @@ Breathing brings many muscles into play.
 It's not clear how his fate will play out.
 
 
-<a id="org5bf6be2"></a>
+<a id="org26f9e29"></a>
 
 # class
 
@@ -749,7 +750,7 @@ Kite is undoubtedly a class player.
 As a player, he was in a class of his own.
 
 
-<a id="orgfe72b9e"></a>
+<a id="orge89c9a1"></a>
 
 # context
 
@@ -782,7 +783,7 @@ It is important that we put Jesus into the context of history.
 Thomas says that he has been taken out of context on the issue.
 
 
-<a id="orgc839a75"></a>
+<a id="orgf92237f"></a>
 
 # some time解析
 
@@ -812,7 +813,7 @@ I looked for you some times.
 分开一段时间，相聚在某个时刻，合并s是有时，分开s是几次
 
 
-<a id="org4caf8a9"></a>
+<a id="org225f5fb"></a>
 
 # say
 
@@ -875,7 +876,7 @@ It goes without saying that if someone has lung problems they should not smoke.
 Unemployment leads to a sence of useless, to say nothing of financial problems.
 
 
-<a id="orgb0e3835"></a>
+<a id="orgffb6c8f"></a>
 
 # thought
 
@@ -911,7 +912,7 @@ This school of thought argues that depression is best treated by drugs.
 ## 短语
 
 
-<a id="orgd504e15"></a>
+<a id="org8f61bd9"></a>
 
 # account
 
@@ -989,7 +990,7 @@ Tony told me what she's done and i was really scared on her account.
 Analysis of slowing car sales should take into account the strong seasonality & cyclical factor.
 
 
-<a id="orge8a75a2"></a>
+<a id="orga92d6c5"></a>
 
 # size
 
@@ -1037,7 +1038,7 @@ The once-powerful post unions have been cut down to size.
 She was trying on an $8000 jacket for size.
 
 
-<a id="orgcd71efa"></a>
+<a id="orgf11c5d0"></a>
 
 # array
 
@@ -1064,7 +1065,7 @@ The image is then stored on the computer hard disk as a vast arry of black and w
 Make-up arrayed on the bashroom counter.
 
 
-<a id="orgf837855"></a>
+<a id="orgc9373d5"></a>
 
 # order
 
@@ -1132,7 +1133,7 @@ Everything is in order.
 People accepted the class system as part of the natural order of things.
 
 
-<a id="orgbc51311"></a>
+<a id="org76a4f76"></a>
 
 # clear
 
@@ -1265,7 +1266,7 @@ This agreement will clear the way for further talks.
 If you are a beginner, steer clear of resorts with reputations for difficult skiing.
 
 
-<a id="orgcb7c287"></a>
+<a id="orgf6cbf59"></a>
 
 # step
 
@@ -1348,7 +1349,7 @@ A good teacher is always at least one step ahead of his students.
 I'm not worried about stepping on anybody's toes.
 
 
-<a id="orgb3518dc"></a>
+<a id="org145229a"></a>
 
 # state
 
@@ -1421,7 +1422,7 @@ Which part of the States would you suggest I visit?
 I must say this is a very unsatisfactory state of affairs.
 
 
-<a id="orgf35660a"></a>
+<a id="orge3e1f90"></a>
 
 # book
 
@@ -1484,7 +1485,7 @@ War criminals must be brought to book.
 The courses quickly get booked up.
 
 
-<a id="org23a87a7"></a>
+<a id="org7edd6ff"></a>
 
 # quite
 
@@ -1532,7 +1533,7 @@ He's got quite a lot of friends.
 The play wasn't quite what we expected.
 
 
-<a id="org761a756"></a>
+<a id="org9587c1f"></a>
 
 # mean
 
@@ -1657,7 +1658,7 @@ Kinnock is no mean performer on the rugby field.
 It's a case of finding the mean between firmness and compassion.
 
 
-<a id="orgb517943"></a>
+<a id="orgbae823b"></a>
 
 # term
 
@@ -1730,7 +1731,7 @@ Small business have to compete on **equal terms** with large organisations.
 By now, Usha and I **were on familiar terms** .
 
 
-<a id="org4fced1a"></a>
+<a id="org6588b77"></a>
 
 # act
 
@@ -1823,7 +1824,7 @@ The padding **acts as** a cushion if the player fails or is hit by the ball.
 A patient will usually listen to the doctor's advice and **act on** it.
 
 
-<a id="org52607c2"></a>
+<a id="org68881a9"></a>
 
 # capital
 
@@ -1864,3 +1865,91 @@ Espionage is a capital offence in this country.
 ### is making capital out of
 
 He rebuked the President for trying to make political capital out of the hostage situation.
+
+
+<a id="org5de7a5e"></a>
+
+# range
+
+一系列的界限
+
+
+## 语义
+
+
+### 一系列
+
+The drug is effective against a range of bacteria.
+
+
+### 范围
+
+Your blood pressure's well within the normal range.
+
+
+### 系列产品
+
+The watches in this range are priced at $24.5.
+
+
+### 射程
+
+We waited until the enemy was within range.
+
+
+### 音域
+
+He vocal range is amazing.
+
+
+### 山脉
+
+A land of high mountain ranges and deep valleys.
+
+
+### 射击场
+
+The police shooting range.
+
+
+### 能力范围
+
+An actor of extraordinary range and intensity.
+
+
+### 包含
+
+The show has a massive audience, ranging from children to grandparents.
+
+
+### 闲逛
+
+Cattle ranged over the pastures in search of food.
+
+
+### 排列
+
+In the dining room, team photographs were ranged along the wall.
+
+
+## 短语
+
+
+### range from something to something
+
+There were 120 students whose ages ranged from 10 to 18.
+
+
+### range yourself against somebody
+
+Individuals who had ranged themselves against the authorities.
+
+
+### range over
+
+The conversation had ranged over a variety of topics, from sport to current affairs.
+
+
+### at close range
+
+He was shot in the head at close range.
