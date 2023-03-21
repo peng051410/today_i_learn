@@ -1046,3 +1046,33 @@ The conversation had ranged over a variety of topics, from sport to current affa
 
 *** at close range
 He was shot in the head at close range.
+
+* result
+
+** 语义
+
+*** 后果
+Accidents are the inevitable result of driving too fast.
+
+*** 比赛成绩
+The results will be announced at midnight.
+
+*** 研究结果
+Results suggest that diet is very important.
+
+*** 考试成绩
+When do we got our exam results?
+
+*** 成效
+He certainly knows how to get results.
+
+*** 业绩
+Google has announced disappointing results for the first half of the year.
+
+*** 造成
+How would you cope with unemployment and the resulting loss of income?
+
+** 短语
+
+*** As a result of
+*As a result of* the pilots strike, all fights have had to be cancelled.

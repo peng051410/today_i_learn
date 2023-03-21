@@ -1,43 +1,44 @@
 
 # Table of Contents
 
--   [some](#org8a00519)
--   [fine](#orge28d2ad)
--   [bold](#org56a3e4d)
--   [detail](#org659cd11)
--   [firm](#org8f9f7a6)
--   [false](#org2d671a5)
--   [string](#org65f12ca)
--   [approach](#orgb29c335)
--   [take](#org682ae36)
--   [over](#orgd8d5737)
--   [double](#org5e3a3b3)
--   [right](#org284cf6b)
--   [play](#org545d273)
--   [class](#org26f9e29)
--   [context](#orge89c9a1)
--   [some time解析](#orgf92237f)
--   [say](#org225f5fb)
--   [thought](#orgffb6c8f)
--   [account](#org8f61bd9)
--   [size](#orga92d6c5)
--   [array](#orgf11c5d0)
--   [order](#orgc9373d5)
--   [clear](#org76a4f76)
--   [step](#orgf6cbf59)
--   [state](#org145229a)
--   [book](#orge3e1f90)
--   [quite](#org7edd6ff)
--   [mean](#org9587c1f)
--   [term](#orgbae823b)
--   [act](#org6588b77)
--   [capital](#org68881a9)
--   [range](#org5de7a5e)
+-   [some](#orge672ff4)
+-   [fine](#org09e7a10)
+-   [bold](#orgb7fe294)
+-   [detail](#org1ad9124)
+-   [firm](#org6baa05a)
+-   [false](#org0a0d374)
+-   [string](#org4fe682e)
+-   [approach](#orgb7cbc4e)
+-   [take](#orgdd6c421)
+-   [over](#orgc4d5002)
+-   [double](#org3cd5f6a)
+-   [right](#org3d81ce0)
+-   [play](#orgccf8895)
+-   [class](#orgf14cf6d)
+-   [context](#org8ca03ff)
+-   [some time解析](#org4beb0ad)
+-   [say](#org2cdd7e7)
+-   [thought](#org4cb4009)
+-   [account](#org3fdeb39)
+-   [size](#org054bb65)
+-   [array](#org0b8d0fc)
+-   [order](#org9c6f392)
+-   [clear](#org98ef4a2)
+-   [step](#org052bacf)
+-   [state](#org9b895f9)
+-   [book](#orgaf0e97d)
+-   [quite](#org02be42b)
+-   [mean](#orgaea56f1)
+-   [term](#org9c744c9)
+-   [act](#org78346fd)
+-   [capital](#org5a772b3)
+-   [range](#orgc2c7efe)
+-   [result](#org4d77f09)
 
 Record my english study process.
 
 
-<a id="org8a00519"></a>
+<a id="orge672ff4"></a>
 
 # some
 
@@ -93,7 +94,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="orge28d2ad"></a>
+<a id="org09e7a10"></a>
 
 # fine
 
@@ -161,7 +162,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="org56a3e4d"></a>
+<a id="orgb7fe294"></a>
 
 # bold
 
@@ -193,7 +194,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="org659cd11"></a>
+<a id="org1ad9124"></a>
 
 # detail
 
@@ -231,7 +232,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="org8f9f7a6"></a>
+<a id="org6baa05a"></a>
 
 # firm
 
@@ -274,7 +275,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="org2d671a5"></a>
+<a id="org0a0d374"></a>
 
 # false
 
@@ -299,7 +300,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="org65f12ca"></a>
+<a id="org4fe682e"></a>
 
 # string
 
@@ -334,7 +335,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="orgb29c335"></a>
+<a id="orgb7cbc4e"></a>
 
 # approach
 
@@ -356,7 +357,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="org682ae36"></a>
+<a id="orgdd6c421"></a>
 
 # take
 
@@ -423,7 +424,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="orgd8d5737"></a>
+<a id="orgc4d5002"></a>
 
 # over
 
@@ -475,7 +476,7 @@ The japanese were producing over 100 million tons of steel.
 The time for empty talk is  over.
 
 
-<a id="org5e3a3b3"></a>
+<a id="org3cd5f6a"></a>
 
 # double
 
@@ -528,7 +529,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="org284cf6b"></a>
+<a id="org3d81ce0"></a>
 
 # right
 
@@ -612,7 +613,7 @@ He was't entirely in the right.
 She confesses to having trouble finding Mr Right.
 
 
-<a id="org545d273"></a>
+<a id="orgccf8895"></a>
 
 # play
 
@@ -695,7 +696,7 @@ Breathing brings many muscles into play.
 It's not clear how his fate will play out.
 
 
-<a id="org26f9e29"></a>
+<a id="orgf14cf6d"></a>
 
 # class
 
@@ -750,7 +751,7 @@ Kite is undoubtedly a class player.
 As a player, he was in a class of his own.
 
 
-<a id="orge89c9a1"></a>
+<a id="org8ca03ff"></a>
 
 # context
 
@@ -783,7 +784,7 @@ It is important that we put Jesus into the context of history.
 Thomas says that he has been taken out of context on the issue.
 
 
-<a id="orgf92237f"></a>
+<a id="org4beb0ad"></a>
 
 # some time解析
 
@@ -813,7 +814,7 @@ I looked for you some times.
 分开一段时间，相聚在某个时刻，合并s是有时，分开s是几次
 
 
-<a id="org225f5fb"></a>
+<a id="org2cdd7e7"></a>
 
 # say
 
@@ -876,7 +877,7 @@ It goes without saying that if someone has lung problems they should not smoke.
 Unemployment leads to a sence of useless, to say nothing of financial problems.
 
 
-<a id="orgffb6c8f"></a>
+<a id="org4cb4009"></a>
 
 # thought
 
@@ -912,7 +913,7 @@ This school of thought argues that depression is best treated by drugs.
 ## 短语
 
 
-<a id="org8f61bd9"></a>
+<a id="org3fdeb39"></a>
 
 # account
 
@@ -990,7 +991,7 @@ Tony told me what she's done and i was really scared on her account.
 Analysis of slowing car sales should take into account the strong seasonality & cyclical factor.
 
 
-<a id="orga92d6c5"></a>
+<a id="org054bb65"></a>
 
 # size
 
@@ -1038,7 +1039,7 @@ The once-powerful post unions have been cut down to size.
 She was trying on an $8000 jacket for size.
 
 
-<a id="orgf11c5d0"></a>
+<a id="org0b8d0fc"></a>
 
 # array
 
@@ -1065,7 +1066,7 @@ The image is then stored on the computer hard disk as a vast arry of black and w
 Make-up arrayed on the bashroom counter.
 
 
-<a id="orgc9373d5"></a>
+<a id="org9c6f392"></a>
 
 # order
 
@@ -1133,7 +1134,7 @@ Everything is in order.
 People accepted the class system as part of the natural order of things.
 
 
-<a id="org76a4f76"></a>
+<a id="org98ef4a2"></a>
 
 # clear
 
@@ -1266,7 +1267,7 @@ This agreement will clear the way for further talks.
 If you are a beginner, steer clear of resorts with reputations for difficult skiing.
 
 
-<a id="orgf6cbf59"></a>
+<a id="org052bacf"></a>
 
 # step
 
@@ -1349,7 +1350,7 @@ A good teacher is always at least one step ahead of his students.
 I'm not worried about stepping on anybody's toes.
 
 
-<a id="org145229a"></a>
+<a id="org9b895f9"></a>
 
 # state
 
@@ -1422,7 +1423,7 @@ Which part of the States would you suggest I visit?
 I must say this is a very unsatisfactory state of affairs.
 
 
-<a id="orge3e1f90"></a>
+<a id="orgaf0e97d"></a>
 
 # book
 
@@ -1485,7 +1486,7 @@ War criminals must be brought to book.
 The courses quickly get booked up.
 
 
-<a id="org7edd6ff"></a>
+<a id="org02be42b"></a>
 
 # quite
 
@@ -1533,7 +1534,7 @@ He's got quite a lot of friends.
 The play wasn't quite what we expected.
 
 
-<a id="org9587c1f"></a>
+<a id="orgaea56f1"></a>
 
 # mean
 
@@ -1658,7 +1659,7 @@ Kinnock is no mean performer on the rugby field.
 It's a case of finding the mean between firmness and compassion.
 
 
-<a id="orgbae823b"></a>
+<a id="org9c744c9"></a>
 
 # term
 
@@ -1731,7 +1732,7 @@ Small business have to compete on **equal terms** with large organisations.
 By now, Usha and I **were on familiar terms** .
 
 
-<a id="org6588b77"></a>
+<a id="org78346fd"></a>
 
 # act
 
@@ -1824,7 +1825,7 @@ The padding **acts as** a cushion if the player fails or is hit by the ball.
 A patient will usually listen to the doctor's advice and **act on** it.
 
 
-<a id="org68881a9"></a>
+<a id="org5a772b3"></a>
 
 # capital
 
@@ -1867,7 +1868,7 @@ Espionage is a capital offence in this country.
 He rebuked the President for trying to make political capital out of the hostage situation.
 
 
-<a id="org5de7a5e"></a>
+<a id="orgc2c7efe"></a>
 
 # range
 
@@ -1953,3 +1954,54 @@ The conversation had ranged over a variety of topics, from sport to current affa
 ### at close range
 
 He was shot in the head at close range.
+
+
+<a id="org4d77f09"></a>
+
+# result
+
+
+## 语义
+
+
+### 后果
+
+Accidents are the inevitable result of driving too fast.
+
+
+### 比赛成绩
+
+The results will be announced at midnight.
+
+
+### 研究结果
+
+Results suggest that diet is very important.
+
+
+### 考试成绩
+
+When do we got our exam results?
+
+
+### 成效
+
+He certainly knows how to get results.
+
+
+### 业绩
+
+Google has announced disappointing results for the first half of the year.
+
+
+### 造成
+
+How would you cope with unemployment and the resulting loss of income?
+
+
+## 短语
+
+
+### As a result of
+
+**As a result of** the pilots strike, all fights have had to be cancelled.
