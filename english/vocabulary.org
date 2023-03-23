@@ -1076,3 +1076,42 @@ How would you cope with unemployment and the resulting loss of income?
 
 *** As a result of
 *As a result of* the pilots strike, all fights have had to be cancelled.
+
+* heart
+我的心
+** 语义
+*** 心脏
+Can you hear my heart beating?
+*** 内心
+His heart was full of anger and grief.
+*** 心口
+He put his hand on his heart.
+*** 信心
+This inspring service gave us new heart.
+*** 红桃
+Have you got any hearts?
+** 短语
+*** from the heart
+Tony spoken from the heart.
+*** in your heart
+Deep in his heart, he wanted Laura back.
+*** the heart of something
+We must got the heart of the problem.
+*** at heart
+Let's face it, we're all romantics at heart.
+*** in the heart
+A house in the heart of London.
+*** dear to somebody heart
+Money is dear to Kathleen's heart.
+*** by heart
+Actors have to learn their lines by heart.
+*** with all you heart
+We sang he hymn with all our hearts.
+*** somebody's heart goes out to somebody
+My heart goes out to the families of the victims.
+*** do something to your heart's content
+The dog can run to its heart's content out there.
+*** set your heart on something
+She had set her heart on becoming a hairdresser.
+*** be in good heart
+The team are in good heart and ready for season's matches.
