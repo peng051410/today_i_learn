@@ -1115,3 +1115,52 @@ The dog can run to its heart's content out there.
 She had set her heart on becoming a hairdresser.
 *** be in good heart
 The team are in good heart and ready for season's matches.
+* look
+看
+** 语义
+*** 看
+If you look carefully you can see that the painting represents a human figure.
+*** 寻找
+I looked everywhere but Jimmy was nowhere to be found.
+*** 看起来
+From the way things look at the moment, the Republicans are unlikely to win this election.
+*** 看上去
+How do I look?
+*** 面向
+The cabin looks east, so we get the morning sum.
+*** 打算
+We are looking to buy a new car early next year.
+*** 当心
+Look! There's a fox!
+*** 眼色
+Mike gave his such a severe look he didn't dare argue.
+*** 考虑
+Have you had a chance to take a look at my proposal yet?
+*** 寻找
+I can't find them anywhere. Have a look yourself.
+*** 外观
+The area has a very seedy look to it.
+*** 美貌
+You get your good looks from your mother.
+*** 风格
+The hippy look is back again.
+
+** 短语
+
+*** look at
+The man all turned to look at her as she entered the room.
+
+*** look for
+Could you help me look for my contact lens.
+
+*** it look as if
+It look as if it might rain later.
+
+*** look somebody in the eye
+Owen didn't dare look his father in the eye.
+
+*** look down you nose at somebody
+He looks down his nose at anyone foreign.
+
+*** look the other way
+Prison guards looked the other way as the man was attacked by fellow prisoners.
