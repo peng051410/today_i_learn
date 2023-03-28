@@ -1164,3 +1164,47 @@ He looks down his nose at anyone foreign.
 
 *** look the other way
 Prison guards looked the other way as the man was attacked by fellow prisoners.
+
+* single
+单身一个？
+
+** 语义
+
+*** 单一的
+A single tree gave shade from the sun.
+
+*** 单身的
+The change in tax rates will benefit single people the most.
+
+*** 单间
+You have to pay extra for a single room.
+
+*** 单曲唱片
+Have you heard their latest single?
+
+*** 单打比赛
+I prefer palying singles.
+
+*** 单身者
+The show is especially popular among young singles.
+
+*** 单程票
+A single to Oxford, please.
+
+*** 一美元
+Anyone have five singles?
+
+*** 单人房间
+I'm afraid we have't got any singles available.
+
+*** 挑出
+I don't see why he should be singled out for special treatment.
+** 短语
+*** every single
+He works *every single* day.
+
+*** not a single
+The plane was bought down safety and *not a single* passenger was killed.
+
+*** the single biggest
+Tourism is *the* courty's *single biggest* earner.
