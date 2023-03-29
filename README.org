@@ -190,6 +190,17 @@ echo "hello world" | cut -b 2-5
 ello
 #+end_src
 
+** Quick rename file name
+#+begin_src sh
+cd /tmp
+touch aa.txt
+mv aa.{txt,doc}
+ls aa.doc
+#+end_src
+
+#+RESULTS:
+: aa.doc
+
 * Maven
 ** How to get Maven project version from cmd
 #+begin_src sh
