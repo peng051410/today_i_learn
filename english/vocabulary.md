@@ -1,49 +1,51 @@
 
 # Table of Contents
 
--   [some](#org5923fea)
--   [fine](#org6f0174c)
--   [bold](#org798e00c)
--   [detail](#org7d742d0)
--   [firm](#org61d61ce)
--   [false](#orga908e5f)
--   [string](#org3307797)
--   [approach](#org51ff4b3)
--   [take](#org1867402)
--   [over](#org8353ec7)
--   [double](#org91303d3)
--   [right](#org18cc9a1)
--   [play](#org6629d94)
--   [class](#org78704de)
--   [context](#org9b4e545)
--   [some time解析](#org8069941)
--   [say](#org191411e)
--   [thought](#org98afdaf)
--   [account](#orgf55286f)
--   [size](#org62c1382)
--   [array](#orgce64dbb)
--   [order](#org372e80e)
--   [clear](#org2e61afb)
--   [step](#org664f243)
--   [state](#org1cbee1e)
--   [book](#orgdec7c59)
--   [quite](#orgbabe716)
--   [mean](#org352f3ca)
--   [term](#orgb48a9d8)
--   [act](#org1d2fb68)
--   [capital](#orgaa04cf5)
--   [range](#org5207749)
--   [result](#org4f4def5)
--   [heart](#orgc69e646)
--   [look](#org98f3ffb)
--   [single](#org9be0251)
--   [ask](#orgf879b8d)
--   [great](#org50dc08c)
+-   [some](#org8e81fd7)
+-   [fine](#orgf65794d)
+-   [bold](#orgda6de39)
+-   [detail](#org4a731dc)
+-   [firm](#org5152fa0)
+-   [false](#org6ca38c9)
+-   [string](#orga487942)
+-   [approach](#orgaa2b181)
+-   [take](#org90ce959)
+-   [over](#org5df8f85)
+-   [double](#orgce2278d)
+-   [right](#org91bd06a)
+-   [play](#orga166cde)
+-   [class](#orgac1c5d2)
+-   [context](#org9a53d0d)
+-   [some time解析](#org4aee9c5)
+-   [say](#org7bbe583)
+-   [thought](#org3ee931f)
+-   [account](#org992a071)
+-   [size](#orgfcc23ac)
+-   [array](#orgef61867)
+-   [order](#orga4844e6)
+-   [clear](#orgb8474e7)
+-   [step](#orgeb2fa6a)
+-   [state](#org5d3c438)
+-   [book](#org3c41b72)
+-   [quite](#org7eebe3c)
+-   [mean](#org6be168d)
+-   [term](#org45fc9c0)
+-   [act](#orgf09cded)
+-   [capital](#orge9b973c)
+-   [range](#org6b2851d)
+-   [result](#org8d1672a)
+-   [heart](#orgd1d127a)
+-   [look](#org9b2b9bb)
+-   [single](#org76bc86c)
+-   [ask](#orgb456dea)
+-   [great](#orge727086)
+-   [deal](#org66c8713)
+-   [space](#org3596d40)
 
 Record my english study process.
 
 
-<a id="org5923fea"></a>
+<a id="org8e81fd7"></a>
 
 # some
 
@@ -99,7 +101,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="org6f0174c"></a>
+<a id="orgf65794d"></a>
 
 # fine
 
@@ -167,7 +169,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="org798e00c"></a>
+<a id="orgda6de39"></a>
 
 # bold
 
@@ -199,7 +201,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="org7d742d0"></a>
+<a id="org4a731dc"></a>
 
 # detail
 
@@ -237,7 +239,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="org61d61ce"></a>
+<a id="org5152fa0"></a>
 
 # firm
 
@@ -280,7 +282,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="orga908e5f"></a>
+<a id="org6ca38c9"></a>
 
 # false
 
@@ -305,7 +307,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="org3307797"></a>
+<a id="orga487942"></a>
 
 # string
 
@@ -340,7 +342,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="org51ff4b3"></a>
+<a id="orgaa2b181"></a>
 
 # approach
 
@@ -362,7 +364,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="org1867402"></a>
+<a id="org90ce959"></a>
 
 # take
 
@@ -429,7 +431,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="org8353ec7"></a>
+<a id="org5df8f85"></a>
 
 # over
 
@@ -481,7 +483,7 @@ The japanese were producing over 100 million tons of steel.
 The time for empty talk is  over.
 
 
-<a id="org91303d3"></a>
+<a id="orgce2278d"></a>
 
 # double
 
@@ -534,7 +536,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="org18cc9a1"></a>
+<a id="org91bd06a"></a>
 
 # right
 
@@ -618,7 +620,7 @@ He was't entirely in the right.
 She confesses to having trouble finding Mr Right.
 
 
-<a id="org6629d94"></a>
+<a id="orga166cde"></a>
 
 # play
 
@@ -708,7 +710,7 @@ It's not clear how his fate will play out.
 The White House spokewoman sought to play down the significance of the event.
 
 
-<a id="org78704de"></a>
+<a id="orgac1c5d2"></a>
 
 # class
 
@@ -763,7 +765,7 @@ Kite is undoubtedly a class player.
 As a player, he was in a class of his own.
 
 
-<a id="org9b4e545"></a>
+<a id="org9a53d0d"></a>
 
 # context
 
@@ -796,7 +798,7 @@ It is important that we put Jesus into the context of history.
 Thomas says that he has been taken out of context on the issue.
 
 
-<a id="org8069941"></a>
+<a id="org4aee9c5"></a>
 
 # some time解析
 
@@ -826,7 +828,7 @@ I looked for you some times.
 分开一段时间，相聚在某个时刻，合并s是有时，分开s是几次
 
 
-<a id="org191411e"></a>
+<a id="org7bbe583"></a>
 
 # say
 
@@ -889,7 +891,7 @@ It goes without saying that if someone has lung problems they should not smoke.
 Unemployment leads to a sence of useless, to say nothing of financial problems.
 
 
-<a id="org98afdaf"></a>
+<a id="org3ee931f"></a>
 
 # thought
 
@@ -925,7 +927,7 @@ This school of thought argues that depression is best treated by drugs.
 ## 短语
 
 
-<a id="orgf55286f"></a>
+<a id="org992a071"></a>
 
 # account
 
@@ -1003,7 +1005,7 @@ Tony told me what she's done and i was really scared on her account.
 Analysis of slowing car sales should take into account the strong seasonality & cyclical factor.
 
 
-<a id="org62c1382"></a>
+<a id="orgfcc23ac"></a>
 
 # size
 
@@ -1051,7 +1053,7 @@ The once-powerful post unions have been cut down to size.
 She was trying on an $8000 jacket for size.
 
 
-<a id="orgce64dbb"></a>
+<a id="orgef61867"></a>
 
 # array
 
@@ -1078,7 +1080,7 @@ The image is then stored on the computer hard disk as a vast arry of black and w
 Make-up arrayed on the bashroom counter.
 
 
-<a id="org372e80e"></a>
+<a id="orga4844e6"></a>
 
 # order
 
@@ -1146,7 +1148,7 @@ Everything is in order.
 People accepted the class system as part of the natural order of things.
 
 
-<a id="org2e61afb"></a>
+<a id="orgb8474e7"></a>
 
 # clear
 
@@ -1279,7 +1281,7 @@ This agreement will clear the way for further talks.
 If you are a beginner, steer clear of resorts with reputations for difficult skiing.
 
 
-<a id="org664f243"></a>
+<a id="orgeb2fa6a"></a>
 
 # step
 
@@ -1362,7 +1364,7 @@ A good teacher is always at least one step ahead of his students.
 I'm not worried about stepping on anybody's toes.
 
 
-<a id="org1cbee1e"></a>
+<a id="org5d3c438"></a>
 
 # state
 
@@ -1435,7 +1437,7 @@ Which part of the States would you suggest I visit?
 I must say this is a very unsatisfactory state of affairs.
 
 
-<a id="orgdec7c59"></a>
+<a id="org3c41b72"></a>
 
 # book
 
@@ -1498,7 +1500,7 @@ War criminals must be brought to book.
 The courses quickly get booked up.
 
 
-<a id="orgbabe716"></a>
+<a id="org7eebe3c"></a>
 
 # quite
 
@@ -1546,7 +1548,7 @@ He's got quite a lot of friends.
 The play wasn't quite what we expected.
 
 
-<a id="org352f3ca"></a>
+<a id="org6be168d"></a>
 
 # mean
 
@@ -1671,7 +1673,7 @@ Kinnock is no mean performer on the rugby field.
 It's a case of finding the mean between firmness and compassion.
 
 
-<a id="orgb48a9d8"></a>
+<a id="org45fc9c0"></a>
 
 # term
 
@@ -1744,7 +1746,7 @@ Small business have to compete on **equal terms** with large organisations.
 By now, Usha and I **were on familiar terms** .
 
 
-<a id="org1d2fb68"></a>
+<a id="orgf09cded"></a>
 
 # act
 
@@ -1837,7 +1839,7 @@ The padding **acts as** a cushion if the player fails or is hit by the ball.
 A patient will usually listen to the doctor's advice and **act on** it.
 
 
-<a id="orgaa04cf5"></a>
+<a id="orge9b973c"></a>
 
 # capital
 
@@ -1880,7 +1882,7 @@ Espionage is a capital offence in this country.
 He rebuked the President for trying to make political capital out of the hostage situation.
 
 
-<a id="org5207749"></a>
+<a id="org6b2851d"></a>
 
 # range
 
@@ -1968,7 +1970,7 @@ The conversation had ranged over a variety of topics, from sport to current affa
 He was shot in the head at close range.
 
 
-<a id="org4f4def5"></a>
+<a id="org8d1672a"></a>
 
 # result
 
@@ -2019,7 +2021,7 @@ How would you cope with unemployment and the resulting loss of income?
 **As a result of** the pilots strike, all fights have had to be cancelled.
 
 
-<a id="orgc69e646"></a>
+<a id="orgd1d127a"></a>
 
 # heart
 
@@ -2117,7 +2119,7 @@ She had set her heart on becoming a hairdresser.
 The team are in good heart and ready for season's matches.
 
 
-<a id="org98f3ffb"></a>
+<a id="org9b2b9bb"></a>
 
 # look
 
@@ -2225,7 +2227,7 @@ He looks down his nose at anyone foreign.
 Prison guards looked the other way as the man was attacked by fellow prisoners.
 
 
-<a id="org9be0251"></a>
+<a id="org76bc86c"></a>
 
 # single
 
@@ -2303,7 +2305,7 @@ The plane was bought down safety and **not a single** passenger was killed.
 Tourism is **the** courty's **single biggest** earner.
 
 
-<a id="orgf879b8d"></a>
+<a id="orgb456dea"></a>
 
 # ask
 
@@ -2371,7 +2373,7 @@ There's someone at the door **asking for** Dad.
 We need to win the next three games. It's **a big ask**, but I'm confident we can do it.
 
 
-<a id="org50dc08c"></a>
+<a id="orge727086"></a>
 
 # great
 
@@ -2440,3 +2442,157 @@ Some wars are fought for **the greater good**.
 <https://youglish.com/getbyid/66080455/the%20great%20divide/english>
 
 **The great divide** between north and south seems to be as unbridgeable an ever.
+
+
+<a id="org66c8713"></a>
+
+# deal
+
+根据协议改善待遇
+
+
+## 语义
+
+
+### 协议
+
+They made a deal to sell the land to a property developer.
+
+
+### 待遇
+
+The prime minister promised farmers a new deal.
+
+
+### 纸牌
+
+It's your deal, Alison.
+
+
+### 松木
+
+A deal table.
+
+
+## 短语
+
+
+### a great deal
+
+It took **a great deal** of time and effort.
+
+
+### a raw deal
+
+Women tend to get **a raw deal** from employers.
+
+
+### it's a deal
+
+OK, **it's a deal**.
+
+
+### what's the deal?
+
+So **what's the deal**? Why is he so mad?
+
+
+### get a good deal
+
+He thought he had **got a good deal**.
+
+
+### deal a severe blow
+
+The sanctions have **dealt a severe blow** to the local tourism industry.
+
+
+### deal in
+
+As a scientist, I do not deal in speculation.
+
+
+### deal with
+
+Don't worry, I'll deal with this.
+
+
+<a id="org3596d40"></a>
+
+# space
+
+空间，但也能表示时间
+
+
+## 语义
+
+
+### 空间
+
+How much space is there on each disk?
+
+
+### 空位
+
+There are a supermarket with 700 free parking spaces.
+
+
+### 空隙
+
+There was an empty space where the flowers had been.
+
+
+### 太空
+
+Who was the first American in space?
+
+
+### 间隔
+
+Leave a space after each number.
+
+
+### 篇幅
+
+The story got very little space in the national newspapers.
+
+
+### 将&#x2026;均匀隔开(分隔)
+
+They used three microphones spaced serval yard apart.
+
+
+### 昏昏沉沉
+
+I completely spaced out during the leture.
+
+
+## 短语
+
+
+### in the space of
+
+Mandy had four children **in the space of** four years.
+
+<https://youglish.com/getbyid/89350391/in%20the%20space%20of/english>
+
+
+### staring into space
+
+He just sat in the dressing-room staring **into space**.
+
+<https://youglish.com/getbyid/36794080/staring%20into%20space/english>
+
+
+### watch this space
+
+**Watch this space** for details of our next event.
+
+<https://youglish.com/getbyid/77988301/watch%20this%20space/english>
+
+
+### waste of space
+
+Even Sarah treated his as if he were a **waste of space**.
+
+<https://youglish.com/getbyid/19940016/waste%20of%20space/english>
