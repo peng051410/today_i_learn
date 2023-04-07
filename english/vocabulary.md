@@ -1,52 +1,53 @@
 
 # Table of Contents
 
--   [some](#orgf1a41ad)
--   [fine](#org6b4e405)
--   [bold](#orga9292c6)
--   [detail](#orgcbc6365)
--   [firm](#org448750b)
--   [false](#org8f27c88)
--   [string](#orgd486cbc)
--   [approach](#orgd5aa861)
--   [take](#org0dfce1f)
--   [over](#org672a589)
--   [double](#org75ac443)
--   [right](#orgf01cbf1)
--   [play](#orge43aa2f)
--   [class](#orgbb20bc6)
--   [context](#org51ba53a)
--   [some time解析](#org5eb6265)
--   [say](#org83ab3f1)
--   [thought](#org8386650)
--   [account](#org3651089)
--   [size](#org22fbd27)
--   [array](#org96f9d50)
--   [order](#org28a425e)
--   [clear](#org4a81f7d)
--   [step](#org6303c54)
--   [state](#org0de5822)
--   [book](#org6e2097b)
--   [quite](#org1beacd4)
--   [mean](#org9011f15)
--   [term](#orge9c8fc5)
--   [act](#org745ff23)
--   [capital](#org77bba10)
--   [range](#org4be8401)
--   [result](#orgda7b3ff)
--   [heart](#org19bb4df)
--   [look](#org1ff670f)
--   [single](#org6aacab0)
--   [ask](#orgee50fbc)
--   [great](#orgb682571)
--   [deal](#orged8e675)
--   [space](#orgd699ca8)
--   [off](#orgf6ac827)
+-   [some](#org567ad9d)
+-   [fine](#orga28abe8)
+-   [bold](#org12d3590)
+-   [detail](#orgd152b2d)
+-   [firm](#org3cd26f9)
+-   [false](#orgfca7120)
+-   [string](#orge001cd5)
+-   [approach](#orgd1d3b87)
+-   [take](#org18291f7)
+-   [over](#org0ba2f85)
+-   [double](#orgd436235)
+-   [right](#org8e584f8)
+-   [play](#org99606f7)
+-   [class](#org1998773)
+-   [context](#orgcf2d4d6)
+-   [some time解析](#org55169ae)
+-   [say](#org9f37544)
+-   [thought](#org56b1e54)
+-   [account](#org66d929d)
+-   [size](#org1ec3817)
+-   [array](#org9824c03)
+-   [order](#orgd1f6b41)
+-   [clear](#org426db66)
+-   [step](#orge2486a0)
+-   [state](#orgbd0fd86)
+-   [book](#org58e3fa9)
+-   [quite](#org410adf4)
+-   [mean](#org836d97e)
+-   [term](#org12c9453)
+-   [act](#org87b6bac)
+-   [capital](#org1eaafe0)
+-   [range](#org5aedd0e)
+-   [result](#org7cd40f7)
+-   [heart](#org023f3c9)
+-   [look](#org76884b0)
+-   [single](#org2f58144)
+-   [ask](#org3cff0c4)
+-   [great](#org8a56302)
+-   [deal](#orgf2561fb)
+-   [space](#org90033e5)
+-   [off](#orgf2e09cf)
+-   [present](#orgac08835)
 
 Record my english study process.
 
 
-<a id="orgf1a41ad"></a>
+<a id="org567ad9d"></a>
 
 # some
 
@@ -102,7 +103,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="org6b4e405"></a>
+<a id="orga28abe8"></a>
 
 # fine
 
@@ -170,7 +171,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="orga9292c6"></a>
+<a id="org12d3590"></a>
 
 # bold
 
@@ -202,7 +203,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="orgcbc6365"></a>
+<a id="orgd152b2d"></a>
 
 # detail
 
@@ -240,7 +241,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="org448750b"></a>
+<a id="org3cd26f9"></a>
 
 # firm
 
@@ -283,7 +284,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="org8f27c88"></a>
+<a id="orgfca7120"></a>
 
 # false
 
@@ -308,7 +309,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="orgd486cbc"></a>
+<a id="orge001cd5"></a>
 
 # string
 
@@ -343,7 +344,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="orgd5aa861"></a>
+<a id="orgd1d3b87"></a>
 
 # approach
 
@@ -365,7 +366,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="org0dfce1f"></a>
+<a id="org18291f7"></a>
 
 # take
 
@@ -432,7 +433,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="org672a589"></a>
+<a id="org0ba2f85"></a>
 
 # over
 
@@ -484,7 +485,7 @@ The japanese were producing over 100 million tons of steel.
 The time for empty talk is  over.
 
 
-<a id="org75ac443"></a>
+<a id="orgd436235"></a>
 
 # double
 
@@ -537,7 +538,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="orgf01cbf1"></a>
+<a id="org8e584f8"></a>
 
 # right
 
@@ -621,7 +622,7 @@ He was't entirely in the right.
 She confesses to having trouble finding Mr Right.
 
 
-<a id="orge43aa2f"></a>
+<a id="org99606f7"></a>
 
 # play
 
@@ -711,7 +712,7 @@ It's not clear how his fate will play out.
 The White House spokewoman sought to play down the significance of the event.
 
 
-<a id="orgbb20bc6"></a>
+<a id="org1998773"></a>
 
 # class
 
@@ -766,7 +767,7 @@ Kite is undoubtedly a class player.
 As a player, he was in a class of his own.
 
 
-<a id="org51ba53a"></a>
+<a id="orgcf2d4d6"></a>
 
 # context
 
@@ -799,7 +800,7 @@ It is important that we put Jesus into the context of history.
 Thomas says that he has been taken out of context on the issue.
 
 
-<a id="org5eb6265"></a>
+<a id="org55169ae"></a>
 
 # some time解析
 
@@ -829,7 +830,7 @@ I looked for you some times.
 分开一段时间，相聚在某个时刻，合并s是有时，分开s是几次
 
 
-<a id="org83ab3f1"></a>
+<a id="org9f37544"></a>
 
 # say
 
@@ -892,7 +893,7 @@ It goes without saying that if someone has lung problems they should not smoke.
 Unemployment leads to a sence of useless, to say nothing of financial problems.
 
 
-<a id="org8386650"></a>
+<a id="org56b1e54"></a>
 
 # thought
 
@@ -928,7 +929,7 @@ This school of thought argues that depression is best treated by drugs.
 ## 短语
 
 
-<a id="org3651089"></a>
+<a id="org66d929d"></a>
 
 # account
 
@@ -1006,7 +1007,7 @@ Tony told me what she's done and i was really scared on her account.
 Analysis of slowing car sales should take into account the strong seasonality & cyclical factor.
 
 
-<a id="org22fbd27"></a>
+<a id="org1ec3817"></a>
 
 # size
 
@@ -1054,7 +1055,7 @@ The once-powerful post unions have been cut down to size.
 She was trying on an $8000 jacket for size.
 
 
-<a id="org96f9d50"></a>
+<a id="org9824c03"></a>
 
 # array
 
@@ -1081,7 +1082,7 @@ The image is then stored on the computer hard disk as a vast arry of black and w
 Make-up arrayed on the bashroom counter.
 
 
-<a id="org28a425e"></a>
+<a id="orgd1f6b41"></a>
 
 # order
 
@@ -1149,7 +1150,7 @@ Everything is in order.
 People accepted the class system as part of the natural order of things.
 
 
-<a id="org4a81f7d"></a>
+<a id="org426db66"></a>
 
 # clear
 
@@ -1282,7 +1283,7 @@ This agreement will clear the way for further talks.
 If you are a beginner, steer clear of resorts with reputations for difficult skiing.
 
 
-<a id="org6303c54"></a>
+<a id="orge2486a0"></a>
 
 # step
 
@@ -1365,7 +1366,7 @@ A good teacher is always at least one step ahead of his students.
 I'm not worried about stepping on anybody's toes.
 
 
-<a id="org0de5822"></a>
+<a id="orgbd0fd86"></a>
 
 # state
 
@@ -1438,7 +1439,7 @@ Which part of the States would you suggest I visit?
 I must say this is a very unsatisfactory state of affairs.
 
 
-<a id="org6e2097b"></a>
+<a id="org58e3fa9"></a>
 
 # book
 
@@ -1501,7 +1502,7 @@ War criminals must be brought to book.
 The courses quickly get booked up.
 
 
-<a id="org1beacd4"></a>
+<a id="org410adf4"></a>
 
 # quite
 
@@ -1549,7 +1550,7 @@ He's got quite a lot of friends.
 The play wasn't quite what we expected.
 
 
-<a id="org9011f15"></a>
+<a id="org836d97e"></a>
 
 # mean
 
@@ -1674,7 +1675,7 @@ Kinnock is no mean performer on the rugby field.
 It's a case of finding the mean between firmness and compassion.
 
 
-<a id="orge9c8fc5"></a>
+<a id="org12c9453"></a>
 
 # term
 
@@ -1747,7 +1748,7 @@ Small business have to compete on **equal terms** with large organisations.
 By now, Usha and I **were on familiar terms** .
 
 
-<a id="org745ff23"></a>
+<a id="org87b6bac"></a>
 
 # act
 
@@ -1840,7 +1841,7 @@ The padding **acts as** a cushion if the player fails or is hit by the ball.
 A patient will usually listen to the doctor's advice and **act on** it.
 
 
-<a id="org77bba10"></a>
+<a id="org1eaafe0"></a>
 
 # capital
 
@@ -1883,7 +1884,7 @@ Espionage is a capital offence in this country.
 He rebuked the President for trying to make political capital out of the hostage situation.
 
 
-<a id="org4be8401"></a>
+<a id="org5aedd0e"></a>
 
 # range
 
@@ -1971,7 +1972,7 @@ The conversation had ranged over a variety of topics, from sport to current affa
 He was shot in the head at close range.
 
 
-<a id="orgda7b3ff"></a>
+<a id="org7cd40f7"></a>
 
 # result
 
@@ -2022,7 +2023,7 @@ How would you cope with unemployment and the resulting loss of income?
 **As a result of** the pilots strike, all fights have had to be cancelled.
 
 
-<a id="org19bb4df"></a>
+<a id="org023f3c9"></a>
 
 # heart
 
@@ -2120,7 +2121,7 @@ She had set her heart on becoming a hairdresser.
 The team are in good heart and ready for season's matches.
 
 
-<a id="org1ff670f"></a>
+<a id="org76884b0"></a>
 
 # look
 
@@ -2228,7 +2229,7 @@ He looks down his nose at anyone foreign.
 Prison guards looked the other way as the man was attacked by fellow prisoners.
 
 
-<a id="org6aacab0"></a>
+<a id="org2f58144"></a>
 
 # single
 
@@ -2306,7 +2307,7 @@ The plane was bought down safety and **not a single** passenger was killed.
 Tourism is **the** courty's **single biggest** earner.
 
 
-<a id="orgee50fbc"></a>
+<a id="org3cff0c4"></a>
 
 # ask
 
@@ -2374,7 +2375,7 @@ There's someone at the door **asking for** Dad.
 We need to win the next three games. It's **a big ask**, but I'm confident we can do it.
 
 
-<a id="orgb682571"></a>
+<a id="org8a56302"></a>
 
 # great
 
@@ -2445,7 +2446,7 @@ Some wars are fought for **the greater good**.
 **The great divide** between north and south seems to be as unbridgeable an ever.
 
 
-<a id="orged8e675"></a>
+<a id="orgf2561fb"></a>
 
 # deal
 
@@ -2518,7 +2519,7 @@ As a scientist, I do not deal in speculation.
 Don't worry, I'll deal with this.
 
 
-<a id="orgd699ca8"></a>
+<a id="org90033e5"></a>
 
 # space
 
@@ -2599,7 +2600,7 @@ Even Sarah treated his as if he were a **waste of space**.
 <https://youglish.com/getbyid/19940016/waste%20of%20space/english>
 
 
-<a id="orgf6ac827"></a>
+<a id="orgf2e09cf"></a>
 
 # off
 
@@ -2701,3 +2702,136 @@ Brian never usually loses his temper - he must be having an **off day**.
 ### off season
 
 In the off season, there's hardly anyone staying at the hotel.
+
+
+<a id="orgac08835"></a>
+
+# present
+
+目前存在的
+
+
+## 语义
+
+
+### 存在的
+
+Foreign observes were present at the elections.
+The memory of her brothers's death is still present in her mind.
+
+
+### 目前的
+
+At the present time we have no explanation for this.
+
+
+### 授予
+
+She was present with an award.
+
+
+### 造成
+
+Large classes present great problems to many teachers.
+
+
+### 展示自己
+
+He presents himself well.
+
+
+### 描述
+
+We'll present the information using a chart.
+
+
+### 陈述
+
+Our manager is due to present the report at the end of the month.
+
+
+### 出示
+
+Your must present your passport to the customs officer.
+
+
+### 上演
+
+Edinburgh Theatre Company presents 'The Wind in the Willows'.
+
+
+### 主持
+
+Thursday's 'The Late Show' was presents by Cynthia Rose.
+
+
+### 使用具有&#x2026;的外观
+
+The restaurant likes to present food with style.
+
+
+### 引见
+
+I was presented to the Queen in 1964.
+
+
+### 表现出证状
+
+Three of the five patients presented with fever and severe headcaches.
+
+
+### 礼物
+
+I'm looking for a present for Mark.
+
+
+## 短语
+
+
+### the present day
+
+The pratice has continued from medieval times to **the present day**.
+
+<https://youglish.com/getbyid/119816107/the%20present%20day/english>
+
+
+### present company excepted
+
+Women are never statisfied with anything! Present company excepted, of course.
+
+<https://youglish.com/getbyid/66080397/Present%20company%20excepted/english>
+
+
+### something present itself
+
+I'll tell her as soon as the opportunity present itself.
+
+<https://youglish.com/getbyid/152978353/opportunity%20present%20itself/english>
+
+
+### present your apologies
+
+Mrs. Gottlieb **presents her apologies** and regrets she will not be able to attend.
+
+<https://youglish.com/getbyid/115683910/present%20apologies/english>
+
+
+### at present
+
+The item you want is not available **at present**.
+
+<https://youglish.com/getbyid/76379729/at%20present/english>
+
+
+### for the present
+
+The company is still in business, at least **for the present**.
+
+<https://youglish.com/getbyid/29577879/for%20the%20present/english>
+
+
+### there is no time like the present
+
+Don't wait until New Year to resolve to origanise your life, **There's no time like the present**.
+
+<https://youglish.com/getbyid/103217505/there%20is%20no%20time%20like%20the%20present/english>
