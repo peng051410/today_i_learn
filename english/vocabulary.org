@@ -1476,3 +1476,26 @@ https://youglish.com/getbyid/29577879/for%20the%20present/english
 Don't wait until New Year to resolve to origanise your life, *There's no time like the present*.
 
 https://youglish.com/getbyid/103217505/there%20is%20no%20time%20like%20the%20present/english
+
+* host
+主人主持会议
+
+** 语义
+
+*** 主人
+Our host greeted us at the door.
+
+*** 节目主持人
+A game show host.
+
+*** 主办
+Which country is going to host next World Cup?
+
+*** 主持
+Next week's show will be hosted by Sarah Cox.
+** 短语
+*** play host to something
+The gallery is playing host to an exhibition of sculpture.
+
+*** a host of people
+A host of show business celebrities have pledged their support.
