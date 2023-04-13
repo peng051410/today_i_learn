@@ -306,6 +306,11 @@ pwd
     t)
   (error nil)
 #+end_src
+** Org add repeated task for weekday
+#+begin_src org
+,* TODO Study 09:00-10:00
+<%%(memq (calendar-day-of-week date) '(1 2 3 4 5))>
+#+end_src
 ** Org babel python output always Nono
 [[https://emacs.stackexchange.com/questions/17926/python-org-mode-source-block-output-is-always-none][Python org-mode source block output is always ': None' - Emacs Stack Exchange]]
 Can use *return* or add *:results output*
