@@ -1534,3 +1534,22 @@ All went well, the film was *in the can*.
 
 *** can it
 "*Can it*!" I growled
+
+* quality
+质量
+** 语义
+*** 质量
+Much of the land was of poor quality.
+
+Everyone can greatly improve the quality of life.
+*** 素质
+He shows strong leadership qualities.
+*** 品性
+The qualities of honesty and indepedence.
+*** 特征
+The drug's addictive quality.
+*** 优质
+His pride in the quality of his craftsmanship.
+*** 优质的
+He's a quality player.
+** 短语
