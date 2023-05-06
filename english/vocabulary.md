@@ -1,57 +1,58 @@
 
 # Table of Contents
 
--   [some](#orgfca71b7)
--   [fine](#org14086cf)
--   [bold](#org95de865)
--   [detail](#org945f1ac)
--   [firm](#orgd67ab37)
--   [false](#org52817d2)
--   [string](#org85bd655)
--   [approach](#org4d8f3c6)
--   [take](#org54c52ef)
--   [over](#org695533a)
--   [double](#org33c4d6e)
--   [right](#org14d56bf)
--   [play](#org98add81)
--   [class](#org7d04a4b)
--   [context](#org1b5bb7f)
--   [some time解析](#org87cdc90)
--   [say](#orge29d81b)
--   [thought](#orgc342f35)
--   [account](#orgf8d8381)
--   [size](#orgc06dbb8)
--   [array](#orgc5d3092)
--   [order](#org3fc7ed1)
--   [clear](#orgf52d361)
--   [step](#orgbb50f40)
--   [state](#org81102d9)
--   [book](#orgd3deb83)
--   [quite](#org1a3e757)
--   [mean](#org7f717b9)
--   [term](#org240df65)
--   [act](#org29be7fb)
--   [capital](#org2cb518c)
--   [range](#org221dfac)
--   [result](#org7c5a6f3)
--   [heart](#org5f16a82)
--   [look](#org5fbc56e)
--   [single](#org5e905be)
--   [ask](#org6e23a22)
--   [great](#org6daafc0)
--   [deal](#orgabb9801)
--   [space](#org0d59ed6)
--   [off](#org70ca27b)
--   [present](#org95ea0bc)
--   [host](#orgf5b190e)
--   [can](#orgdc332a9)
--   [quality](#orgc209b5a)
--   [issue](#orgdfc1333)
+-   [some](#orga27c63c)
+-   [fine](#org78c0043)
+-   [bold](#orga1613b7)
+-   [detail](#orgbe621d7)
+-   [firm](#org9cc8478)
+-   [false](#orgf6b798e)
+-   [string](#org9f8d963)
+-   [approach](#org73dcb8c)
+-   [take](#org1ccd9e2)
+-   [over](#org3a14e28)
+-   [double](#org2d6673e)
+-   [right](#orge25f8cb)
+-   [play](#org0f17d83)
+-   [class](#org4575a5e)
+-   [context](#org7fb1674)
+-   [some time解析](#org1073345)
+-   [say](#org10bfea4)
+-   [thought](#org8bd2656)
+-   [account](#org6d60a4d)
+-   [size](#orgf308451)
+-   [array](#orgbbeb1d4)
+-   [order](#org144c4e1)
+-   [clear](#org5f56419)
+-   [step](#org7b3a6d3)
+-   [state](#org03d9b6b)
+-   [book](#orgfa3cc42)
+-   [quite](#org7a82294)
+-   [mean](#org097daac)
+-   [term](#org8de0fb8)
+-   [act](#org3b305ea)
+-   [capital](#org4df5643)
+-   [range](#orgdffb7c5)
+-   [result](#org16560e4)
+-   [heart](#org79d4cd2)
+-   [look](#orgf110005)
+-   [single](#org18468f6)
+-   [ask](#org83f15af)
+-   [great](#org1ed4fba)
+-   [deal](#org4182960)
+-   [space](#org1dcbf57)
+-   [off](#org12db03a)
+-   [present](#orge73e7da)
+-   [host](#org0eeec16)
+-   [can](#org28d68f0)
+-   [quality](#org704f961)
+-   [issue](#org437d97e)
+-   [current](#orgbd21f19)
 
 Record my english study process.
 
 
-<a id="orgfca71b7"></a>
+<a id="orga27c63c"></a>
 
 # some
 
@@ -107,7 +108,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="org14086cf"></a>
+<a id="org78c0043"></a>
 
 # fine
 
@@ -175,7 +176,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="org95de865"></a>
+<a id="orga1613b7"></a>
 
 # bold
 
@@ -207,7 +208,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="org945f1ac"></a>
+<a id="orgbe621d7"></a>
 
 # detail
 
@@ -245,7 +246,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="orgd67ab37"></a>
+<a id="org9cc8478"></a>
 
 # firm
 
@@ -288,7 +289,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="org52817d2"></a>
+<a id="orgf6b798e"></a>
 
 # false
 
@@ -313,7 +314,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="org85bd655"></a>
+<a id="org9f8d963"></a>
 
 # string
 
@@ -348,7 +349,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="org4d8f3c6"></a>
+<a id="org73dcb8c"></a>
 
 # approach
 
@@ -370,7 +371,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="org54c52ef"></a>
+<a id="org1ccd9e2"></a>
 
 # take
 
@@ -437,7 +438,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="org695533a"></a>
+<a id="org3a14e28"></a>
 
 # over
 
@@ -489,7 +490,7 @@ The japanese were producing over 100 million tons of steel.
 The time for empty talk is  over.
 
 
-<a id="org33c4d6e"></a>
+<a id="org2d6673e"></a>
 
 # double
 
@@ -542,7 +543,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="org14d56bf"></a>
+<a id="orge25f8cb"></a>
 
 # right
 
@@ -626,7 +627,7 @@ He was't entirely in the right.
 She confesses to having trouble finding Mr Right.
 
 
-<a id="org98add81"></a>
+<a id="org0f17d83"></a>
 
 # play
 
@@ -716,7 +717,7 @@ It's not clear how his fate will play out.
 The White House spokewoman sought to play down the significance of the event.
 
 
-<a id="org7d04a4b"></a>
+<a id="org4575a5e"></a>
 
 # class
 
@@ -771,7 +772,7 @@ Kite is undoubtedly a class player.
 As a player, he was in a class of his own.
 
 
-<a id="org1b5bb7f"></a>
+<a id="org7fb1674"></a>
 
 # context
 
@@ -804,7 +805,7 @@ It is important that we put Jesus into the context of history.
 Thomas says that he has been taken out of context on the issue.
 
 
-<a id="org87cdc90"></a>
+<a id="org1073345"></a>
 
 # some time解析
 
@@ -834,7 +835,7 @@ I looked for you some times.
 分开一段时间，相聚在某个时刻，合并s是有时，分开s是几次
 
 
-<a id="orge29d81b"></a>
+<a id="org10bfea4"></a>
 
 # say
 
@@ -897,7 +898,7 @@ It goes without saying that if someone has lung problems they should not smoke.
 Unemployment leads to a sence of useless, to say nothing of financial problems.
 
 
-<a id="orgc342f35"></a>
+<a id="org8bd2656"></a>
 
 # thought
 
@@ -933,7 +934,7 @@ This school of thought argues that depression is best treated by drugs.
 ## 短语
 
 
-<a id="orgf8d8381"></a>
+<a id="org6d60a4d"></a>
 
 # account
 
@@ -1011,7 +1012,7 @@ Tony told me what she's done and i was really scared on her account.
 Analysis of slowing car sales should take into account the strong seasonality & cyclical factor.
 
 
-<a id="orgc06dbb8"></a>
+<a id="orgf308451"></a>
 
 # size
 
@@ -1059,7 +1060,7 @@ The once-powerful post unions have been cut down to size.
 She was trying on an $8000 jacket for size.
 
 
-<a id="orgc5d3092"></a>
+<a id="orgbbeb1d4"></a>
 
 # array
 
@@ -1086,7 +1087,7 @@ The image is then stored on the computer hard disk as a vast arry of black and w
 Make-up arrayed on the bashroom counter.
 
 
-<a id="org3fc7ed1"></a>
+<a id="org144c4e1"></a>
 
 # order
 
@@ -1154,7 +1155,7 @@ Everything is in order.
 People accepted the class system as part of the natural order of things.
 
 
-<a id="orgf52d361"></a>
+<a id="org5f56419"></a>
 
 # clear
 
@@ -1287,7 +1288,7 @@ This agreement will clear the way for further talks.
 If you are a beginner, steer clear of resorts with reputations for difficult skiing.
 
 
-<a id="orgbb50f40"></a>
+<a id="org7b3a6d3"></a>
 
 # step
 
@@ -1370,7 +1371,7 @@ A good teacher is always at least one step ahead of his students.
 I'm not worried about stepping on anybody's toes.
 
 
-<a id="org81102d9"></a>
+<a id="org03d9b6b"></a>
 
 # state
 
@@ -1443,7 +1444,7 @@ Which part of the States would you suggest I visit?
 I must say this is a very unsatisfactory state of affairs.
 
 
-<a id="orgd3deb83"></a>
+<a id="orgfa3cc42"></a>
 
 # book
 
@@ -1506,7 +1507,7 @@ War criminals must be brought to book.
 The courses quickly get booked up.
 
 
-<a id="org1a3e757"></a>
+<a id="org7a82294"></a>
 
 # quite
 
@@ -1554,7 +1555,7 @@ He's got quite a lot of friends.
 The play wasn't quite what we expected.
 
 
-<a id="org7f717b9"></a>
+<a id="org097daac"></a>
 
 # mean
 
@@ -1679,7 +1680,7 @@ Kinnock is no mean performer on the rugby field.
 It's a case of finding the mean between firmness and compassion.
 
 
-<a id="org240df65"></a>
+<a id="org8de0fb8"></a>
 
 # term
 
@@ -1752,7 +1753,7 @@ Small business have to compete on **equal terms** with large organisations.
 By now, Usha and I **were on familiar terms** .
 
 
-<a id="org29be7fb"></a>
+<a id="org3b305ea"></a>
 
 # act
 
@@ -1845,7 +1846,7 @@ The padding **acts as** a cushion if the player fails or is hit by the ball.
 A patient will usually listen to the doctor's advice and **act on** it.
 
 
-<a id="org2cb518c"></a>
+<a id="org4df5643"></a>
 
 # capital
 
@@ -1888,7 +1889,7 @@ Espionage is a capital offence in this country.
 He rebuked the President for trying to make political capital out of the hostage situation.
 
 
-<a id="org221dfac"></a>
+<a id="orgdffb7c5"></a>
 
 # range
 
@@ -1976,7 +1977,7 @@ The conversation had ranged over a variety of topics, from sport to current affa
 He was shot in the head at close range.
 
 
-<a id="org7c5a6f3"></a>
+<a id="org16560e4"></a>
 
 # result
 
@@ -2027,7 +2028,7 @@ How would you cope with unemployment and the resulting loss of income?
 **As a result of** the pilots strike, all fights have had to be cancelled.
 
 
-<a id="org5f16a82"></a>
+<a id="org79d4cd2"></a>
 
 # heart
 
@@ -2125,7 +2126,7 @@ She had set her heart on becoming a hairdresser.
 The team are in good heart and ready for season's matches.
 
 
-<a id="org5fbc56e"></a>
+<a id="orgf110005"></a>
 
 # look
 
@@ -2233,7 +2234,7 @@ He looks down his nose at anyone foreign.
 Prison guards looked the other way as the man was attacked by fellow prisoners.
 
 
-<a id="org5e905be"></a>
+<a id="org18468f6"></a>
 
 # single
 
@@ -2311,7 +2312,7 @@ The plane was bought down safety and **not a single** passenger was killed.
 Tourism is **the** courty's **single biggest** earner.
 
 
-<a id="org6e23a22"></a>
+<a id="org83f15af"></a>
 
 # ask
 
@@ -2379,7 +2380,7 @@ There's someone at the door **asking for** Dad.
 We need to win the next three games. It's **a big ask**, but I'm confident we can do it.
 
 
-<a id="org6daafc0"></a>
+<a id="org1ed4fba"></a>
 
 # great
 
@@ -2450,7 +2451,7 @@ Some wars are fought for **the greater good**.
 **The great divide** between north and south seems to be as unbridgeable an ever.
 
 
-<a id="orgabb9801"></a>
+<a id="org4182960"></a>
 
 # deal
 
@@ -2523,7 +2524,7 @@ As a scientist, I do not deal in speculation.
 Don't worry, I'll deal with this.
 
 
-<a id="org0d59ed6"></a>
+<a id="org1dcbf57"></a>
 
 # space
 
@@ -2604,7 +2605,7 @@ Even Sarah treated his as if he were a **waste of space**.
 <https://youglish.com/getbyid/19940016/waste%20of%20space/english>
 
 
-<a id="org70ca27b"></a>
+<a id="org12db03a"></a>
 
 # off
 
@@ -2708,7 +2709,7 @@ Brian never usually loses his temper - he must be having an **off day**.
 In the off season, there's hardly anyone staying at the hotel.
 
 
-<a id="org95ea0bc"></a>
+<a id="orge73e7da"></a>
 
 # present
 
@@ -2841,7 +2842,7 @@ Don't wait until New Year to resolve to origanise your life, **There's no time l
 <https://youglish.com/getbyid/103217505/there%20is%20no%20time%20like%20the%20present/english>
 
 
-<a id="orgf5b190e"></a>
+<a id="org0eeec16"></a>
 
 # host
 
@@ -2888,7 +2889,7 @@ A host of show business celebrities have pledged their support.
 <https://youglish.com/getbyid/136651182/A%20host%20of/english>
 
 
-<a id="orgdc332a9"></a>
+<a id="org28d68f0"></a>
 
 # can
 
@@ -2958,7 +2959,7 @@ All went well, the film was **in the can**.
 "**Can it**!" I growled
 
 
-<a id="orgc209b5a"></a>
+<a id="org704f961"></a>
 
 # quality
 
@@ -3003,7 +3004,7 @@ He's a quality player.
 ## 短语
 
 
-<a id="orgdfc1333"></a>
+<a id="org437d97e"></a>
 
 # issue
 
@@ -3079,3 +3080,46 @@ A tiny voice issued from a speaker.
 I think once you do have issues with food you're going to have them for the rest of your life.
 
 <https://youglish.com/getbyid/77760548/has%20issue/english>
+
+
+<a id="orgbd21f19"></a>
+
+# current
+
+当前的水流
+
+
+## 来源
+
+running, flowing
+
+
+## 语义
+
+
+### 当前的
+
+In its current state, the car is worth $10000.
+
+
+### 流行的
+
+The custom was still current in the late 1960s.
+
+
+### 水流
+
+Strong currents can be very dangerous for swimmers.
+
+
+### 气流
+
+Some birds use warm air currents to help them fly.
+
+
+### 潮流
+
+The committee reflects the different political currents within the organization.
+
+
+## 短语

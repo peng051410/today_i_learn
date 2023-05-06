@@ -1589,3 +1589,20 @@ https://youglish.com/getbyid/15482739/issue%20from/english
 I think once you do have issues with food you're going to have them for the rest of your life.
 
 https://youglish.com/getbyid/77760548/has%20issue/english
+* current
+当前的水流
+** 来源
+running, flowing
+** 语义
+*** 当前的
+In its current state, the car is worth $10000.
+*** 流行的
+The custom was still current in the late 1960s.
+*** 水流
+Strong currents can be very dangerous for swimmers.
+*** 气流
+Some birds use warm air currents to help them fly.
+*** 潮流
+The committee reflects the different political currents within the organization.
+
+** 短语
