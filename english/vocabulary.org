@@ -1002,6 +1002,9 @@ Espionage is a capital offence in this country.
 *** is making capital out of
 He rebuked the President for trying to make political capital out of the hostage situation.
 
+*** capital punishment
+https://youglish.com/getbyid/17265977/capital%20punishment/english
+
 * range
 一系列的界限
 
@@ -1645,7 +1648,7 @@ The bank has yet to response to our latter.
 
 https://youglish.com/getbyid/162368961/has%20yet%20to/english
 
-* Keep
+* keep
 请继续保持
 ** 语义
 *** 保持
@@ -1705,7 +1708,7 @@ https://youglish.com/getbyid/15290/for%20keeps/english
 She knew that Gabriel was keeping something from her.
 
 https://youglish.com/getbyid/19540386/keeping%20something%20from/english
-*** keep at it 
+*** keep at it
 It may take a number of attempts, but it is worth keeping at it.
 
 https://youglish.com/getbyid/6768602/keep%20at%20it/english
@@ -1719,3 +1722,5 @@ https://youglish.com/getbyid/30085626/in%20keeping%20with/english
 He was a quiet man who kept himself to himself.
 
 https://youglish.com/getbyid/157384317/kept%20himself%20to%20himself/english
+
+*
