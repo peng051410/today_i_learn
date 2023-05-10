@@ -1774,3 +1774,47 @@ I'll *get even with* his one day.
 We're hoping that we'll at least *break even*, and perhaps makes small profit.
 *** even out
 The differences in their income should *even out* over time.
+* once
+一旦曾经发生一次
+** 语义
+*** 一次
+I've only met her once.
+*** 曾经
+Sonya and lda had once been close friends.
+*** 一旦
+Once I get him a job, he'll be fine.
+** 短语
+*** once a week
+Staff meetings take place once a week.
+*** at once
+Now, go upstairs at once and clean your room!
+
+I can't do two thing at once!
+*** once more
+I looked at myself in the mirror once more.
+*** once again
+Once again, it must be stressed that the pilot was not to blame.
+*** all at once(1)
+All at once there was a loud banging on the door.
+*** all at once(2)
+A lot of practical details needed to be attended to all at once.
+*** once in a while
+I do get a little anxious once in a while.
+*** never once
+I never once saw him get angry or upset.
+*** for once
+Just for once, let me make my own decision.
+*** once and for all
+Let's settle this matter once and for all.
+*** once or twise
+I wrote to him once or twise, but he didn't anwser.
+*** this once
+I'll make an exception this once.
+*** once upon a time
+Once upon a time you used to be able to leave your front door unlocked.
+*** once in a blue moon
+It only happens like this once in a blue moon.
+*** do something once too often
+He tried that trick once too often and in the end they caught him.
+*** once a ..., always a ..
+Once a thief, always a thief.
