@@ -1954,3 +1954,23 @@ https://youglish.com/getbyid/45645150/rush%20of%20excitement/english
 We used to be rushed off our feet at lunchtimes.
 
 https://youglish.com/getbyid/133610586/rushed%20off%20your%20feet/english
+* remain
+继续停留处理残骸
+** 语义
+*** 继续
+Please remain seated until all the lights are on.
+*** 停留
+She was too ill to remain at home.
+*** 剩下
+Little of the original building remains.
+*** 尚待处理
+Several points remain to be settled.
+*** 残骸
+The unrecognizable remains of a man had been found.
+*** 遗迹
+There are Roman remains all around us.
+** 短语
+*** it remains to be seen
+It remains to be seen whether the operation was successful.
+
+https://youglish.com/getbyid/106823506/remains%20to%20be%20seen/english
