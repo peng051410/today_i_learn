@@ -818,3 +818,12 @@ for(var i=1; i < rows.length; i++){
   console.log(id)
 }
 #+end_src
+* VIM
+** indent code
+= indicate indent
+#+begin_src sh
+gg
+=G
+#+end_src
+*** [[https://unix.stackexchange.com/questions/19945/auto-indent-format-code-for-vim][Auto indent / format code for Vim? - Unix & Linux Stack Exchange]]
+Captured On: [2023-05-18 Thu 19:22]
