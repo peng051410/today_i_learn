@@ -314,6 +314,13 @@ pwd
 ** Org babel python output always Nono
 [[https://emacs.stackexchange.com/questions/17926/python-org-mode-source-block-output-is-always-none][Python org-mode source block output is always ': None' - Emacs Stack Exchange]]
 Can use *return* or add *:results output*
+** Org add current time
+#+begin_src sh
+C-u C-c .
+#+end_src
+*** [[https://stackoverflow.com/questions/11295973/how-to-insert-current-time-in-the-emacs-org-mode][How to insert current time in the emacs org-mode - Stack Overflow]]
+Captured On: [2023-05-24 Wed 10:22]
+
 ** Handle swiper search result
 Ctrl+s搜索后，再按 *Ctrl+c Ctrl+o* 打开处理结果的buffer
 ** Change org reveal font color
