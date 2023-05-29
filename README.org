@@ -834,3 +834,10 @@ gg
 #+end_src
 *** [[https://unix.stackexchange.com/questions/19945/auto-indent-format-code-for-vim][Auto indent / format code for Vim? - Unix & Linux Stack Exchange]]
 Captured On: [2023-05-18 Thu 19:22]
+* GCC
+** Compile c program to assembly language
+
+#+begin_src sh
+gcc -S helloworld.c
+#+end_src
+After run this command, a new file named helloworld.s prevent.
