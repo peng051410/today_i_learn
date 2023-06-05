@@ -659,6 +659,14 @@ brew cask install font-hack-nerd-font
 #+begin_src sh
 brew cleanup -s
 #+end_src
+** Cask adoptopenjdk8 exists in multiple taps
+Del homebrew cask rb
+
+#+begin_src sh
+rm /usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask-versions/Casks/adoptopenjdk8.rb
+#+end_src
+
+https://github.com/AdoptOpenJDK/homebrew-openjdk/issues/106#issuecomment-487269671
 * MAC
 
 ** del macOS Xcode CoreSimulator folder
