@@ -1,74 +1,75 @@
 
 # Table of Contents
 
--   [some](#org78d4f3e)
--   [fine](#org8b39a14)
--   [bold](#org7dc400c)
--   [detail](#org25b2e53)
--   [firm](#org23472b8)
--   [false](#org0ded37c)
--   [string](#orge23ac33)
--   [approach](#org09470f1)
--   [take](#orgbd3bd66)
--   [over](#org07df4c8)
--   [double](#orgf2fd3dd)
--   [right](#orgf0ff0c4)
--   [play](#org1926949)
--   [class](#org7118872)
--   [context](#org062c9a7)
--   [some time解析](#org2d8837b)
--   [say](#org32c729d)
--   [thought](#orge71b37b)
--   [account](#org0294ee4)
--   [size](#org0336eb1)
--   [array](#orgafc8e9b)
--   [order](#org7e9f0a9)
--   [clear](#org8fe8259)
--   [step](#org86d2641)
--   [state](#org0f6ff48)
--   [book](#orgd1e4546)
--   [quite](#orgead04e0)
--   [mean](#org5824875)
--   [term](#orgf0a4991)
--   [act](#orga09142f)
--   [capital](#org4d4a7ac)
--   [range](#orga5d2f21)
--   [result](#org775fc9c)
--   [heart](#org04f42a4)
--   [look](#org30b7b6b)
--   [single](#org513681d)
--   [ask](#org0a77a16)
--   [great](#orgded660e)
--   [deal](#orge5bc97b)
--   [space](#org94f3fc3)
--   [off](#orgfabf1b5)
--   [present](#org5d9eeba)
--   [host](#org67ce533)
--   [can](#org102d2fd)
--   [quality](#org9b34a25)
--   [issue](#org0fadad1)
--   [current](#org7b97fdc)
--   [yet](#org3005262)
--   [keep](#org10fb68a)
--   [even](#org1dbc71a)
--   [once](#org2e3569b)
--   [raise](#org06600d6)
--   [rush](#org002018d)
--   [remain](#orgb79dbbb)
--   [can](#org008ab6c)
--   [ever](#org43d45de)
--   [back](#org236f436)
--   [suppose](#orgca8d9f7)
--   [base](#org219491c)
--   [run](#orgfa86084)
--   [significant](#org4a25820)
--   [practical](#org8e6e2d1)
--   [house](#orgfc0e7cc)
+-   [some](#org11a3821)
+-   [fine](#orgc64e999)
+-   [bold](#orgd15c7de)
+-   [detail](#orge22ae7f)
+-   [firm](#orgf2fe7cd)
+-   [false](#org4a7f799)
+-   [string](#org56a20c4)
+-   [approach](#org0f3ce06)
+-   [take](#orgc879573)
+-   [over](#org691212a)
+-   [double](#orgf0afcf6)
+-   [right](#orgc5442be)
+-   [play](#orgc75e272)
+-   [class](#orgcc7da33)
+-   [context](#org3f6e2d4)
+-   [some time解析](#orgbfc5477)
+-   [say](#org5f0ca0e)
+-   [thought](#orgac6b80b)
+-   [account](#org4696bfd)
+-   [size](#org38fb0b5)
+-   [array](#orga7d80b9)
+-   [order](#orgb5b611c)
+-   [clear](#org8d78875)
+-   [step](#org6cc3377)
+-   [state](#org147d01c)
+-   [book](#org0eb7a78)
+-   [quite](#org333023c)
+-   [mean](#org3a4d239)
+-   [term](#org03445c8)
+-   [act](#orgebef0b5)
+-   [capital](#org607c041)
+-   [range](#org609e900)
+-   [result](#orga1e6004)
+-   [heart](#org6d793bc)
+-   [look](#orgf7257bd)
+-   [single](#org2e9bfd9)
+-   [ask](#org42f00ed)
+-   [great](#orge97b5d1)
+-   [deal](#org0d314da)
+-   [space](#org8078511)
+-   [off](#org5979092)
+-   [present](#org4c58bb0)
+-   [host](#orge855f46)
+-   [can](#org3f6329a)
+-   [quality](#org15621f1)
+-   [issue](#orgb4ad91a)
+-   [current](#org87e0277)
+-   [yet](#org86bead4)
+-   [keep](#org8101533)
+-   [even](#org1ae7e96)
+-   [once](#org193f21b)
+-   [raise](#org3e81a02)
+-   [rush](#org726a006)
+-   [remain](#org0842ac9)
+-   [can](#org8edb5d7)
+-   [ever](#orgcc739ca)
+-   [back](#org73e5a55)
+-   [suppose](#org21d4cd0)
+-   [base](#orgcb5bbc1)
+-   [run](#org43c9f8e)
+-   [significant](#org5870853)
+-   [practical](#org01269a0)
+-   [house](#org793a7cf)
+-   [address](#orgf46ed36)
 
 Record my english study process.
 
 
-<a id="org78d4f3e"></a>
+<a id="org11a3821"></a>
 
 # some
 
@@ -124,7 +125,7 @@ Record my english study process.
 ### That was some party last night!
 
 
-<a id="org8b39a14"></a>
+<a id="orgc64e999"></a>
 
 # fine
 
@@ -192,7 +193,7 @@ Record my english study process.
 ### She was fined for speeding.
 
 
-<a id="org7dc400c"></a>
+<a id="orgd15c7de"></a>
 
 # bold
 
@@ -224,7 +225,7 @@ bold不只表示粗体，还可以很勇敢
 ### All the headings are in bold type.
 
 
-<a id="org25b2e53"></a>
+<a id="orge22ae7f"></a>
 
 # detail
 
@@ -262,7 +263,7 @@ The report details the progress we have made over the last years.
 Four soldiers were detailed to guard duty.
 
 
-<a id="org23472b8"></a>
+<a id="orgf2fe7cd"></a>
 
 # firm
 
@@ -305,7 +306,7 @@ Cotton prices remain firm and demand is strong.
 Firm more soil over the roots and water thoroughly.
 
 
-<a id="org0ded37c"></a>
+<a id="org4a7f799"></a>
 
 # false
 
@@ -330,7 +331,7 @@ She bowed her head and smiled in false modesty.
 She's so false.
 
 
-<a id="orge23ac33"></a>
+<a id="org56a20c4"></a>
 
 # string
 
@@ -365,7 +366,7 @@ He went off to change a guitar string.
 He had strug a banner across the wall.
 
 
-<a id="org09470f1"></a>
+<a id="org0f3ce06"></a>
 
 # approach
 
@@ -387,7 +388,7 @@ Employees are insterested in how you approach problems.
 We will be exploring different approaches to gathering information.
 
 
-<a id="orgbd3bd66"></a>
+<a id="orgc879573"></a>
 
 # take
 
@@ -454,7 +455,7 @@ Let me take you email address.
 If you want take it further, you should consult an attorney.
 
 
-<a id="org07df4c8"></a>
+<a id="org691212a"></a>
 
 # over
 
@@ -506,7 +507,7 @@ The japanese were producing over 100 million tons of steel.
 The time for empty talk is  over.
 
 
-<a id="orgf2fd3dd"></a>
+<a id="orgf0afcf6"></a>
 
 # double
 
@@ -559,7 +560,7 @@ Jack doubles as director and producer.
 双班倒
 
 
-<a id="orgf0ff0c4"></a>
+<a id="orgc5442be"></a>
 
 # right
 
@@ -643,7 +644,7 @@ He was't entirely in the right.
 She confesses to having trouble finding Mr Right.
 
 
-<a id="org1926949"></a>
+<a id="orgc75e272"></a>
 
 # play
 
@@ -733,7 +734,7 @@ It's not clear how his fate will play out.
 The White House spokewoman sought to play down the significance of the event.
 
 
-<a id="org7118872"></a>
+<a id="orgcc7da33"></a>
 
 # class
 
@@ -788,7 +789,7 @@ Kite is undoubtedly a class player.
 As a player, he was in a class of his own.
 
 
-<a id="org062c9a7"></a>
+<a id="org3f6e2d4"></a>
 
 # context
 
@@ -821,7 +822,7 @@ It is important that we put Jesus into the context of history.
 Thomas says that he has been taken out of context on the issue.
 
 
-<a id="org2d8837b"></a>
+<a id="orgbfc5477"></a>
 
 # some time解析
 
@@ -851,7 +852,7 @@ I looked for you some times.
 分开一段时间，相聚在某个时刻，合并s是有时，分开s是几次
 
 
-<a id="org32c729d"></a>
+<a id="org5f0ca0e"></a>
 
 # say
 
@@ -914,7 +915,7 @@ It goes without saying that if someone has lung problems they should not smoke.
 Unemployment leads to a sence of useless, to say nothing of financial problems.
 
 
-<a id="orge71b37b"></a>
+<a id="orgac6b80b"></a>
 
 # thought
 
@@ -950,7 +951,7 @@ This school of thought argues that depression is best treated by drugs.
 ## 短语
 
 
-<a id="org0294ee4"></a>
+<a id="org4696bfd"></a>
 
 # account
 
@@ -1028,7 +1029,7 @@ Tony told me what she's done and i was really scared on her account.
 Analysis of slowing car sales should take into account the strong seasonality & cyclical factor.
 
 
-<a id="org0336eb1"></a>
+<a id="org38fb0b5"></a>
 
 # size
 
@@ -1076,7 +1077,7 @@ The once-powerful post unions have been cut down to size.
 She was trying on an $8000 jacket for size.
 
 
-<a id="orgafc8e9b"></a>
+<a id="orga7d80b9"></a>
 
 # array
 
@@ -1103,7 +1104,7 @@ The image is then stored on the computer hard disk as a vast arry of black and w
 Make-up arrayed on the bashroom counter.
 
 
-<a id="org7e9f0a9"></a>
+<a id="orgb5b611c"></a>
 
 # order
 
@@ -1171,7 +1172,7 @@ Everything is in order.
 People accepted the class system as part of the natural order of things.
 
 
-<a id="org8fe8259"></a>
+<a id="org8d78875"></a>
 
 # clear
 
@@ -1304,7 +1305,7 @@ This agreement will clear the way for further talks.
 If you are a beginner, steer clear of resorts with reputations for difficult skiing.
 
 
-<a id="org86d2641"></a>
+<a id="org6cc3377"></a>
 
 # step
 
@@ -1387,7 +1388,7 @@ A good teacher is always at least one step ahead of his students.
 I'm not worried about stepping on anybody's toes.
 
 
-<a id="org0f6ff48"></a>
+<a id="org147d01c"></a>
 
 # state
 
@@ -1460,7 +1461,7 @@ Which part of the States would you suggest I visit?
 I must say this is a very unsatisfactory state of affairs.
 
 
-<a id="orgd1e4546"></a>
+<a id="org0eb7a78"></a>
 
 # book
 
@@ -1523,7 +1524,7 @@ War criminals must be brought to book.
 The courses quickly get booked up.
 
 
-<a id="orgead04e0"></a>
+<a id="org333023c"></a>
 
 # quite
 
@@ -1571,7 +1572,7 @@ He's got quite a lot of friends.
 The play wasn't quite what we expected.
 
 
-<a id="org5824875"></a>
+<a id="org3a4d239"></a>
 
 # mean
 
@@ -1696,7 +1697,7 @@ Kinnock is no mean performer on the rugby field.
 It's a case of finding the mean between firmness and compassion.
 
 
-<a id="orgf0a4991"></a>
+<a id="org03445c8"></a>
 
 # term
 
@@ -1769,7 +1770,7 @@ Small business have to compete on **equal terms** with large organisations.
 By now, Usha and I **were on familiar terms** .
 
 
-<a id="orga09142f"></a>
+<a id="orgebef0b5"></a>
 
 # act
 
@@ -1862,7 +1863,7 @@ The padding **acts as** a cushion if the player fails or is hit by the ball.
 A patient will usually listen to the doctor's advice and **act on** it.
 
 
-<a id="org4d4a7ac"></a>
+<a id="org607c041"></a>
 
 # capital
 
@@ -1910,7 +1911,7 @@ He rebuked the President for trying to make political capital out of the hostage
 <https://youglish.com/getbyid/17265977/capital%20punishment/english>
 
 
-<a id="orga5d2f21"></a>
+<a id="org609e900"></a>
 
 # range
 
@@ -1998,7 +1999,7 @@ The conversation had ranged over a variety of topics, from sport to current affa
 He was shot in the head at close range.
 
 
-<a id="org775fc9c"></a>
+<a id="orga1e6004"></a>
 
 # result
 
@@ -2049,7 +2050,7 @@ How would you cope with unemployment and the resulting loss of income?
 **As a result of** the pilots strike, all fights have had to be cancelled.
 
 
-<a id="org04f42a4"></a>
+<a id="org6d793bc"></a>
 
 # heart
 
@@ -2147,7 +2148,7 @@ She had set her heart on becoming a hairdresser.
 The team are in good heart and ready for season's matches.
 
 
-<a id="org30b7b6b"></a>
+<a id="orgf7257bd"></a>
 
 # look
 
@@ -2255,7 +2256,7 @@ He looks down his nose at anyone foreign.
 Prison guards looked the other way as the man was attacked by fellow prisoners.
 
 
-<a id="org513681d"></a>
+<a id="org2e9bfd9"></a>
 
 # single
 
@@ -2333,7 +2334,7 @@ The plane was bought down safety and **not a single** passenger was killed.
 Tourism is **the** courty's **single biggest** earner.
 
 
-<a id="org0a77a16"></a>
+<a id="org42f00ed"></a>
 
 # ask
 
@@ -2401,7 +2402,7 @@ There's someone at the door **asking for** Dad.
 We need to win the next three games. It's **a big ask**, but I'm confident we can do it.
 
 
-<a id="orgded660e"></a>
+<a id="orge97b5d1"></a>
 
 # great
 
@@ -2472,7 +2473,7 @@ Some wars are fought for **the greater good**.
 **The great divide** between north and south seems to be as unbridgeable an ever.
 
 
-<a id="orge5bc97b"></a>
+<a id="org0d314da"></a>
 
 # deal
 
@@ -2545,7 +2546,7 @@ As a scientist, I do not deal in speculation.
 Don't worry, I'll deal with this.
 
 
-<a id="org94f3fc3"></a>
+<a id="org8078511"></a>
 
 # space
 
@@ -2626,7 +2627,7 @@ Even Sarah treated his as if he were a **waste of space**.
 <https://youglish.com/getbyid/19940016/waste%20of%20space/english>
 
 
-<a id="orgfabf1b5"></a>
+<a id="org5979092"></a>
 
 # off
 
@@ -2730,7 +2731,7 @@ Brian never usually loses his temper - he must be having an **off day**.
 In the off season, there's hardly anyone staying at the hotel.
 
 
-<a id="org5d9eeba"></a>
+<a id="org4c58bb0"></a>
 
 # present
 
@@ -2863,7 +2864,7 @@ Don't wait until New Year to resolve to origanise your life, **There's no time l
 <https://youglish.com/getbyid/103217505/there%20is%20no%20time%20like%20the%20present/english>
 
 
-<a id="org67ce533"></a>
+<a id="orge855f46"></a>
 
 # host
 
@@ -2910,7 +2911,7 @@ A host of show business celebrities have pledged their support.
 <https://youglish.com/getbyid/136651182/A%20host%20of/english>
 
 
-<a id="org102d2fd"></a>
+<a id="org3f6329a"></a>
 
 # can
 
@@ -2980,7 +2981,7 @@ All went well, the film was **in the can**.
 "**Can it**!" I growled
 
 
-<a id="org9b34a25"></a>
+<a id="org15621f1"></a>
 
 # quality
 
@@ -3025,7 +3026,7 @@ He's a quality player.
 ## 短语
 
 
-<a id="org0fadad1"></a>
+<a id="orgb4ad91a"></a>
 
 # issue
 
@@ -3103,7 +3104,7 @@ I think once you do have issues with food you're going to have them for the rest
 <https://youglish.com/getbyid/77760548/has%20issue/english>
 
 
-<a id="org7b97fdc"></a>
+<a id="org87e0277"></a>
 
 # current
 
@@ -3146,7 +3147,7 @@ The committee reflects the different political currents within the organization.
 ## 短语
 
 
-<a id="org3005262"></a>
+<a id="org86bead4"></a>
 
 # yet
 
@@ -3214,7 +3215,7 @@ The bank has yet to response to our latter.
 <https://youglish.com/getbyid/162368961/has%20yet%20to/english>
 
 
-<a id="org10fb68a"></a>
+<a id="org8101533"></a>
 
 # keep
 
@@ -3356,7 +3357,7 @@ He was a quiet man who kept himself to himself.
 <https://youglish.com/getbyid/157384317/kept%20himself%20to%20himself/english>
 
 
-<a id="org1dbc71a"></a>
+<a id="org1ae7e96"></a>
 
 # even
 
@@ -3464,7 +3465,7 @@ We're hoping that we'll at least **break even**, and perhaps makes small profit.
 The differences in their income should **even out** over time.
 
 
-<a id="org2e3569b"></a>
+<a id="org193f21b"></a>
 
 # once
 
@@ -3574,7 +3575,7 @@ He tried that trick once too often and in the end they caught him.
 Once a thief, always a thief.
 
 
-<a id="org06600d6"></a>
+<a id="org3e81a02"></a>
 
 # raise
 
@@ -3715,7 +3716,7 @@ I'll raise hell with whoever is responseible for this mess.
 <https://youglish.com/getbyid/24116630/raise%20hell/english>
 
 
-<a id="org002018d"></a>
+<a id="org726a006"></a>
 
 # rush
 
@@ -3869,7 +3870,7 @@ We used to be rushed off our feet at lunchtimes.
 <https://youglish.com/getbyid/133610586/rushed%20off%20your%20feet/english>
 
 
-<a id="orgb79dbbb"></a>
+<a id="org0842ac9"></a>
 
 # remain
 
@@ -3919,7 +3920,7 @@ It remains to be seen whether the operation was successful.
 <https://youglish.com/getbyid/106823506/remains%20to%20be%20seen/english>
 
 
-<a id="org008ab6c"></a>
+<a id="org8edb5d7"></a>
 
 # can
 
@@ -4000,7 +4001,7 @@ Having two sequels in the can before the first film even opens is risky, though.
 <https://youglish.com/getbyid/110299629/can%20it%20!/english>
 
 
-<a id="org43d45de"></a>
+<a id="orgcc739ca"></a>
 
 # ever
 
@@ -4105,7 +4106,7 @@ He's a natural comedian if ever there was one.
 <https://youglish.com/getbyid/157351273/if%20ever%20there%20was%20one/english>
 
 
-<a id="org236f436"></a>
+<a id="org73e5a55"></a>
 
 # back
 
@@ -4361,7 +4362,7 @@ If we really put our backs into it, we could finish today.
 They had the wind at their backs as they set off.
 
 
-<a id="orgca8d9f7"></a>
+<a id="org21d4cd0"></a>
 
 # suppose
 
@@ -4401,7 +4402,7 @@ Do you suppose he was telling the truth?
 <https://youglish.com/getbyid/24919817/do%20you%20suppose/english>
 
 
-<a id="org219491c"></a>
+<a id="orgcb5bbc1"></a>
 
 # base
 
@@ -4489,7 +4490,7 @@ He has mananged to touch all the bases necessary, and trade goes on.
 <https://youglish.com/getbyid/81202651/touch%20all%20the%20bases/english>
 
 
-<a id="orgfa86084"></a>
+<a id="org43c9f8e"></a>
 
 # run
 
@@ -4791,7 +4792,7 @@ They've given some of the top teams a run for their money this season.
 Investors have also had a good run for their money.
 
 
-<a id="org4a25820"></a>
+<a id="org5870853"></a>
 
 # significant
 
@@ -4832,7 +4833,7 @@ It is significant that is highly significant for the future of the province.
 <https://youglish.com/getbyid/82012877/it%20is%20significant%20that/english>
 
 
-<a id="org8e6e2d1"></a>
+<a id="org01269a0"></a>
 
 # practical
 
@@ -4887,7 +4888,7 @@ The time you spend on it doesn't, for all practical purposes, affect the final r
 Sampras looks a practical certainty to win Wimbledon this year.
 
 
-<a id="orgfc0e7cc"></a>
+<a id="org793a7cf"></a>
 
 # house
 
@@ -4998,4 +4999,71 @@ The two of them set up house in Brighton.
 His daughter keeps house for him.
 
 <https://youglish.com/getbyid/75666390/keep%20house/english>
+
+
+<a id="orgf46ed36"></a>
+
+# address
+
+地址
+
+
+## 语义
+
+
+### 地址
+
+I can give you the address of a good attorney.
+
+
+### 网址
+
+They have changed the address of their website.
+
+
+### 演讲
+
+The new president delivered his inaugural address in Creole.
+
+
+### 寄给
+
+That letter was addressed to me.
+
+
+### 向&#x2026;讲话
+
+She turned to address the man on her left.
+
+
+### 提出
+
+You will have to address your comments to our Head Office.
+
+
+### 对&#x2026;发表演说
+
+He addressed an audience of 10,000 supporters.
+
+
+### 称呼
+
+The president should be addressed as 'Mr. President'.
+
+
+## 短语
+
+
+### address a promblem
+
+Our products address the needs of real users.
+
+<https://youglish.com/getbyid/15894612/address%20the/english>
+
+
+### address yourself to something
+
+Marlowe new addressed himself to the task of searing the room.
+,
+<https://youglish.com/getbyid/12222175/address%20himself/english>
 
