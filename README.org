@@ -749,6 +749,21 @@ where information_schema.TABLES.TABLE_SCHEMA = 'yw_cooperate_oppo' and informati
 show table status like 'book_mrg';
 #+end_src
 
+** Query db size
+data size with M.
+#+begin_src sql
+select table_schema as database_name,
+       table_name,
+       round(1.0*data_length/1024/1024, 2) as data_size,
+       round(index_length/1024/1024, 2) as index_size,
+       round((data_length + index_length)/1024/1024, 2) as total_size
+from information_schema.tables
+where table_schema not in('information_schema', 'mysql',
+                          'sys', 'performance_schema')
+      -- and table_schema = 'your database name'
+order by total_size desc;
+#+end_src
+https://dataedo.com/kb/query/mysql/list-of-tables-by-the-size-of-data-and-indexes
 * IDEA
 
 ** Use alt key quickly on commit window
