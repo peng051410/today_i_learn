@@ -864,3 +864,11 @@ Captured On: [2023-05-18 Thu 19:22]
 gcc -S helloworld.c
 #+end_src
 After run this command, a new file named helloworld.s prevent.
+* NPM
+** sh: react-scripts: command not found after running npm start
+Project need install dependency package
+#+begin_src sh
+npm install
+#+end_src
+*** [[https://stackoverflow.com/questions/40546231/sh-react-scripts-command-not-found-after-running-npm-start][reactjs - sh: react-scripts: command not found after running npm start - Stack Overflow]]
+Captured On: [2023-06-09 Fri 14:06]
