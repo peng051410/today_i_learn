@@ -67,6 +67,7 @@
 -   [address](#orgc0084b7)
 -   [against](#org772a753)
 -   [function](#org73b71c6)
+-   [charge](charge.md)
 
 Record my english study process.
 
@@ -5219,4 +5220,3 @@ A library is functioning as a temporary hospital to cope with casualties.
 Investment is a function of the interest rate.
 
 <https://youglish.com/getbyid/105533158/a%20function%20of/english>
-
