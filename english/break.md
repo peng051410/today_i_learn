@@ -1,13 +1,13 @@
 
 # Table of Contents
 
--   [语义](#org4038ec8)
--   [短语](#org968a468)
+-   [语义](#orgf72f02c)
+-   [短语](#orgd968211)
 
 使破裂
 
 
-<a id="org4038ec8"></a>
+<a id="orgf72f02c"></a>
 
 # 语义
 
@@ -147,7 +147,7 @@ It's quite a bad break, which will take serveral months to heal.
 She really needs a break of serve now if she wants to win this match.
 
 
-<a id="org968a468"></a>
+<a id="orgd968211"></a>
 
 # 短语
 
@@ -429,6 +429,8 @@ He's a very talented young actor who's just ready to break through.
 
 ## break up
 
+<https://youglish.com/getbyid/77887576/break%20up/english>
+
 
 ### 使碎裂
 
@@ -472,6 +474,8 @@ He breaks me up!
 
 ## break with
 
+<https://youglish.com/getbyid/73420440/break%20with/english>
+
 
 ### 与&#x2026;断绝关系
 
@@ -485,4 +489,6 @@ Now is the time to break with the past.
 
 ## give somebody a break
 
-Give the kid a brea. It's only his second day on the job.
+Give the kid a break. It's only his second day on the job.
+
+<https://youglish.com/getbyid/13771896/give%20he%20a%20break/english>

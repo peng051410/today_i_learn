@@ -74,6 +74,8 @@
 -   [live](live.md)
 -   [see](see.md)
 -   [break](break.md)
+-   [check](check.md)
+
 
 Record my english study process.
 

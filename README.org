@@ -872,3 +872,26 @@ npm install
 #+end_src
 *** [[https://stackoverflow.com/questions/40546231/sh-react-scripts-command-not-found-after-running-npm-start][reactjs - sh: react-scripts: command not found after running npm start - Stack Overflow]]
 Captured On: [2023-06-09 Fri 14:06]
+* VSCode
+** Setting go for workspace
+https://townsyio.medium.com/how-to-configure-your-go-modules-proxy-in-vscode-fa41f29192fe
+
+1. run "open setting workspace (json)" command in VSCode
+2. add config
+#+begin_src js
+{
+    "go.toolsEnvVars": {
+        "GOPRIVATE": "townsy.private-github.com",
+        "GOPROXY": "https://athens-proxy.townsy.io",
+        "GONOPROXY": "none;",
+        "GONOSUMDB": "townsy.private-github.com"
+    },
+    "terminal.integrated.env.linux": {
+        "GOPRIVATE": "townsy.private-github.com",
+        "GOPROXY": "https://athens-proxy.townsy.io",
+        "GONOPROXY": "none;",
+        "GONOSUMDB": "townsy.private-github.com"
+    }
+}
+
+#+end_src
