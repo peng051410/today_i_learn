@@ -3405,3 +3405,16 @@ https://youglish.com/getbyid/87043172/check%20over/english
 Don't worry; no one is going to check up on you.
 
 https://youglish.com/getbyid/25877160/check%20up%20on/english
+* property
+:PROPERTIES:
+:EXPORT_FILE_NAME: property.md
+:END:
+财产
+** 语义
+*** 财产
+The hotel is not responsible for any loss or damage to guests' personal property.
+*** 房产
+Property prices have shot up recently.
+*** 特性
+A radio signal has both electrical and magnetic properties.
+** 短语
