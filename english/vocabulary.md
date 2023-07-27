@@ -75,7 +75,8 @@
 -   [see](see.md)
 -   [break](break.md)
 -   [check](check.md)
--   [proerty](proerty.md)
+-   [property](property.md)
+-   [stand](stand.md)
 
 
 Record my english study process.
