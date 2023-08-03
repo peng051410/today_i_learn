@@ -77,6 +77,7 @@
 -   [check](check.md)
 -   [property](property.md)
 -   [stand](stand.md)
+-   [sort](sort.md)
 
 
 Record my english study process.
