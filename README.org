@@ -872,6 +872,15 @@ npm install
 #+end_src
 *** [[https://stackoverflow.com/questions/40546231/sh-react-scripts-command-not-found-after-running-npm-start][reactjs - sh: react-scripts: command not found after running npm start - Stack Overflow]]
 Captured On: [2023-06-09 Fri 14:06]
+* GO
+** Go compile to assembly language
+#+begin_src sh
+go build -gcflags=-S main.go
+#+end_src
+
+https://github.com/golang/go/issues/58629
+
+https://colobu.com/2018/12/29/get-assembly-output-for-go-programs/
 * VSCode
 ** Setting go for workspace
 https://townsyio.medium.com/how-to-configure-your-go-modules-proxy-in-vscode-fa41f29192fe
