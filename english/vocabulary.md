@@ -78,6 +78,7 @@
 -   [property](property.md)
 -   [stand](stand.md)
 -   [sort](sort.md)
+-   [resource](resource.md)
 
 
 Record my english study process.

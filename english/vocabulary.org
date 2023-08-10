@@ -3589,3 +3589,22 @@ https://youglish.com/getbyid/15181183/sort%20through/english
 It was used by all sorts of people.
 
 https://youglish.com/getbyid/19777580/all%20sorts%20of/english
+* resource                                                                      :AWL:
+:PROPERTIES:
+:EXPORT_FILE_NAME: resource.md
+:END:
+有资源还有素质
+** 语义
+*** 资源
+Canada's vast mineral resources
+*** 物力
+She had no financial resources.
+*** 个人素质
+He proved that he has considerable inner resources.
+*** 资料
+A valuable new computer resource
+*** 谋略
+A man of great resource
+*** 向...提供资源
+The program wasn't adequately resourced.
+** 短语
