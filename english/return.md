@@ -1,13 +1,13 @@
 
 # Table of Contents
 
--   [语义](#orgfdf55b5)
--   [短语](#orge9a3526)
+-   [语义](#org01d74dc)
+-   [短语](#org1357a49)
 
 返回了
 
 
-<a id="orgfdf55b5"></a>
+<a id="org01d74dc"></a>
 
 # 语义
 
@@ -97,7 +97,7 @@ What are the returns from last night's voting?
 He bought a return ticket and boarded the next train for home.
 
 
-<a id="orge9a3526"></a>
+<a id="org1357a49"></a>
 
 # 短语
 
@@ -108,6 +108,8 @@ He bought a return ticket and boarded the next train for home.
 ### 回复原状
 
 David waited for a moment to let his breathing return to normal.
+
+<https://youglish.com/getbyid/89091396/return%20to%20normal/english>
 
 
 ### 继续
@@ -123,3 +125,5 @@ I will return to this problem in a moment.
 ## in return
 
 He is always helping people without expecting anything in return.
+
+<https://youglish.com/getbyid/114943043/in%20return/english>
