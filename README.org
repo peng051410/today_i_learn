@@ -368,6 +368,11 @@ Sometimes in develop, we need to convert multi line content to one line, we can 
 https://cdn.jsdelivr.net/gh/peng051410/bucket@main/img/emacs-join-lines.gif
 ** Save all org buffer
 Realize with *org-save-all-org-buffers* command
+** Org mode search complete task
+search previous week done task
+#+begin_src sh
+TODO="DONE"&CLOSED>="<-1w>"
+#+end_src
 * Org hugo add shortcode
 Hugo支持短代码形式在生成html时填充模板内容，shortcode配置的html文件放在 */layouts/shortcodes* 目录下即可，下面的代码就可以实现在博客中嵌入[[https://www.bilibili.com/video/BV1pD4y1K7iw/][B站]]的视频
 #+begin_export hugo
@@ -903,4 +908,9 @@ https://townsyio.medium.com/how-to-configure-your-go-modules-proxy-in-vscode-fa4
     }
 }
 
+#+end_src
+* Pandoc
+** convert md to docx
+#+begin_src sh
+pandoc -o output.docx -f markdown -t docx filename.md
 #+end_src
