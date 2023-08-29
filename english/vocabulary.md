@@ -80,6 +80,7 @@
 -   [sort](sort.md)
 -   [resource](resource.md)
 -   [return](return.md)
+-   [show](show.md)
 
 
 Record my english study process.
