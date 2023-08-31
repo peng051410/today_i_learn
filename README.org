@@ -9,6 +9,8 @@
 
 * [[./english/vocabulary.org][English]]
 
+* [[./english/sentence.org][English Sentence]]
+
 * [[./history/china_history.org][History]]
 
 * Command line
