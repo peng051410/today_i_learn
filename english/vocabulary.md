@@ -81,6 +81,7 @@
 -   [resource](resource.md)
 -   [return](return.md)
 -   [show](show.md)
+-   [hour](hour.md)
 
 
 Record my english study process.
