@@ -83,6 +83,7 @@
 -   [show](show.md)
 -   [hour](hour.md)
 -   [bring](bring.md)
+-   [carry](carry.md)
 
 
 Record my english study process.
