@@ -203,6 +203,17 @@ ls aa.doc
 #+RESULTS:
 : aa.doc
 
+** Use default value for shell
+#+begin_src sh
+FOO="${VARIABLE:-default}"  # FOO will be assigned 'default' value if VARIABLE not set or null.
+# The value of VARIABLE is kept intouched.
+
+FOO="${VARIABLE:=default}"  # If VARIABLE not set or null, set it's value to 'default'.
+# Then that value will be assigned to FOO
+#+end_src
+*** [[https://stackoverflow.com/questions/2013547/assigning-default-values-to-shell-variables-with-a-single-command-in-bash][Assigning default values to shell variables with a single command in bash - Stack Overflow]]
+Captured On: [2023-10-09 Mon 16:50]
+
 * Maven
 ** How to get Maven project version from cmd
 #+begin_src sh
@@ -354,8 +365,10 @@ I have an request to run curl script with shell, normaly the content is paste fr
 request google, I found the 'shell-commond-on-region'. When I run this command, it works, but another issue occurs that the result only shows in the minibuffer which I can't
 do it more like search or copy. Fortunately, the SO user @[[https://emacs.stackexchange.com/users/3889/xuchunyang][xuchunyang]] give me the perfect anwser, an customed 'shell-command-on-region' which output the result after the
 request bufer. With this, I can do more imaginable.
+
 *** [[https://emacs.stackexchange.com/questions/55506/run-current-line-or-selection-in-shell-then-insert-result-in-emacs-buffer-acme][key bindings - Run current line or selection in shell then insert result in Emacs buffer (Acme workflow) - Emacs Stack Exchange]]
 Captured On: [2023-03-14 Tue 15:03]
+
 ** Joint multi lines to one line
 Sometimes in develop, we need to convert multi line content to one line, we can realize with Emacs 'join line' command.
 #+begin_src xml
@@ -375,6 +388,16 @@ search previous week done task
 #+begin_src sh
 TODO="DONE"&CLOSED>="<-1w>"
 #+end_src
+** Search and replace txt in folder
+
+M-x replace-string RET ; RET C-q C-j.
+C-q for quoted-insert,
+C-j is a newline.
+
+*** [[https://stackoverflow.com/questions/613022/how-can-i-replace-a-character-with-a-newline-in-emacs][How can I replace a character with a newline in Emacs? - Stack Overflow]]
+Captured On: [2023-10-09 Mon 11:02]
+
+
 * Org hugo add shortcode
 Hugo支持短代码形式在生成html时填充模板内容，shortcode配置的html文件放在 */layouts/shortcodes* 目录下即可，下面的代码就可以实现在博客中嵌入[[https://www.bilibili.com/video/BV1pD4y1K7iw/][B站]]的视频
 #+begin_export hugo
