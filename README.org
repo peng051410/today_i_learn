@@ -213,7 +213,11 @@ FOO="${VARIABLE:=default}"  # If VARIABLE not set or null, set it's value to 'de
 #+end_src
 *** [[https://stackoverflow.com/questions/2013547/assigning-default-values-to-shell-variables-with-a-single-command-in-bash][Assigning default values to shell variables with a single command in bash - Stack Overflow]]
 Captured On: [2023-10-09 Mon 16:50]
-
+** export ls result to txt with absolute path
+https://unix.stackexchange.com/questions/268474/how-to-list-all-files-in-a-directory-with-absolute-paths
+#+begin_src sh
+ls -d "$PWD"/* >> ~/work/repos.txt
+#+end_src
 * Maven
 ** How to get Maven project version from cmd
 #+begin_src sh
@@ -396,6 +400,12 @@ C-j is a newline.
 
 *** [[https://stackoverflow.com/questions/613022/how-can-i-replace-a-character-with-a-newline-in-emacs][How can I replace a character with a newline in Emacs? - Stack Overflow]]
 Captured On: [2023-10-09 Mon 11:02]
+
+** Copy url txt only
+With evil
+#+begin_example
+yi[
+#+end_example
 
 
 * Org hugo add shortcode
