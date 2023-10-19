@@ -87,6 +87,7 @@
 -   [light](light.md)
 -   [fly](fly.md)
 -   [just](just.md)
+-   [have](have.md)
 
 
 Record my english study process.
