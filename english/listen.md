@@ -1,11 +1,37 @@
 
 # Table of Contents
 
--   [https://www.bilibili.com/video/BV1HY411C79L/](#org0a0573a)
+-   [特点](#org7cbf750)
+-   [https://www.bilibili.com/video/BV1HY411C79L/](#orgc4269bb)
+-   [https://www.bilibili.com/video/BV1514y197iL/](#org7d47021)
 
 
 
-<a id="org0a0573a"></a>
+<a id="org7cbf750"></a>
+
+# 特点
+
+<https://zhuanlan.zhihu.com/p/478403056>
+
+
+## 辅元连读
+
+
+## 元元连读
+
+
+## Soft D
+
+
+## Stop T
+
+
+## 失去爆破现象
+
+p b t d k g
+
+
+<a id="orgc4269bb"></a>
 
 # <https://www.bilibili.com/video/BV1HY411C79L/>
 
@@ -68,3 +94,44 @@ This yogurt is so thick and creamy.
 I'll send you a text message.
 
 <https://www.bilibili.com/video/BV1HY411C79L/?t=740>
+
+
+<a id="org7d47021"></a>
+
+# <https://www.bilibili.com/video/BV1514y197iL/>
+
+
+## Hey, honey, How did it go?
+
+1.  how is going?
+
+
+## Good, And I made another seesion for next week. How was the open house?
+
+1.  session
+
+
+## Wow, so intense.
+
+1.  intense
+
+
+## I had no idea the kind of pressure you're under.
+
+1.  have no idea
+2.  under pressure
+
+
+## Honey, I was just you for two hours.
+
+
+## I could barely hold it together.
+
+1.  barely
+2.  hold together
+
+
+## I don't know how you don't have a meltdown every day.
+
+1.  meltdown
+
