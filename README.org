@@ -709,6 +709,15 @@ rm /usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask-versions/Casks/adopto
 #+end_src
 
 https://github.com/AdoptOpenJDK/homebrew-openjdk/issues/106#issuecomment-487269671
+** Brew install with .rb file
+#+begin_src sh
+brew install qemu-virgl.rb
+#+end_src
+** Brew tap modify
+#+begin_src sh
+brew tap knazarov/qemu-virgl
+brew edit qemu-virgl
+#+end_src
 * MAC
 
 ** del macOS Xcode CoreSimulator folder
@@ -780,6 +789,11 @@ man() {
 		man "$@"
 }
 #+end_src
+
+** Config linux ssh with rsa login
+*** [[https://www.runoob.com/w3cnote/set-ssh-login-key.html][设置 SSH 通过密钥登录 | 菜鸟教程]]
+Captured On: [2023-10-24 Tue 10:33]
+
 
 * Mysql
 
