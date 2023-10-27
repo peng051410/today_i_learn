@@ -1,13 +1,14 @@
 
 # Table of Contents
 
--   [特点](#org7cbf750)
--   [https://www.bilibili.com/video/BV1HY411C79L/](#orgc4269bb)
--   [https://www.bilibili.com/video/BV1514y197iL/](#org7d47021)
+-   [特点](#org0559b69)
+-   [https://www.bilibili.com/video/BV1HY411C79L/](#org7edeb7d)
+-   [https://www.bilibili.com/video/BV1514y197iL/](#orge39f1d3)
+-   [https://www.bilibili.com/video/BV1DL411d7hD/](#orge5f4db5)
 
 
 
-<a id="org7cbf750"></a>
+<a id="org0559b69"></a>
 
 # 特点
 
@@ -31,7 +32,7 @@
 p b t d k g
 
 
-<a id="orgc4269bb"></a>
+<a id="org7edeb7d"></a>
 
 # <https://www.bilibili.com/video/BV1HY411C79L/>
 
@@ -96,7 +97,7 @@ I'll send you a text message.
 <https://www.bilibili.com/video/BV1HY411C79L/?t=740>
 
 
-<a id="org7d47021"></a>
+<a id="orge39f1d3"></a>
 
 # <https://www.bilibili.com/video/BV1514y197iL/>
 
@@ -134,4 +135,37 @@ I'll send you a text message.
 ## I don't know how you don't have a meltdown every day.
 
 1.  meltdown
+
+
+<a id="orge5f4db5"></a>
+
+# <https://www.bilibili.com/video/BV1DL411d7hD/>
+
+
+## [What are you doing tonight?](https://www.bilibili.com/video/BV1DL411d7hD/?t=280)
+
+
+## [Nothing, why?](https://www.bilibili.com/video/BV1DL411d7hD/?t=310)
+
+
+## [How would you feel about taking out my assistant Tag? I'll pay.](https://www.bilibili.com/video/BV1DL411d7hD/?t=460)
+
+1.  dy 组合
+
+
+## [Rach, I gotta say. It's gonna take a lot of money for me to go out on a date with a dude.](https://www.bilibili.com/video/BV1DL411d7hD/?t=630)
+
+
+## [I'm not asking you to go on a date with him.](https://www.bilibili.com/video/BV1DL411d7hD/?t=753)
+
+1.  to -> da
+
+
+## [Really? Bacause I could kind of use the money.](https://www.bilibili.com/video/BV1DL411d7hD/?t=844)
+
+
+## [Joey. He is new in town. And I know he doesn't have any guy friends.](https://www.bilibili.com/video/BV1DL411d7hD/?t=978)
+
+
+## [Just take him to like a ball game or something.](https://www.bilibili.com/video/BV1DL411d7hD/?t=1087)
 
