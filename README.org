@@ -13,6 +13,7 @@
 
 * [[./english/listen.org][English listen]]
 
+* [[./emacs/lisp.md][Lisp]]
 * [[./history/china_history.org][History]]
 
 * Command line
@@ -270,8 +271,25 @@ mvn -X clean | grep "settings"
 #+end_src
 *** [[https://www.baeldung.com/maven-settings-xml][The settings.xml File in Maven | Baeldung]]
 Captured On: [2023-03-16 Thu 16:35]
+** [[https://stackoverflow.com/questions/65910112/maven-clean-install-failed-to-execute-goal-org-apache-maven-pluginsmaven-resou][java - Maven clean install: Failed to execute goal org.apache.maven.plugins:maven-resources-plugin:3.2.0:resources - Stack Overflow]]
+Captured On: [2023-10-31 Tue 17:41]
 
 
+add nonFilteredFileExtensions config works for me.
+#+begin_src xml
+<plugin>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-resources-plugin</artifactId>
+    <version>3.3.0</version>
+    <configuration>
+        <encoding>UTF-8</encoding>
+        <nonFilteredFileExtensions>
+            <nonFilteredFileExtension>db</nonFilteredFileExtension>
+        </nonFilteredFileExtensions>
+    </configuration>
+</plugin>
+
+#+end_src
 * Emacs
 ** 给Emacs文档增加目录
 给Entry增加标签 =:TOC:=，限定目录层级#+OPTIONS: toc:1
@@ -825,6 +843,10 @@ https://dataedo.com/kb/query/mysql/list-of-tables-by-the-size-of-data-and-indexe
 ** Use alt key quickly on commit window
 Alt+i not work, need to use Alt+Ctrl+i
 
+** Rm unused code
+#+begin_notes
+Just use Analyze | Inspect Code with appropriate inspection enabled (Unused declaration under Declaration redundancy group).
+#+end_notes
 * Convert vvt to srt
 #+begin_src sh
 ffmpeg -i in.vvt out.srt
@@ -965,3 +987,16 @@ https://townsyio.medium.com/how-to-configure-your-go-modules-proxy-in-vscode-fa4
 #+begin_src sh
 pandoc -o output.docx -f markdown -t docx filename.md
 #+end_src
+* Xcode
+** [[https://github.com/nodejs/node-gyp/issues/569][xcode-select: error: tool 'xcodebuild' requires Xcode, but active developer directory '/Library/Developer/CommandLineTools' is a command line tools instance · Issue #569 · nodejs/node-gyp]]
+Captured On: [2023-10-30 Mon 20:12]
+
+#+begin_src sh
+xcode-select --install # Install Command Line Tools if you haven't already.
+sudo xcode-select --switch /Library/Developer/CommandLineTools # Enable command line tools
+# Change the path if you installed Xcode somewhere else.
+sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+#+end_src
+* Chrome
+** [[https://support.google.com/chrome/thread/162555856/why-does-chrome-display-your-connection-to-this-site-is-not-secure-if-content-is-empty?hl=en][Why does Chrome display "Your connection to this site is not secure" if content is empty? - Google Chrome Community]]
+Captured On: [2023-10-31 Tue 11:48]
