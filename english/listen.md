@@ -1,14 +1,15 @@
 
 # Table of Contents
 
--   [特点](#org0559b69)
--   [https://www.bilibili.com/video/BV1HY411C79L/](#org7edeb7d)
--   [https://www.bilibili.com/video/BV1514y197iL/](#orge39f1d3)
--   [https://www.bilibili.com/video/BV1DL411d7hD/](#orge5f4db5)
+-   [特点](#orgc7dfdd7)
+-   [https://www.bilibili.com/video/BV1HY411C79L/](#orgb12464d)
+-   [https://www.bilibili.com/video/BV1514y197iL/](#orgbc76d28)
+-   [https://www.bilibili.com/video/BV1DL411d7hD/](#orgeb7c3ef)
+-   [https://www.bilibili.com/video/BV1tM411H7EJ](#org66c7e30)
 
 
 
-<a id="org0559b69"></a>
+<a id="orgc7dfdd7"></a>
 
 # 特点
 
@@ -27,12 +28,15 @@
 ## Stop T
 
 
+## Drop T
+
+
 ## 失去爆破现象
 
 p b t d k g
 
 
-<a id="org7edeb7d"></a>
+<a id="orgb12464d"></a>
 
 # <https://www.bilibili.com/video/BV1HY411C79L/>
 
@@ -97,7 +101,7 @@ I'll send you a text message.
 <https://www.bilibili.com/video/BV1HY411C79L/?t=740>
 
 
-<a id="orge39f1d3"></a>
+<a id="orgbc76d28"></a>
 
 # <https://www.bilibili.com/video/BV1514y197iL/>
 
@@ -137,7 +141,7 @@ I'll send you a text message.
 1.  meltdown
 
 
-<a id="orge5f4db5"></a>
+<a id="orgeb7c3ef"></a>
 
 # <https://www.bilibili.com/video/BV1DL411d7hD/>
 
@@ -151,6 +155,7 @@ I'll send you a text message.
 ## [How would you feel about taking out my assistant Tag? I'll pay.](https://www.bilibili.com/video/BV1DL411d7hD/?t=460)
 
 1.  dy 组合
+2.  how would you
 
 
 ## [Rach, I gotta say. It's gonna take a lot of money for me to go out on a date with a dude.](https://www.bilibili.com/video/BV1DL411d7hD/?t=630)
@@ -159,6 +164,7 @@ I'll send you a text message.
 ## [I'm not asking you to go on a date with him.](https://www.bilibili.com/video/BV1DL411d7hD/?t=753)
 
 1.  to -> da
+2.  I'm not asking you
 
 
 ## [Really? Bacause I could kind of use the money.](https://www.bilibili.com/video/BV1DL411d7hD/?t=844)
@@ -168,4 +174,33 @@ I'll send you a text message.
 
 
 ## [Just take him to like a ball game or something.](https://www.bilibili.com/video/BV1DL411d7hD/?t=1087)
+
+
+<a id="org66c7e30"></a>
+
+# <https://www.bilibili.com/video/BV1tM411H7EJ>
+
+
+## I feel like Alice through the Looking Glass.
+
+1.  feel like
+
+
+## It's like up is down.
+
+1.  it's like
+
+
+## May be I'm just not cut out for this city.
+
+1.  cut out for
+
+
+## You know, I thought it was gonna be an adventure.
+
+
+## And it is. May be an ever better one than you imagined.
+
+
+## I just never pictured myself here alone.
 
