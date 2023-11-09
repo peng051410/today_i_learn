@@ -1,0 +1,232 @@
+#+OPTIONS: toc:1 ^:nil ~:nil num:nil reveal_title_slide:nil timestamp:nil
+
+* eval
+** eval-last-sexp
+
+** eval-region
+
+* Output
+** message
+(message FORMAT-STRING &rest ARGS)
+
+1. %d
+2. %s
+3. %S
+
+** insert
+
+** print
+
+** prinl
+
+** princ
+
+* buffer
+** generate-new-buffer
+
+** switch-to-buffer
+
+** with-output-to-temp-buffer
+#+begin_quote
+(with-output-to-temp-buffer BUFNAME &rest BODY)
+#+end_quote
+
+* String
+
+** length
+
+** substring
+
+** concat
+
+** split-string
+
+** format
+
+* Arithmetic
+1. +
+2. -
+3. *
+4. /
+5. %
+6. expt
+
+** Test number
+
+*** integerp
+
+*** floatp
+
+** Convert
+
+*** float
+
+*** truncate
+
+*** floor
+
+*** ceiling
+
+*** round
+
+*** string-to-number
+
+*** number-to-string
+
+*** format
+
+* Boolean
+1. t
+2. nil
+3. ()
+
+** all is false
+#+begin_src emacs-lisp
+(if nil "yes" "no")
+(if () "yes" "no")
+(if '() "yes" "no")
+(if (list) "yes" "no")
+#+end_src
+
+** all is true
+#+begin_src emacs-lisp
+(if t "yes" "no")
+(if 0 "yes" "no")
+(if "" "yes" "no")
+(if [] "yes" "no")
+#+end_src
+
+** Boolean function
+#+begin_src emacs-lisp
+(and t nil)
+(and t t t nil t)
+
+(or t nil)
+
+(not t)
+(not nil)
+(not 2)
+#+end_src
+
+* Test equality
+
+** =
+#+begin_src emacs-lisp
+(= 3 3)
+(= 3.5 3.5)
+(= 3 3.0)
+
+(= 3 3.0000000000000001)
+(= 3 3.000000000000001)
+
+(/= 3 4)
+#+end_src
+
+** string-equal
+Only for comparing
+#+begin_src emacs-lisp
+(string-equal "abc" "abc")
+(string-equal "abc" "Abc")
+(string-equal 'abc 'abc)
+(string-equal "abc" 'abc)
+#+end_src
+
+** equal
+Check datatype and value
+#+begin_src emacs-lisp
+(equal 3 3)
+(equal 3.0 3.0)
+
+(equal 3 3.0)
+
+(equal '(3 4 5) '(3 4 5))
+(equal '(3 4 5) '(3 4 "5"))
+
+(equal "s" "s")
+
+(equal 'abc 'abc)
+#+end_src
+
+** eq
+Check if is the same object
+#+begin_src emacs-lisp
+(eq 'x 'x)
+(eq 2 2)
+(eq "e" "e")
+(eq 2.1 2.1)
+
+(let (aa bb)
+  (setq aa '(3 4))
+  (setq bb '(3 4))
+  (eq aa bb)
+  )
+
+(let (aa bb)
+  (setq aa '(3 4))
+  (setq bb aa)
+  (eq aa bb)
+  )
+#+end_src
+
+** eql
+Check if is the same object only for floating number
+#+begin_src emacs-lisp
+(eql 1.1 1.1)
+(eql 0.0 -0.0)
+#+end_src
+
+* Variables
+
+** Global Variables
+*** setq
+Set one or more variables. Return the last value.
+#+begin_src emacs-lisp
+(setq x 3)
+(equal x 3)
+
+(equal
+ (setq xa 1 xb 2 xc 3)
+ 3)
+
+(equal
+ (setq xa 1
+       xb (+ xa 3))
+ 4)
+#+end_src
+
+*** defvar
+Declare and assign a variable, and return the SYMBOL.
+#+begin_src emacs-lisp
+(defvar xx 4 "DOCSTRING")
+#+end_src
+
+** Local Variables
+
+*** let
+#+begin_src emacs-lisp
+(let (a b)
+  (setq a 3)
+  (setq b 4)
+  (+ a b)
+  )
+
+;; convince
+(let ((a 3) (b 4))
+  (+ a b)
+  )
+#+end_src
+
+*** let*
+like let, but can use defined earlier symbols.
+#+begin_src emacs-lisp
+(equal
+ (let* ((xa 3)
+        (xb xa))
+   xb)
+ 3
+ )
+#+end_src
+* Fucntion
+
+** &rest
+`&rest` is a way of specifying that the final arguments to a function can be of any type, and can be passed as a variable number of arguments. It is commonly used in Emacs Lisp code to define functions that can be called with a variable number of arguments.
