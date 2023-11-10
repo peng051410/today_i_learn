@@ -1,19 +1,22 @@
 
 # Table of Contents
 
--   [eval](#org56f127a)
--   [Output](#orgbb63b78)
--   [buffer](#orga06a58b)
--   [String](#org6e992b9)
--   [Arithmetic](#org2fcc861)
--   [Boolean](#org64c5239)
--   [Test equality](#orgc898403)
--   [Variables](#orgadeec18)
--   [Fucntion](#orgdd3a41e)
+-   [eval](#org0f7e25e)
+-   [Output](#org83142a6)
+-   [buffer](#orgd90d5f2)
+-   [String](#orgd64b0c8)
+-   [Arithmetic](#org62e06b5)
+-   [Boolean](#org2af5892)
+-   [Test equality](#orgb905cfe)
+-   [Variables](#orgd6189be)
+-   [Block Expression](#org66b708e)
+-   [Condition](#org4604863)
+-   [Loop](#org04ee582)
+-   [Fucntion](#org140f9c8)
 
 
 
-<a id="org56f127a"></a>
+<a id="org0f7e25e"></a>
 
 # eval
 
@@ -24,7 +27,7 @@
 ## eval-region
 
 
-<a id="orgbb63b78"></a>
+<a id="org83142a6"></a>
 
 # Output
 
@@ -50,7 +53,7 @@
 ## princ
 
 
-<a id="orga06a58b"></a>
+<a id="orgd90d5f2"></a>
 
 # buffer
 
@@ -66,7 +69,7 @@
 > (with-output-to-temp-buffer BUFNAME &rest BODY)
 
 
-<a id="org6e992b9"></a>
+<a id="orgd64b0c8"></a>
 
 # String
 
@@ -86,7 +89,7 @@
 ## format
 
 
-<a id="org2fcc861"></a>
+<a id="org62e06b5"></a>
 
 # Arithmetic
 
@@ -134,7 +137,7 @@
 ### format
 
 
-<a id="org64c5239"></a>
+<a id="org2af5892"></a>
 
 # Boolean
 
@@ -171,7 +174,7 @@
     (not 2)
 
 
-<a id="orgc898403"></a>
+<a id="orgb905cfe"></a>
 
 # Test equality
 
@@ -245,7 +248,7 @@ Check if is the same object only for floating number
     (eql 0.0 -0.0)
 
 
-<a id="orgadeec18"></a>
+<a id="orgd6189be"></a>
 
 # Variables
 
@@ -306,7 +309,112 @@ like let, but can use defined earlier symbols.
      )
 
 
-<a id="orgdd3a41e"></a>
+<a id="org66b708e"></a>
+
+# Block Expression
+
+Like block {} in C-like language
+
+    (progn
+      (message "a")
+      (message "b"))
+    
+    (progn 3 5)
+
+<div class="notes" id="orgf071af6">
+<p>
+(if something
+    (progn ; true
+      ;; code here
+      )
+  (progn ; else
+    ;; code here
+    ))
+</p>
+
+</div>
+
+
+<a id="org4604863"></a>
+
+# Condition
+
+
+## if
+
+    (if (< 3 2)
+        (progn 8)
+      (progn 7))
+    
+    (if (< 3 2)
+        (progn 8))
+
+
+## when
+
+Use "when" when don't want else case.
+
+    (when (< 3 2)
+      (message "8"))
+
+
+<a id="org04ee582"></a>
+
+# Loop
+
+
+## while
+
+    (let ((x 0))
+      (while (< x 4)
+        (print (format "number is %d" x))
+        (setq x (1+ x))
+        ))
+    
+    (let ((xx '(a b c )))
+      (while xx
+        (message "%s" (pop xx))
+        (sleep-for 1)
+        )
+      )
+    
+    (let (xx ii)
+      (setq xx [0 1 2 3 4 5])
+      (setq ii 0)
+    
+      (while (< ii (length xx))
+        (insert (format "%d" (aref xx ii)))
+        (setq ii (1+ ii))
+        )
+      )
+
+
+## DONE dotimes
+
+Useful for go over list to get the element, Similar with C-like for-loop?
+
+    (dotimes (i 4)
+      (insert (number-to-string i)))
+    
+    (let ((xx [3 4 5]))
+      (dotimes (i (length xx))
+        (insert
+         (number-to-string (elt xx i)))
+        )
+      )
+    
+    (let ((xx [10 20 30 40 50]))
+      (catch 'TAG743
+        (dotimes (i 99)
+          (message "i %s %s" i (aref xx i))
+          (if (eq (aref xx i) 30)
+              (throw 'TAG743 "got it")
+              nil))
+        )
+      )
+
+
+<a id="org140f9c8"></a>
 
 # Fucntion
 
@@ -314,4 +422,19 @@ like let, but can use defined earlier symbols.
 ## &rest
 
 \`&rest\` is a way of specifying that the final arguments to a function can be of any type, and can be passed as a variable number of arguments. It is commonly used in Emacs Lisp code to define functions that can be called with a variable number of arguments.
+
+
+## pop
+
+
+## aref
+
+
+## elt
+
+
+## throw
+
+
+## catch
 

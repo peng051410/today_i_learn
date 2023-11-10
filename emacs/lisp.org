@@ -226,7 +226,113 @@ like let, but can use defined earlier symbols.
  3
  )
 #+end_src
+
+* Block Expression
+Like block {} in C-like language
+#+begin_src emacs-lisp
+(progn
+  (message "a")
+  (message "b"))
+
+(progn 3 5)
+#+end_src
+
+#+begin_notes
+(if something
+    (progn ; true
+      ;; code here
+      )
+  (progn ; else
+    ;; code here
+    ))
+#+end_notes
+
+* Condition
+
+** if
+#+begin_src emacs-lisp
+(if (< 3 2)
+    (progn 8)
+  (progn 7))
+
+(if (< 3 2)
+    (progn 8))
+#+end_src
+
+** when
+Use "when" when don't want else case.
+#+begin_src emacs-lisp
+(when (< 3 2)
+  (message "8"))
+#+end_src
+
+* Loop
+
+** while
+#+begin_src emacs-lisp
+(let ((x 0))
+  (while (< x 4)
+    (print (format "number is %d" x))
+    (setq x (1+ x))
+    ))
+
+(let ((xx '(a b c )))
+  (while xx
+    (message "%s" (pop xx))
+    (sleep-for 1)
+    )
+  )
+
+(let (xx ii)
+  (setq xx [0 1 2 3 4 5])
+  (setq ii 0)
+
+  (while (< ii (length xx))
+    (insert (format "%d" (aref xx ii)))
+    (setq ii (1+ ii))
+    )
+  )
+#+end_src
+
+** DONE dotimes
+CLOSED: [2023-11-10 Fri 17:50]
+:LOGBOOK:
+- State "DONE"       from              [2023-11-10 Fri 17:50] \\
+  Progn, if-else, when, while, dotimes
+:END:
+Useful for go over list to get the element, Similar with C-like for-loop?
+#+begin_src emacs-lisp
+(dotimes (i 4)
+  (insert (number-to-string i)))
+
+(let ((xx [3 4 5]))
+  (dotimes (i (length xx))
+    (insert
+     (number-to-string (elt xx i)))
+    )
+  )
+
+(let ((xx [10 20 30 40 50]))
+  (catch 'TAG743
+    (dotimes (i 99)
+      (message "i %s %s" i (aref xx i))
+      (if (eq (aref xx i) 30)
+          (throw 'TAG743 "got it")
+          nil))
+    )
+  )
+#+end_src
 * Fucntion
 
 ** &rest
 `&rest` is a way of specifying that the final arguments to a function can be of any type, and can be passed as a variable number of arguments. It is commonly used in Emacs Lisp code to define functions that can be called with a variable number of arguments.
+
+** pop
+
+** aref
+
+** elt
+
+** throw
+
+** catch
