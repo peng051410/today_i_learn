@@ -89,6 +89,8 @@
 -   [just](just.md)
 -   [have](have.md)
 -   [hit](hit.md)
+-   [star.md](star.md)
+-   [jump.md](jump.md)
 
 
 Record my english study process.
