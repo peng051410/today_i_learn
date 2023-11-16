@@ -322,6 +322,412 @@ Useful for go over list to get the element, Similar with C-like for-loop?
     )
   )
 #+end_src
+
+* List
+底层为 *cons* 结构，高效的栈结构
+
+** 常用操作
+1. car
+2. cdr
+3. push
+4. pop
+5. nth
+6. nthcdr
+7. butlast
+8. last
+9. length
+10. cons
+
+
+** Create List
+#+begin_src emacs-lisp
+(setq xx (list 1 "b" 3))
+(message "%S" xx)
+
+(setq xxx '(a b c))
+(message "%S" xxx)
+
+(let (x y z)
+  (setq x 3)
+  (setq y 4)
+  (setq z 5)
+  (message "%S" (list x y z)))
+#+end_src
+
+*** Create List of Same Value
+#+begin_src emacs-lisp
+(equal (make-list 3 0) '(0 0 0))
+#+end_src
+
+*** Create List of Range of Nubmers
+#+begin_src emacs-lisp
+(equal
+ (number-sequence 5)
+ '(5))
+
+(equal
+ (number-sequence 2 5)
+ '(2 3 4 5))
+
+
+(equal
+ (number-sequence 0 9 3)
+ '(0 3 6 9))
+
+(equal
+ (number-sequence 0 9 2)
+ '(0 2 4 6 8))
+
+(equal
+ (number-sequence 4 0 -1)
+ '(4 3 2 1 0))
+
+(equal
+ (number-sequence 2.2 5.3)
+ '(2.2 3.2 4.2 5.2))
+#+end_src
+
+*** Empty List
+empty list equals nil
+#+begin_src emacs-lisp
+(eq '() (list))
+(eq '() nil)
+(eq (list ) nil)
+#+end_src
+
+** List Length
+#+begin_src emacs-lisp
+(equal (length '("a" "b" "c")) 3)
+#+end_src
+
+** Add to List
+Use cons
+#+begin_src emacs-lisp
+(equal
+ (cons "a" '("c" "d"))
+ '("a" "c" "d"))
+
+(equal
+ (cons '("a" "b") '("c" "d"))
+ '(("a" "b") "c" "d"))
+#+end_src
+
+** Get Elament from List
+#+begin_src emacs-lisp
+(equal
+ (car '("a" "b" "c"))
+ "a")
+
+(equal
+ (cdr '(0 1 2 3 4))
+ '(1 2 3 4))
+
+;; index
+(equal
+ (nth 1 '(0 1 2 3 4))
+ 1)
+
+
+;; do cdr nth times
+(equal
+ (nthcdr 2 '(0 1 2 3 4))
+ '(2 3 4))
+
+;; without last n
+(equal
+ (butlast '(0 1 2 3 4 5))
+ '(0 1 2 3 4))
+
+(equal
+ (butlast '(0 1 2 3 4 5) 2)
+ '(0 1 2 3))
+
+;; get actual last item
+(equal
+ (car (last (list "a" "b" "c")))
+ "c")
+
+(equal
+ (last (list "a" "b" "c"))
+ (cons "c" nil))
+
+(equal
+ (last '(0 1 2 3 4 5 6) 2)
+ '(5 6))
+#+end_src
+
+** Modify List
+
+*** Add Element
+
+**** push
+#+begin_src emacs-lisp
+(setq xx '(1))
+(eq (push 2 xx) xx)
+(equal xx '(2 1))
+
+(setq xx '((1 2) (3 4) (5 6)))
+(equal
+ (push "b" (nth 1 xx))
+ '("b" 3 4))
+
+(equal
+ xx
+ '((1 2) ("b" 3 4) (5 6)))
+
+(setq xx [(1 2) (3 4) (5 6)])
+(equal
+ (push "b" (aref xx 1))
+ '("b" 3 4))
+(equal
+ xx
+ [(1 2) ("b" 3 4) (5 6)])
+#+end_src
+
+**** add-to-list
+#+begin_src emacs-lisp
+(setq xx '(1 2 3))
+(eq
+ (add-to-list 'xx "a")
+ xx)
+
+(equal
+ xx
+ '("a" 1 2 3))
+#+end_src
+
+*** Rm Element
+
+**** pop
+#+begin_src emacs-lisp
+(setq xx '(1 2 3 4))
+(equal (pop xx) 1)
+(equal xx '(2 3 4))
+#+end_src
+
+**** nbutlast
+#+begin_src emacs-lisp
+(setq xx '(0 1 2 3))
+(equal (nbutlast xx 1) '(0 1 2))
+(equal xx '(0 1 2))
+#+end_src
+
+*** Replace Element
+
+**** setcar
+#+begin_src emacs-lisp
+(setq xx '(1 2 3 4))
+(equal (setcar xx "a") "a")
+(equal xx '("a" 2 3 4))
+#+end_src
+
+**** setcdr
+#+begin_src emacs-lisp
+(setq xx '(1 2 3 4))
+(equal
+ (setcdr xx (cons "a" nil))
+ (cons "a" nil))
+
+(equal xx '(1 "a"))
+#+end_src
+
+** Check Element Exit in List
+#+begin_src emacs-lisp
+;; if exist, resturn list start with occurrence
+(member "4" '("3" "4" "5"))
+(member-ignore-case "A" '("b" "a"))
+#+end_src
+
+** Rm Item from List
+
+*** Delete
+#+begin_src emacs-lisp
+(setq xx '(3 4 5))
+(remq 4 xx)
+(equal xx '(3 4 5))
+
+(setq xx '(3 4 5))
+(setq xx (delq 4 xx))
+#+end_src
+
+*** Delete Duplicate
+#+begin_src emacs-lisp
+(let (xx)
+  (setq xx '(3 4 5 3 2))
+  (setq xx (delete-dups xx)))
+#+end_src
+** Convert List
+
+*** Sequence to Vector
+#+begin_src emacs-lisp
+(equal
+ (vconcat [3 4] ["a" "b"])
+ [3 4 "a" "b"])
+
+(equal
+ (vconcat [3 4] '("a" "b"))
+ [3 4 "a" "b"])
+
+
+(equal
+ (vconcat [3 4] "ab")
+ [3 4 97 98])
+#+end_src
+
+*** Sequence to List
+#+begin_src emacs-lisp
+(equal
+ (list 1 2 3 4)
+ (append (list 1 2) (list 3 4)))
+
+(equal
+ (append [1 2 3] nil)
+ '(1 2 3))
+
+;; create improper list
+(equal
+ (append [1 2 3] [4 5])
+ '(1 2 3 . [4 5]))
+
+(equal
+ (append [1 2 3] [4 5] nil)
+ '(1 2 3 4 5))
+
+(equal
+ (append [1 2 3] [4 5] '(6))
+ '(1 2 3 4 5 6))
+#+end_src
+
+*** Sequence to String
+#+begin_src emacs-lisp
+(string-equal
+ (mapconcat 'number-to-string '(1 2 3) ",")
+ "1,2,3")
+
+(string-equal
+ (mapconcat 'identity '("a" "b" "c") ",")
+ "a,b,c")
+
+(string-equal
+ (mapconcat 'number-to-string [1 2 3] ",")
+ "1,2,3")
+#+end_src
+
+* Vector
+Ordered sequence, implement by arrys
+
+** Create Vector
+#+begin_src emacs-lisp
+(equal
+ (make-vector 5 0)
+ [0 0 0 0 0])
+
+;; with evaluated variable
+(let (xx)
+  (setq xx 3)
+  (equal
+   (vector 1 2 xx)
+   [1 2 3]))
+
+(let (aa xx)
+  (setq aa 4
+        xx [3 aa 5])
+  (equal
+   'aa
+   (aref xx 1)))
+#+end_src
+
+** Fill Vector
+#+begin_src emacs-lisp
+(setq xx [3 4 5])
+(eq
+ (fillarray xx 1)
+ xx)
+(equal xx [1 1 1])
+
+(equal
+ (fillarray [3 4 5] 1)
+ [1 1 1])
+#+end_src
+
+** Length
+#+begin_src emacs-lisp
+(equal
+ (length (vector 7 4 5))
+ 3)
+#+end_src
+
+** Get Element
+#+begin_src emacs-lisp
+(equal
+ (aref ["a" "b" "c"] 0)
+ "a")
+#+end_src
+
+** Change Element
+#+begin_src emacs-lisp
+(setq xx [3 4 5])
+(equal (aset xx 0 "b") "b")
+(equal xx ["b" 4 5])
+#+end_src
+
+** Nested Vector
+#+begin_src emacs-lisp
+[[1 2] [3 4]]
+[8 [3 [2 9] c] 7 [4 "b"]]
+#+end_src
+
+* Sequence
+Sequence is not a reall type, it contains List, Vector, String type.It's a abstract type, Yes, We see OOP shadow in elisp.
+** Sequence Function
+
+*** Check Sequence
+#+begin_src emacs-lisp
+(equal
+ (seqp '(1 2 3))
+ t)
+
+(equal
+ (seq-length '(1 2 3))
+ 3)
+
+(equal
+ (seq-empty-p '())
+ t)
+
+(equal
+ (seq-empty-p '(1 2 3))
+ nil)
+#+end_src
+
+*** Sort
+#+begin_src emacs-lisp
+(equal
+ (nreverse '(1 2 3 4))
+ '(4 3 2 1))
+
+(equal
+ (sort '(1 4 5 3) '<)
+ '(1 3 4 5))
+#+end_src
+
+*** Get
+#+begin_src emacs-lisp
+(equal
+ (seq-elt '(1 2 3 4) 1)
+ 2)
+#+end_src
+
+*** Min, Max
+#+begin_src emacs-lisp
+(equal
+ (seq-min '(1 2 3 4))
+ 1)
+
+(equal
+ (seq-max '(1 2 3 4))
+ 4)
+#+end_src
 * Fucntion
 
 ** &rest
