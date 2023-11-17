@@ -8614,3 +8614,26 @@ She woke with a jump, hearing a noise downstairs.
 I wnat to get a jump on my Christmas shopping.
 *** jumping up and down
 I don't think a lot of people will jump up and down and say 'thank heavens'.
+* within
+:PROPERTIES:
+:EXPORT_FILE_NAME: within.md
+:END:
+在...之内
+** 语义
+*** 在...时间之内
+We should have the test results back within 24 hours.
+*** 在建筑里
+Prisoners who died were buried within the walls of the prison.
+*** 在组织中
+There have been a lot of changes within the department since I joined.
+*** 在规定内
+We have to operate within a very tight budget.
+*** 在...体内
+I'm feeling more relaxed within myself.
+** 短语
+*** within reach
+https://youglish.com/getbyid/5835048/within%20reach/english
+
+https://youglish.com/getbyid/145405553/within%20reach/english
+
+Adjust the driver's seat so that all the controls are within reach.
