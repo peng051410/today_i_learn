@@ -728,6 +728,150 @@ Sequence is not a reall type, it contains List, Vector, String type.It's a abstr
  (seq-max '(1 2 3 4))
  4)
 #+end_src
+
+*** Insert Items
+#+begin_src emacs-lisp
+(seq-mapcat
+ (lambda (x)
+   (if (eq 0 (mod x 2))
+       (list x x)
+     (list x)))
+ '(1 2 3 4))
+#+end_src
+
+*** Take Element
+#+begin_src emacs-lisp
+(equal
+ (seq-take '(1 2 3 4) 1)
+ '(1))
+
+(equal
+ (seq-take-while (lambda (elt) (> elt 0)) '(1 2 3 -1 -2))
+ '(1 2 3))
+
+
+(equal
+ (seq-drop '(1 2 3 4) 1)
+ '(2 3 4))
+
+(equal
+ (seq-drop-while (lambda (elt) (> elt 0)) '(1 2 3 -1 -2))
+ '(-1 -2))
+
+(equal
+ (seq-subseq '(1 2 3 4 5) 1 3)
+ '(2 3))
+
+(equal
+ (seq-filter (lambda (elt) (> elt 0)) '(1 2 3 -1 -2))
+ '(1 2 3))
+
+(equal
+ (seq-remove (lambda (elt) (> elt 0)) '(1 2 3 -1 -2))
+ '(-1 -2))
+
+(equal
+ (seq-uniq '(1 2 3 2 3 -1))
+ '(1 2 3 -1))
+#+end_src
+
+*** Delte Element
+1. remove
+
+    1. original seq not changed
+
+2. delete
+
+    1. original seq destroyed
+
+#+begin_src emacs-lisp
+(setq xx '(3 4 5))
+(remove 4 xx) ; (3 5)
+(message "%S" xx) (3 4 5)
+
+(setq xx '(3 4 5))
+(setq xx (delete 4 xx))
+
+(setq xx [3 4 5])
+(setq xx (delete 4 xx))
+#+end_src
+
+*** Loop
+#+begin_src emacs-lisp
+(seq-do (lambda (elt) (message "%s" elt)) '(2 4 6))
+
+;; see https://stackoverflow.com/questions/63306647/various-forms-of-looping-and-iteration-in-elisp
+(setq xx '(1 2 3))
+(seq-doseq (ite xx) (message "%s" ite))
+
+;;https://www.gnu.org/software/emacs/manual/html_node/elisp/Sequence-Functions.html
+(seq-map (lambda (elt) (+ 1 elt)) '(2 3 4))
+(seq-mapn #'+ '(1 2 3) '(2 3 4))
+(seq-reduce #'+ '(2 3 4) 10)
+
+(seq-every-p (lambda (elt) (> elt 10)) '(11 22)) ;; t
+(seq-some (lambda (elt) (> elt 10)) '(1 22)) ;; t
+#+end_src
+
+*** Check Existance
+#+begin_src emacs-lisp
+(seq-contains '(1 2 3 4) 1)
+(equal
+ (seq-find (lambda (elt) (> elt 0)) '(-2 1 -1))
+ 1)
+(equal
+ (seq-position '(1 2 3 4) 3)
+ 2)
+(equal
+ (seq-count (lambda (elt) (> elt 10)) '(1 2 23 34))
+ 2)
+#+end_src
+
+*** Restructure
+#+begin_src emacs-lisp
+(equal
+ (seq-partition '(1 2 3 4) 2)
+ '((1 2) (3 4)))
+(equal
+ (seq-group-by (lambda (elt) (+ 1 elt)) '(1 2 3 4))
+ '((2 1) (3 2) (4 3) (5 4)))
+(equal
+ (seq-into '(1 2 3 4) 'vector)
+ [1 2 3 4])
+#+end_src
+
+*** Copy, Join
+#+begin_src emacs-lisp
+(equal
+ (copy-sequence '(1 2 3))
+ '(1 2 3))
+
+(equal
+ (seq-concatenate 'vector '(1 2 3 4))
+ [1 2 3 4])
+
+(equal
+ (seq-intersection '(1 2 3) '(2 3 4))
+ '(2 3))
+
+(equal
+ (seq-difference '(1 2 3) '(2 3 4))
+ '(1))
+#+end_src
+
+*** Binding
+#+begin_src emacs-lisp
+(equal
+ (seq-let [first second] [1 2 3 4]
+   (list first second))
+ '(1 2))
+
+(let ((a nil)
+      (b nil))
+  (seq-setq (_ a _ b) '(1 2 3 4))
+  (list a b)
+  )
+#+end_src
 * Fucntion
 
 ** &rest
