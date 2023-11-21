@@ -979,7 +979,217 @@ Sequence is not a real type, it contains List, Vector, String type.It's a abstra
 (require 'subr-x)
 (hash-table-values xx)
 #+end_src
-* Fucntion
+
+* [#A] Association List
+1. Is List
+2. Value type
+3. Each ele is a Cons Pair
+    1. (cons <key> <val>)
+4. Ordered
+5. Can have duplicate keys
+6. Hard to modify
+
+#+begin_example
+(list
+ (cons <k1> <v1>)
+ (cons <k2> <v2>)
+ )
+
+'(
+  (<k1> . <v1)
+  (<k2> . <v2)
+  )
+#+end_example
+
+** Create Alist
+#+begin_src emacs-lisp
+(setq
+ xx
+ (list
+  (cons "aa" 23)
+  (cons "bb" 24)
+  (cons "cc" 33)
+  ))
+
+
+(setq
+ xx
+ '(
+   ("aa" . 23)
+   ("bb" . 24)
+   ("cc" . 34)
+   ))
+
+
+(setq
+ xx
+ (list
+  (cons 'aa 23)
+  (cons 'bb 24)
+  (cons 'cc 34)
+  ))
+
+(setq
+ xx
+ '(
+   (aa . 23)
+   (bb . 24)
+   (cc . 34)
+   ))
+#+end_src
+
+** Get V by K
+alist-get
+#+begin_src emacs-lisp
+(setq
+ xx
+ '(("aa" . 23)
+   ("bb" . 24)
+   ("cc" . 34)))
+(equal
+ (alist-get "bb" xx 999 nil 'string-equal)
+ 24)
+(equal
+ (alist-get "dd" xx 999 nil 'string-equal)
+ 999)
+
+(setq
+ xx
+ '((aa . 23)
+   (bb . 24)
+   (cc . 34)))
+(equal
+ (alist-get 'bb xx 999)
+ 24)
+(equal
+ (alist-get 'dd xx 999)
+ 999)
+#+end_src
+
+** Get Pair by K
+#+begin_src emacs-lisp
+(setq xx
+      '((aa . 23)
+        (bb . 24)
+        (cc . 34)))
+;;checked by equal
+(assoc 'aa xx)
+
+(setq xx
+      '((aa . 23)
+        (bb . 24)
+        (cc . 34)))
+;; checked by eq
+(assq 'aa xx)
+#+end_src
+
+** Get Pair by V
+#+begin_src emacs-lisp
+(setq xx
+      '(("aa" . 23)
+        ("bb" . 24)
+        ("cc" . 34)))
+(rassoc 24 xx)
+
+(setq xx
+      '((aa . 23)
+        (bb . 24)
+        (cc . 34)))
+(rassq 24 xx)
+#+end_src
+
+** Add a Ele
+#+begin_src emacs-lisp
+(setq xx
+      '(("aa" . 23)
+        ("bb" . 24)))
+(push '("cc" . 33) xx)
+
+
+(setq xx
+      '(("aa" . 23)
+        ("bb" . 24)))
+;; if key not exist
+(when (not (assoc "cc" xx))
+  (push '("cc" . 33) xx))
+#+end_src
+
+** Del Pairs by K
+#+begin_src emacs-lisp
+(setq xx
+      '(("aa" . 23)
+        ("bb" . 24)))
+(setq xx (assoc-delete-all "bb" xx))
+#+end_src
+* Function
+
+** Define Func
+#+begin_src emacs-lisp
+(defun ff()
+  "print yay"
+  (message "Yay!"))
+
+(defun gg (x)
+  "add two"
+  (+ x 2))
+
+(defun ff (x y)
+  "add x and y"
+  (+ x y))
+#+end_src
+
+** Func Parameters
+*** Optional Params
+#+begin_src emacs-lisp
+(defun ff (aa bb &optional cc dd)
+  "test optional params"
+  (interactive)
+  (message "%s %s %s %s" aa bb cc dd))
+
+(ff 1 2)
+(ff 1 2 3)
+(ff 1 2 3 4)
+#+end_src
+
+*** Rest Params
+1. Emacs lisp don't support params default value.
+2. Emacs lisp don't support params type checking.
+
+#+begin_src emacs-lisp
+(defun ff (aa bb &rest cc)
+  "test rest arguments"
+  (message "%s" cc))
+
+(ff "1" "2" "3" "4")
+#+end_src
+
+*** Named Params
+#+begin_src emacs-lisp
+(defun my-f (x &rest keyword-args)
+  "demo of using plist as optional named params with default value"
+  (interactive)
+  (let ((a (or (plist-get keyword-args :a) 1))
+        (b (or (plist-get keyword-args :b) 2))
+        (c (or (plist-get keyword-args :c) 3)))
+    (format "param values: x %s, a %s, b %s, c %s" x a b c)))
+
+(my-f 3 :b 4 :xx 9)
+
+
+(defun my-g (x &optional xOpt)
+  "demo of using alist as optional named param with default value"
+  (interactive)
+  (let ((y1 (or (cdr (assoc "y1" xOpt)) 1))
+        (y2 (or (cdr (assoc "y2" xOpt)) 2))
+        (y3 (or (cdr (assoc "y3" xOpt)) 3))
+        )
+    (message "param values: x %s, y1 %s, y2 %s, y3 %s" x y1 y2 y3)
+    ))
+
+;; Association list
+(my-g 3 '(("y2" . 99)))
+#+end_src
+* Fucntions
 
 ** &rest
 `&rest` is a way of specifying that the final arguments to a function can be of any type, and can be passed as a variable number of arguments. It is commonly used in Emacs Lisp code to define functions that can be called with a variable number of arguments.

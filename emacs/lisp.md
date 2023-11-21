@@ -1,25 +1,28 @@
 
 # Table of Contents
 
--   [eval](#org1082609)
--   [Output](#orgf4f314a)
--   [buffer](#orga5d3fb5)
--   [String](#orgce73dd3)
--   [Arithmetic](#org3526b37)
--   [Boolean](#org5b045c0)
--   [Test equality](#org31a5955)
--   [Variables](#orgb5ad307)
--   [Block Expression](#org0d949f3)
--   [Condition](#org27aebcc)
--   [Loop](#orgdb3220e)
--   [List](#org22542b5)
--   [Vector](#org97a978b)
--   [Sequence](#org2caad42)
--   [Fucntion](#orga72673a)
+-   [eval](#org514934c)
+-   [Output](#org4edd338)
+-   [buffer](#org0983881)
+-   [String](#org373562b)
+-   [Arithmetic](#org170f827)
+-   [Boolean](#orgc1bfe69)
+-   [Test equality](#orge873d75)
+-   [Variables](#org437ab81)
+-   [Block Expression](#org0ee40a2)
+-   [Condition](#org419bcfa)
+-   [Loop](#org99526ad)
+-   [List](#orgea5044c)
+-   [Vector](#org2b784f2)
+-   [Sequence](#orgf945699)
+-   [Hash Table](#org18c2053)
+-   [Association List](#orgf6209ba)
+-   [Function](#org577a840)
+-   [Fucntions](#org328704b)
 
 
 
-<a id="org1082609"></a>
+<a id="org514934c"></a>
 
 # eval
 
@@ -30,7 +33,7 @@
 ## eval-region
 
 
-<a id="orgf4f314a"></a>
+<a id="org4edd338"></a>
 
 # Output
 
@@ -56,7 +59,7 @@
 ## princ
 
 
-<a id="orga5d3fb5"></a>
+<a id="org0983881"></a>
 
 # buffer
 
@@ -72,7 +75,7 @@
 > (with-output-to-temp-buffer BUFNAME &rest BODY)
 
 
-<a id="orgce73dd3"></a>
+<a id="org373562b"></a>
 
 # String
 
@@ -92,7 +95,7 @@
 ## format
 
 
-<a id="org3526b37"></a>
+<a id="org170f827"></a>
 
 # Arithmetic
 
@@ -140,7 +143,7 @@
 ### format
 
 
-<a id="org5b045c0"></a>
+<a id="orgc1bfe69"></a>
 
 # Boolean
 
@@ -177,7 +180,7 @@
     (not 2)
 
 
-<a id="org31a5955"></a>
+<a id="orge873d75"></a>
 
 # Test equality
 
@@ -251,7 +254,7 @@ Check if is the same object only for floating number
     (eql 0.0 -0.0)
 
 
-<a id="orgb5ad307"></a>
+<a id="org437ab81"></a>
 
 # Variables
 
@@ -312,7 +315,7 @@ like let, but can use defined earlier symbols.
      )
 
 
-<a id="org0d949f3"></a>
+<a id="org0ee40a2"></a>
 
 # Block Expression
 
@@ -324,7 +327,7 @@ Like block {} in C-like language
     
     (progn 3 5)
 
-<div class="notes" id="org9636392">
+<div class="notes" id="orga8757ea">
 <p>
 (if something
     (progn ; true
@@ -338,7 +341,7 @@ Like block {} in C-like language
 </div>
 
 
-<a id="org27aebcc"></a>
+<a id="org419bcfa"></a>
 
 # Condition
 
@@ -361,7 +364,7 @@ Use "when" when don't want else case.
       (message "8"))
 
 
-<a id="orgdb3220e"></a>
+<a id="org99526ad"></a>
 
 # Loop
 
@@ -417,7 +420,7 @@ Useful for go over list to get the element, Similar with C-like for-loop?
       )
 
 
-<a id="org22542b5"></a>
+<a id="orgea5044c"></a>
 
 # List
 
@@ -715,7 +718,7 @@ Use cons
      "1,2,3")
 
 
-<a id="org97a978b"></a>
+<a id="org2b784f2"></a>
 
 # Vector
 
@@ -783,11 +786,11 @@ Ordered sequence, implement by arrys
     [8 [3 [2 9] c] 7 [4 "b"]]
 
 
-<a id="org2caad42"></a>
+<a id="orgf945699"></a>
 
 # Sequence
 
-Sequence is not a reall type, it contains List, Vector, String type.It's a abstract type, Yes, We see OOP shadow in elisp.
+Sequence is not a real type, it contains List, Vector, String type.It's a abstract type, Yes, We see OOP shadow in elisp.
 
 
 ## Sequence Function
@@ -983,9 +986,337 @@ Sequence is not a reall type, it contains List, Vector, String type.It's a abstr
       )
 
 
-<a id="orga72673a"></a>
+## Sequence Iteration
 
-# Fucntion
+
+### Map a Function to List
+
+    (equal
+     (mapcar 'car '((1 2) (3 4) (5 6)))
+     '(1 3 5)
+     )
+    
+    (equal
+     (mapcar (lambda (x) (aref x 0)) [[1 2] [3 4] [5 6]])
+     '(1 3 5)
+     )
+    
+    (equal
+     (mapcar '1+ [0 1 2])
+     '(1 2 3))
+    
+    (mapc
+     (lambda (x)
+       (insert (number-to-string x)))
+     (number-sequence 1 9))
+    
+    (mapc 'my-update-footer
+          (list "~/x1.html" "~/x2.html" "~/x3.html"))
+    
+    
+    (let (xx)
+      (setq xx (number-sequence 1 5))
+      (dolist (n xx)
+        (insert (number-to-string n))))
+
+
+<a id="org18c2053"></a>
+
+# Hash Table
+
+    ;; create
+    (setq xx (make-hash-table :test 'equal))
+    
+    ;; put
+    (let ((xx (make-hash-table :test 'equal)))
+      (puthash 'aa 9 xx)
+      xx)
+    
+    ;; rm
+    (let ((xx (make-hash-table :test 'equal)))
+      (puthash 'aa 9 xx)
+      (puthash 'bb 10 xx)
+      (remhash 'aa xx)
+      xx
+      )
+    
+    ;; get
+    (let ((xx (make-hash-table :test 'equal)))
+      (puthash 'aa 9 xx)
+      (gethash 'bb xx)
+      (gethash 'bb xx 10)
+      )
+    
+    ;; count
+    (let ((xx (make-hash-table :test 'equal)))
+      (puthash 'aa 9 xx)
+      (hash-table-count xx)
+      )
+    
+    ;; clear
+    (let ((xx (make-hash-table :test 'equal)))
+      (puthash 'aa 9 xx)
+      (hash-table-count xx)
+      (clrhash xx)
+      (hash-table-count xx)
+      )
+    
+    ;; map
+    (setq xx (make-hash-table :test 'equal))
+    (puthash "aa" 19 xx)
+    (puthash "aa" 20 xx)
+    (puthash "aa" 17 xx)
+    (puthash "aa" 21 xx)
+    
+    (maphash
+     (lambda (k v)
+       (princ (format "%s, %s" k v))
+       (princ "\n"))
+     xx)
+    
+    ;; get keys
+    (setq xx
+          #s(hash-table
+             size 30
+             test equal
+             data (
+                   "aa" 3
+                   "bb" 9
+                   "cc" 5)))
+    (require 'subr-x)
+    (hash-table-keys xx)
+    
+    ;; get values
+    (setq xx (make-hash-table :test 'equal))
+    (puthash "aa" "19" xx)
+    (puthash "bb" "20" xx)
+    
+    (require 'subr-x)
+    (hash-table-values xx)
+
+
+<a id="orgf6209ba"></a>
+
+# Association List
+
+1.  Is List
+2.  Value type
+3.  Each ele is a Cons Pair
+    1.  (cons <key> <val>)
+4.  Ordered
+5.  Can have duplicate keys
+6.  Hard to modify
+
+    (list
+     (cons <k1> <v1>)
+     (cons <k2> <v2>)
+     )
+    
+    '(
+      (<k1> . <v1)
+      (<k2> . <v2)
+      )
+
+
+## Create Alist
+
+    (setq
+     xx
+     (list
+      (cons "aa" 23)
+      (cons "bb" 24)
+      (cons "cc" 33)
+      ))
+    
+    
+    (setq
+     xx
+     '(
+       ("aa" . 23)
+       ("bb" . 24)
+       ("cc" . 34)
+       ))
+    
+    
+    (setq
+     xx
+     (list
+      (cons 'aa 23)
+      (cons 'bb 24)
+      (cons 'cc 34)
+      ))
+    
+    (setq
+     xx
+     '(
+       (aa . 23)
+       (bb . 24)
+       (cc . 34)
+       ))
+
+
+## Get V by K
+
+alist-get
+
+    (setq
+     xx
+     '(("aa" . 23)
+       ("bb" . 24)
+       ("cc" . 34)))
+    (equal
+     (alist-get "bb" xx 999 nil 'string-equal)
+     24)
+    (equal
+     (alist-get "dd" xx 999 nil 'string-equal)
+     999)
+    
+    (setq
+     xx
+     '((aa . 23)
+       (bb . 24)
+       (cc . 34)))
+    (equal
+     (alist-get 'bb xx 999)
+     24)
+    (equal
+     (alist-get 'dd xx 999)
+     999)
+
+
+## Get Pair by K
+
+    (setq xx
+          '((aa . 23)
+            (bb . 24)
+            (cc . 34)))
+    ;;checked by equal
+    (assoc 'aa xx)
+    
+    (setq xx
+          '((aa . 23)
+            (bb . 24)
+            (cc . 34)))
+    ;; checked by eq
+    (assq 'aa xx)
+
+
+## Get Pair by V
+
+    (setq xx
+          '(("aa" . 23)
+            ("bb" . 24)
+            ("cc" . 34)))
+    (rassoc 24 xx)
+    
+    (setq xx
+          '((aa . 23)
+            (bb . 24)
+            (cc . 34)))
+    (rassq 24 xx)
+
+
+## Add a Ele
+
+    (setq xx
+          '(("aa" . 23)
+            ("bb" . 24)))
+    (push '("cc" . 33) xx)
+    
+    
+    (setq xx
+          '(("aa" . 23)
+            ("bb" . 24)))
+    ;; if key not exist
+    (when (not (assoc "cc" xx))
+      (push '("cc" . 33) xx))
+
+
+## Del Pairs by K
+
+    (setq xx
+          '(("aa" . 23)
+            ("bb" . 24)))
+    (setq xx (assoc-delete-all "bb" xx))
+
+
+<a id="org577a840"></a>
+
+# Function
+
+
+## Define Func
+
+    (defun ff()
+      "print yay"
+      (message "Yay!"))
+    
+    (defun gg (x)
+      "add two"
+      (+ x 2))
+    
+    (defun ff (x y)
+      "add x and y"
+      (+ x y))
+
+
+## Func Parameters
+
+
+### Optional Params
+
+    (defun ff (aa bb &optional cc dd)
+      "test optional params"
+      (interactive)
+      (message "%s %s %s %s" aa bb cc dd))
+    
+    (ff 1 2)
+    (ff 1 2 3)
+    (ff 1 2 3 4)
+
+
+### Rest Params
+
+1.  Emacs lisp don't support params default value.
+2.  Emacs lisp don't support params type checking.
+
+    (defun ff (aa bb &rest cc)
+      "test rest arguments"
+      (message "%s" cc))
+    
+    (ff "1" "2" "3" "4")
+
+
+### Named Params
+
+    (defun my-f (x &rest keyword-args)
+      "demo of using plist as optional named params with default value"
+      (interactive)
+      (let ((a (or (plist-get keyword-args :a) 1))
+            (b (or (plist-get keyword-args :b) 2))
+            (c (or (plist-get keyword-args :c) 3)))
+        (format "param values: x %s, a %s, b %s, c %s" x a b c)))
+    
+    (my-f 3 :b 4 :xx 9)
+    
+    
+    (defun my-g (x &optional xOpt)
+      "demo of using alist as optional named param with default value"
+      (interactive)
+      (let ((y1 (or (cdr (assoc "y1" xOpt)) 1))
+            (y2 (or (cdr (assoc "y2" xOpt)) 2))
+            (y3 (or (cdr (assoc "y3" xOpt)) 3))
+            )
+        (message "param values: x %s, y1 %s, y2 %s, y3 %s" x y1 y2 y3)
+        ))
+    
+    ;; Association list
+    (my-g 3 '(("y2" . 99)))
+
+
+<a id="org328704b"></a>
+
+# Fucntions
 
 
 ## &rest
