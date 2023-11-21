@@ -93,6 +93,7 @@
 -   [jump.md](jump.md)
 -   [within.md](within.md)
 -   [grow.md](grow.md)
+-   [stay.md](stay.md)
 
 
 Record my english study process.
