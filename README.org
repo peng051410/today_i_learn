@@ -635,6 +635,7 @@ Class.this used in nested class to resolved ambiguous
 Captured On: [2023-11-17 Fri 16:17]
 
 
+
 * Spring
 
 ** How to get handleMethod from webflux
@@ -647,6 +648,23 @@ Captured On: [2023-11-17 Fri 16:17]
 
 ** Spring profie effect scope
 Profiles affect only bean creation, not method.
+
+
+** [[https://stackoverflow.com/questions/49367006/spring-value-with-arraylist-split-and-default-empty-list][java - Spring @Value with arraylist split and default empty list - Stack Overflow]]
+Captured On: [2023-11-29 Wed 17:43]
+I want to transfer a value from config to list, and need to set default value, I don't like two write value keys twice, like this:
+#+HEADERS: :classname SpringValue
+#+begin_src java
+@Value("#{'${my.list}'.split(',') : T(java.util.Collections).emptyList()}")
+#+end_src
+
+Fortunately, I found a beautiful solution to face it. Thans SO.
+
+#+HEADERS: :classname SpringBeautifulValue
+#+begin_src java
+@Value("#{T(java.util.Arrays).asList('${my.list:}')}")
+private List<String> list;
+#+end_src
 
 * KM
 
