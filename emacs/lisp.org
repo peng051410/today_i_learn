@@ -1189,7 +1189,385 @@ alist-get
 ;; Association list
 (my-g 3 '(("y2" . 99)))
 #+end_src
-* Fucntions
+
+** Lambda (Anonymous Function)
+
+*** Define Lambda
+#+begin_src emacs-lisp
+(lambda (x)
+  (1+ x))
+
+(lambda (x)
+  "toy lambda example. given x, return (list 1 2 3 x)"
+  (let (a b c)
+    (setq a 1)
+    (setq b 2)
+    (setq c 3)
+    (list a b c x)))
+#+end_src
+
+*** Apply the Lambda to Value
+#+begin_src emacs-lisp
+((lambda (x)
+   (1+ x)) 3)
+
+;; general use case
+(mapcar
+ (lambda (x) (aref x 1))
+ [[1 2] [3 4] [5 6]])
+
+(lambda (x y)
+  (+ x y))
+
+((lambda (x y)
+   (+ x y))
+ 3 4)
+#+end_src
+
+*** Nested Lambda
+#+begin_src emacs-lisp
+((lambda (x)
+   ((lambda (x)
+      (1+ x)) x)) 3)
+#+end_src
+
+*** Nmaed Lambda
+#+begin_src emacs-lisp
+(fset 'f1 (lambda (y) "add 1 to arg" (1+ y)))
+(f1 2)
+#+end_src
+
+*** Define Inner Function
+#+begin_src emacs-lisp
+(defun f1 (x)
+  "DOCSTRING"
+  (interactive)
+  (let (f2)
+    ;; fest wil make f2 to global
+    (fset 'f2 (lambda (y) "add 1 to arg" (1+ y)))
+    (f2 x)))
+
+(equal
+ (f1 2)
+ 3)
+
+(equal
+ (fboundp 'f2)
+ t)
+
+(equal
+ (f2 2)
+ 3)
+#+end_src
+
+** Function Type
+1. lambda
+2. primitive
+3. special form
+4. macro
+5. command
+6. function
+
+*** Check Symbol's type
+#+begin_src emacs-lisp
+(special-form-p 'progn)
+(macrop 'when)
+(commandp 'count-words)
+(functionp 'buffer-file-name)
+;; is variable
+(boundp 'buffer-file-name)
+#+end_src
+
+*** Check Primitive
+#+begin_src emacs-lisp
+;; lisp
+(subrp (symbol-function 'list))
+(subrp (symbol-function '+))
+
+;; form by C
+(subrp (symbol-function 'while))
+(subrp (symbol-function 'save-excursion))
+
+;; command by C
+(subrp (symbol-function 'goto-char))
+(subrp (symbol-function 'beginning-of-line))
+(subrp (symbol-function 'forward-word))
+
+;; lambda is a macro
+(subrp (symbol-function 'lambda))
+
+;; return cell value
+(symbol-function 'setq)
+#+end_src
+
+#+begin_quote
+Search all use *apropos*
+#+end_quote
+* Exit
+
+** Exit a Func/Iteration
+1. throw
+2. cache
+
+#+begin_src emacs-lisp
+(defun xx-test-exit (x)
+  (catch 'aaa
+    (if (> x 5)
+        (progn
+          (throw 'aaa "yes"))
+        (progn
+          "no"))))
+(string-equal (xx-test-exit 2) "no")
+(string-equal (xx-test-exit 6) "yes")
+
+(let ((xseq [0 1 2 3 4 5]))
+  (catch 'bbb
+    (mapc
+     (lambda (x)
+       (message "%s" x)
+       (when (equal x 3) (throw 'bbb x)))
+     xseq)
+    nil))
+(seq-some (lambda (x) (eq 5 x)) [4 5 6])
+#+end_src
+
+** Exit by Error
+1. error
+2. user-error
+
+#+begin_src emacs-lisp
+(defun test-exit-f ()
+  (interactive)
+  (if (y-or-n-p "invoke user-error to exit?")
+      (user-error "Error, because: %s" "you said so!")
+    (progn
+      (message "went on"))))
+#+end_src
+
+* Apply Function(List to Args)
+
+** apply
+
+#+begin_src emacs-lisp
+(defun ff (x y z)
+  (format "%s %s %s" x y z))
+
+(equal
+ (ff 2 3 4)
+ "2 3 4")
+
+(setq xx '(2 3 4))
+(equal
+ (apply 'ff xx)
+ "2 3 4")
+
+(setq xx '(3 4))
+(equal
+ (apply 'ff 2 xx)
+ "2 3 4")
+#+end_src
+
+** funcall
+1. When function name is a variable, value known only at run-time.
+#+begin_src emacs-lisp
+(defun ff (x y z)
+  (format "%s %s %s" x y z))
+
+(equal
+ (ff 2 3 4)
+ "2 3 4")
+
+(equal
+ (funcall 'ff 2 3 4)
+ "2 3 4")
+#+end_src
+
+* [#A] Symbol
+1. like common language identifer
+2. held unevaluated
+3. store multiple values
+4. symbolic, variable or function name is value and symbol
+    1. transform source code at runtime
+
+#+begin_src emacs-lisp
+(setq x 4)
+
+(set
+ (intern
+  (concat
+   (symbol-name 'x)
+   (number-to-string (symbol-value 'x))))
+ (1+ (symbol-value 'x)))
+
+(symbol-value 'x4)
+#+end_src
+
+** Quoting Symbol
+1. quote
+    1. return argument without evaluating it.
+    2. hold evaluation
+
+#+begin_src emacs-lisp
+;; (set x 3)
+(setq x 3)
+
+(setq f 'cos)
+(setq f 'sqrt)
+
+(mapcar 'cos '(1 2 3))
+
+(mapcar f '(1 2 3))
+#+end_src
+
+** Symbol cell
+1. print name
+    1. string
+2. value
+    1. symbol's value
+3. function
+    1. function definition object
+4. property list
+    1. list of name/value pairs
+
+* Special Form
+Non-standard evaluation strategy
+
+1. and
+2. or
+3. catch
+4. while
+5. cond
+6. condition-case
+7. defconst
+8. let
+9. let*
+10. prog1
+11. prog2
+12. progn
+13. setq
+14. setq-default
+15. interactive
+16. lambda
+17. quote
+18. function
+19. save-current-buffer
+20. save-excursion
+21. save-restriction
+22. track-mouse
+23. unwind-protect
+
+* Cheeck If func/var is defined
+
+** Check Func
+#+begin_src emacs-lisp
+(equal
+ (fboundp 'info)
+ t)
+(equal
+ (fboundp 'setq)
+ t)
+(equal
+ (fboundp 'xyx)
+ nil)
+#+end_src
+
+** Check Variable
+#+begin_src emacs-lisp
+(equal
+ (boundp 'auto-mode-alist)
+ t)
+(equal
+ (boundp 'default-input-method)
+ t)
+(equal
+ (boundp 'nil)
+ t)
+(equal
+ (boundp 'xyz)
+ nil)
+#+end_src
+
+** Check Package(Feature)
+#+begin_src emacs-lisp
+(equal
+ (featurep 'ibuffer)
+ nil)
+(equal
+ (featurep 'org)
+ t)
+#+end_src
+
+* Regular Expression
+
+** Regex Functions
+
+*** on Buffer
+**** search-forward
+**** re-search-forward
+#+begin_src emacs-lisp
+(let ((case-fold-search nil))
+  (re-search-forward "[0-9])+"))
+;; 100 cat
+#+end_src
+**** re-search-backward
+**** skip-chars-forward
+**** skip-chars-backward
+*** Matching String
+**** string-match
+#+begin_src emacs-lisp
+(equal
+ (string-match "3" "xx3x")
+ 2)
+#+end_src
+**** replace-regexp-in-string
+#+begin_src emacs-lisp
+(equal
+ (replace-regexp-in-string "</*div>" "<p>" "<div>something</div>")
+ "<p>something<p>")
+#+end_src
+*** Replace Match
+#+begin_src emacs-lisp
+(let ((case-fold-search nil))
+  (re-search-forward "x\\([0-9]+\\)" nil t)
+  (replace-match "ID \\1"))
+
+;; x803 -> ID803
+#+end_src
+* DateTime
+** Format Date
+#+begin_src emacs-lisp
+(format-time-string "%Y-%m-%d")
+#+end_src
+** Unix Time Format
+#+begin_src emacs-lisp
+(format-time-string "%s")
+#+end_src
+** Get Named Month And Week
+#+begin_src emacs-lisp
+(format-time-string "%B")
+(format-time-string "%b")
+
+(format-time-string "%A")
+(format-time-string "%a")
+#+end_src
+** Ordernal Date Format
+#+begin_src emacs-lisp
+(format-time-string "%Y-%j")
+#+end_src
+** Parse Date Time
+1. parse-time-string returns
+2. (SEC MIN HOUR DAY MON YEAR DOW DST TZ)
+3. if a element is nil or -1, it means unknown
+#+begin_src emacs-lisp
+(equal
+ (parse-time-string "Date: Mon, 01 Aug 2011 12:24:51 -0400")
+ '(51 24 12 1 8 2011 1 -1 -14400))
+
+(equal
+  (parse-time-string "2007, August 1")
+ '(nil nil nil 1 8 2007 nil -1 nil))
+#+end_src
+* Builtin Fucntions
 
 ** &rest
 `&rest` is a way of specifying that the final arguments to a function can be of any type, and can be passed as a variable number of arguments. It is commonly used in Emacs Lisp code to define functions that can be called with a variable number of arguments.
@@ -1203,3 +1581,33 @@ alist-get
 ** throw
 
 ** catch
+
+** caar
+Get first ele of first set
+#+begin_src emacs-lisp
+(setq my-list '((1 2) (3 4) (5 6)))
+(setq result (caar my-list))
+(equal result 1)
+#+end_src
+
+** assoc
+Find matched list from list by the key
+#+begin_src emacs-lisp
+(setq trees '((pine . cones) (oak . acorns) (maple . seeds)))
+
+(equal
+ (assoc 'oak trees)
+ '(oak . acorns))
+;; 返回 (oak . acorns)
+
+(equal
+ (cdr (assoc 'oak trees))
+ 'acorns
+ )
+;; 返回 acorns
+
+(equal
+ (assoc 'birch trees)
+ nil)
+;; 返回 nil
+#+end_src

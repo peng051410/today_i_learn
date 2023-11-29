@@ -1,28 +1,35 @@
 
 # Table of Contents
 
--   [eval](#org514934c)
--   [Output](#org4edd338)
--   [buffer](#org0983881)
--   [String](#org373562b)
--   [Arithmetic](#org170f827)
--   [Boolean](#orgc1bfe69)
--   [Test equality](#orge873d75)
--   [Variables](#org437ab81)
--   [Block Expression](#org0ee40a2)
--   [Condition](#org419bcfa)
--   [Loop](#org99526ad)
--   [List](#orgea5044c)
--   [Vector](#org2b784f2)
--   [Sequence](#orgf945699)
--   [Hash Table](#org18c2053)
--   [Association List](#orgf6209ba)
--   [Function](#org577a840)
--   [Fucntions](#org328704b)
+-   [eval](#org6878213)
+-   [Output](#orgc23b530)
+-   [buffer](#orgf9cac3c)
+-   [String](#org28e1dc0)
+-   [Arithmetic](#org2ffa1f7)
+-   [Boolean](#org7aed1c3)
+-   [Test equality](#orgfbac1c3)
+-   [Variables](#orgf28643d)
+-   [Block Expression](#org7f5602b)
+-   [Condition](#org76c4f9e)
+-   [Loop](#org9387142)
+-   [List](#org7347336)
+-   [Vector](#org26175e5)
+-   [Sequence](#orgc9add0b)
+-   [Hash Table](#org84f45d4)
+-   [Association List](#org3f0f90e)
+-   [Function](#org689cc6b)
+-   [Exit](#org4fe35e4)
+-   [Apply Function(List to Args)](#org52737f4)
+-   [Symbol](#orgf3e22ac)
+-   [Special Form](#org2a938a7)
+-   [Cheeck If func/var is defined](#orgbf027b6)
+-   [Regular Expression](#org4b364d0)
+-   [DateTime](#org42967fc)
+-   [Builtin Fucntions](#org1af4067)
 
 
 
-<a id="org514934c"></a>
+<a id="org6878213"></a>
 
 # eval
 
@@ -33,7 +40,7 @@
 ## eval-region
 
 
-<a id="org4edd338"></a>
+<a id="orgc23b530"></a>
 
 # Output
 
@@ -59,7 +66,7 @@
 ## princ
 
 
-<a id="org0983881"></a>
+<a id="orgf9cac3c"></a>
 
 # buffer
 
@@ -75,7 +82,7 @@
 > (with-output-to-temp-buffer BUFNAME &rest BODY)
 
 
-<a id="org373562b"></a>
+<a id="org28e1dc0"></a>
 
 # String
 
@@ -95,7 +102,7 @@
 ## format
 
 
-<a id="org170f827"></a>
+<a id="org2ffa1f7"></a>
 
 # Arithmetic
 
@@ -143,7 +150,7 @@
 ### format
 
 
-<a id="orgc1bfe69"></a>
+<a id="org7aed1c3"></a>
 
 # Boolean
 
@@ -180,7 +187,7 @@
     (not 2)
 
 
-<a id="orge873d75"></a>
+<a id="orgfbac1c3"></a>
 
 # Test equality
 
@@ -254,7 +261,7 @@ Check if is the same object only for floating number
     (eql 0.0 -0.0)
 
 
-<a id="org437ab81"></a>
+<a id="orgf28643d"></a>
 
 # Variables
 
@@ -315,7 +322,7 @@ like let, but can use defined earlier symbols.
      )
 
 
-<a id="org0ee40a2"></a>
+<a id="org7f5602b"></a>
 
 # Block Expression
 
@@ -327,7 +334,7 @@ Like block {} in C-like language
     
     (progn 3 5)
 
-<div class="notes" id="orga8757ea">
+<div class="notes" id="orgba98fb7">
 <p>
 (if something
     (progn ; true
@@ -341,7 +348,7 @@ Like block {} in C-like language
 </div>
 
 
-<a id="org419bcfa"></a>
+<a id="org76c4f9e"></a>
 
 # Condition
 
@@ -364,7 +371,7 @@ Use "when" when don't want else case.
       (message "8"))
 
 
-<a id="org99526ad"></a>
+<a id="org9387142"></a>
 
 # Loop
 
@@ -420,7 +427,7 @@ Useful for go over list to get the element, Similar with C-like for-loop?
       )
 
 
-<a id="orgea5044c"></a>
+<a id="org7347336"></a>
 
 # List
 
@@ -718,7 +725,7 @@ Use cons
      "1,2,3")
 
 
-<a id="org2b784f2"></a>
+<a id="org26175e5"></a>
 
 # Vector
 
@@ -786,7 +793,7 @@ Ordered sequence, implement by arrys
     [8 [3 [2 9] c] 7 [4 "b"]]
 
 
-<a id="orgf945699"></a>
+<a id="orgc9add0b"></a>
 
 # Sequence
 
@@ -1020,7 +1027,7 @@ Sequence is not a real type, it contains List, Vector, String type.It's a abstra
         (insert (number-to-string n))))
 
 
-<a id="org18c2053"></a>
+<a id="org84f45d4"></a>
 
 # Hash Table
 
@@ -1095,7 +1102,7 @@ Sequence is not a real type, it contains List, Vector, String type.It's a abstra
     (hash-table-values xx)
 
 
-<a id="orgf6209ba"></a>
+<a id="org3f0f90e"></a>
 
 # Association List
 
@@ -1240,7 +1247,7 @@ alist-get
     (setq xx (assoc-delete-all "bb" xx))
 
 
-<a id="org577a840"></a>
+<a id="org689cc6b"></a>
 
 # Function
 
@@ -1314,9 +1321,428 @@ alist-get
     (my-g 3 '(("y2" . 99)))
 
 
-<a id="org328704b"></a>
+## Lambda (Anonymous Function)
 
-# Fucntions
+
+### Define Lambda
+
+    (lambda (x)
+      (1+ x))
+    
+    (lambda (x)
+      "toy lambda example. given x, return (list 1 2 3 x)"
+      (let (a b c)
+        (setq a 1)
+        (setq b 2)
+        (setq c 3)
+        (list a b c x)))
+
+
+### Apply the Lambda to Value
+
+    ((lambda (x)
+       (1+ x)) 3)
+    
+    ;; general use case
+    (mapcar
+     (lambda (x) (aref x 1))
+     [[1 2] [3 4] [5 6]])
+    
+    (lambda (x y)
+      (+ x y))
+    
+    ((lambda (x y)
+       (+ x y))
+     3 4)
+
+
+### Nested Lambda
+
+    ((lambda (x)
+       ((lambda (x)
+          (1+ x)) x)) 3)
+
+
+### Nmaed Lambda
+
+    (fset 'f1 (lambda (y) "add 1 to arg" (1+ y)))
+    (f1 2)
+
+
+### Define Inner Function
+
+    (defun f1 (x)
+      "DOCSTRING"
+      (interactive)
+      (let (f2)
+        ;; fest wil make f2 to global
+        (fset 'f2 (lambda (y) "add 1 to arg" (1+ y)))
+        (f2 x)))
+    
+    (equal
+     (f1 2)
+     3)
+    
+    (equal
+     (fboundp 'f2)
+     t)
+    
+    (equal
+     (f2 2)
+     3)
+
+
+## Function Type
+
+1.  lambda
+2.  primitive
+3.  special form
+4.  macro
+5.  command
+6.  function
+
+
+### Check Symbol's type
+
+    (special-form-p 'progn)
+    (macrop 'when)
+    (commandp 'count-words)
+    (functionp 'buffer-file-name)
+    ;; is variable
+    (boundp 'buffer-file-name)
+
+
+### Check Primitive
+
+    ;; lisp
+    (subrp (symbol-function 'list))
+    (subrp (symbol-function '+))
+    
+    ;; form by C
+    (subrp (symbol-function 'while))
+    (subrp (symbol-function 'save-excursion))
+    
+    ;; command by C
+    (subrp (symbol-function 'goto-char))
+    (subrp (symbol-function 'beginning-of-line))
+    (subrp (symbol-function 'forward-word))
+    
+    ;; lambda is a macro
+    (subrp (symbol-function 'lambda))
+    
+    ;; return cell value
+    (symbol-function 'setq)
+
+> Search all use **apropos**
+
+
+<a id="org4fe35e4"></a>
+
+# Exit
+
+
+## Exit a Func/Iteration
+
+1.  throw
+2.  cache
+
+    (defun xx-test-exit (x)
+      (catch 'aaa
+        (if (> x 5)
+            (progn
+              (throw 'aaa "yes"))
+            (progn
+              "no"))))
+    (string-equal (xx-test-exit 2) "no")
+    (string-equal (xx-test-exit 6) "yes")
+    
+    (let ((xseq [0 1 2 3 4 5]))
+      (catch 'bbb
+        (mapc
+         (lambda (x)
+           (message "%s" x)
+           (when (equal x 3) (throw 'bbb x)))
+         xseq)
+        nil))
+    (seq-some (lambda (x) (eq 5 x)) [4 5 6])
+
+
+## Exit by Error
+
+1.  error
+2.  user-error
+
+    (defun test-exit-f ()
+      (interactive)
+      (if (y-or-n-p "invoke user-error to exit?")
+          (user-error "Error, because: %s" "you said so!")
+        (progn
+          (message "went on"))))
+
+
+<a id="org52737f4"></a>
+
+# Apply Function(List to Args)
+
+
+## apply
+
+    (defun ff (x y z)
+      (format "%s %s %s" x y z))
+    
+    (equal
+     (ff 2 3 4)
+     "2 3 4")
+    
+    (setq xx '(2 3 4))
+    (equal
+     (apply 'ff xx)
+     "2 3 4")
+    
+    (setq xx '(3 4))
+    (equal
+     (apply 'ff 2 xx)
+     "2 3 4")
+
+
+## funcall
+
+1.  When function name is a variable, value known only at run-time.
+
+    (defun ff (x y z)
+      (format "%s %s %s" x y z))
+    
+    (equal
+     (ff 2 3 4)
+     "2 3 4")
+    
+    (equal
+     (funcall 'ff 2 3 4)
+     "2 3 4")
+
+
+<a id="orgf3e22ac"></a>
+
+# Symbol
+
+1.  like common language identifer
+2.  held unevaluated
+3.  store multiple values
+4.  symbolic, variable or function name is value and symbol
+    1.  transform source code at runtime
+
+    (setq x 4)
+    
+    (set
+     (intern
+      (concat
+       (symbol-name 'x)
+       (number-to-string (symbol-value 'x))))
+     (1+ (symbol-value 'x)))
+    
+    (symbol-value 'x4)
+
+
+## Quoting Symbol
+
+1.  quote
+    1.  return argument without evaluating it.
+    2.  hold evaluation
+
+    ;; (set x 3)
+    (setq x 3)
+    
+    (setq f 'cos)
+    (setq f 'sqrt)
+    
+    (mapcar 'cos '(1 2 3))
+    
+    (mapcar f '(1 2 3))
+
+
+## Symbol cell
+
+1.  print name
+    1.  string
+2.  value
+    1.  symbol's value
+3.  function
+    1.  function definition object
+4.  property list
+    1.  list of name/value pairs
+
+
+<a id="org2a938a7"></a>
+
+# Special Form
+
+Non-standard evaluation strategy
+
+1.  and
+2.  or
+3.  catch
+4.  while
+5.  cond
+6.  condition-case
+7.  defconst
+8.  let
+9.  let\*
+10. prog1
+11. prog2
+12. progn
+13. setq
+14. setq-default
+15. interactive
+16. lambda
+17. quote
+18. function
+19. save-current-buffer
+20. save-excursion
+21. save-restriction
+22. track-mouse
+23. unwind-protect
+
+
+<a id="orgbf027b6"></a>
+
+# Cheeck If func/var is defined
+
+
+## Check Func
+
+    (equal
+     (fboundp 'info)
+     t)
+    (equal
+     (fboundp 'setq)
+     t)
+    (equal
+     (fboundp 'xyx)
+     nil)
+
+
+## Check Variable
+
+    (equal
+     (boundp 'auto-mode-alist)
+     t)
+    (equal
+     (boundp 'default-input-method)
+     t)
+    (equal
+     (boundp 'nil)
+     t)
+    (equal
+     (boundp 'xyz)
+     nil)
+
+
+## Check Package(Feature)
+
+    (equal
+     (featurep 'ibuffer)
+     nil)
+    (equal
+     (featurep 'org)
+     t)
+
+
+<a id="org4b364d0"></a>
+
+# Regular Expression
+
+
+## Regex Functions
+
+
+### on Buffer
+
+-   search-forward
+
+-   re-search-forward
+
+        (let ((case-fold-search nil))
+          (re-search-forward "[0-9])+"))
+        ;; 100 cat
+
+-   re-search-backward
+
+-   skip-chars-forward
+
+-   skip-chars-backward
+
+
+### Matching String
+
+-   string-match
+
+        (equal
+         (string-match "3" "xx3x")
+         2)
+
+-   replace-regexp-in-string
+
+        (equal
+         (replace-regexp-in-string "</*div>" "<p>" "<div>something</div>")
+         "<p>something<p>")
+
+
+### Replace Match
+
+    (let ((case-fold-search nil))
+      (re-search-forward "x\\([0-9]+\\)" nil t)
+      (replace-match "ID \\1"))
+    
+    ;; x803 -> ID803
+
+
+<a id="org42967fc"></a>
+
+# DateTime
+
+
+## Format Date
+
+    (format-time-string "%Y-%m-%d")
+
+
+## Unix Time Format
+
+    (format-time-string "%s")
+
+
+## Get Named Month And Week
+
+    (format-time-string "%B")
+    (format-time-string "%b")
+    
+    (format-time-string "%A")
+    (format-time-string "%a")
+
+
+## Ordernal Date Format
+
+    (format-time-string "%Y-%j")
+
+
+## Parse Date Time
+
+1.  parse-time-string returns
+2.  (SEC MIN HOUR DAY MON YEAR DOW DST TZ)
+3.  if a element is nil or -1, it means unknown
+
+    (equal
+     (parse-time-string "Date: Mon, 01 Aug 2011 12:24:51 -0400")
+     '(51 24 12 1 8 2011 1 -1 -14400))
+    
+    (equal
+      (parse-time-string "2007, August 1")
+     '(nil nil nil 1 8 2007 nil -1 nil))
+
+
+<a id="org1af4067"></a>
+
+# Builtin Fucntions
 
 
 ## &rest
@@ -1337,4 +1763,36 @@ alist-get
 
 
 ## catch
+
+
+## caar
+
+Get first ele of first set
+
+    (setq my-list '((1 2) (3 4) (5 6)))
+    (setq result (caar my-list))
+    (equal result 1)
+
+
+## assoc
+
+Find matched list from list by the key
+
+    (setq trees '((pine . cones) (oak . acorns) (maple . seeds)))
+    
+    (equal
+     (assoc 'oak trees)
+     '(oak . acorns))
+    ;; 返回 (oak . acorns)
+    
+    (equal
+     (cdr (assoc 'oak trees))
+     'acorns
+     )
+    ;; 返回 acorns
+    
+    (equal
+     (assoc 'birch trees)
+     nil)
+    ;; 返回 nil
 
