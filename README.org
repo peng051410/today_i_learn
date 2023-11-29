@@ -628,6 +628,13 @@ Class<?> returnType1 = ((MethodSignature) proceedingJoinPoint.getSignature()).ge
 </Logger>
 
 #+end_src
+
+** Difference between Class.this and this in java
+Class.this used in nested class to resolved ambiguous
+*** [[https://www.geeksforgeeks.org/difference-between-class-this-and-this-in-java/][Difference Between Class.this and this in Java - GeeksforGeeks]]
+Captured On: [2023-11-17 Fri 16:17]
+
+
 * Spring
 
 ** How to get handleMethod from webflux
@@ -764,6 +771,16 @@ osascript -e 'tell application "System Events" to get name of (processes where b
 #+begin_src sh
 sudo tccutil reset Accessibility
 #+end_src
+
+** Find app url schema
+1. go to /Application folder
+2. find target app
+3. show package contents
+4. oppen info.plist
+5. search CFBundleURLSchemes
+
+https://cdn.jsdelivr.net/gh/peng051410/bucket@main/img/Peza8y.png
+
 * Linux
 
 ** Change default program
@@ -1000,3 +1017,9 @@ sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
 * Chrome
 ** [[https://support.google.com/chrome/thread/162555856/why-does-chrome-display-your-connection-to-this-site-is-not-secure-if-content-is-empty?hl=en][Why does Chrome display "Your connection to this site is not secure" if content is empty? - Google Chrome Community]]
 Captured On: [2023-10-31 Tue 11:48]
+* Anki
+** [[https://stackoverflow.com/questions/42206812/how-do-you-embed-a-youtube-video-into-an-anki-card][pyqt - How do you embed a YouTube video into an Anki Card - Stack Overflow]]
+Captured On: [2023-11-22 Wed 11:20]
+#+begin_src html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dmcfsEEogxs?start=30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_src
