@@ -1611,3 +1611,39 @@ Find matched list from list by the key
  nil)
 ;; 返回 nil
 #+end_src
+
+* Find Document
+
+** aprops
+List all Symbol
+
+** apropos-command
+List all command
+
+** apropos-variable
+List all variable
+
+** apropos-value
+List all variable names value
+
+* [#A] Search In Manual
+
+** elisp-index-search
+Search lisp manual
+
+** emacs-index-search
+Search emacs manual
+
+* [#C] Code Navigate Command
+I think vim action can replace below command perfectly.
+** backward-sexp
+
+** forward-sexp
+
+** backward-up-list
+
+** down-list
+
+** backward-list
+
+** forward-list

@@ -1,35 +1,38 @@
 
 # Table of Contents
 
--   [eval](#org6878213)
--   [Output](#orgc23b530)
--   [buffer](#orgf9cac3c)
--   [String](#org28e1dc0)
--   [Arithmetic](#org2ffa1f7)
--   [Boolean](#org7aed1c3)
--   [Test equality](#orgfbac1c3)
--   [Variables](#orgf28643d)
--   [Block Expression](#org7f5602b)
--   [Condition](#org76c4f9e)
--   [Loop](#org9387142)
--   [List](#org7347336)
--   [Vector](#org26175e5)
--   [Sequence](#orgc9add0b)
--   [Hash Table](#org84f45d4)
--   [Association List](#org3f0f90e)
--   [Function](#org689cc6b)
--   [Exit](#org4fe35e4)
--   [Apply Function(List to Args)](#org52737f4)
--   [Symbol](#orgf3e22ac)
--   [Special Form](#org2a938a7)
--   [Cheeck If func/var is defined](#orgbf027b6)
--   [Regular Expression](#org4b364d0)
--   [DateTime](#org42967fc)
--   [Builtin Fucntions](#org1af4067)
+-   [eval](#org6df77f2)
+-   [Output](#org8b865c6)
+-   [buffer](#orgb25f5e4)
+-   [String](#orgf19dc0e)
+-   [Arithmetic](#org6e933ee)
+-   [Boolean](#org6ade816)
+-   [Test equality](#orgb416c24)
+-   [Variables](#org0f69387)
+-   [Block Expression](#org57c6c65)
+-   [Condition](#org2156a70)
+-   [Loop](#orgd2b3c45)
+-   [List](#orgbaec2f3)
+-   [Vector](#org341d47a)
+-   [Sequence](#org9ece9c5)
+-   [Hash Table](#orgc229e5a)
+-   [Association List](#orgf6fd668)
+-   [Function](#org30e25c2)
+-   [Exit](#org70b7bff)
+-   [Apply Function(List to Args)](#orgd49676c)
+-   [Symbol](#org46e0cd3)
+-   [Special Form](#orge7ea312)
+-   [Cheeck If func/var is defined](#orgf832849)
+-   [Regular Expression](#org8aa9e8a)
+-   [DateTime](#org262fcad)
+-   [Builtin Fucntions](#orgc1f78d8)
+-   [Find Document](#orgf96c17c)
+-   [Search In Manual](#org2e24918)
+-   [Code Navigate Command](#org2a81b15)
 
 
 
-<a id="org6878213"></a>
+<a id="org6df77f2"></a>
 
 # eval
 
@@ -40,7 +43,7 @@
 ## eval-region
 
 
-<a id="orgc23b530"></a>
+<a id="org8b865c6"></a>
 
 # Output
 
@@ -66,7 +69,7 @@
 ## princ
 
 
-<a id="orgf9cac3c"></a>
+<a id="orgb25f5e4"></a>
 
 # buffer
 
@@ -82,7 +85,7 @@
 > (with-output-to-temp-buffer BUFNAME &rest BODY)
 
 
-<a id="org28e1dc0"></a>
+<a id="orgf19dc0e"></a>
 
 # String
 
@@ -102,7 +105,7 @@
 ## format
 
 
-<a id="org2ffa1f7"></a>
+<a id="org6e933ee"></a>
 
 # Arithmetic
 
@@ -150,7 +153,7 @@
 ### format
 
 
-<a id="org7aed1c3"></a>
+<a id="org6ade816"></a>
 
 # Boolean
 
@@ -187,7 +190,7 @@
     (not 2)
 
 
-<a id="orgfbac1c3"></a>
+<a id="orgb416c24"></a>
 
 # Test equality
 
@@ -261,7 +264,7 @@ Check if is the same object only for floating number
     (eql 0.0 -0.0)
 
 
-<a id="orgf28643d"></a>
+<a id="org0f69387"></a>
 
 # Variables
 
@@ -322,7 +325,7 @@ like let, but can use defined earlier symbols.
      )
 
 
-<a id="org7f5602b"></a>
+<a id="org57c6c65"></a>
 
 # Block Expression
 
@@ -334,7 +337,7 @@ Like block {} in C-like language
     
     (progn 3 5)
 
-<div class="notes" id="orgba98fb7">
+<div class="notes" id="org32a526b">
 <p>
 (if something
     (progn ; true
@@ -348,7 +351,7 @@ Like block {} in C-like language
 </div>
 
 
-<a id="org76c4f9e"></a>
+<a id="org2156a70"></a>
 
 # Condition
 
@@ -371,7 +374,7 @@ Use "when" when don't want else case.
       (message "8"))
 
 
-<a id="org9387142"></a>
+<a id="orgd2b3c45"></a>
 
 # Loop
 
@@ -427,7 +430,7 @@ Useful for go over list to get the element, Similar with C-like for-loop?
       )
 
 
-<a id="org7347336"></a>
+<a id="orgbaec2f3"></a>
 
 # List
 
@@ -725,7 +728,7 @@ Use cons
      "1,2,3")
 
 
-<a id="org26175e5"></a>
+<a id="org341d47a"></a>
 
 # Vector
 
@@ -793,7 +796,7 @@ Ordered sequence, implement by arrys
     [8 [3 [2 9] c] 7 [4 "b"]]
 
 
-<a id="orgc9add0b"></a>
+<a id="org9ece9c5"></a>
 
 # Sequence
 
@@ -1027,7 +1030,7 @@ Sequence is not a real type, it contains List, Vector, String type.It's a abstra
         (insert (number-to-string n))))
 
 
-<a id="org84f45d4"></a>
+<a id="orgc229e5a"></a>
 
 # Hash Table
 
@@ -1102,7 +1105,7 @@ Sequence is not a real type, it contains List, Vector, String type.It's a abstra
     (hash-table-values xx)
 
 
-<a id="org3f0f90e"></a>
+<a id="orgf6fd668"></a>
 
 # Association List
 
@@ -1247,7 +1250,7 @@ alist-get
     (setq xx (assoc-delete-all "bb" xx))
 
 
-<a id="org689cc6b"></a>
+<a id="org30e25c2"></a>
 
 # Function
 
@@ -1436,7 +1439,7 @@ alist-get
 > Search all use **apropos**
 
 
-<a id="org4fe35e4"></a>
+<a id="org70b7bff"></a>
 
 # Exit
 
@@ -1480,7 +1483,7 @@ alist-get
           (message "went on"))))
 
 
-<a id="org52737f4"></a>
+<a id="orgd49676c"></a>
 
 # Apply Function(List to Args)
 
@@ -1521,7 +1524,7 @@ alist-get
      "2 3 4")
 
 
-<a id="orgf3e22ac"></a>
+<a id="org46e0cd3"></a>
 
 # Symbol
 
@@ -1572,7 +1575,7 @@ alist-get
     1.  list of name/value pairs
 
 
-<a id="org2a938a7"></a>
+<a id="orge7ea312"></a>
 
 # Special Form
 
@@ -1603,7 +1606,7 @@ Non-standard evaluation strategy
 23. unwind-protect
 
 
-<a id="orgbf027b6"></a>
+<a id="orgf832849"></a>
 
 # Cheeck If func/var is defined
 
@@ -1647,7 +1650,7 @@ Non-standard evaluation strategy
      t)
 
 
-<a id="org4b364d0"></a>
+<a id="org8aa9e8a"></a>
 
 # Regular Expression
 
@@ -1696,7 +1699,7 @@ Non-standard evaluation strategy
     ;; x803 -> ID803
 
 
-<a id="org42967fc"></a>
+<a id="org262fcad"></a>
 
 # DateTime
 
@@ -1740,7 +1743,7 @@ Non-standard evaluation strategy
      '(nil nil nil 1 8 2007 nil -1 nil))
 
 
-<a id="org1af4067"></a>
+<a id="orgc1f78d8"></a>
 
 # Builtin Fucntions
 
@@ -1795,4 +1798,69 @@ Find matched list from list by the key
      (assoc 'birch trees)
      nil)
     ;; 返回 nil
+
+
+<a id="orgf96c17c"></a>
+
+# Find Document
+
+
+## aprops
+
+List all Symbol
+
+
+## apropos-command
+
+List all command
+
+
+## apropos-variable
+
+List all variable
+
+
+## apropos-value
+
+List all variable names value
+
+
+<a id="org2e24918"></a>
+
+# Search In Manual
+
+
+## elisp-index-search
+
+Search lisp manual
+
+
+## emacs-index-search
+
+Search emacs manual
+
+
+<a id="org2a81b15"></a>
+
+# Code Navigate Command
+
+I think vim action can replace below command perfectly.
+
+
+## backward-sexp
+
+
+## forward-sexp
+
+
+## backward-up-list
+
+
+## down-list
+
+
+## backward-list
+
+
+## forward-list
 
