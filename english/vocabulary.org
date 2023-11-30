@@ -8753,3 +8753,22 @@ We stayed up all night talking.
 
 https://youglish.com/getbyid/81102911/stay%20up/english
 https://youglish.com/getbyid/75078536/stay%20up/english
+* art
+:PROPERTIES:
+:EXPORT_FILE_NAME: art.md
+:END:
+艺术之美
+** 语义
+*** 艺术
+This is an example of early Indian art.
+*** 艺术作品
+The exhibition features works of art by Picasso and Matisse.
+*** 绘画技巧
+He's very good at art.
+*** 技术
+Television is ruining the art of conversation.
+** 短语
+*** the arts
+Government funding for the arts has been reduced.
+
+https://youglish.com/getbyid/102505769/the%20arts/english
