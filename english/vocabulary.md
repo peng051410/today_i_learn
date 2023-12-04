@@ -95,6 +95,7 @@
 -   [grow.md](grow.md)
 -   [stay.md](stay.md)
 -   [art.md](art.md)
+-   [up.md](up.md)
 
 
 Record my english study process.
