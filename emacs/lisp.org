@@ -1612,6 +1612,13 @@ Find matched list from list by the key
 ;; 返回 nil
 #+end_src
 
+** regexp-opt
+Generate simple regex expression for string list, it endeavor to optimistic reg results for speed
+#+begin_src emacs-lisp
+(regexp-opt '("alex" "albert" "alois" "bummer"))
+#+end_src
+
+** identity
 * Find Document
 
 ** aprops
@@ -1625,6 +1632,15 @@ List all variable
 
 ** apropos-value
 List all variable names value
+
+* Hook
+1. is a variable
+2. value is a list of functions
+3. like event
+4. each Major Mode usually have at least 1 hook.
+5. avoid using lambda
+    1. unreadable
+    2. can't be removed using *remove-hook*
 
 * [#A] Search In Manual
 
@@ -1647,3 +1663,211 @@ I think vim action can replace below command perfectly.
 ** backward-list
 
 ** forward-list
+
+* Write Major Mode
+
+** What is it?
+1. a collectiong of emacs behaviors.
+2. basic mode is *fundamental-mode*
+
+** List Major modes
+1. apropos-command, type "-mode"
+2. look variable *auto-mode-alist*
+
+** Set Default Major Mode
+
+*** Set New Empty Buffer Mode
+#+begin_src emacs-lisp
+(setq initial-major-mode 'python-mode)
+#+end_src
+
+*** Remap a Default Major Mode
+#+begin_src emacs-lisp
+(if (< emacs-major-version 29)
+    (add-to-list 'auto-mode-alist '("\\.css\\'" . xah-css-mode))
+  (add-to-list 'auto-mode-alist '(css-mode . xah-css-mode)))
+#+end_src
+
+*** Associate Major Mode by File Name Extension
+#+begin_src emacs-lisp
+(add-to-list
+ 'auto-mode-alist
+ '("\\.html?\\'" . xah-html-mode))
+#+end_src
+
+*** Remove File Extension Association
+#+begin_src emacs-lisp
+(setq auto-mode-alist (rassq-delete-all 'js-mode auto-mode-alist))
+
+;; check if mode is in the list
+(rassoc 'js-mode auto-mode-alist)
+#+end_src
+
+*** Associate Major Mode by First Line in File
+#+begin_src emacs-lisp
+(add-to-list 'magic-mode-alist '("<!doctype html>" . xah-html-mode))
+(add-to-list 'magic-mode-alist '("<!DOCTYPE html>" . xah-html-mode))
+#+end_src
+
+*** How Emacs Determines Which Major Mode to Load
+1. file first line contain "-*- mode: xx-*-"
+2. unix “shebang” syntax (For example, #!/usr/bin/perl)
+3. first line with *magic-mode-alist*
+4. file name with *auto-mode-alist*
+
+
+** Major Mode for Syntax Coloring
+#+begin_src emacs-lisp
+(setq mymath-highlights
+      '(("Sin\\|Cos\\|Sum" . 'font-lock-function-name-face)
+        ("Pi\\|Infinity" . 'font-lock-constant-face)))
+
+(define-derived-mode mymath-mode fundamental-mode "mymath"
+  "major mode for editing mymath language code."
+  (setq font-lock-defaults '(mymath-highlights)))
+#+end_src
+
+*** Test Code
+#+begin_example
+Sin[x]^2 + Cos[y]^2 == 1
+Pi^2/6 == Sum[1/x^2,{x,1,Infinity}]
+#+end_example
+
+*** Mode for a Language that Has ample keywords
+#+begin_src emacs-lisp
+(setq mylsl-font-lock-keywords
+      (let* (
+            (x-keywords '("break" "default" "do" "else" "for" "if" "return" "state" "while"))
+            (x-types '("float" "integer" "key" "list" "rotation" "string" "vector"))
+            (x-constants '("ACTIVE" "AGENT" "ALL_SIDES" "ATTACH_BACK"))
+            (x-events '("at_rot_target" "at_target" "attach"))
+            (x-functions '("llAbs" "llAcos" "llAddToLandBanList" "llAddToLandPassList"))
+
+            (x-keywords-regexp (regexp-opt x-keywords 'words))
+            (x-types-regexp (regexp-opt x-types 'words))
+            (x-constans-regexp (regexp-opt x-constants 'words))
+            (x-events-regexp (regexp-opt x-events 'words))
+            (x-functions-regexp (regexp-opt x-functions 'words)))
+        ;;The `( ,a ,b …) is a lisp special syntax to evaluate parts of elements inside the list. Inside the paren, elements preceded by a , will be evaluated.
+        `(
+          (,x-types-regexp . 'font-lock-type-face)
+          (,x-constans-regexp . 'font-lock-constant-face)
+          (,x-events-regexp . 'font-lock-builtin-face)
+          (,x-functions-regexp . 'font-lock-function-name-face)
+          (,x-keywords-regexp . 'font-lock-keyword-face)
+          )
+        ))
+
+(define-derived-mode mylsl-mode c-mode "lsl mode"
+  "Major mode for editing LSL"
+
+  (setq font-lock-defaults '(mylsl-font-lock-keywords)))
+#+end_src
+
+**** Test Code
+#+begin_example
+// sample LSL file
+
+// Examples of variable declaration and assignment:
+integer score = 0;
+string mySay = "i ♥ you";
+vector v = <3,4,5>;
+list myList= [2,4,7,3];
+
+// Example of defining a function.
+// built-in function's names start with “ll” (Linden Library).
+integer sum(integer a, integer b)
+{
+    integer result = a + b;
+    return result;
+}
+
+ default
+ {
+     state_entry()
+     {
+         llSay(0, mySay);
+     }
+
+     touch_start(integer total_number)
+     {
+         if (score == 1) {
+             llSay(0, mySay);
+         } else {
+             llWhisper(0, "Ouch!");
+         }
+     }
+ }
+
+#+end_example
+
+** Font Lock Mode
+*** Font-lock-mode
+1. buffer-local minor mode
+2. default for all buffers
+3. high-level API
+4. color text in two ways:
+    1. Syntactic fontification
+    2. Search based fotification
+5. 2 things to do coloring job
+    1. Syntax Table
+    2. font-lock-defaults
+*** font-lock-defaults
+1. buffer local variable
+2. designed as a config for the purpose of syntax coloring
+*** font-lock-defaults Value Structure
+1. font-lock-keywords
+2. font-lock-keywords-only
+3. font-lock-keywords-case-fold-search
+4. font-lock-syntax-table
+*** Sample
+#+begin_src emacs-lisp
+(defvar my-highlights nil "first elefor `font-lock-defaults`")
+
+(setq my-highlights
+      '(("<h1>\\|</h1>" . 'font-lock-function-name-face)
+        ;; 1 means match regex group 1
+        ("<h1>\\([^<]+?\\)</h1>" . (1 'font-lock-constant-face))))
+
+(define-derived-mode myhtml-mode fundamental-mode "my"
+  "major mode for editing my language code."
+  (setq font-lock-defaults '(my-highlights)))
+#+end_src
+
+#+begin_example
+<h1>something</h1>
+#+end_example
+
+** Search Web Command
+#+begin_src emacs-lisp
+(require 'browse-url)
+
+(defun my-lookup-wikipedia ()
+  (interactive)
+  (let (word)
+    (setq word
+          (if (use-region-p)
+              (buffer-substring-no-properties (region-beginning) (region-end))
+            (current-word)))
+    (setq word (replace-regexp-in-string " " "_" word))
+    (browse-url (concat "http://en.wikipedia.org/wiki/" word))))
+#+end_src
+
+** Create Hook
+#+begin_src emacs-lisp
+2023-12-05 16:12(defvar xah-html-browse-url-of-buffer-hook nil
+ "Hook for `xah-html-browse-url-of-buffer'. Hook functions are called before switching to browser.")
+
+(defun xah-html-browse-url-of-buffer ()
+  "View current buffer in default browser, but save first.
+Hook `xah-html-browse-url-of-buffer-hook' is run before saving and before opening in browser.
+Version 2020-06-26 2021-06-26"
+  (interactive)
+  (let (($url (buffer-file-name)))
+    (run-hooks 'xah-html-browse-url-of-buffer-hook)
+    (when (buffer-modified-p) (save-buffer))
+    (print $url)
+    (browse-web $url )))
+
+(add-hook 'xah-html-browse-url-of-buffer-hook 'xah-insert-date)
+#+end_src
