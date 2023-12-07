@@ -1871,3 +1871,126 @@ Version 2020-06-26 2021-06-26"
 
 (add-hook 'xah-html-browse-url-of-buffer-hook 'xah-insert-date)
 #+end_src
+
+** Keyword Completion
+1. complete-symbol
+2. completion-at-point
+
+*** completion-at-point
+Add completion function to the list *completion-at-point-functions*
+#+begin_src emacs-lisp
+(setq xx-keywords
+      '("touch"
+        "touch_start"
+        "touch_end"
+        "for"
+        "foreach"
+        "forall"))
+
+(defun xx-completion-at-point()
+  "This is the function to be used for the hook `completion-at-point-functions'"
+  (interactive)
+  (let* (
+         (bds (bounds-of-thing-at-point 'symbol))
+         (start (car bds))
+         (end (cdr bds)))
+    (list start end xx-keywords . nil)))
+
+(define-derived-mode xx-mode c-mode "xx"
+  "Major mode for editing xx lang code."
+  (add-hook 'completion-at-point-functions 'xx-completion-at-point nil 'local))
+#+end_src
+
+*** try-completion
+Return the maximal match
+
+#+begin_src emacs-lisp
+(equal (try-completion
+        "c"
+        '(
+          "amc"
+          "amb"))
+       nil)
+
+
+(equal (try-completion
+        "amb"
+        '(
+          "amc"
+          "amb"))
+       t)
+
+(equal (try-completion
+        "ah"
+        '(
+          "amc"
+          "amb"
+          "ahu"))
+       "ahu")
+
+(equal (try-completion
+        "a"
+        '(
+          "amc"
+          "amb"))
+       "am")
+#+end_src
+
+*** all-completions
+Returns a list of all matches
+#+begin_src emacs-lisp
+(equal
+ (all-completions
+  "c"
+  '(
+    "amc"
+    "amb"
+    ))
+ nil)
+
+(equal
+ (all-completions
+  "amb"
+  '(
+    "amc"
+    "amb"
+    ))
+ '("amb"))
+
+(equal
+ (all-completions
+  "ah"
+  '(
+    "amc"
+    "amb"
+    "ahu"
+    ))
+ '("ahu"))
+
+(equal
+ (all-completions
+  "a"
+  '(
+    "amc"
+    "amb"
+    ))
+ '("amc" "amb"))
+#+end_src
+
+
+** Major Mode Names
+
+*** name own major mode "xx"
+
+1. For all Symbols, should start with "xx-"
+2. File name should be "xx-mode.el"
+3. Command name to invoke the mode should be "xx-mode"
+4. Package's feature name should be "xx", (provide 'xx)
+
+*** Value of Varialbe "major-mode"
+major-mode is built-in Buffer Local Variable
+
+1. Value is a Lisp Symbol
+2. Value is use to check current major mode
+3. Value is as the command name
+4. Value is automatically set when use *define-derived-mode*
