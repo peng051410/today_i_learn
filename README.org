@@ -658,7 +658,7 @@ I want to transfer a value from config to list, and need to set default value, I
 @Value("#{'${my.list}'.split(',') : T(java.util.Collections).emptyList()}")
 #+end_src
 
-Fortunately, I found a beautiful solution to face it. Thans SO.
+Fortunately, I found a beautiful solution to face it. Thanks SO.
 
 #+HEADERS: :classname SpringBeautifulValue
 #+begin_src java
@@ -712,6 +712,20 @@ https://stackoverflow.com/questions/3528146/convert-decimal-to-binary-in-python
 #+begin_src python :results output
 abinary = bin(1024)
 print(abinary)
+#+end_src
+
+** [[https://blog.heyfe.org/blog/2022-mac-12-3-python-not-found.html][关于 Mac 12.3 出现 python not found 的解决方法 | HeyFE]]
+Captured On: [2023-12-05 Tue 19:04]
+
+1. 安装pyenv
+2. set python globel
+3. 修改alfred命令的python路径
+
+我的alfred插件又可以用了
+
+#+begin_src sh
+pyenv install 2.7.18
+pyenv global 2.7.18
 #+end_src
 * Brew
 
