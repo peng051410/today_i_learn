@@ -1994,3 +1994,102 @@ major-mode is built-in Buffer Local Variable
 2. Value is use to check current major mode
 3. Value is as the command name
 4. Value is automatically set when use *define-derived-mode*
+
+** Provide, require, features
+
+*** features
+Global variable, value is list of Symbols
+
+*** provide
+Add symbol to features list
+
+*** require
+load symbol
+
+** Load
+
+*** load
+Read and eval a file
+
+Search rule
+1. File has suffix, search file in variable "load-path"
+2. no suffix, find order is:
+    1. filename.elc
+    2. filename.el
+    3. filename
+
+*** load-file
+Load one specific file, file should be full path
+
+*** autoload
+Associates a function name with a file path, and load the file and execute the function when a function is called.
+
+it can save startup time.
+
+** No Namespace
+Elisp no namespace, everything is global.
+
+* Character Type
+
+** Char Syntax
+#+begin_src emacs-lisp
+(equal 97 ?a)
+(equal 97 (string-to-char "a"))
+#+end_src
+
+** Char Func
+1. char-before
+2. char-after
+3. char-to-string
+4. string-to-char
+5. char-equal
+
+* Syntax Table
+
+** Syntax Table is Local to Buffer
+Each buffer has its own version of syntax table.
+
+** View Current Syntax Table
+Use *describe-syntax*
+
+1. leat is char
+2. middle is the char's syntax class abbreviation
+
+** Syntax Classes
+Each syntax class is identified by a 1-char code.
+
+** Determine Cursor position
+
+*** Check If Cursor is inside String
+#+begin_src emacs-lisp
+(nth 3 (syntax-ppss))
+#+end_src
+
+*** Check If Cursor is inside Comment
+#+begin_src emacs-lisp
+(nth 4 (syntax-ppss))
+#+end_src
+
+** Find Matching Bracket Char
+#+begin_src emacs-lisp
+(defun xah-get-matching-bracket (@bracket-char-string)
+  ""
+  (interactive)
+  (let (($syntableValue (aref (syntax-table) (string-to-char @bracket-char-string))))
+    (if (or
+         (eq (car $syntableValue ) 4) ; syntax table, code 4 is open bracket
+         (eq (car $syntableValue ) 5) ; syntax table, code 5 is close bracket
+         )
+        (char-to-string (cdr $syntableValue))
+      nil
+        )))
+
+(xah-get-matching-bracket "(") ; ")"
+(xah-get-matching-bracket ")" ) ; "("
+(xah-get-matching-bracket "[" ) ; "]"
+(xah-get-matching-bracket "]" ) ; "["
+(xah-get-matching-bracket "「" ) ; "」"
+(xah-get-matching-bracket "」" ) ; "「"
+(xah-get-matching-bracket "【" ) ; "】"
+(xah-get-matching-bracket "】" ) ; "【"
+#+end_src
