@@ -428,6 +428,18 @@ yi[
 #+end_example
 
 
+** Profile on emacs
+1. M-x profiler-start and select cpu from the prompt
+2. do the thing that is slow
+3. M-x profiler-stop
+4. M-x profiler-report
+5. Look for the cpu hogs and drill down in to them by hitting TAB on them to find what's slowing down your Emacs.
+
+*** [[https://emacs.stackexchange.com/questions/61463/improve-emacs-performance-when-working-on-large-files][evil - Improve emacs performance when working on large files - Emacs Stack Exchange]]
+Captured On: [2023-12-14 Thu 20:08]
+
+
+
 * Org hugo add shortcode
 Hugo支持短代码形式在生成html时填充模板内容，shortcode配置的html文件放在 */layouts/shortcodes* 目录下即可，下面的代码就可以实现在博客中嵌入[[https://www.bilibili.com/video/BV1pD4y1K7iw/][B站]]的视频
 #+begin_export hugo
@@ -1055,3 +1067,15 @@ Captured On: [2023-11-22 Wed 11:20]
 #+begin_src html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dmcfsEEogxs?start=30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_src
+* Arthas
+** Modify java file and reload
+#+begin_src sh
+jad --source-only com.example.demo.arthas.user.UserController > /tmp/UserController.java
+
+mc /tmp/UserController.java -d /tmp
+
+retransform /tmp/com/example/demo/arthas/user/UserController.class
+#+end_src
+
+*** [[https://arthas.aliyun.com/doc/retransform.html#%E7%BB%93%E5%90%88-jad-mc-%E5%91%BD%E4%BB%A4%E4%BD%BF%E7%94%A8][retransform | arthas]]
+Captured On: [2023-12-12 Tue 17:22]
