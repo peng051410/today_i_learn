@@ -651,7 +651,14 @@ Class<?> returnType1 = ((MethodSignature) proceedingJoinPoint.getSignature()).ge
 Class.this used in nested class to resolved ambiguous
 *** [[https://www.geeksforgeeks.org/difference-between-class-this-and-this-in-java/][Difference Between Class.this and this in Java - GeeksforGeeks]]
 Captured On: [2023-11-17 Fri 16:17]
-
+** JDK base module not found
+Need add vm options to IDEA
+#+begin_src sh
+--add-opens=java.base/java.lang=ALL-UNNAMED
+--add-opens=java.base/java.util=ALL-UNNAMED
+#+end_src
+*** [[https://stackoverflow.com/questions/74006627/module-java-base-does-not-opens-java-lang-java-17-0-4-1][Module java.base does not "opens java.lang" (Java 17.0.4.1) - Stack Overflow]]
+Captured On: [2023-12-28 Thu 16:44]
 
 
 * Spring

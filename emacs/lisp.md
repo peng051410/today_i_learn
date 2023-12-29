@@ -1,38 +1,43 @@
 
 # Table of Contents
 
--   [eval](#org6df77f2)
--   [Output](#org8b865c6)
--   [buffer](#orgb25f5e4)
--   [String](#orgf19dc0e)
--   [Arithmetic](#org6e933ee)
--   [Boolean](#org6ade816)
--   [Test equality](#orgb416c24)
--   [Variables](#org0f69387)
--   [Block Expression](#org57c6c65)
--   [Condition](#org2156a70)
--   [Loop](#orgd2b3c45)
--   [List](#orgbaec2f3)
--   [Vector](#org341d47a)
--   [Sequence](#org9ece9c5)
--   [Hash Table](#orgc229e5a)
--   [Association List](#orgf6fd668)
--   [Function](#org30e25c2)
--   [Exit](#org70b7bff)
--   [Apply Function(List to Args)](#orgd49676c)
--   [Symbol](#org46e0cd3)
--   [Special Form](#orge7ea312)
--   [Cheeck If func/var is defined](#orgf832849)
--   [Regular Expression](#org8aa9e8a)
--   [DateTime](#org262fcad)
--   [Builtin Fucntions](#orgc1f78d8)
--   [Find Document](#orgf96c17c)
--   [Search In Manual](#org2e24918)
--   [Code Navigate Command](#org2a81b15)
+-   [eval](#org8f409e4)
+-   [Output](#orgb080037)
+-   [buffer](#org4655e57)
+-   [String](#org32bf01c)
+-   [Arithmetic](#orgdc37f33)
+-   [Boolean](#orgd1b1314)
+-   [Test equality](#org96cbc29)
+-   [Variables](#org6dfa15d)
+-   [Block Expression](#orgbcbe464)
+-   [Condition](#orge4c30b1)
+-   [Loop](#orgea724a6)
+-   [List](#orgee533ff)
+-   [Vector](#orge9c52ff)
+-   [Sequence](#orgb63a4cb)
+-   [Hash Table](#org6ec813a)
+-   [Association List](#org44d089b)
+-   [Function](#org69a4c3a)
+-   [Exit](#org39e178c)
+-   [Apply Function(List to Args)](#org50bc651)
+-   [Symbol](#org9dd09ec)
+-   [Special Form](#orge21141e)
+-   [Cheeck If func/var is defined](#orga2bb11f)
+-   [Regular Expression](#orgd787187)
+-   [DateTime](#orgb9c1bd9)
+-   [Builtin Fucntions](#org904a63c)
+-   [Find Document](#orge9808ee)
+-   [Hook](#orge1e2cd2)
+-   [Search In Manual](#org1e1039d)
+-   [Code Navigate Command](#org90fa8c4)
+-   [Write Major Mode](#org08f7c32)
+-   [Character Type](#org3884321)
+-   [Syntax Table](#org4deaf4b)
+-   [Sample](#org4da49d5)
 
 
 
-<a id="org6df77f2"></a>
+<a id="org8f409e4"></a>
 
 # eval
 
@@ -43,7 +48,7 @@
 ## eval-region
 
 
-<a id="org8b865c6"></a>
+<a id="orgb080037"></a>
 
 # Output
 
@@ -69,7 +74,7 @@
 ## princ
 
 
-<a id="orgb25f5e4"></a>
+<a id="org4655e57"></a>
 
 # buffer
 
@@ -85,7 +90,7 @@
 > (with-output-to-temp-buffer BUFNAME &rest BODY)
 
 
-<a id="orgf19dc0e"></a>
+<a id="org32bf01c"></a>
 
 # String
 
@@ -105,7 +110,7 @@
 ## format
 
 
-<a id="org6e933ee"></a>
+<a id="orgdc37f33"></a>
 
 # Arithmetic
 
@@ -153,7 +158,7 @@
 ### format
 
 
-<a id="org6ade816"></a>
+<a id="orgd1b1314"></a>
 
 # Boolean
 
@@ -190,7 +195,7 @@
     (not 2)
 
 
-<a id="orgb416c24"></a>
+<a id="org96cbc29"></a>
 
 # Test equality
 
@@ -264,7 +269,7 @@ Check if is the same object only for floating number
     (eql 0.0 -0.0)
 
 
-<a id="org0f69387"></a>
+<a id="org6dfa15d"></a>
 
 # Variables
 
@@ -294,6 +299,19 @@ Set one or more variables. Return the last value.
 Declare and assign a variable, and return the SYMBOL.
 
     (defvar xx 4 "DOCSTRING")
+
+    (setq my-var nil)
+    (defvar my-var t)
+    (message "var is %s" my-var)
+
+
+### defcustom
+
+    (defcustom my-option t
+      "My user option."
+      :set (lambda (sym val)
+             (set-default sym val)
+             (message "Set %s to %s" sym val)))
 
 
 ## Local Variables
@@ -325,7 +343,20 @@ like let, but can use defined earlier symbols.
      )
 
 
-<a id="org57c6c65"></a>
+## Binding
+
+Default is dynamic binding
+
+
+### Lexical binding
+
+1.  faster
+2.  less error-prone
+
+    ;;; -*- lexical-binding: t; -*-
+
+
+<a id="orgbcbe464"></a>
 
 # Block Expression
 
@@ -337,7 +368,7 @@ Like block {} in C-like language
     
     (progn 3 5)
 
-<div class="notes" id="org32a526b">
+<div class="notes" id="orgdf63e28">
 <p>
 (if something
     (progn ; true
@@ -351,7 +382,7 @@ Like block {} in C-like language
 </div>
 
 
-<a id="org2156a70"></a>
+<a id="orge4c30b1"></a>
 
 # Condition
 
@@ -374,7 +405,7 @@ Use "when" when don't want else case.
       (message "8"))
 
 
-<a id="orgd2b3c45"></a>
+<a id="orgea724a6"></a>
 
 # Loop
 
@@ -430,7 +461,7 @@ Useful for go over list to get the element, Similar with C-like for-loop?
       )
 
 
-<a id="orgbaec2f3"></a>
+<a id="orgee533ff"></a>
 
 # List
 
@@ -728,7 +759,7 @@ Use cons
      "1,2,3")
 
 
-<a id="org341d47a"></a>
+<a id="orge9c52ff"></a>
 
 # Vector
 
@@ -796,7 +827,7 @@ Ordered sequence, implement by arrys
     [8 [3 [2 9] c] 7 [4 "b"]]
 
 
-<a id="org9ece9c5"></a>
+<a id="orgb63a4cb"></a>
 
 # Sequence
 
@@ -1030,7 +1061,7 @@ Sequence is not a real type, it contains List, Vector, String type.It's a abstra
         (insert (number-to-string n))))
 
 
-<a id="orgc229e5a"></a>
+<a id="org6ec813a"></a>
 
 # Hash Table
 
@@ -1105,7 +1136,7 @@ Sequence is not a real type, it contains List, Vector, String type.It's a abstra
     (hash-table-values xx)
 
 
-<a id="orgf6fd668"></a>
+<a id="org44d089b"></a>
 
 # Association List
 
@@ -1250,7 +1281,7 @@ alist-get
     (setq xx (assoc-delete-all "bb" xx))
 
 
-<a id="org30e25c2"></a>
+<a id="org69a4c3a"></a>
 
 # Function
 
@@ -1439,7 +1470,7 @@ alist-get
 > Search all use **apropos**
 
 
-<a id="org70b7bff"></a>
+<a id="org39e178c"></a>
 
 # Exit
 
@@ -1483,7 +1514,7 @@ alist-get
           (message "went on"))))
 
 
-<a id="orgd49676c"></a>
+<a id="org50bc651"></a>
 
 # Apply Function(List to Args)
 
@@ -1524,7 +1555,7 @@ alist-get
      "2 3 4")
 
 
-<a id="org46e0cd3"></a>
+<a id="org9dd09ec"></a>
 
 # Symbol
 
@@ -1575,7 +1606,7 @@ alist-get
     1.  list of name/value pairs
 
 
-<a id="orge7ea312"></a>
+<a id="orge21141e"></a>
 
 # Special Form
 
@@ -1606,7 +1637,7 @@ Non-standard evaluation strategy
 23. unwind-protect
 
 
-<a id="orgf832849"></a>
+<a id="orga2bb11f"></a>
 
 # Cheeck If func/var is defined
 
@@ -1650,7 +1681,7 @@ Non-standard evaluation strategy
      t)
 
 
-<a id="org8aa9e8a"></a>
+<a id="orgd787187"></a>
 
 # Regular Expression
 
@@ -1699,7 +1730,7 @@ Non-standard evaluation strategy
     ;; x803 -> ID803
 
 
-<a id="org262fcad"></a>
+<a id="orgb9c1bd9"></a>
 
 # DateTime
 
@@ -1743,7 +1774,7 @@ Non-standard evaluation strategy
      '(nil nil nil 1 8 2007 nil -1 nil))
 
 
-<a id="orgc1f78d8"></a>
+<a id="org904a63c"></a>
 
 # Builtin Fucntions
 
@@ -1800,7 +1831,17 @@ Find matched list from list by the key
     ;; 返回 nil
 
 
-<a id="orgf96c17c"></a>
+## regexp-opt
+
+Generate simple regex expression for string list, it endeavor to optimistic reg results for speed
+
+    (regexp-opt '("alex" "albert" "alois" "bummer"))
+
+
+## identity
+
+
+<a id="orge9808ee"></a>
 
 # Find Document
 
@@ -1825,7 +1866,20 @@ List all variable
 List all variable names value
 
 
-<a id="org2e24918"></a>
+<a id="orge1e2cd2"></a>
+
+# Hook
+
+1.  is a variable
+2.  value is a list of functions
+3.  like event
+4.  each Major Mode usually have at least 1 hook.
+5.  avoid using lambda
+    1.  unreadable
+    2.  can't be removed using **remove-hook**
+
+
+<a id="org1e1039d"></a>
 
 # Search In Manual
 
@@ -1840,7 +1894,7 @@ Search lisp manual
 Search emacs manual
 
 
-<a id="org2a81b15"></a>
+<a id="org90fa8c4"></a>
 
 # Code Navigate Command
 
@@ -1863,4 +1917,506 @@ I think vim action can replace below command perfectly.
 
 
 ## forward-list
+
+
+<a id="org08f7c32"></a>
+
+# Write Major Mode
+
+
+## What is it?
+
+1.  a collectiong of emacs behaviors.
+2.  basic mode is **fundamental-mode**
+
+
+## List Major modes
+
+1.  apropos-command, type "-mode"
+2.  look variable **auto-mode-alist**
+
+
+## Set Default Major Mode
+
+
+### Set New Empty Buffer Mode
+
+    (setq initial-major-mode 'python-mode)
+
+
+### Remap a Default Major Mode
+
+    (if (< emacs-major-version 29)
+        (add-to-list 'auto-mode-alist '("\\.css\\'" . xah-css-mode))
+      (add-to-list 'auto-mode-alist '(css-mode . xah-css-mode)))
+
+
+### Associate Major Mode by File Name Extension
+
+    (add-to-list
+     'auto-mode-alist
+     '("\\.html?\\'" . xah-html-mode))
+
+
+### Remove File Extension Association
+
+    (setq auto-mode-alist (rassq-delete-all 'js-mode auto-mode-alist))
+    
+    ;; check if mode is in the list
+    (rassoc 'js-mode auto-mode-alist)
+
+
+### Associate Major Mode by First Line in File
+
+    (add-to-list 'magic-mode-alist '("<!doctype html>" . xah-html-mode))
+    (add-to-list 'magic-mode-alist '("<!DOCTYPE html>" . xah-html-mode))
+
+
+### How Emacs Determines Which Major Mode to Load
+
+1.  file first line contain "-**- mode: xx-**-"
+2.  unix “shebang” syntax (For example, #!/usr/bin/perl)
+3.  first line with **magic-mode-alist**
+4.  file name with **auto-mode-alist**
+
+
+## Major Mode for Syntax Coloring
+
+    (setq mymath-highlights
+          '(("Sin\\|Cos\\|Sum" . 'font-lock-function-name-face)
+            ("Pi\\|Infinity" . 'font-lock-constant-face)))
+    
+    (define-derived-mode mymath-mode fundamental-mode "mymath"
+      "major mode for editing mymath language code."
+      (setq font-lock-defaults '(mymath-highlights)))
+
+
+### Test Code
+
+    Sin[x]^2 + Cos[y]^2 == 1
+    Pi^2/6 == Sum[1/x^2,{x,1,Infinity}]
+
+
+### Mode for a Language that Has ample keywords
+
+    (setq mylsl-font-lock-keywords
+          (let* (
+                (x-keywords '("break" "default" "do" "else" "for" "if" "return" "state" "while"))
+                (x-types '("float" "integer" "key" "list" "rotation" "string" "vector"))
+                (x-constants '("ACTIVE" "AGENT" "ALL_SIDES" "ATTACH_BACK"))
+                (x-events '("at_rot_target" "at_target" "attach"))
+                (x-functions '("llAbs" "llAcos" "llAddToLandBanList" "llAddToLandPassList"))
+    
+                (x-keywords-regexp (regexp-opt x-keywords 'words))
+                (x-types-regexp (regexp-opt x-types 'words))
+                (x-constans-regexp (regexp-opt x-constants 'words))
+                (x-events-regexp (regexp-opt x-events 'words))
+                (x-functions-regexp (regexp-opt x-functions 'words)))
+            ;;The `( ,a ,b …) is a lisp special syntax to evaluate parts of elements inside the list. Inside the paren, elements preceded by a , will be evaluated.
+            `(
+              (,x-types-regexp . 'font-lock-type-face)
+              (,x-constans-regexp . 'font-lock-constant-face)
+              (,x-events-regexp . 'font-lock-builtin-face)
+              (,x-functions-regexp . 'font-lock-function-name-face)
+              (,x-keywords-regexp . 'font-lock-keyword-face)
+              )
+            ))
+    
+    (define-derived-mode mylsl-mode c-mode "lsl mode"
+      "Major mode for editing LSL"
+    
+      (setq font-lock-defaults '(mylsl-font-lock-keywords)))
+
+-   Test Code
+
+        // sample LSL file
+        
+        // Examples of variable declaration and assignment:
+        integer score = 0;
+        string mySay = "i ♥ you";
+        vector v = <3,4,5>;
+        list myList= [2,4,7,3];
+        
+        // Example of defining a function.
+        // built-in function's names start with “ll” (Linden Library).
+        integer sum(integer a, integer b)
+        {
+            integer result = a + b;
+            return result;
+        }
+        
+         default
+         {
+             state_entry()
+             {
+                 llSay(0, mySay);
+             }
+        
+             touch_start(integer total_number)
+             {
+                 if (score == 1) {
+                     llSay(0, mySay);
+                 } else {
+                     llWhisper(0, "Ouch!");
+                 }
+             }
+         }
+
+
+## Font Lock Mode
+
+
+### Font-lock-mode
+
+1.  buffer-local minor mode
+2.  default for all buffers
+3.  high-level API
+4.  color text in two ways:
+    1.  Syntactic fontification
+    2.  Search based fotification
+5.  2 things to do coloring job
+    1.  Syntax Table
+    2.  font-lock-defaults
+
+
+### font-lock-defaults
+
+1.  buffer local variable
+2.  designed as a config for the purpose of syntax coloring
+
+
+### font-lock-defaults Value Structure
+
+1.  font-lock-keywords
+2.  font-lock-keywords-only
+3.  font-lock-keywords-case-fold-search
+4.  font-lock-syntax-table
+
+
+### Sample
+
+    (defvar my-highlights nil "first elefor `font-lock-defaults`")
+    
+    (setq my-highlights
+          '(("<h1>\\|</h1>" . 'font-lock-function-name-face)
+            ;; 1 means match regex group 1
+            ("<h1>\\([^<]+?\\)</h1>" . (1 'font-lock-constant-face))))
+    
+    (define-derived-mode myhtml-mode fundamental-mode "my"
+      "major mode for editing my language code."
+      (setq font-lock-defaults '(my-highlights)))
+
+    <h1>something</h1>
+
+
+## Search Web Command
+
+    (require 'browse-url)
+    
+    (defun my-lookup-wikipedia ()
+      (interactive)
+      (let (word)
+        (setq word
+              (if (use-region-p)
+                  (buffer-substring-no-properties (region-beginning) (region-end))
+                (current-word)))
+        (setq word (replace-regexp-in-string " " "_" word))
+        (browse-url (concat "http://en.wikipedia.org/wiki/" word))))
+
+
+## Create Hook
+
+    2023-12-05 16:12(defvar xah-html-browse-url-of-buffer-hook nil
+     "Hook for `xah-html-browse-url-of-buffer'. Hook functions are called before switching to browser.")
+    
+    (defun xah-html-browse-url-of-buffer ()
+      "View current buffer in default browser, but save first.
+    Hook `xah-html-browse-url-of-buffer-hook' is run before saving and before opening in browser.
+    Version 2020-06-26 2021-06-26"
+      (interactive)
+      (let (($url (buffer-file-name)))
+        (run-hooks 'xah-html-browse-url-of-buffer-hook)
+        (when (buffer-modified-p) (save-buffer))
+        (print $url)
+        (browse-web $url )))
+    
+    (add-hook 'xah-html-browse-url-of-buffer-hook 'xah-insert-date)
+
+
+## Keyword Completion
+
+1.  complete-symbol
+2.  completion-at-point
+
+
+### completion-at-point
+
+Add completion function to the list **completion-at-point-functions**
+
+    (setq xx-keywords
+          '("touch"
+            "touch_start"
+            "touch_end"
+            "for"
+            "foreach"
+            "forall"))
+    
+    (defun xx-completion-at-point()
+      "This is the function to be used for the hook `completion-at-point-functions'"
+      (interactive)
+      (let* (
+             (bds (bounds-of-thing-at-point 'symbol))
+             (start (car bds))
+             (end (cdr bds)))
+        (list start end xx-keywords . nil)))
+    
+    (define-derived-mode xx-mode c-mode "xx"
+      "Major mode for editing xx lang code."
+      (add-hook 'completion-at-point-functions 'xx-completion-at-point nil 'local))
+
+
+### try-completion
+
+Return the maximal match
+
+    (equal (try-completion
+            "c"
+            '(
+              "amc"
+              "amb"))
+           nil)
+    
+    
+    (equal (try-completion
+            "amb"
+            '(
+              "amc"
+              "amb"))
+           t)
+    
+    (equal (try-completion
+            "ah"
+            '(
+              "amc"
+              "amb"
+              "ahu"))
+           "ahu")
+    
+    (equal (try-completion
+            "a"
+            '(
+              "amc"
+              "amb"))
+           "am")
+
+
+### all-completions
+
+Returns a list of all matches
+
+    (equal
+     (all-completions
+      "c"
+      '(
+        "amc"
+        "amb"
+        ))
+     nil)
+    
+    (equal
+     (all-completions
+      "amb"
+      '(
+        "amc"
+        "amb"
+        ))
+     '("amb"))
+    
+    (equal
+     (all-completions
+      "ah"
+      '(
+        "amc"
+        "amb"
+        "ahu"
+        ))
+     '("ahu"))
+    
+    (equal
+     (all-completions
+      "a"
+      '(
+        "amc"
+        "amb"
+        ))
+     '("amc" "amb"))
+
+
+## Major Mode Names
+
+
+### name own major mode "xx"
+
+1.  For all Symbols, should start with "xx-"
+2.  File name should be "xx-mode.el"
+3.  Command name to invoke the mode should be "xx-mode"
+4.  Package's feature name should be "xx", (provide 'xx)
+
+
+### Value of Varialbe "major-mode"
+
+major-mode is built-in Buffer Local Variable
+
+1.  Value is a Lisp Symbol
+2.  Value is use to check current major mode
+3.  Value is as the command name
+4.  Value is automatically set when use **define-derived-mode**
+
+
+## Provide, require, features
+
+
+### features
+
+Global variable, value is list of Symbols
+
+
+### provide
+
+Add symbol to features list
+
+
+### require
+
+load symbol
+
+
+## Load
+
+
+### load
+
+Read and eval a file
+
+Search rule
+
+1.  File has suffix, search file in variable "load-path"
+2.  no suffix, find order is:
+    1.  filename.elc
+    2.  filename.el
+    3.  filename
+
+
+### load-file
+
+Load one specific file, file should be full path
+
+
+### autoload
+
+Associates a function name with a file path, and load the file and execute the function when a function is called.
+
+it can save startup time.
+
+
+## No Namespace
+
+Elisp no namespace, everything is global.
+
+
+<a id="org3884321"></a>
+
+# Character Type
+
+
+## Char Syntax
+
+    (equal 97 ?a)
+    (equal 97 (string-to-char "a"))
+
+
+## Char Func
+
+1.  char-before
+2.  char-after
+3.  char-to-string
+4.  string-to-char
+5.  char-equal
+
+
+<a id="org4deaf4b"></a>
+
+# Syntax Table
+
+
+## Syntax Table is Local to Buffer
+
+Each buffer has its own version of syntax table.
+
+
+## View Current Syntax Table
+
+Use **describe-syntax**
+
+1.  leat is char
+2.  middle is the char's syntax class abbreviation
+
+
+## Syntax Classes
+
+Each syntax class is identified by a 1-char code.
+
+
+## Determine Cursor position
+
+
+### Check If Cursor is inside String
+
+    (nth 3 (syntax-ppss))
+
+
+### Check If Cursor is inside Comment
+
+    (nth 4 (syntax-ppss))
+
+
+## Find Matching Bracket Char
+
+    (defun xah-get-matching-bracket (@bracket-char-string)
+      ""
+      (interactive)
+      (let (($syntableValue (aref (syntax-table) (string-to-char @bracket-char-string))))
+        (if (or
+             (eq (car $syntableValue ) 4) ; syntax table, code 4 is open bracket
+             (eq (car $syntableValue ) 5) ; syntax table, code 5 is close bracket
+             )
+            (char-to-string (cdr $syntableValue))
+          nil
+            )))
+    
+    (xah-get-matching-bracket "(") ; ")"
+    (xah-get-matching-bracket ")" ) ; "("
+    (xah-get-matching-bracket "[" ) ; "]"
+    (xah-get-matching-bracket "]" ) ; "["
+    (xah-get-matching-bracket "「" ) ; "」"
+    (xah-get-matching-bracket "」" ) ; "「"
+    (xah-get-matching-bracket "【" ) ; "】"
+    (xah-get-matching-bracket "】" ) ; "【"
+
+
+<a id="org4da49d5"></a>
+
+# Sample
+
+
+## Write a variable which is list type to file
+
+    (defun alist-to-string (alist)
+      "Convert an association list to a string, with each key-value pair on a separate line."
+      (mapconcat (lambda (pair)
+                   (format "| `%s` | `%s` |" (car pair) (cdr pair)))
+                 alist
+                 "\n"))
+    
+    (write-region (alist-to-string (symbol-value 'eaf-file-manager-keybinding)) nil "output.md")
 

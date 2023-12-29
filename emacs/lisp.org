@@ -200,6 +200,20 @@ Declare and assign a variable, and return the SYMBOL.
 (defvar xx 4 "DOCSTRING")
 #+end_src
 
+#+begin_src emacs-lisp
+(setq my-var nil)
+(defvar my-var t)
+(message "var is %s" my-var)
+#+end_src
+*** defcustom
+
+#+begin_src emacs-lisp
+(defcustom my-option t
+  "My user option."
+  :set (lambda (sym val)
+         (set-default sym val)
+         (message "Set %s to %s" sym val)))
+#+end_src
 ** Local Variables
 
 *** let
@@ -227,6 +241,16 @@ like let, but can use defined earlier symbols.
  )
 #+end_src
 
+** Binding
+Default is dynamic binding
+
+*** Lexical binding
+1. faster
+2. less error-prone
+
+#+begin_src emacs-lisp
+;;; -*- lexical-binding: t; -*-
+#+end_src
 * Block Expression
 Like block {} in C-like language
 #+begin_src emacs-lisp
@@ -2092,4 +2116,21 @@ Each syntax class is identified by a 1-char code.
 (xah-get-matching-bracket "」" ) ; "「"
 (xah-get-matching-bracket "【" ) ; "】"
 (xah-get-matching-bracket "】" ) ; "【"
+#+end_src
+
+* Sample
+
+** Write a variable which is list type to file
+:PROPERTIES:
+:ID:       8A8E17F3-BE17-455C-AAAB-F6CEFC68695C
+:END:
+#+begin_src emacs-lisp
+(defun alist-to-string (alist)
+  "Convert an association list to a string, with each key-value pair on a separate line."
+  (mapconcat (lambda (pair)
+               (format "| `%s` | `%s` |" (car pair) (cdr pair)))
+             alist
+             "\n"))
+
+(write-region (alist-to-string (symbol-value 'eaf-file-manager-keybinding)) nil "output.md")
 #+end_src

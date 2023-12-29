@@ -1,0 +1,10 @@
+#+OPTIONS: toc:1 ^:nil ~:nil num:nil reveal_title_slide:nil timestamp:nil
+#+TAGS: INTERACTIVE(i) COMMAND(c)
+
+* TODO eval-defun
+
+* TODO customize
+
+* TODO customize-option
+
+* TODO add-file-local-variable-prop-line
