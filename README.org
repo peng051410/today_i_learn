@@ -912,6 +912,18 @@ where table_schema not in('information_schema', 'mysql',
 order by total_size desc;
 #+end_src
 https://dataedo.com/kb/query/mysql/list-of-tables-by-the-size-of-data-and-indexes
+
+** Partition table
+#+begin_src sh
+alter table `ugc_ent` PARTITION BY RANGE (TO_DAYS(create_time)) (
+  PARTITION p20240210 VALUES LESS THAN (TO_DAYS('2024-02-10')) ENGINE = InnoDB
+)
+#+end_src
+
+*** [[https://stackoverflow.com/questions/11859481/how-to-make-partitioning-in-existing-mysql-table][database - How to make partitioning in existing mysql table? - Stack Overflow]]
+Captured On: [2024-01-08 Mon 16:41]
+
+
 * IDEA
 
 ** Use alt key quickly on commit window
