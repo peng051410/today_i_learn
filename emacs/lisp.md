@@ -1,43 +1,44 @@
 
 # Table of Contents
 
--   [eval](#org8f409e4)
--   [Output](#orgb080037)
--   [buffer](#org4655e57)
--   [String](#org32bf01c)
--   [Arithmetic](#orgdc37f33)
--   [Boolean](#orgd1b1314)
--   [Test equality](#org96cbc29)
--   [Variables](#org6dfa15d)
--   [Block Expression](#orgbcbe464)
--   [Condition](#orge4c30b1)
--   [Loop](#orgea724a6)
--   [List](#orgee533ff)
--   [Vector](#orge9c52ff)
--   [Sequence](#orgb63a4cb)
--   [Hash Table](#org6ec813a)
--   [Association List](#org44d089b)
--   [Function](#org69a4c3a)
--   [Exit](#org39e178c)
--   [Apply Function(List to Args)](#org50bc651)
--   [Symbol](#org9dd09ec)
--   [Special Form](#orge21141e)
--   [Cheeck If func/var is defined](#orga2bb11f)
--   [Regular Expression](#orgd787187)
--   [DateTime](#orgb9c1bd9)
--   [Builtin Fucntions](#org904a63c)
--   [Find Document](#orge9808ee)
--   [Hook](#orge1e2cd2)
--   [Search In Manual](#org1e1039d)
--   [Code Navigate Command](#org90fa8c4)
--   [Write Major Mode](#org08f7c32)
--   [Character Type](#org3884321)
--   [Syntax Table](#org4deaf4b)
--   [Sample](#org4da49d5)
+-   [eval](#orgb68a7c9)
+-   [Output](#org8bf3a99)
+-   [buffer](#orgceea25b)
+-   [String](#orgf0dfce9)
+-   [Arithmetic](#org18c9896)
+-   [Boolean](#org0f92184)
+-   [Test equality](#org17fd9eb)
+-   [Variables](#org9aed2e8)
+-   [Block Expression](#orgd88d822)
+-   [Condition](#orga155ea2)
+-   [Loop](#orgb9774ec)
+-   [List](#orgf557f97)
+-   [Vector](#org37fce8d)
+-   [Sequence](#orgce3dd4e)
+-   [Hash Table](#org9998ed0)
+-   [Association List](#orgeab5758)
+-   [Function](#orgc64a2b1)
+-   [Exit](#org1f4a754)
+-   [Apply Function(List to Args)](#orgf65bd56)
+-   [Symbol](#org8c01bbc)
+-   [Special Form](#orgde9726f)
+-   [Cheeck If func/var is defined](#orgb7bfd1f)
+-   [Regular Expression](#org0d0167b)
+-   [DateTime](#org37e0700)
+-   [Builtin Fucntions](#org8e9c02f)
+-   [Find Document](#org5d45607)
+-   [Hook](#orgd011494)
+-   [Search In Manual](#org2116bbe)
+-   [Code Navigate Command](#org4c78df9)
+-   [Write Major Mode](#org34832e9)
+-   [Character Type](#org2168594)
+-   [Syntax Table](#orgfead887)
+-   [Sample](#org3bf3f43)
+-   [Quotes](#org24a3c12)
 
 
 
-<a id="org8f409e4"></a>
+<a id="orgb68a7c9"></a>
 
 # eval
 
@@ -48,7 +49,7 @@
 ## eval-region
 
 
-<a id="orgb080037"></a>
+<a id="org8bf3a99"></a>
 
 # Output
 
@@ -74,7 +75,7 @@
 ## princ
 
 
-<a id="org4655e57"></a>
+<a id="orgceea25b"></a>
 
 # buffer
 
@@ -90,7 +91,7 @@
 > (with-output-to-temp-buffer BUFNAME &rest BODY)
 
 
-<a id="org32bf01c"></a>
+<a id="orgf0dfce9"></a>
 
 # String
 
@@ -110,7 +111,7 @@
 ## format
 
 
-<a id="orgdc37f33"></a>
+<a id="org18c9896"></a>
 
 # Arithmetic
 
@@ -158,7 +159,7 @@
 ### format
 
 
-<a id="orgd1b1314"></a>
+<a id="org0f92184"></a>
 
 # Boolean
 
@@ -195,7 +196,7 @@
     (not 2)
 
 
-<a id="org96cbc29"></a>
+<a id="org17fd9eb"></a>
 
 # Test equality
 
@@ -269,7 +270,7 @@ Check if is the same object only for floating number
     (eql 0.0 -0.0)
 
 
-<a id="org6dfa15d"></a>
+<a id="org9aed2e8"></a>
 
 # Variables
 
@@ -343,6 +344,24 @@ like let, but can use defined earlier symbols.
      )
 
 
+## File local variable
+
+    (setq-local my-var t)
+    ;; or (set (make-local-variable 'my-var) t)
+    
+    ;; Then descirbe-variable my-var will show:
+    ;; my-var’s value is t
+    ;; Local in buffer *Org Src lisp.org[ emacs-lisp ]*; global value is the same.
+    
+    ;; Not documented as a variable.
+
+
+### Automatic buffer local variable
+
+    (defvar-local my-automatical-local-var t)
+    ;; or (make-variable-buffer-local 'my-automatical-local-var)
+
+
 ## Binding
 
 Default is dynamic binding
@@ -352,11 +371,54 @@ Default is dynamic binding
 
 1.  faster
 2.  less error-prone
+3.  prefered
 
     ;;; -*- lexical-binding: t; -*-
 
 
-<a id="orgbcbe464"></a>
+### Dynamic binding
+
+    ;; -*- lexical-binding: t; -*-
+    
+    (defun a-exists-only-in-my-body (a)
+      (other-function))
+    
+    (defun other-function ()
+      (message "I see `a', its value is %s" a))
+    
+    (a-exists-only-in-my-body t)
+
+
+### Special variable
+
+    ;;; -*- lexical-binding: t; -*-
+    
+    (defun some-other-function ()
+      (message "I see `c', its value is: %s" c))
+    
+    (defvar c t)
+    
+    (let ((a "I'm lexically bound")
+          (c "I'm special and therefore dynamically bound"))
+      (some-other-function)
+      (message "I see `a', its values is: %s" a))
+
+
+### Variable conflict
+
+    (let ((vars ()))
+      (mapatoms
+       (lambda (cand)
+         (when (and (boundp cand)
+                    (not (keywordp cand))
+                    (special-variable-p cand)
+                    (not (string-match "-"
+                                       (symbol-name cand))))
+           (push cand vars))))
+      vars) ;; => (t obarray noninteractive debugger nil)
+
+
+<a id="orgd88d822"></a>
 
 # Block Expression
 
@@ -368,7 +430,7 @@ Like block {} in C-like language
     
     (progn 3 5)
 
-<div class="notes" id="orgdf63e28">
+<div class="notes" id="org68b87a1">
 <p>
 (if something
     (progn ; true
@@ -382,7 +444,7 @@ Like block {} in C-like language
 </div>
 
 
-<a id="orge4c30b1"></a>
+<a id="orga155ea2"></a>
 
 # Condition
 
@@ -405,7 +467,7 @@ Use "when" when don't want else case.
       (message "8"))
 
 
-<a id="orgea724a6"></a>
+<a id="orgb9774ec"></a>
 
 # Loop
 
@@ -461,7 +523,7 @@ Useful for go over list to get the element, Similar with C-like for-loop?
       )
 
 
-<a id="orgee533ff"></a>
+<a id="orgf557f97"></a>
 
 # List
 
@@ -759,7 +821,7 @@ Use cons
      "1,2,3")
 
 
-<a id="orge9c52ff"></a>
+<a id="org37fce8d"></a>
 
 # Vector
 
@@ -827,7 +889,7 @@ Ordered sequence, implement by arrys
     [8 [3 [2 9] c] 7 [4 "b"]]
 
 
-<a id="orgb63a4cb"></a>
+<a id="orgce3dd4e"></a>
 
 # Sequence
 
@@ -1061,7 +1123,7 @@ Sequence is not a real type, it contains List, Vector, String type.It's a abstra
         (insert (number-to-string n))))
 
 
-<a id="org6ec813a"></a>
+<a id="org9998ed0"></a>
 
 # Hash Table
 
@@ -1136,7 +1198,7 @@ Sequence is not a real type, it contains List, Vector, String type.It's a abstra
     (hash-table-values xx)
 
 
-<a id="org44d089b"></a>
+<a id="orgeab5758"></a>
 
 # Association List
 
@@ -1281,7 +1343,7 @@ alist-get
     (setq xx (assoc-delete-all "bb" xx))
 
 
-<a id="org69a4c3a"></a>
+<a id="orgc64a2b1"></a>
 
 # Function
 
@@ -1426,6 +1488,17 @@ alist-get
      3)
 
 
+### Later invoke
+
+    (setq my-f (lambda (x y ) (+ x y)))
+    (equal
+     (funcall my-f 1 2)
+     3)
+    
+    ;invalid
+    ;; (my-f 1 2)
+
+
 ## Function Type
 
 1.  lambda
@@ -1470,7 +1543,22 @@ alist-get
 > Search all use **apropos**
 
 
-<a id="org39e178c"></a>
+## Prefix funcion
+
+We can use **-, +, \*** in names
+
+    ;; (1+ x) is the same as (+ x 1).
+    (equal
+     (1+ 42)
+     43)
+    
+    ;; (1- x) is the same as (- x 1). Note that the short name may be confusing: (1- x) does not mean 1-x; rather, it means x-1.
+    (equal
+     (1- 100)
+     99)
+
+
+<a id="org1f4a754"></a>
 
 # Exit
 
@@ -1514,7 +1602,7 @@ alist-get
           (message "went on"))))
 
 
-<a id="org50bc651"></a>
+<a id="orgf65bd56"></a>
 
 # Apply Function(List to Args)
 
@@ -1555,7 +1643,7 @@ alist-get
      "2 3 4")
 
 
-<a id="org9dd09ec"></a>
+<a id="org8c01bbc"></a>
 
 # Symbol
 
@@ -1606,7 +1694,7 @@ alist-get
     1.  list of name/value pairs
 
 
-<a id="orge21141e"></a>
+<a id="orgde9726f"></a>
 
 # Special Form
 
@@ -1637,7 +1725,7 @@ Non-standard evaluation strategy
 23. unwind-protect
 
 
-<a id="orga2bb11f"></a>
+<a id="orgb7bfd1f"></a>
 
 # Cheeck If func/var is defined
 
@@ -1681,7 +1769,7 @@ Non-standard evaluation strategy
      t)
 
 
-<a id="orgd787187"></a>
+<a id="org0d0167b"></a>
 
 # Regular Expression
 
@@ -1730,7 +1818,7 @@ Non-standard evaluation strategy
     ;; x803 -> ID803
 
 
-<a id="orgb9c1bd9"></a>
+<a id="org37e0700"></a>
 
 # DateTime
 
@@ -1774,7 +1862,7 @@ Non-standard evaluation strategy
      '(nil nil nil 1 8 2007 nil -1 nil))
 
 
-<a id="org904a63c"></a>
+<a id="org8e9c02f"></a>
 
 # Builtin Fucntions
 
@@ -1841,7 +1929,7 @@ Generate simple regex expression for string list, it endeavor to optimistic reg 
 ## identity
 
 
-<a id="orge9808ee"></a>
+<a id="org5d45607"></a>
 
 # Find Document
 
@@ -1866,7 +1954,7 @@ List all variable
 List all variable names value
 
 
-<a id="orge1e2cd2"></a>
+<a id="orgd011494"></a>
 
 # Hook
 
@@ -1879,7 +1967,7 @@ List all variable names value
     2.  can't be removed using **remove-hook**
 
 
-<a id="org1e1039d"></a>
+<a id="org2116bbe"></a>
 
 # Search In Manual
 
@@ -1894,7 +1982,7 @@ Search lisp manual
 Search emacs manual
 
 
-<a id="org90fa8c4"></a>
+<a id="org4c78df9"></a>
 
 # Code Navigate Command
 
@@ -1919,7 +2007,7 @@ I think vim action can replace below command perfectly.
 ## forward-list
 
 
-<a id="org08f7c32"></a>
+<a id="org34832e9"></a>
 
 # Write Major Mode
 
@@ -2324,7 +2412,7 @@ it can save startup time.
 Elisp no namespace, everything is global.
 
 
-<a id="org3884321"></a>
+<a id="org2168594"></a>
 
 # Character Type
 
@@ -2344,7 +2432,7 @@ Elisp no namespace, everything is global.
 5.  char-equal
 
 
-<a id="org4deaf4b"></a>
+<a id="orgfead887"></a>
 
 # Syntax Table
 
@@ -2404,7 +2492,7 @@ Each syntax class is identified by a 1-char code.
     (xah-get-matching-bracket "】" ) ; "【"
 
 
-<a id="org4da49d5"></a>
+<a id="org3bf3f43"></a>
 
 # Sample
 
@@ -2419,4 +2507,13 @@ Each syntax class is identified by a 1-char code.
                  "\n"))
     
     (write-region (alist-to-string (symbol-value 'eaf-file-manager-keybinding)) nil "output.md")
+
+
+<a id="org24a3c12"></a>
+
+# Quotes
+
+Quote 'x refer to the name rather then the value of x. 'x ≈ (quote x).
+
+    '(+ 1 2) ;; result (+ 1 2)
 

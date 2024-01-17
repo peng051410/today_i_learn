@@ -241,15 +241,75 @@ like let, but can use defined earlier symbols.
  )
 #+end_src
 
+** File local variable
+#+begin_src emacs-lisp
+(setq-local my-var t)
+;; or (set (make-local-variable 'my-var) t)
+
+;; Then descirbe-variable my-var will show:
+;; my-var’s value is t
+;; Local in buffer *Org Src lisp.org[ emacs-lisp ]*; global value is the same.
+
+;; Not documented as a variable.
+#+end_src
+
+*** Automatic buffer local variable
+#+begin_src emacs-lisp
+(defvar-local my-automatical-local-var t)
+;; or (make-variable-buffer-local 'my-automatical-local-var)
+#+end_src
 ** Binding
 Default is dynamic binding
 
 *** Lexical binding
 1. faster
 2. less error-prone
+3. prefered
 
 #+begin_src emacs-lisp
 ;;; -*- lexical-binding: t; -*-
+#+end_src
+
+*** Dynamic binding
+#+begin_src emacs-lisp
+;; -*- lexical-binding: t; -*-
+
+(defun a-exists-only-in-my-body (a)
+  (other-function))
+
+(defun other-function ()
+  (message "I see `a', its value is %s" a))
+
+(a-exists-only-in-my-body t)
+#+end_src
+
+*** Special variable
+#+begin_src emacs-lisp
+;;; -*- lexical-binding: t; -*-
+
+(defun some-other-function ()
+  (message "I see `c', its value is: %s" c))
+
+(defvar c t)
+
+(let ((a "I'm lexically bound")
+      (c "I'm special and therefore dynamically bound"))
+  (some-other-function)
+  (message "I see `a', its values is: %s" a))
+#+end_src
+
+*** Variable conflict
+#+begin_src emacs-lisp
+(let ((vars ()))
+  (mapatoms
+   (lambda (cand)
+     (when (and (boundp cand)
+                (not (keywordp cand))
+                (special-variable-p cand)
+                (not (string-match "-"
+                                   (symbol-name cand))))
+       (push cand vars))))
+  vars) ;; => (t obarray noninteractive debugger nil)
 #+end_src
 * Block Expression
 Like block {} in C-like language
@@ -1284,6 +1344,16 @@ alist-get
  3)
 #+end_src
 
+*** Later invoke
+#+begin_src emacs-lisp
+(setq my-f (lambda (x y ) (+ x y)))
+(equal
+ (funcall my-f 1 2)
+ 3)
+
+;invalid
+;; (my-f 1 2)
+#+end_src
 ** Function Type
 1. lambda
 2. primitive
@@ -1327,6 +1397,24 @@ alist-get
 #+begin_quote
 Search all use *apropos*
 #+end_quote
+
+** Prefix funcion
+:LOGBOOK:
+- Note taken on [2024-01-17 Wed 16:56] \\
+  https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node125.html
+:END:
+We can use *-, +, ** in names
+#+begin_src emacs-lisp
+;; (1+ x) is the same as (+ x 1).
+(equal
+ (1+ 42)
+ 43)
+
+;; (1- x) is the same as (- x 1). Note that the short name may be confusing: (1- x) does not mean 1-x; rather, it means x-1.
+(equal
+ (1- 100)
+ 99)
+#+end_src
 * Exit
 
 ** Exit a Func/Iteration
@@ -2133,4 +2221,10 @@ Each syntax class is identified by a 1-char code.
              "\n"))
 
 (write-region (alist-to-string (symbol-value 'eaf-file-manager-keybinding)) nil "output.md")
+#+end_src
+
+* Quotes
+Quote 'x refer to the name rather then the value of x. 'x ≈ (quote x).
+#+begin_src emacs-lisp
+'(+ 1 2) ;; result (+ 1 2)
 #+end_src
