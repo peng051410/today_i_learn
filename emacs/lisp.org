@@ -1415,6 +1415,11 @@ We can use *-, +, ** in names
  (1- 100)
  99)
 #+end_src
+
+** Local function
+#+begin_src emacs-lisp
+(flet ((go (x) (+ 2 x))) (go 3))
+#+end_src
 * Exit
 
 ** Exit a Func/Iteration
@@ -2227,4 +2232,30 @@ Each syntax class is identified by a 1-char code.
 Quote 'x refer to the name rather then the value of x. 'x ≈ (quote x).
 #+begin_src emacs-lisp
 '(+ 1 2) ;; result (+ 1 2)
+#+end_src
+
+* Macro
+Create new function that language doesn't give.
+
+1. Happens before runtime
+
+#+begin_src emacs-lisp
+(defmacro let1 (var val &rest body) `(let ((,var ,val)) ,@body))
+;; macroexpand for debug
+(macroexpand '(let1 x "5" (message x)))
+
+;; not use progn
+;; No progn; (first x y z) ≈ x
+(defmacro first (&rest body)
+ (car `,@body))
+(first 1 2 3)
+(macroexpand '(first x y z))
+
+;; use progn
+(defmacro not-first (&rest body) `(progn ,@(cdr `,@body)))
+(macroexpand '(not-first x y z))
+;; `,@body       ⇒ (x y z)
+;; (cdr `,@body) ⇒ (y z)
+;; `(progn ,@(cdr `,@body))
+;;        ⇒ (progn y z)
 #+end_src

@@ -1,44 +1,45 @@
 
 # Table of Contents
 
--   [eval](#orgb68a7c9)
--   [Output](#org8bf3a99)
--   [buffer](#orgceea25b)
--   [String](#orgf0dfce9)
--   [Arithmetic](#org18c9896)
--   [Boolean](#org0f92184)
--   [Test equality](#org17fd9eb)
--   [Variables](#org9aed2e8)
--   [Block Expression](#orgd88d822)
--   [Condition](#orga155ea2)
--   [Loop](#orgb9774ec)
--   [List](#orgf557f97)
--   [Vector](#org37fce8d)
--   [Sequence](#orgce3dd4e)
--   [Hash Table](#org9998ed0)
--   [Association List](#orgeab5758)
--   [Function](#orgc64a2b1)
--   [Exit](#org1f4a754)
--   [Apply Function(List to Args)](#orgf65bd56)
--   [Symbol](#org8c01bbc)
--   [Special Form](#orgde9726f)
--   [Cheeck If func/var is defined](#orgb7bfd1f)
--   [Regular Expression](#org0d0167b)
--   [DateTime](#org37e0700)
--   [Builtin Fucntions](#org8e9c02f)
--   [Find Document](#org5d45607)
--   [Hook](#orgd011494)
--   [Search In Manual](#org2116bbe)
--   [Code Navigate Command](#org4c78df9)
--   [Write Major Mode](#org34832e9)
--   [Character Type](#org2168594)
--   [Syntax Table](#orgfead887)
--   [Sample](#org3bf3f43)
--   [Quotes](#org24a3c12)
+-   [eval](#org1b973d4)
+-   [Output](#org29f220e)
+-   [buffer](#org5e91c4a)
+-   [String](#org90fd733)
+-   [Arithmetic](#org031ce9d)
+-   [Boolean](#orgfbe2f88)
+-   [Test equality](#org739874d)
+-   [Variables](#org2ec934b)
+-   [Block Expression](#org3bfd6bd)
+-   [Condition](#orgcbf86d8)
+-   [Loop](#org594beaa)
+-   [List](#orge708ee9)
+-   [Vector](#orgafd9438)
+-   [Sequence](#org839b785)
+-   [Hash Table](#org8b15874)
+-   [Association List](#org8fbf8da)
+-   [Function](#org5adca01)
+-   [Exit](#org2a02caf)
+-   [Apply Function(List to Args)](#org92eaace)
+-   [Symbol](#orgd1afd11)
+-   [Special Form](#orgabca074)
+-   [Cheeck If func/var is defined](#org53df814)
+-   [Regular Expression](#orgd782919)
+-   [DateTime](#orgec6c3db)
+-   [Builtin Fucntions](#org0546f30)
+-   [Find Document](#org8e385c5)
+-   [Hook](#org701b33e)
+-   [Search In Manual](#org3e935b4)
+-   [Code Navigate Command](#org3ae19ee)
+-   [Write Major Mode](#org98e717f)
+-   [Character Type](#org22301d5)
+-   [Syntax Table](#org65cbd02)
+-   [Sample](#org5849cfe)
+-   [Quotes](#orgbdfe962)
+-   [Macro](#orgd2d6fcf)
 
 
 
-<a id="orgb68a7c9"></a>
+<a id="org1b973d4"></a>
 
 # eval
 
@@ -49,7 +50,7 @@
 ## eval-region
 
 
-<a id="org8bf3a99"></a>
+<a id="org29f220e"></a>
 
 # Output
 
@@ -75,7 +76,7 @@
 ## princ
 
 
-<a id="orgceea25b"></a>
+<a id="org5e91c4a"></a>
 
 # buffer
 
@@ -91,7 +92,7 @@
 > (with-output-to-temp-buffer BUFNAME &rest BODY)
 
 
-<a id="orgf0dfce9"></a>
+<a id="org90fd733"></a>
 
 # String
 
@@ -111,7 +112,7 @@
 ## format
 
 
-<a id="org18c9896"></a>
+<a id="org031ce9d"></a>
 
 # Arithmetic
 
@@ -159,7 +160,7 @@
 ### format
 
 
-<a id="org0f92184"></a>
+<a id="orgfbe2f88"></a>
 
 # Boolean
 
@@ -196,7 +197,7 @@
     (not 2)
 
 
-<a id="org17fd9eb"></a>
+<a id="org739874d"></a>
 
 # Test equality
 
@@ -270,7 +271,7 @@ Check if is the same object only for floating number
     (eql 0.0 -0.0)
 
 
-<a id="org9aed2e8"></a>
+<a id="org2ec934b"></a>
 
 # Variables
 
@@ -418,7 +419,7 @@ Default is dynamic binding
       vars) ;; => (t obarray noninteractive debugger nil)
 
 
-<a id="orgd88d822"></a>
+<a id="org3bfd6bd"></a>
 
 # Block Expression
 
@@ -430,7 +431,7 @@ Like block {} in C-like language
     
     (progn 3 5)
 
-<div class="notes" id="org68b87a1">
+<div class="notes" id="orge844863">
 <p>
 (if something
     (progn ; true
@@ -444,7 +445,7 @@ Like block {} in C-like language
 </div>
 
 
-<a id="orga155ea2"></a>
+<a id="orgcbf86d8"></a>
 
 # Condition
 
@@ -467,7 +468,7 @@ Use "when" when don't want else case.
       (message "8"))
 
 
-<a id="orgb9774ec"></a>
+<a id="org594beaa"></a>
 
 # Loop
 
@@ -523,7 +524,7 @@ Useful for go over list to get the element, Similar with C-like for-loop?
       )
 
 
-<a id="orgf557f97"></a>
+<a id="orge708ee9"></a>
 
 # List
 
@@ -821,7 +822,7 @@ Use cons
      "1,2,3")
 
 
-<a id="org37fce8d"></a>
+<a id="orgafd9438"></a>
 
 # Vector
 
@@ -889,7 +890,7 @@ Ordered sequence, implement by arrys
     [8 [3 [2 9] c] 7 [4 "b"]]
 
 
-<a id="orgce3dd4e"></a>
+<a id="org839b785"></a>
 
 # Sequence
 
@@ -1123,7 +1124,7 @@ Sequence is not a real type, it contains List, Vector, String type.It's a abstra
         (insert (number-to-string n))))
 
 
-<a id="org9998ed0"></a>
+<a id="org8b15874"></a>
 
 # Hash Table
 
@@ -1198,7 +1199,7 @@ Sequence is not a real type, it contains List, Vector, String type.It's a abstra
     (hash-table-values xx)
 
 
-<a id="orgeab5758"></a>
+<a id="org8fbf8da"></a>
 
 # Association List
 
@@ -1343,7 +1344,7 @@ alist-get
     (setq xx (assoc-delete-all "bb" xx))
 
 
-<a id="orgc64a2b1"></a>
+<a id="org5adca01"></a>
 
 # Function
 
@@ -1558,7 +1559,12 @@ We can use **-, +, \*** in names
      99)
 
 
-<a id="org1f4a754"></a>
+## Local function
+
+    (flet ((go (x) (+ 2 x))) (go 3))
+
+
+<a id="org2a02caf"></a>
 
 # Exit
 
@@ -1602,7 +1608,7 @@ We can use **-, +, \*** in names
           (message "went on"))))
 
 
-<a id="orgf65bd56"></a>
+<a id="org92eaace"></a>
 
 # Apply Function(List to Args)
 
@@ -1643,7 +1649,7 @@ We can use **-, +, \*** in names
      "2 3 4")
 
 
-<a id="org8c01bbc"></a>
+<a id="orgd1afd11"></a>
 
 # Symbol
 
@@ -1694,7 +1700,7 @@ We can use **-, +, \*** in names
     1.  list of name/value pairs
 
 
-<a id="orgde9726f"></a>
+<a id="orgabca074"></a>
 
 # Special Form
 
@@ -1725,7 +1731,7 @@ Non-standard evaluation strategy
 23. unwind-protect
 
 
-<a id="orgb7bfd1f"></a>
+<a id="org53df814"></a>
 
 # Cheeck If func/var is defined
 
@@ -1769,7 +1775,7 @@ Non-standard evaluation strategy
      t)
 
 
-<a id="org0d0167b"></a>
+<a id="orgd782919"></a>
 
 # Regular Expression
 
@@ -1818,7 +1824,7 @@ Non-standard evaluation strategy
     ;; x803 -> ID803
 
 
-<a id="org37e0700"></a>
+<a id="orgec6c3db"></a>
 
 # DateTime
 
@@ -1862,7 +1868,7 @@ Non-standard evaluation strategy
      '(nil nil nil 1 8 2007 nil -1 nil))
 
 
-<a id="org8e9c02f"></a>
+<a id="org0546f30"></a>
 
 # Builtin Fucntions
 
@@ -1929,7 +1935,7 @@ Generate simple regex expression for string list, it endeavor to optimistic reg 
 ## identity
 
 
-<a id="org5d45607"></a>
+<a id="org8e385c5"></a>
 
 # Find Document
 
@@ -1954,7 +1960,7 @@ List all variable
 List all variable names value
 
 
-<a id="orgd011494"></a>
+<a id="org701b33e"></a>
 
 # Hook
 
@@ -1967,7 +1973,7 @@ List all variable names value
     2.  can't be removed using **remove-hook**
 
 
-<a id="org2116bbe"></a>
+<a id="org3e935b4"></a>
 
 # Search In Manual
 
@@ -1982,7 +1988,7 @@ Search lisp manual
 Search emacs manual
 
 
-<a id="org4c78df9"></a>
+<a id="org3ae19ee"></a>
 
 # Code Navigate Command
 
@@ -2007,7 +2013,7 @@ I think vim action can replace below command perfectly.
 ## forward-list
 
 
-<a id="org34832e9"></a>
+<a id="org98e717f"></a>
 
 # Write Major Mode
 
@@ -2412,7 +2418,7 @@ it can save startup time.
 Elisp no namespace, everything is global.
 
 
-<a id="org2168594"></a>
+<a id="org22301d5"></a>
 
 # Character Type
 
@@ -2432,7 +2438,7 @@ Elisp no namespace, everything is global.
 5.  char-equal
 
 
-<a id="orgfead887"></a>
+<a id="org65cbd02"></a>
 
 # Syntax Table
 
@@ -2492,7 +2498,7 @@ Each syntax class is identified by a 1-char code.
     (xah-get-matching-bracket "】" ) ; "【"
 
 
-<a id="org3bf3f43"></a>
+<a id="org5849cfe"></a>
 
 # Sample
 
@@ -2509,11 +2515,39 @@ Each syntax class is identified by a 1-char code.
     (write-region (alist-to-string (symbol-value 'eaf-file-manager-keybinding)) nil "output.md")
 
 
-<a id="org24a3c12"></a>
+<a id="orgbdfe962"></a>
 
 # Quotes
 
 Quote 'x refer to the name rather then the value of x. 'x ≈ (quote x).
 
     '(+ 1 2) ;; result (+ 1 2)
+
+
+<a id="orgd2d6fcf"></a>
+
+# Macro
+
+Create new function that language doesn't give.
+
+1.  Happens before runtime
+
+    (defmacro let1 (var val &rest body) `(let ((,var ,val)) ,@body))
+    ;; macroexpand for debug
+    (macroexpand '(let1 x "5" (message x)))
+    
+    ;; not use progn
+    ;; No progn; (first x y z) ≈ x
+    (defmacro first (&rest body)
+     (car `,@body))
+    (first 1 2 3)
+    (macroexpand '(first x y z))
+    
+    ;; use progn
+    (defmacro not-first (&rest body) `(progn ,@(cdr `,@body)))
+    (macroexpand '(not-first x y z))
+    ;; `,@body       ⇒ (x y z)
+    ;; (cdr `,@body) ⇒ (y z)
+    ;; `(progn ,@(cdr `,@body))
+    ;;        ⇒ (progn y z)
 
