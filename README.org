@@ -924,6 +924,15 @@ alter table `ugc_ent` PARTITION BY RANGE (TO_DAYS(create_time)) (
 Captured On: [2024-01-08 Mon 16:41]
 
 
+** Change primary key
+#+begin_src sql
+alter table `ugc_comment` drop primary key, add primary key(`comment_id`,`create_time`);
+#+end_src
+*** [[https://stackoverflow.com/questions/2341576/updating-mysql-primary-key][Updating MySQL primary key - Stack Overflow]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
 * IDEA
 
 ** Use alt key quickly on commit window
@@ -1086,6 +1095,10 @@ sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
 * Chrome
 ** [[https://support.google.com/chrome/thread/162555856/why-does-chrome-display-your-connection-to-this-site-is-not-secure-if-content-is-empty?hl=en][Why does Chrome display "Your connection to this site is not secure" if content is empty? - Google Chrome Community]]
 Captured On: [2023-10-31 Tue 11:48]
+** Close QUIC
+1. chrome://flags/#enable-quic
+2. Experimental QUIC protocol to *Disabled*
+
 * Anki
 ** [[https://stackoverflow.com/questions/42206812/how-do-you-embed-a-youtube-video-into-an-anki-card][pyqt - How do you embed a YouTube video into an Anki Card - Stack Overflow]]
 Captured On: [2023-11-22 Wed 11:20]
