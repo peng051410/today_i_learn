@@ -1,45 +1,46 @@
 
 # Table of Contents
 
--   [eval](#org1b973d4)
--   [Output](#org29f220e)
--   [buffer](#org5e91c4a)
--   [String](#org90fd733)
--   [Arithmetic](#org031ce9d)
--   [Boolean](#orgfbe2f88)
--   [Test equality](#org739874d)
--   [Variables](#org2ec934b)
--   [Block Expression](#org3bfd6bd)
--   [Condition](#orgcbf86d8)
--   [Loop](#org594beaa)
--   [List](#orge708ee9)
--   [Vector](#orgafd9438)
--   [Sequence](#org839b785)
--   [Hash Table](#org8b15874)
--   [Association List](#org8fbf8da)
--   [Function](#org5adca01)
--   [Exit](#org2a02caf)
--   [Apply Function(List to Args)](#org92eaace)
--   [Symbol](#orgd1afd11)
--   [Special Form](#orgabca074)
--   [Cheeck If func/var is defined](#org53df814)
--   [Regular Expression](#orgd782919)
--   [DateTime](#orgec6c3db)
--   [Builtin Fucntions](#org0546f30)
--   [Find Document](#org8e385c5)
--   [Hook](#org701b33e)
--   [Search In Manual](#org3e935b4)
--   [Code Navigate Command](#org3ae19ee)
--   [Write Major Mode](#org98e717f)
--   [Character Type](#org22301d5)
--   [Syntax Table](#org65cbd02)
--   [Sample](#org5849cfe)
--   [Quotes](#orgbdfe962)
--   [Macro](#orgd2d6fcf)
+-   [eval](#orga645557)
+-   [Output](#org70a309d)
+-   [buffer](#orgd4c44c0)
+-   [String](#org5080b2e)
+-   [Arithmetic](#org410aa76)
+-   [Boolean](#org4478f79)
+-   [Test equality](#orgb8f2d0f)
+-   [Variables](#org0086280)
+-   [Block Expression](#org977bdde)
+-   [Condition](#orgde2bca4)
+-   [Loop](#org37b6c7d)
+-   [List](#org9fd099f)
+-   [Vector](#org17c2c04)
+-   [Sequence](#orge949f97)
+-   [Hash Table](#org17bc3ab)
+-   [Association List](#orgcbe73c2)
+-   [Function](#org4b643a2)
+-   [Exit](#org46f2eb1)
+-   [Apply Function(List to Args)](#org0e62ae9)
+-   [Symbol](#orgbf864c6)
+-   [Special Form](#org412466f)
+-   [Cheeck If func/var is defined](#org65e54ff)
+-   [Regular Expression](#org090f696)
+-   [DateTime](#orga4232bd)
+-   [Builtin Fucntions](#orgd465a6a)
+-   [Find Document](#orgc59c711)
+-   [Hook](#orgaa0cc36)
+-   [Search In Manual](#org55dfee2)
+-   [Code Navigate Command](#org0b4779d)
+-   [Write Major Mode](#org4f775f1)
+-   [Character Type](#org24215da)
+-   [Syntax Table](#orgf988a5a)
+-   [Sample](#org607d57f)
+-   [Quotes](#org2678a85)
+-   [Macro](#org2df6792)
+-   [Debug](#orgfb30e9c)
 
 
 
-<a id="org1b973d4"></a>
+<a id="orga645557"></a>
 
 # eval
 
@@ -50,7 +51,7 @@
 ## eval-region
 
 
-<a id="org29f220e"></a>
+<a id="org70a309d"></a>
 
 # Output
 
@@ -76,7 +77,7 @@
 ## princ
 
 
-<a id="org5e91c4a"></a>
+<a id="orgd4c44c0"></a>
 
 # buffer
 
@@ -92,7 +93,7 @@
 > (with-output-to-temp-buffer BUFNAME &rest BODY)
 
 
-<a id="org90fd733"></a>
+<a id="org5080b2e"></a>
 
 # String
 
@@ -112,7 +113,7 @@
 ## format
 
 
-<a id="org031ce9d"></a>
+<a id="org410aa76"></a>
 
 # Arithmetic
 
@@ -160,7 +161,7 @@
 ### format
 
 
-<a id="orgfbe2f88"></a>
+<a id="org4478f79"></a>
 
 # Boolean
 
@@ -197,7 +198,7 @@
     (not 2)
 
 
-<a id="org739874d"></a>
+<a id="orgb8f2d0f"></a>
 
 # Test equality
 
@@ -271,7 +272,7 @@ Check if is the same object only for floating number
     (eql 0.0 -0.0)
 
 
-<a id="org2ec934b"></a>
+<a id="org0086280"></a>
 
 # Variables
 
@@ -419,7 +420,7 @@ Default is dynamic binding
       vars) ;; => (t obarray noninteractive debugger nil)
 
 
-<a id="org3bfd6bd"></a>
+<a id="org977bdde"></a>
 
 # Block Expression
 
@@ -431,7 +432,7 @@ Like block {} in C-like language
     
     (progn 3 5)
 
-<div class="notes" id="orge844863">
+<div class="notes" id="orgb0ad80b">
 <p>
 (if something
     (progn ; true
@@ -445,7 +446,7 @@ Like block {} in C-like language
 </div>
 
 
-<a id="orgcbf86d8"></a>
+<a id="orgde2bca4"></a>
 
 # Condition
 
@@ -468,7 +469,7 @@ Use "when" when don't want else case.
       (message "8"))
 
 
-<a id="org594beaa"></a>
+<a id="org37b6c7d"></a>
 
 # Loop
 
@@ -524,7 +525,7 @@ Useful for go over list to get the element, Similar with C-like for-loop?
       )
 
 
-<a id="orge708ee9"></a>
+<a id="org9fd099f"></a>
 
 # List
 
@@ -822,7 +823,7 @@ Use cons
      "1,2,3")
 
 
-<a id="orgafd9438"></a>
+<a id="org17c2c04"></a>
 
 # Vector
 
@@ -890,7 +891,7 @@ Ordered sequence, implement by arrys
     [8 [3 [2 9] c] 7 [4 "b"]]
 
 
-<a id="org839b785"></a>
+<a id="orge949f97"></a>
 
 # Sequence
 
@@ -1124,7 +1125,7 @@ Sequence is not a real type, it contains List, Vector, String type.It's a abstra
         (insert (number-to-string n))))
 
 
-<a id="org8b15874"></a>
+<a id="org17bc3ab"></a>
 
 # Hash Table
 
@@ -1199,7 +1200,7 @@ Sequence is not a real type, it contains List, Vector, String type.It's a abstra
     (hash-table-values xx)
 
 
-<a id="org8fbf8da"></a>
+<a id="orgcbe73c2"></a>
 
 # Association List
 
@@ -1344,7 +1345,7 @@ alist-get
     (setq xx (assoc-delete-all "bb" xx))
 
 
-<a id="org5adca01"></a>
+<a id="org4b643a2"></a>
 
 # Function
 
@@ -1564,7 +1565,7 @@ We can use **-, +, \*** in names
     (flet ((go (x) (+ 2 x))) (go 3))
 
 
-<a id="org2a02caf"></a>
+<a id="org46f2eb1"></a>
 
 # Exit
 
@@ -1608,7 +1609,7 @@ We can use **-, +, \*** in names
           (message "went on"))))
 
 
-<a id="org92eaace"></a>
+<a id="org0e62ae9"></a>
 
 # Apply Function(List to Args)
 
@@ -1649,7 +1650,7 @@ We can use **-, +, \*** in names
      "2 3 4")
 
 
-<a id="orgd1afd11"></a>
+<a id="orgbf864c6"></a>
 
 # Symbol
 
@@ -1700,7 +1701,7 @@ We can use **-, +, \*** in names
     1.  list of name/value pairs
 
 
-<a id="orgabca074"></a>
+<a id="org412466f"></a>
 
 # Special Form
 
@@ -1731,7 +1732,7 @@ Non-standard evaluation strategy
 23. unwind-protect
 
 
-<a id="org53df814"></a>
+<a id="org65e54ff"></a>
 
 # Cheeck If func/var is defined
 
@@ -1775,7 +1776,7 @@ Non-standard evaluation strategy
      t)
 
 
-<a id="orgd782919"></a>
+<a id="org090f696"></a>
 
 # Regular Expression
 
@@ -1824,7 +1825,7 @@ Non-standard evaluation strategy
     ;; x803 -> ID803
 
 
-<a id="orgec6c3db"></a>
+<a id="orga4232bd"></a>
 
 # DateTime
 
@@ -1868,7 +1869,7 @@ Non-standard evaluation strategy
      '(nil nil nil 1 8 2007 nil -1 nil))
 
 
-<a id="org0546f30"></a>
+<a id="orgd465a6a"></a>
 
 # Builtin Fucntions
 
@@ -1935,7 +1936,7 @@ Generate simple regex expression for string list, it endeavor to optimistic reg 
 ## identity
 
 
-<a id="org8e385c5"></a>
+<a id="orgc59c711"></a>
 
 # Find Document
 
@@ -1960,7 +1961,7 @@ List all variable
 List all variable names value
 
 
-<a id="org701b33e"></a>
+<a id="orgaa0cc36"></a>
 
 # Hook
 
@@ -1973,7 +1974,7 @@ List all variable names value
     2.  can't be removed using **remove-hook**
 
 
-<a id="org3e935b4"></a>
+<a id="org55dfee2"></a>
 
 # Search In Manual
 
@@ -1988,7 +1989,7 @@ Search lisp manual
 Search emacs manual
 
 
-<a id="org3ae19ee"></a>
+<a id="org0b4779d"></a>
 
 # Code Navigate Command
 
@@ -2013,7 +2014,7 @@ I think vim action can replace below command perfectly.
 ## forward-list
 
 
-<a id="org98e717f"></a>
+<a id="org4f775f1"></a>
 
 # Write Major Mode
 
@@ -2418,7 +2419,7 @@ it can save startup time.
 Elisp no namespace, everything is global.
 
 
-<a id="org22301d5"></a>
+<a id="org24215da"></a>
 
 # Character Type
 
@@ -2438,7 +2439,7 @@ Elisp no namespace, everything is global.
 5.  char-equal
 
 
-<a id="org65cbd02"></a>
+<a id="orgf988a5a"></a>
 
 # Syntax Table
 
@@ -2498,7 +2499,7 @@ Each syntax class is identified by a 1-char code.
     (xah-get-matching-bracket "】" ) ; "【"
 
 
-<a id="org5849cfe"></a>
+<a id="org607d57f"></a>
 
 # Sample
 
@@ -2515,7 +2516,7 @@ Each syntax class is identified by a 1-char code.
     (write-region (alist-to-string (symbol-value 'eaf-file-manager-keybinding)) nil "output.md")
 
 
-<a id="orgbdfe962"></a>
+<a id="org2678a85"></a>
 
 # Quotes
 
@@ -2524,7 +2525,7 @@ Quote 'x refer to the name rather then the value of x. 'x ≈ (quote x).
     '(+ 1 2) ;; result (+ 1 2)
 
 
-<a id="orgd2d6fcf"></a>
+<a id="org2df6792"></a>
 
 # Macro
 
@@ -2550,4 +2551,53 @@ Create new function that language doesn't give.
     ;; (cdr `,@body) ⇒ (y z)
     ;; `(progn ,@(cdr `,@body))
     ;;        ⇒ (progn y z)
+
+
+<a id="orgfb30e9c"></a>
+
+# Debug
+
+
+## Toggle Debug
+
+1.  toggle-debug-on-error
+2.  toggle-deubg-on-quit
+
+
+## Edebug
+
+
+### Active Edebug
+
+1.  Find the function use **find-function**
+2.  Press **C-u eval-defun** to active edebug
+3.  Invoke the function
+
+
+### Edebug useful keys
+
+1.  q Quit currecnt execution
+2.  h Jump to the point and skipped
+3.  o Move out sep, useful in loops
+4.  i Go inside the function
+
+
+## debug function
+
+Add **debug** on any function step.
+
+
+### useful keys
+
+1.  d
+    1.  step into deeper
+2.  c
+    1.  get out
+3.  j
+    1.  jump
+4.  e
+    1.  evaluate expression
+
+
+### debug-on-entry
 

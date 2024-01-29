@@ -2259,3 +2259,37 @@ Create new function that language doesn't give.
 ;; `(progn ,@(cdr `,@body))
 ;;        ⇒ (progn y z)
 #+end_src
+
+* Debug
+
+** Toggle Debug
+1. toggle-debug-on-error
+2. toggle-deubg-on-quit
+
+** Edebug
+
+*** Active Edebug
+1. Find the function use *find-function*
+2. Press *C-u eval-defun* to active edebug
+3. Invoke the function
+
+*** Edebug useful keys
+1. q Quit currecnt execution
+2. h Jump to the point and skipped
+3. o Move out sep, useful in loops
+4. i Go inside the function
+
+** debug function
+Add *debug* on any function step.
+
+*** useful keys
+1. d
+    1. step into deeper
+2. c
+    1. get out
+3. j
+    1. jump
+4. e
+    1. evaluate expression
+
+*** debug-on-entry
