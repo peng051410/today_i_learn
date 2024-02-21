@@ -848,6 +848,9 @@ sudo tccutil reset Accessibility
 
 https://cdn.jsdelivr.net/gh/peng051410/bucket@main/img/Peza8y.png
 
+** Mac dictionary file path
+/System/Library/AssetsV2/com_apple_MobileAsset_DictionaryServices_dictionaryOSX
+
 * Linux
 
 ** Change default program
@@ -1108,6 +1111,13 @@ Captured On: [2023-10-31 Tue 11:48]
 ** Close QUIC
 1. chrome://flags/#enable-quic
 2. Experimental QUIC protocol to *Disabled*
+* Firfox
+** Get current tabe url from terminal
+#+begin_src sh
+osascript -e  'tell application "System Events" to get value of UI element 1 of combo box 1 of toolbar "Navigation" of first group of front window of application process "Firefox"'
+#+end_src
+
+https://apple.stackexchange.com/questions/404841/get-url-of-opened-firefox-tabs-from-terminal
 
 * Anki
 ** [[https://stackoverflow.com/questions/42206812/how-do-you-embed-a-youtube-video-into-an-anki-card][pyqt - How do you embed a YouTube video into an Anki Card - Stack Overflow]]
