@@ -98,6 +98,7 @@
 -   [up.md](up.md)
 -   [turn.md](turn.md)
 -   [heavy.md](heavy.md)
+-   [free.md](free.md)
 
 
 Record my english study process.
