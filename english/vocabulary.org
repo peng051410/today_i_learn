@@ -9036,3 +9036,18 @@ The group objected that the policy would prevent patients from receiving the bes
 Money's not object; I want the best.
 *** object lesson
 The way ants work is an object lesson in order and organization.
+* ship
+:PROPERTIES:
+:EXPORT_FILE_NAME: ship.md
+:END:
+大船运送物品
+** 语义
+*** 大船
+We went by ship over to America.
+*** 运送
+A new engine was shipped over from the US.
+*** 推出
+They're now shipping their long-awaited new anti-virus software.
+*** 遣送
+He was shipped off to a juvenile *detention* center.
+** 短语
