@@ -101,6 +101,7 @@
 -   [free.md](free.md)
 -   [object.md](object.md)
 -   [ship.md](ship.md)
+-   [manage.md](manage.md)
 
 
 Record my english study process.

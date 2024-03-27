@@ -9041,6 +9041,8 @@ The way ants work is an object lesson in order and organization.
 :EXPORT_FILE_NAME: ship.md
 :END:
 大船运送物品
+
+https://www.dicts.cn/dictword20181/html/27bba49fd61bf07c5f189640b8c1c95b.html?ship
 ** 语义
 *** 大船
 We went by ship over to America.
@@ -9051,3 +9053,34 @@ They're now shipping their long-awaited new anti-virus software.
 *** 遣送
 He was shipped off to a juvenile *detention* center.
 ** 短语
+* manage
+:PROPERTIES:
+:EXPORT_FILE_NAME: manage.md
+:END:
+管理控制吃喝玩乐
+
+https://www.dicts.cn/dictword20181/html/ab3d0629c28c979702d849cf3f59e19d.html?manage
+** 语义
+*** 管理
+He was asked to manage a new department.
+*** 努力完成
+I finally managed to push the huge animal away.
+*** 成功应对
+I don't know how she manages with seven children.
+*** 合理安排
+You need to learn to manage your time more effectively.
+*** 勉强维持
+It'll be tight, but I guess I'll just about manage.
+*** 控制
+It's hard to manage your children and to the shoping.
+*** 能吃
+Could you manage another drink?
+*** 抽出时间
+Can you manage dinner tonight?
+** 短语
+*** manage to do
+I don't know how I managed to arrive so late.
+*** manage a smile
+Tom looked tired but still managed a smile.
+*** I can manage
+I know you mean, but I can manage by myself.
