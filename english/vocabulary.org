@@ -9119,6 +9119,10 @@ Little by little he become accepted by the family.
 :PROPERTIES:
 :EXPORT_FILE_NAME: board.md
 :END:
+:LOGBOOK:
+- Note taken on [2024-04-01 Mon 18:56] \\
+  https://www.dicts.cn/dictword20181/html/351b6b8def9e048dfb16e6d38da5569a.html?board
+:END:
 板在空间上的不同（路->海->桌）
 ** 语义
 *** 公告牌
