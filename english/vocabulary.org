@@ -9151,3 +9151,20 @@ Loyalty has gone by the board.
 The changes will affect local authorities across the board.
 *** take something on board
 The school refused to take any of the parents' criticisms on board.
+* map
+:PROPERTIES:
+:EXPORT_FILE_NAME: map.md
+:END:
+发现地图
+** 语义
+*** 地图
+According to the map we should turn left.
+*** 绘制地图
+He spent the next fifteen years mapping the Isle of Anglesey.
+*** 发现
+The points at which stress and anxiety emerge can be mapped.
+** 短语
+*** put something on the map
+It was the Olympic Games that really put Seoul on the map.
+
+https://youglish.com/getbyid/87974262/on%20the%20map/english
