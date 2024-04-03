@@ -105,6 +105,7 @@
 -   [little.md](little.md)
 -   [board.md](board.md)
 -   [map.md](map.md)
+-   [focus.md](focus.md)
 
 
 Record my english study process.

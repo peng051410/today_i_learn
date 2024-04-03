@@ -9168,3 +9168,22 @@ The points at which stress and anxiety emerge can be mapped.
 It was the Olympic Games that really put Seoul on the map.
 
 https://youglish.com/getbyid/87974262/on%20the%20map/english
+* focus
+:PROPERTIES:
+:EXPORT_FILE_NAME: focus.md
+:END:
+集中焦点
+** 语义
+*** 集中
+He need focus on more on his career.
+*** 调焦
+She turned the camera and focussed on Martin's face.
+*** 对准
+All eyes focussed on her.
+*** 焦点
+The focus of recent research has been on environmental issues.
+*** 中心点
+Our main focus is on helping people get back into work.
+** 短语
+*** come into focus
+These issues have recently come into sharp focus.
