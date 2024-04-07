@@ -106,6 +106,7 @@
 -   [board.md](board.md)
 -   [map.md](map.md)
 -   [focus.md](focus.md)
+-   [move.md](move.md)
 
 
 Record my english study process.
