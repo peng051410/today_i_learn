@@ -221,6 +221,17 @@ https://unix.stackexchange.com/questions/268474/how-to-list-all-files-in-a-direc
 #+begin_src sh
 ls -d "$PWD"/* >> ~/work/repos.txt
 #+end_src
+** Export proxy app req to curl
+
+*** Charles
+url -> 右键 -> Copy cURL Request
+
+*** Fidder
+File -> Export -> Selected Sessions -> cURL script
+
+*** Browser
+url -> 右键 -> Copy cURL Request
+
 * Maven
 ** How to get Maven project version from cmd
 #+begin_src sh
@@ -448,6 +459,16 @@ a
 #+END_SRC
 https://emacs-china.org/t/emacs-org-mode-jshell/12491/2
 
+** Sort org entries
+Use *org-sort* command
+支持按字母、数字、优先级、属性、时间等进行排序
+
+https://cdn.jsdelivr.net/gh/peng051410/bucket@main/img/K9RHdv.png
+
+** Org list support alphabetical
+#+begin_src emacs-lisp
+(setq org-list-allow-alphabetical t)
+#+end_src
 * Org hugo add shortcode
 Hugo支持短代码形式在生成html时填充模板内容，shortcode配置的html文件放在 */layouts/shortcodes* 目录下即可，下面的代码就可以实现在博客中嵌入[[https://www.bilibili.com/video/BV1pD4y1K7iw/][B站]]的视频
 #+begin_export hugo
@@ -863,6 +884,9 @@ open ~/Library/Containers/appNames
 
 ** Show lunar day in Calendar app
 https://cdn.jsdelivr.net/gh/peng051410/bucket@main/img/JL7jS1.png
+
+** Add debug info to app
+Add *-_NS_4445425547 YES* param to app
 * Linux
 
 ** Change default program
@@ -1149,3 +1173,8 @@ retransform /tmp/com/example/demo/arthas/user/UserController.class
 
 *** [[https://arthas.aliyun.com/doc/retransform.html#%E7%BB%93%E5%90%88-jad-mc-%E5%91%BD%E4%BB%A4%E4%BD%BF%E7%94%A8][retransform | arthas]]
 Captured On: [2023-12-12 Tue 17:22]
+
+* Twitter
+
+** Search user hot tweets
+from:baibanbaonet min_faves:10
