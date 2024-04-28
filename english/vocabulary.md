@@ -108,6 +108,7 @@
 -   [focus.md](focus.md)
 -   [move.md](move.md)
 -   [place.md](place.md)
+-   [put.md](put.md)
 
 
 Record my english study process.
