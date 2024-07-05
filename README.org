@@ -41,6 +41,12 @@ function ro() {
 }
 #+end_src
 
+** Split image
+#+begin_src sh
+convert -crop 100%x20% in.png output.png
+#+end_src
+https://dev.to/ko31/using-imagemagick-to-easily-split-an-image-file-13hb
+
 ** Nohup to file and console
 #+begin_src sh
 nohup ./program  > Output.txt | tail -F Output.txt &
@@ -545,8 +551,11 @@ git push new_repo_address +old_repo_branch:master
 #+end_src
 *** [[https://stackoverflow.com/questions/9527999/how-do-i-create-a-new-github-repo-from-a-branch-in-an-existing-repo][git - How do I create a new GitHub repo from a branch in an existing repo? - Stack Overflow]]
 Captured On: [2023-02-23 Thu 14:22]
-
-
+** Clone single branch
+#+begin_src sh
+git clone <url> --branch <branch-to-clone> --single-branch [folder-to-store]
+#+end_src
+https://igorstechnoclub.com/my-everyday-git-commands/
 * Github
 
 ** Add profile page to github
@@ -613,6 +622,39 @@ jcmd 2886 VM.flags
 Os security, must execute with root
 [[https://stackoverflow.com/questions/42295509/why-jcmd-throws-native-memory-tracking-is-not-enabled-message-even-though-nmt][java - Why JCMD throws "native memory tracking is not enabled" message even though NMT is enabled? - Stack Overflow]]
 
+*** Where is the heap dump file created by jcmd?
+Java recommand use jcmd instead of jmap to generate heap file, like:
+#+begin_src sh
+jcmd 271709 GC.heap_dump Myheapdump.hprof
+#+end_src
+
+but, where the generated file?
+
+We can use lsof commd to find the output path
+#+begin_src sh
+lsof -p pid | grep wd
+#+end_src
+
+or genrate with an absolute path
+#+begin_src sh
+jcmd 271709 GC.heap_dump /data/log/Myheapdump.hprof
+#+end_src
+
+https://stackoverflow.com/questions/58519663/where-is-the-heap-dump-file-created-by-jcmd
+
+*** find jvm thread stack size
+#+begin_src sh
+java -XX:+PrintFlagsFinal -version | grep ThreadStackSize
+#+end_src
+
+https://stackoverflow.com/questions/6020619/where-can-i-find-default-xss-stack-size-value-for-oracle-jvm
+
+*** show jvm loaded class
+#+begin_src sh
+jcmd <jvm_pid> VM.classloaders show-classes
+#+end_src
+
+https://stackoverflow.com/questions/16559430/get-a-listing-of-all-currently-loaded-classes-in-a-given-jvm-instance
 ** Get two date interval days by java8
 [[https://stackoverflow.com/questions/27005861/calculate-days-between-two-dates-in-java-8][Calculate days between two Dates in Java 8 - Stack Overflow]]
 #+begin_src java
@@ -945,8 +987,10 @@ man() {
 ** Config linux ssh with rsa login
 *** [[https://www.runoob.com/w3cnote/set-ssh-login-key.html][设置 SSH 通过密钥登录 | 菜鸟教程]]
 Captured On: [2023-10-24 Tue 10:33]
-
-
+** Show glibc version
+#+begin_src sh
+ls -l /lib/libc.so.*
+#+end_src
 * Mysql
 
 ** Show db table create/update time
@@ -1054,6 +1098,12 @@ redis-cli keys "*match" | xargs redis-cli del
 redis-cli --bigkeys
 #+end_src
 
+** Set pass
+#+begin_src sh
+config set requirepass p@ss$12E45
+#+end_src
+
+This will be invalid when redis server restart, for permanently valid set in redis.conf
 * Nginx
 
 ** underscore header issue
@@ -1088,6 +1138,7 @@ for(var i=1; i < rows.length; i++){
 gg
 =G
 #+end_src
+
 *** [[https://unix.stackexchange.com/questions/19945/auto-indent-format-code-for-vim][Auto indent / format code for Vim? - Unix & Linux Stack Exchange]]
 Captured On: [2023-05-18 Thu 19:22]
 * GCC
@@ -1097,6 +1148,7 @@ Captured On: [2023-05-18 Thu 19:22]
 gcc -S helloworld.c
 #+end_src
 After run this command, a new file named helloworld.s prevent.
+
 * NPM
 ** sh: react-scripts: command not found after running npm start
 Project need install dependency package
@@ -1189,3 +1241,52 @@ Captured On: [2023-12-12 Tue 17:22]
 
 ** Search user hot tweets
 from:baibanbaonet min_faves:10
+
+* Logseq
+
+** Install local plugin
+Place unpacked plugin folder under *~/.logseq/plugins* ,then restart logseq
+
+* MAT
+
+** Install mat on mac arch m2
+版本：Eclipse Memory Analyzer Version 1.15.0，需要JDK17以上版本
+
+打开访达 -> 应用程序 -> 找到mat【右键点击 “显示包内容”】 -> 找到info.plist文件，在其dict节点内，追加下列环境变量：
+
+#+begin_src sh
+<string>-vm</string>
+<string>/Users/tomyli/.sdkman/candidates/java/17.0.9-jbr/bin</string>
+#+end_src
+
+* System
+
+** Use vcpkg in clion
+In clion setting -> CMake options, Add
+#+begin_src sh
+-DCMAKE_TOOLCHAIN_FILE=[vcpkg root]/scripts/buildsystems/vcpkg.cmake
+#+end_src
+
+https://www.cnblogs.com/lancediarmuid/p/17333985.html
+
+** Make file rule
+prerequisites中如果有一个以上的文件比target文件要新的话，command所定义的命令就会被执行。这就是Makefile的规则
+
+https://blog.csdn.net/haoel/article/details/2886
+
+* Clion
+
+** Disable clang errors to fixed unknown typename
+Go to: Languages & Frameworks -> Clangd
+Disabled "Show errors and warnings from clangd"
+
+http://pic.imcompany.cn/pic/c6DWuA.png
+
+http://pic.imcompany.cn/pic/c6DWuA.png
+
+* C
+
+** Use compat memory allocate
+#+begin_src C
+struct __attribute__ ((__packed__)) sdshdr8 {};
+#+end_src
