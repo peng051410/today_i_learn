@@ -1302,3 +1302,14 @@ http://pic.imcompany.cn/pic/c6DWuA.png
 #+begin_src C
 struct __attribute__ ((__packed__)) sdshdr8 {};
 #+end_src
+
+* AI
+
+** Update all ollama models
+#+begin_src sh
+ollama list | tail -n +2 | awk '{print $1}' | while read -r model; do
+  ollama pull $model
+done
+#+end_src
+
+https://github.com/ollama/ollama/issues/1890
