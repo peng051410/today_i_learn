@@ -1104,6 +1104,18 @@ config set requirepass p@ss$12E45
 #+end_src
 
 This will be invalid when redis server restart, for permanently valid set in redis.conf
+
+** get generated rdb file location
+#+begin_src sh
+redis-cli config get dir
+#+end_src
+
+https://stackoverflow.com/questions/57790483/where-is-redis-installed-on-macos
+
+** Read rdb file with hunman readability
+#+begin_src sh
+od -A x -t x1c -v dump.rdb
+#+end_src
 * Nginx
 
 ** underscore header issue
