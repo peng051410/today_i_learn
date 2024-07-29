@@ -112,6 +112,7 @@
 -   [rest.md](rest.md)
 -   [send.md](send.md)
 -   [give.md](give.md)
+-   [shoot.md](shoot.md)
 
 
 Record my english study process.
