@@ -201,6 +201,15 @@ echo "hello world" | cut -b 2-5
 ello
 #+end_src
 
+** Print unicode to chinese
+:LOGBOOK:
+- Note taken on [2024-11-13 Wed 14:33] \\
+  https://blog.huohaodong.com/blog/convert-curl-unicode-result-to-chinese
+:END:
+#+begin_src sh
+echo -en "\\u9605\\u8bfb20\\u5206\\u949f"
+#+end_src
+
 ** Quick rename file name
 #+begin_src sh
 cd /tmp
@@ -288,6 +297,7 @@ mvn -X clean | grep "settings"
 #+end_src
 *** [[https://www.baeldung.com/maven-settings-xml][The settings.xml File in Maven | Baeldung]]
 Captured On: [2023-03-16 Thu 16:35]
+
 ** [[https://stackoverflow.com/questions/65910112/maven-clean-install-failed-to-execute-goal-org-apache-maven-pluginsmaven-resou][java - Maven clean install: Failed to execute goal org.apache.maven.plugins:maven-resources-plugin:3.2.0:resources - Stack Overflow]]
 Captured On: [2023-10-31 Tue 17:41]
 
@@ -307,6 +317,12 @@ add nonFilteredFileExtensions config works for me.
 </plugin>
 
 #+end_src
+
+** Maven generate catalog file
+#+begin_src sh
+mvn archetype:crawl -Dcatalog=/var/archetype-catalog.xml
+#+end_src
+
 * Emacs
 ** 给Emacs文档增加目录
 给Entry增加标签 =:TOC:=，限定目录层级#+OPTIONS: toc:1
@@ -475,6 +491,17 @@ https://cdn.jsdelivr.net/gh/peng051410/bucket@main/img/K9RHdv.png
 #+begin_src emacs-lisp
 (setq org-list-allow-alphabetical t)
 #+end_src
+
+** Org export all logbook content
+:LOGBOOK:
+- Note taken on [2024-12-04 Wed 10:41] \\
+  https://orgmode.org/manual/Export-Settings.html
+:END:
+This can realize by setting options
+#+begin_src org
+,#+options: d:t
+#+end_src
+
 * Org hugo add shortcode
 Hugo支持短代码形式在生成html时填充模板内容，shortcode配置的html文件放在 */layouts/shortcodes* 目录下即可，下面的代码就可以实现在博客中嵌入[[https://www.bilibili.com/video/BV1pD4y1K7iw/][B站]]的视频
 #+begin_export hugo
@@ -841,6 +868,11 @@ Captured On: [2023-12-05 Tue 19:04]
 pyenv install 2.7.18
 pyenv global 2.7.18
 #+end_src
+
+** Exist venv
+#+begin_src sh
+deactivate
+#+end_src
 * Brew
 
 ** get installed program path
@@ -888,6 +920,10 @@ brew install qemu-virgl.rb
 #+begin_src sh
 brew tap knazarov/qemu-virgl
 brew edit qemu-virgl
+#+end_src
+** Use bash 5.x version
+#+begin_src sh
+brew install bash
 #+end_src
 * MAC
 
