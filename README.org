@@ -13,6 +13,7 @@
 
 * [[./english/listen.org][English listen]]
 
+* [[./english/news.org][English news]]
 * [[./emacs/lisp.md][Lisp]]
 * [[./history/china_history.org][History]]
 
