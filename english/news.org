@@ -27,4 +27,12 @@ have video of the man taking a cab to an interstate bus station
 in Upper Manhattan and entering it on the day of the attack,
 but never exiting. So far, there have been no arrests and the
 authorities have not established a motive.
+*** NYPD
+:LOGBOOK:
+- Note taken on [2024-12-11 Wed 09:51] \\
+  纽约市警察局（NYPD）是美国最大的市警局，下设多个部门，负责维护纽约市治安。
+:END:
+https://en.wikipedia.org/w/index.php?title=New_York_City_Police_Department&useskin=vector
+*** Manhattan
+https://en.wikipedia.org/wiki/Manhattan?useskin=vector
 *** interstate

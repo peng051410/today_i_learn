@@ -1,11 +1,11 @@
 
 # Table of Contents
 
--   [(10) 读懂英语新闻（第186期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org7a6be3c)
+-   [(10) 读懂英语新闻（第186期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org9b318e1)
 
 
 
-<a id="org7a6be3c"></a>
+<a id="org9b318e1"></a>
 
 # [(10) 读懂英语新闻（第186期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=DFZRg8z_AJg)
 
@@ -44,6 +44,16 @@ have video of the man taking a cab to an interstate bus station
 in Upper Manhattan and entering it on the day of the attack,
 but never exiting. So far, there have been no arrests and the
 authorities have not established a motive.
+
+
+### NYPD
+
+<https://en.wikipedia.org/w/index.php?title=New_York_City_Police_Department&useskin=vector>
+
+
+### Manhattan
+
+<https://en.wikipedia.org/wiki/Manhattan?useskin=vector>
 
 
 ### interstate
