@@ -1,12 +1,15 @@
 
 # Table of Contents
 
--   [(10) 读懂英语新闻（第186期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org55061dc)
--   [(10) 读懂英语新闻（第187期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orge32dc5b)
+-   [(10) 读懂英语新闻（第186期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgf78085d)
+-   [(10) 读懂英语新闻（第187期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org1b5e6a1)
+-   [(12) 读懂英语新闻（第188期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org3be0e26)
+-   [(13) 读懂英语新闻（第189期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org4808f4d)
+-   [(15) 读懂英语新闻（第190期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org3dafa35)
 
 
 
-<a id="org55061dc"></a>
+<a id="orgf78085d"></a>
 
 # [(10) 读懂英语新闻（第186期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=DFZRg8z_AJg)
 
@@ -62,7 +65,7 @@ authorities have not established a motive.
 <https://en.wikipedia.org/w/index.php?title=Interstate_Highway_System&useskin=vector>
 
 
-<a id="orge32dc5b"></a>
+<a id="org1b5e6a1"></a>
 
 # [(10) 读懂英语新闻（第187期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=46AovK1-eX4)
 
@@ -139,4 +142,259 @@ organization.
 
 
 ### move to
+
+
+<a id="org3be0e26"></a>
+
+# [(12) 读懂英语新闻（第188期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=zrmOoQ8bwBw)
+
+
+## One
+
+1.  Trump had his perfect 1980s day. He rang the bell to open the
+
+stock exchange and was named Person of the Year by Time magazine.
+Trump, speaking with Time, pledged to start pardoning Jan. 6 rioters
+once he enters office. He sounded open to banning some childhood
+vaccines and reversing protections for transgender kids. During the
+campaign, Trump said he'd lower grocery prices. Yesterday, he told
+Time that "it's hard to bring things down once they're up," but he
+added that he was still hopeful.
+
+
+### pardon
+
+
+### rioter
+
+
+### it's hard to bring things down once they're up
+
+
+## Two
+
+1.  Lisa Su - chief executive of chipmaker AMD — is TIME's
+
+" CEO of the Year." AMD's stock price has increased 50x since Su
+took over a decade ago, fueled by Al - as well as smart planning
+that put the company in a position to benefit when some of its
+rivals, like Intel, have faltered. "It really is one of the great
+turnaround stories of modern American business history," Chris
+Miller, a historian of the semiconductor industry, told TIME.
+
+
+### falter
+
+
+## Three
+
+1.  The NYPD is investigating a number of 'WANTED' posters of
+
+senior executives that are showing up in parts of Manhattan. They
+included images of UnitedHealth's Brian Thompson, who was
+murdered last week, as well as executives from American Express,
+Goldman Sachs, Bank of America and JPMorgan Chase. The arrest of
+Luigi Mangione this week has failed to fill in some key details of
+Thompson's killing, while dark glee over the murder is stoking fear
+among insurers about copycats.
+
+
+### WANTED
+
+
+### fill in
+
+
+### glee
+
+
+### stoke
+
+
+### copycat
+
+
+## Four
+
+1.  Extreme weather this year across chili planting regions from
+
+Mexico to India has sapped supply, pushed up prices and-worst
+of all-distorted their flavor. The perfect growing conditions for
+chili peppers and other crops are becoming harder to find as
+climate change increases the frequency of weather extremes such
+as drought and floods, according to researchers. Some suppliers
+are under pressure and chefs will soon be forced to innovate.
+
+
+### sap
+
+
+### flavor
+
+
+### drought
+
+
+### chefs
+
+
+<a id="org4808f4d"></a>
+
+# [(13) 读懂英语新闻（第189期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=0V-erwAAzeM)
+
+
+## One
+
+1.  Madison mourned after a school shooting
+
+A makeshift memorial grew on a sidewalk outside a Christian
+school in Madison, Wis., where a teenage student fatally shot a
+teacher and a fellow student yesterday. Police identified the
+shooter as Natalie Rupnow, a 15-year-old student who died from
+what appeared to be a self-inflicted gunshot wound. Much is
+still unknown about the attack.
+
+
+### Madison
+
+<https://en.wikipedia.org/wiki/Madison,_Wisconsin?useskin=vector>
+
+
+### mourn
+
+
+### makeshift
+
+
+### fellow student
+
+
+## Two
+
+1.  Mangione Faces First-Degree Murder Charge That Brands Him a Terrorist
+
+A grand jury formally indicted Luigi Mangione in the killing of Brian
+Thompson, the chief executive of UnitedHealthcare. "This was a frightening,
+well-planned, targeted murder that was intended to cause shock and attention
+and intimidation, " said Alvin L. Bragg, the Manhattan district attorney, at a
+news conference on Tuesday. A lawyer for Mr. Mangione, Karen Friedman
+Agnifilo, declined to comment on the new charges. If convicted on the highest
+charges, Mr. Mangione faces a sentence of life in prison without parole.
+
+
+### brand
+
+
+### indict
+
+
+### intimidation
+
+
+### declined
+
+
+### parole
+
+
+## Three
+
+1.  A Russian general was killed today by a bomb on a
+
+Moscow street. Ukraine claimed responsibility for what
+appears to be one of the most brazen assassinations since
+Russia's full-scale invasion nearly three years ago.
+Yesterday, Kyiv had blamed him for the "massive use of
+banned chemical weapons" in Ukraine.
+
+
+### what appears to be
+
+
+### brazen
+
+
+### full-scale
+
+
+### Kyiv
+
+<https://en.wikipedia.org/wiki/Kyiv?useskin=vector>
+
+
+<a id="org3dafa35"></a>
+
+# [(15) 读懂英语新闻（第190期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=xv5OLy8J5wU)
+
+
+## One
+
+1.  A driver plowed a vehicle into a Christmas market in the city of
+
+Magdeburg in central Germany this evening, killing at least two
+people and injuring more than 65 others, 14 of them severely. The
+driver, identified as a 50-year-old Saudi Arabian citizen, was
+arrested, the authorities said. They said they believe it was a
+deliberate attack. More than 1,000 Christmas markets pop up every
+year in Germany, and have been targeted by terrorists before.
+
+
+### plow into
+
+
+### Magdeburg
+
+<https://en.wikipedia.org/wiki/Magdeburg?useskin=vector>
+
+
+### deliberate
+
+
+### pop up
+
+
+## Two
+
+1.  Hopes were high that the Fed's rate cuts could make homes
+
+more affordable, but so far, that hasn't happened. Average rates
+on 30-year mortgages have climbed to around 6.7% from
+roughly 6.1% since the central bank started lowering rates in
+September, according to Freddie Mac. And they're only poised
+to rise further. That's because mortgage rates move with the
+yield on the 10-year Treasury, which has surged this week.
+
+
+### mortgage
+
+<https://en.wikipedia.org/wiki/Mortgage?useskin=vector>
+
+
+### poised to
+
+
+### yield
+
+<https://en.wikipedia.org/wiki/Yield_(finance)?useskin=vector>
+
+
+## Three
+
+1.  Anthony Loke, Malaysia's transportation minister, announced
+
+plans for a robotics company to renew a search for the plane that
+disappeared in 2014. "We think that this is another attempt to find
+[Malaysia Airlines Flight] 370, and it is our responsibility, and our
+obligation, and our commitment to the families." The flight was en
+route to Beijing from Kuala Lumpur with 239 people on board. An
+approximately $150 million multiyear search effort-the most
+expensive in aviation history— ended in 2017.
+
+
+### en route
+
+
+### aviation
+
+<https://en.wikipedia.org/wiki/Aviation?useskin=vector>
 
