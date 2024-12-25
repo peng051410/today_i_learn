@@ -16,6 +16,7 @@
 * [[./english/news.org][English news]]
 * [[./emacs/lisp.md][Lisp]]
 * [[./history/china_history.org][History]]
+* [[./chinese/words.org][Chinese words]]
 
 * Command line
 ** 打印文本第一行
