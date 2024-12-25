@@ -159,6 +159,7 @@ still unknown about the attack.
 https://en.wikipedia.org/wiki/Madison,_Wisconsin?useskin=vector
 *** mourn
 *** makeshift
+https://en.wiktionary.org/wiki/makeshift
 *** fellow student
 ** Two
 2. Mangione Faces First-Degree Murder Charge That Brands Him a Terrorist
@@ -172,8 +173,19 @@ charges, Mr. Mangione faces a sentence of life in prison without parole.
 *** brand
 *** indict
 *** intimidation
+:LOGBOOK:
+- Note taken on [2024-12-25 Wed 09:49] \\
+  https://www.dicts.cn/dictword20181/html/22471f08fae98218f73617e7e599bc63.html?intimidate
+:END:
+
 *** declined
+:LOGBOOK:
+- Note taken on [2024-12-25 Wed 09:49] \\
+  https://www.dicts.cn/dictword20181/html/fe911eb0a594a4f847ef6f0548db4270.html?decline
+:END:
+
 *** parole
+https://en.wikipedia.org/wiki/Parole?useskin=vector
 ** Three
 3. A Russian general was killed today by a bomb on a
 Moscow street. Ukraine claimed responsibility for what
@@ -183,10 +195,14 @@ Yesterday, Kyiv had blamed him for the "massive use of
 banned chemical weapons" in Ukraine.
 *** what appears to be
 *** brazen
+:LOGBOOK:
+- Note taken on [2024-12-25 Wed 09:53] \\
+  https://www.dicts.cn/dictword20181/html/73cd04c35219dfdd2975c5c74bde97b6.html?brazen
+:END:
+
 *** full-scale
 *** Kyiv
 https://en.wikipedia.org/wiki/Kyiv?useskin=vector
-
 
 * [[https://www.youtube.com/watch?v=xv5OLy8J5wU][(15) 读懂英语新闻（第190期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
 :PROPERTIES:
