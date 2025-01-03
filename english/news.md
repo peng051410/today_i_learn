@@ -1,16 +1,18 @@
 
 # Table of Contents
 
--   [(10) 读懂英语新闻（第186期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org95a44d0)
--   [(10) 读懂英语新闻（第187期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org30c4a6b)
--   [(12) 读懂英语新闻（第188期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgb4eaf41)
--   [(13) 读懂英语新闻（第189期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org97dc809)
--   [(15) 读懂英语新闻（第190期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org93ce143)
--   [(15) 读懂英语新闻（第191期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgf49f023)
+-   [(10) 读懂英语新闻（第186期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org99165de)
+-   [(10) 读懂英语新闻（第187期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgdb99dca)
+-   [(12) 读懂英语新闻（第188期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org4d58768)
+-   [(13) 读懂英语新闻（第189期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org366fe47)
+-   [(15) 读懂英语新闻（第190期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgd992be1)
+-   [(15) 读懂英语新闻（第191期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgf3cc945)
+-   [(18) 读懂英语新闻（第192期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org4693eae)
+-   [(19) 读懂英语新闻（第193期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org5a474bd)
 
 
 
-<a id="org95a44d0"></a>
+<a id="org99165de"></a>
 
 # [(10) 读懂英语新闻（第186期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=DFZRg8z_AJg)
 
@@ -66,7 +68,7 @@ authorities have not established a motive.
 <https://en.wikipedia.org/w/index.php?title=Interstate_Highway_System&useskin=vector>
 
 
-<a id="org30c4a6b"></a>
+<a id="orgdb99dca"></a>
 
 # [(10) 读懂英语新闻（第187期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=46AovK1-eX4)
 
@@ -145,7 +147,7 @@ organization.
 ### move to
 
 
-<a id="orgb4eaf41"></a>
+<a id="org4d58768"></a>
 
 # [(12) 读懂英语新闻（第188期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=zrmOoQ8bwBw)
 
@@ -239,7 +241,7 @@ are under pressure and chefs will soon be forced to innovate.
 ### chefs
 
 
-<a id="org97dc809"></a>
+<a id="org366fe47"></a>
 
 # [(13) 读懂英语新闻（第189期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=0V-erwAAzeM)
 
@@ -327,7 +329,7 @@ banned chemical weapons" in Ukraine.
 <https://en.wikipedia.org/wiki/Kyiv?useskin=vector>
 
 
-<a id="org93ce143"></a>
+<a id="orgd992be1"></a>
 
 # [(15) 读懂英语新闻（第190期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=xv5OLy8J5wU)
 
@@ -404,7 +406,7 @@ expensive in aviation history— ended in 2017.
 <https://en.wikipedia.org/wiki/Aviation?useskin=vector>
 
 
-<a id="orgf49f023"></a>
+<a id="orgf3cc945"></a>
 
 # [(15) 读懂英语新闻（第191期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=Gb63l2VsyWQ)
 
@@ -498,4 +500,159 @@ intense consternation of their leaders.
 
 
 ### consternation
+
+
+<a id="org4693eae"></a>
+
+# [(18) 读懂英语新闻（第192期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=SDEGEVFrvOM)
+
+
+## One
+
+1, "Physical and technical external interference" caused the plane crash
+that killed 38 people flying to southern Russia, Azerbaijan Airlines said.
+That's the closest officials have come to confirming mounting suspicions
+that a Russian air-defense system downed the jet. Russia's aviation
+authority said that the plane had tried to land in Grozny in Russia's
+Chechnya region amid difficult conditions during a Ukrainian drone
+strike. Missiles are now the biggest killer of airline passengers, aviation
+safety data show.
+
+
+### Azerbaijan Airline
+
+<https://en.wikipedia.org/wiki/Azerbaijan_Airlines?useskin=vector>
+
+
+### mounting
+
+
+### drone
+
+
+## Two
+
+1.  Musk vowed last night to "go to war" to defend the H-1B visa program for
+
+foreign tech workers, branding some Republican opponents as "hateful,
+unrepentant racists." The MAGA-DOGE civil war that erupted over the last 48
+hours has hit a tipping point, with President-elect Trump's new techno-libertarian
+coalition of billionaires taking full aim at his base. Steve Bannon, one of the
+longest-tenured voices in Trump's orbit, had multiple guests on his show this week
+to talk about his hardline anti-H-1B views. Bannon tells Axios he helped kick off
+the debate with a now-viral Gettr post calling out a lack of support for the Black
+and Hispanic communities in Big Tech.
+
+
+### unrepentant
+
+
+### tipping point
+
+
+### take aim at
+
+
+### Steve Bannon
+
+<https://en.wikipedia.org/wiki/Steve_Bannon?useskin=vector>
+
+
+### kick off
+
+
+### call out
+
+
+## Three
+
+1.  Your so-called face age can tell doctors important
+
+information about your health. Scans of face photos can
+estimate people's "biological age." A study found that
+an Al-trained model did a better job than doctors of
+predicting how long cancer patients will live.
+Researchers hope that one day the tool could be a
+standard part of assessing health.
+
+
+<a id="org5a474bd"></a>
+
+# [(19) 读懂英语新闻（第193期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=1law8VzRdNE)
+
+
+## One
+
+1.  Wall Street sees more gains ahead
+
+The S&P 500 index was down slightly today, the final trading day of
+2024, but it rose about 23.3 percent this year, roughly matching its gain
+in 2023. It was the first time the benchmark index had risen more than
+20 percent in consecutive years since 1998. Investors are heading into
+2025 in an optimistic mood, believing that, with the economy on firm
+footing and the White House in their corner, the stock market will
+continue to climb.
+
+
+### see
+
+
+### gain
+
+
+### ahead
+
+
+### on firm footing
+
+
+### in their corner
+
+
+## Two
+
+1.  Jimmy Carter, the 39th US president who brokered peace between
+
+Israel and Egypt in the historic Camp David Accords, has died at 100.
+His one-term presidency was marred by high inflation, an oil shortage
+and the Iran hostage crisis, but some of his most notable achievements
+came after he left the White Househis humanitarian work won him
+the 2002 Nobel Peace Prize. The former president will get a state
+funeral, and Joe Biden designated Jan. 9 as a national day of mourning.
+
+
+### Jimmy Carter
+
+<https://en.wikipedia.org/wiki/Jimmy_Carter?useskin=vector>
+
+
+### broker
+
+
+### Egypt
+
+<https://en.wikipedia.org/wiki/Egypt?useskin=vector>
+
+
+### mar
+
+
+## Three
+
+1.  More people of all sizes and speeds are taking on
+
+26.2-mile runs, thanks to super-cushioned sneakers,
+running groups and the races' appeal to Gen Z athletes.
+The pandemic helped fuel the running craze because
+folks wanted exercise they could do alone and outdoors.
+
+
+### sneaker
+
+<https://en.wikipedia.org/wiki/Sneakers?useskin=vector>
+
+
+### Gen Z
+
+<https://en.wikipedia.org/w/index.php?title=Generation_Z&useskin=vector>
 

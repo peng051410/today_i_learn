@@ -304,3 +304,119 @@ intense consternation of their leaders.
 https://en.wikipedia.org/wiki/Panama_Canal?useskin=vector
 *** annex
 *** consternation
+
+* [[https://www.youtube.com/watch?v=SDEGEVFrvOM][(18) 读懂英语新闻（第192期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+** One
+1, "Physical and technical external interference" caused the plane crash
+that killed 38 people flying to southern Russia, Azerbaijan Airlines said.
+That's the closest officials have come to confirming mounting suspicions
+that a Russian air-defense system downed the jet. Russia's aviation
+authority said that the plane had tried to land in Grozny in Russia's
+Chechnya region amid difficult conditions during a Ukrainian drone
+strike. Missiles are now the biggest killer of airline passengers, aviation
+safety data show.
+*** Azerbaijan Airline
+https://en.wikipedia.org/wiki/Azerbaijan_Airlines?useskin=vector
+*** mounting
+:LOGBOOK:
+- Note taken on [2024-12-31 Tue 10:00] \\
+  https://en.wiktionary.org/wiki/mounting
+:END:
+
+*** drone
+** Two
+2. Musk vowed last night to "go to war" to defend the H-1B visa program for
+foreign tech workers, branding some Republican opponents as "hateful,
+unrepentant racists." The MAGA-DOGE civil war that erupted over the last 48
+hours has hit a tipping point, with President-elect Trump's new techno-libertarian
+coalition of billionaires taking full aim at his base. Steve Bannon, one of the
+longest-tenured voices in Trump's orbit, had multiple guests on his show this week
+to talk about his hardline anti-H-1B views. Bannon tells Axios he helped kick off
+the debate with a now-viral Gettr post calling out a lack of support for the Black
+and Hispanic communities in Big Tech.
+*** unrepentant
+*** tipping point
+:LOGBOOK:
+- Note taken on [2024-12-31 Tue 10:00] \\
+  https://en.wiktionary.org/wiki/tipping_point
+:END:
+
+*** take aim at
+*** Steve Bannon
+https://en.wikipedia.org/wiki/Steve_Bannon?useskin=vector
+*** kick off
+*** call out
+:LOGBOOK:
+- Note taken on [2024-12-31 Tue 10:04] \\
+  https://en.wiktionary.org/wiki/call_out
+:END:
+
+** Three
+3. Your so-called face age can tell doctors important
+information about your health. Scans of face photos can
+estimate people's "biological age." A study found that
+an Al-trained model did a better job than doctors of
+predicting how long cancer patients will live.
+Researchers hope that one day the tool could be a
+standard part of assessing health.
+* [[https://www.youtube.com/watch?v=1law8VzRdNE][(19) 读懂英语新闻（第193期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** One
+1. Wall Street sees more gains ahead
+The S&P 500 index was down slightly today, the final trading day of
+2024, but it rose about 23.3 percent this year, roughly matching its gain
+in 2023. It was the first time the benchmark index had risen more than
+20 percent in consecutive years since 1998. Investors are heading into
+2025 in an optimistic mood, believing that, with the economy on firm
+footing and the White House in their corner, the stock market will
+continue to climb.
+*** see
+*** gain
+*** ahead
+*** on firm footing
+*** in their corner
+:LOGBOOK:
+- Note taken on [2025-01-02 Thu 09:50] \\
+  来自拳击
+:END:
+
+** Two
+2. Jimmy Carter, the 39th US president who brokered peace between
+Israel and Egypt in the historic Camp David Accords, has died at 100.
+His one-term presidency was marred by high inflation, an oil shortage
+and the Iran hostage crisis, but some of his most notable achievements
+came after he left the White Househis humanitarian work won him
+the 2002 Nobel Peace Prize. The former president will get a state
+funeral, and Joe Biden designated Jan. 9 as a national day of mourning.
+*** Jimmy Carter
+https://en.wikipedia.org/wiki/Jimmy_Carter?useskin=vector
+*** broker
+:LOGBOOK:
+- Note taken on [2025-01-03 Fri 09:35] \\
+  https://www.dicts.cn/dictword20181/html/f9f7e3234c205ab0e2874dd07c3bd46d.html?broker
+:END:
+
+*** Egypt
+https://en.wikipedia.org/wiki/Egypt?useskin=vector
+*** mar
+:LOGBOOK:
+- Note taken on [2025-01-03 Fri 09:36] \\
+  https://www.dicts.cn/dictword20181/html/897567e13a4312342fb2dace4bec593f.html?mar
+:END:
+
+** Three
+3. More people of all sizes and speeds are taking on
+26.2-mile runs, thanks to super-cushioned sneakers,
+running groups and the races' appeal to Gen Z athletes.
+The pandemic helped fuel the running craze because
+folks wanted exercise they could do alone and outdoors.
+*** sneaker
+https://en.wikipedia.org/wiki/Sneakers?useskin=vector
+*** Gen Z
+https://en.wikipedia.org/w/index.php?title=Generation_Z&useskin=vector
