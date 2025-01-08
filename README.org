@@ -505,6 +505,8 @@ This can realize by setting options
 ,#+options: d:t
 #+end_src
 
+** Org copy headline only
+Use org-copy-visiable
 * Org hugo add shortcode
 Hugo支持短代码形式在生成html时填充模板内容，shortcode配置的html文件放在 */layouts/shortcodes* 目录下即可，下面的代码就可以实现在博客中嵌入[[https://www.bilibili.com/video/BV1pD4y1K7iw/][B站]]的视频
 #+begin_export hugo
@@ -979,6 +981,18 @@ https://cdn.jsdelivr.net/gh/peng051410/bucket@main/img/JL7jS1.png
 
 ** Add debug info to app
 Add *-_NS_4445425547 YES* param to app
+
+** Remove Deleted Apps from Background Login Items
+:LOGBOOK:
+- Note taken on [2025-01-07 Tue 16:21] \\
+  https://droidwin.com/remove-deleted-apps-from-background-login-items-in-ventura/
+:END:
+Open folders show below and delete relative item
+#+begin_src sh
+cd ~/Library/LaunchAgents
+cd /Library/LaunchAgents
+cd /Library/LaunchDaemons
+#+end_src
 * Linux
 
 ** Change default program
