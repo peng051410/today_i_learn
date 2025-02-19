@@ -1,19 +1,22 @@
 
 # Table of Contents
 
--   [(10) 读懂英语新闻（第186期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org9f85625)
--   [(10) 读懂英语新闻（第187期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgc6d03e6)
--   [(12) 读懂英语新闻（第188期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org095d25a)
--   [(13) 读懂英语新闻（第189期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgf08899b)
--   [(15) 读懂英语新闻（第190期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org0303e2d)
--   [(15) 读懂英语新闻（第191期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org69e6249)
--   [(18) 读懂英语新闻（第192期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org9226545)
--   [(19) 读懂英语新闻（第193期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org5a2c47d)
--   [(3) 读懂英语新闻（第194期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgb2aebc5)
+-   [(10) 读懂英语新闻（第186期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgc716e76)
+-   [(10) 读懂英语新闻（第187期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgf844585)
+-   [(12) 读懂英语新闻（第188期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org0d34d5a)
+-   [(13) 读懂英语新闻（第189期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgc57bec6)
+-   [(15) 读懂英语新闻（第190期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org4f3a979)
+-   [(15) 读懂英语新闻（第191期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org9501d50)
+-   [(18) 读懂英语新闻（第192期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org53f842e)
+-   [(19) 读懂英语新闻（第193期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgdbf4959)
+-   [(3) 读懂英语新闻（第194期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org967209d)
+-   [(3) 读懂英语新闻（第195期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org41a4df2)
+-   [(19) 读懂英语新闻（第204期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgf9bce1d)
+-   [(4) 读懂英语新闻（第205期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgf6121b0)
 
 
 
-<a id="org9f85625"></a>
+<a id="orgc716e76"></a>
 
 # [(10) 读懂英语新闻（第186期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=DFZRg8z_AJg)
 
@@ -69,7 +72,7 @@ authorities have not established a motive.
 <https://en.wikipedia.org/w/index.php?title=Interstate_Highway_System&useskin=vector>
 
 
-<a id="orgc6d03e6"></a>
+<a id="orgf844585"></a>
 
 # [(10) 读懂英语新闻（第187期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=46AovK1-eX4)
 
@@ -148,7 +151,7 @@ organization.
 ### move to
 
 
-<a id="org095d25a"></a>
+<a id="org0d34d5a"></a>
 
 # [(12) 读懂英语新闻（第188期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=zrmOoQ8bwBw)
 
@@ -242,7 +245,7 @@ are under pressure and chefs will soon be forced to innovate.
 ### chefs
 
 
-<a id="orgf08899b"></a>
+<a id="orgc57bec6"></a>
 
 # [(13) 读懂英语新闻（第189期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=0V-erwAAzeM)
 
@@ -330,7 +333,7 @@ banned chemical weapons" in Ukraine.
 <https://en.wikipedia.org/wiki/Kyiv?useskin=vector>
 
 
-<a id="org0303e2d"></a>
+<a id="org4f3a979"></a>
 
 # [(15) 读懂英语新闻（第190期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=xv5OLy8J5wU)
 
@@ -407,7 +410,7 @@ expensive in aviation history— ended in 2017.
 <https://en.wikipedia.org/wiki/Aviation?useskin=vector>
 
 
-<a id="org69e6249"></a>
+<a id="org9501d50"></a>
 
 # [(15) 读懂英语新闻（第191期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=Gb63l2VsyWQ)
 
@@ -503,7 +506,7 @@ intense consternation of their leaders.
 ### consternation
 
 
-<a id="org9226545"></a>
+<a id="org53f842e"></a>
 
 # [(18) 读懂英语新闻（第192期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=SDEGEVFrvOM)
 
@@ -577,7 +580,7 @@ Researchers hope that one day the tool could be a
 standard part of assessing health.
 
 
-<a id="org5a2c47d"></a>
+<a id="orgdbf4959"></a>
 
 # [(19) 读懂英语新闻（第193期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=1law8VzRdNE)
 
@@ -658,7 +661,7 @@ folks wanted exercise they could do alone and outdoors.
 <https://en.wikipedia.org/w/index.php?title=Generation_Z&useskin=vector>
 
 
-<a id="orgb2aebc5"></a>
+<a id="org967209d"></a>
 
 # [(3) 读懂英语新闻（第194期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=oz75nCQjgCA)
 
@@ -708,4 +711,202 @@ jail time. The sentencing is set for Jan. 10.
 
 
 ### spare
+
+
+<a id="org41a4df2"></a>
+
+# [(3) 读懂英语新闻（第195期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=AEK8NHChUGs)
+
+
+## One
+
+1 • Wildfires are spreading rapidly in Los Angeles, fanned by a
+fierce windstorm. Gusts of up to 100 m.p.h., stronger than any the
+region has seen in a decade, are forecast to blow through the night.
+The flames are threatening Pacific Palisades, an affluent coastal
+neighborhood that is home to about 24,000 people, roughly 20
+miles west of downtown Los Angeles. Officials ordered residents
+to evacuate immediately.
+
+
+### gust
+
+
+### evacuate
+
+
+## Two
+
+2 • Donald Trump said today at a news conference that he
+would not rule out the use of military or economic coercion
+to retake control of the Panama Canal and to force Denmark
+to sell Greenland to the U.S. He also suggested that Canada
+should become a U.S. state by getting "rid of that artificially
+drawn line." The four nations have rejected his entreaties.
+
+
+### rule out
+
+
+### coercion
+
+
+### Denmark
+
+
+### entreaty
+
+
+## Three
+
+3 • Prime Minister Justin Trudeau is resigning after more
+than nine years leading Canada, bowing to sagging
+approval numbers and a rebellion within his own party.
+Currently the longest-serving leader of any Group of Seven
+country, the 53-year-old said Monday he'll step down as
+head of the governing Liberal Party within months. He will
+remain as prime minister until a new leader is selected.
+
+
+### bow
+
+
+### sag
+
+
+### rebellion
+
+
+### Group of Seven
+
+
+### step down
+
+
+<a id="orgf9bce1d"></a>
+
+# [(19) 读懂英语新闻（第204期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=x8jeSzbSsqQ)
+
+
+## One
+
+1.  Get ready for Super Bowl Sunday
+
+We're just two days away from America's biggest annual sporting event, the
+Super Bowl. Kansas City and Philadelphia will meet at New Orleans's famous
+Superdome, where Kansas City is narrowly favored to win its third consecutive
+title. Kendrick Lamar will headline the halftime show, President Trump is
+expected to show up and Taylor Swift will almost certainly be there. Most of us
+will watch from home - a ticket costs more than most mortgage payments —
+where treats like chicken wings and artichoke dip will be the real stars.
+
+
+### headline
+
+
+### treat
+
+
+## Two
+
+1.  A federal judge temporarily blocked Elon Musk and some
+
+of his team at the Department of Government Efficiency from
+accessing sensitive Treasury payment systems. Last week Mr
+Musk claimed doge was cancelling "illegal" payments,
+sparking concerns that he had gained access to systems
+handling trillions in Social Security and Medicare funds.
+
+
+### spark
+
+
+## Three
+
+1.  How to sanitize your kitchen sink
+
+After the effort of cooking a meal and clearing a sink full of dishes, cleaning
+the sink itself may be the last thing you want to do. Unfortunately, it's
+important: It kills pathogens from produce and raw meat, and it helps keep the
+kitchen from getting smelly. Luckily, cleaning your sink can be an easy, two-
+step process. Scrub off grime with a bit of dish soap on a brush or sponge and
+then rinse the sink down. Next, sanitize it with a spray containing bleach,
+making sure to cover the faucets and handles. Let the spray sit for the
+recommended time, rinse with water, and voilà.
+
+
+### sanitize
+
+
+### sink
+
+
+### produce
+
+
+### scrub off
+
+
+### grime
+
+
+<a id="orgf6121b0"></a>
+
+# [(4) 读懂英语新闻（第205期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=LBUKbSskiSU)
+
+
+## One
+
+1.  Trump plans to put the brakes on a law that forbids U.S. A blit
+
+companies from bribing foreign officials to win business. The
+measure disadvantages U.S. firms because they can't do what
+overseas rivals do, and excessive enforcement crimps the president's
+authority to conduct foreign affairs, the White House said. From big
+bucks to one cent: Trump said he instructed the Treasury to stop
+producing pennies because minting them is a waste of money. Others
+say abolishing the penny would impact traders and consumers.
+
+
+### brake
+
+
+### buck
+
+
+### Treasury
+
+<https://en.wikipedia.org/wiki/Treasury?useskin=vector>
+
+
+### mint
+
+
+## Two
+
+1.  Trump announced a 25% tariff on all steel and
+
+aluminum imports. Trump said the new tariffs would
+apply to "everybody," including Canada and Mexico,
+and take effect immediately. He also plans to introduce
+reciprocal tariffs to match duties imposed by other
+nations on U.S. goods.
+
+
+### reciprocal
+
+
+## Three
+
+1.  Musk led a bid to buy OpenAI
+
+A group of investors led by Elon Musk has made a $97.4 billion bid to buy the
+nonprofit that controls OpenAl, the artificial intelligence company that created
+ChatGPT. OpenAI declined to comment, but Sam Altman, the company's
+chief executive, posted a response on social media: "No thank you but we will
+buy twitter for $9.74 billion if you want." Musk, who has had a yearslong
+rivalry with Altman, replied to the post: "Swindler," he said.
+
+
+### bid
 
