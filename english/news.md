@@ -1,23 +1,24 @@
 
 # Table of Contents
 
--   [(10) 读懂英语新闻（第186期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org6836171)
--   [(10) 读懂英语新闻（第187期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org0f095c1)
--   [(12) 读懂英语新闻（第188期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org649b1f5)
--   [(13) 读懂英语新闻（第189期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgb135d73)
--   [(15) 读懂英语新闻（第190期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org2053e36)
--   [(15) 读懂英语新闻（第191期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org87d953a)
--   [(18) 读懂英语新闻（第192期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgdbe3e30)
--   [(19) 读懂英语新闻（第193期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org24af176)
--   [(3) 读懂英语新闻（第194期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org0ba23f2)
--   [(3) 读懂英语新闻（第195期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgea452fd)
--   [(19) 读懂英语新闻（第204期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orge388bbb)
--   [(4) 读懂英语新闻（第205期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org6f8e843)
--   [(4) 读懂英语新闻（第206期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org9661463)
+-   [(10) 读懂英语新闻（第186期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org33cab70)
+-   [(10) 读懂英语新闻（第187期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org4ed21ec)
+-   [(12) 读懂英语新闻（第188期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org99a24b2)
+-   [(13) 读懂英语新闻（第189期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgc51af0c)
+-   [(15) 读懂英语新闻（第190期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org70f164d)
+-   [(15) 读懂英语新闻（第191期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgb0cf43f)
+-   [(18) 读懂英语新闻（第192期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org6c44dac)
+-   [(19) 读懂英语新闻（第193期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org3530145)
+-   [(3) 读懂英语新闻（第194期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org8ae9afe)
+-   [(3) 读懂英语新闻（第195期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org61c9220)
+-   [(19) 读懂英语新闻（第204期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org31c88c1)
+-   [(4) 读懂英语新闻（第205期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org7a53e83)
+-   [(4) 读懂英语新闻（第206期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orge1e593f)
+-   [读懂英语新闻（第207期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgdafce6c)
 
 
 
-<a id="org6836171"></a>
+<a id="org33cab70"></a>
 
 # [(10) 读懂英语新闻（第186期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=DFZRg8z_AJg)
 
@@ -73,7 +74,7 @@ authorities have not established a motive.
 <https://en.wikipedia.org/w/index.php?title=Interstate_Highway_System&useskin=vector>
 
 
-<a id="org0f095c1"></a>
+<a id="org4ed21ec"></a>
 
 # [(10) 读懂英语新闻（第187期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=46AovK1-eX4)
 
@@ -152,7 +153,7 @@ organization.
 ### move to
 
 
-<a id="org649b1f5"></a>
+<a id="org99a24b2"></a>
 
 # [(12) 读懂英语新闻（第188期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=zrmOoQ8bwBw)
 
@@ -246,7 +247,7 @@ are under pressure and chefs will soon be forced to innovate.
 ### chefs
 
 
-<a id="orgb135d73"></a>
+<a id="orgc51af0c"></a>
 
 # [(13) 读懂英语新闻（第189期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=0V-erwAAzeM)
 
@@ -334,7 +335,7 @@ banned chemical weapons" in Ukraine.
 <https://en.wikipedia.org/wiki/Kyiv?useskin=vector>
 
 
-<a id="org2053e36"></a>
+<a id="org70f164d"></a>
 
 # [(15) 读懂英语新闻（第190期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=xv5OLy8J5wU)
 
@@ -411,7 +412,7 @@ expensive in aviation history— ended in 2017.
 <https://en.wikipedia.org/wiki/Aviation?useskin=vector>
 
 
-<a id="org87d953a"></a>
+<a id="orgb0cf43f"></a>
 
 # [(15) 读懂英语新闻（第191期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=Gb63l2VsyWQ)
 
@@ -507,7 +508,7 @@ intense consternation of their leaders.
 ### consternation
 
 
-<a id="orgdbe3e30"></a>
+<a id="org6c44dac"></a>
 
 # [(18) 读懂英语新闻（第192期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=SDEGEVFrvOM)
 
@@ -581,7 +582,7 @@ Researchers hope that one day the tool could be a
 standard part of assessing health.
 
 
-<a id="org24af176"></a>
+<a id="org3530145"></a>
 
 # [(19) 读懂英语新闻（第193期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=1law8VzRdNE)
 
@@ -662,7 +663,7 @@ folks wanted exercise they could do alone and outdoors.
 <https://en.wikipedia.org/w/index.php?title=Generation_Z&useskin=vector>
 
 
-<a id="org0ba23f2"></a>
+<a id="org8ae9afe"></a>
 
 # [(3) 读懂英语新闻（第194期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=oz75nCQjgCA)
 
@@ -714,7 +715,7 @@ jail time. The sentencing is set for Jan. 10.
 ### spare
 
 
-<a id="orgea452fd"></a>
+<a id="org61c9220"></a>
 
 # [(3) 读懂英语新闻（第195期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=AEK8NHChUGs)
 
@@ -784,7 +785,7 @@ remain as prime minister until a new leader is selected.
 ### step down
 
 
-<a id="orge388bbb"></a>
+<a id="org31c88c1"></a>
 
 # [(19) 读懂英语新闻（第204期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=x8jeSzbSsqQ)
 
@@ -851,7 +852,7 @@ recommended time, rinse with water, and voilà.
 ### grime
 
 
-<a id="org6f8e843"></a>
+<a id="org7a53e83"></a>
 
 # [(4) 读懂英语新闻（第205期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=LBUKbSskiSU)
 
@@ -912,7 +913,7 @@ rivalry with Altman, replied to the post: "Swindler," he said.
 ### bid
 
 
-<a id="org9661463"></a>
+<a id="orge1e593f"></a>
 
 # [(4) 读懂英语新闻（第206期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=vlYkm1B2rO0)
 
@@ -1023,4 +1024,97 @@ Trump delayed it taking effect.
 
 <https://en.wikipedia.org/w/index.php?title=Ministry_of_justice&useskin=vector>
 <https://en.wikipedia.org/wiki/United_States_Department_of_Justice?useskin=vector>
+
+
+<a id="orgdafce6c"></a>
+
+# [读懂英语新闻（第207期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV14XAre8EBq/)
+
+
+## One
+
+1.  A Delta plane from Minneapolis crashed and flipped on its
+
+back while landing in Toronto yesterday - injuring 18 but not
+killing anybody. Officials said all 80 on board were evacuated
+from the aircraft, which flipped amid windy weather after a
+weekend snowstorm hit the area. One of the plane's wings was
+torn off during the incident, which left three people — including
+a child — critically injured.
+
+
+### Minneapolis
+
+<https://en.wikipedia.org/wiki/Minneapolis?useskin=vector>
+
+
+### Tornonto
+
+<https://en.wikipedia.org/w/index.php?title=Toronto&useskin=vector>
+
+
+### evacuate
+
+<https://www.dicts.cn/dictword20181/html/46a6ad040c1d60d7d8e92ce24f01b059.html?evacuate>
+
+
+### tear off
+
+<https://www.dicts.cn/dictword20181/html/8d97007ab591fb684dc7248e507eec62.html?tear%20off>
+
+
+### critically
+
+<https://www.dicts.cn/dictword20181/html/82d6e5335735a5fa7e2c7c31c9e811b6.html?critically>
+
+
+## Two
+
+1.  The worst flu season in 15 years has left hundreds of thousands
+
+of Americans hospitalized while straining physicians' offices and
+emergency departments. The virus is causing more severe
+complications and hitting young children especially hard. This flu
+season is classified as a "high-severity" season, with estimates of
+at least 29 million cases - the most since the 2009-2010 flu
+season, according to CDC data. There have been at least 370,000
+hospitalizations and 16,000 deaths from flu as of Feb. 8.
+
+
+### strain
+
+<https://www.dicts.cn/dictword20181/html/0510eab5dad48207914fa152b60043a9.html?strain>
+
+
+### complication
+
+<https://www.dicts.cn/dictword20181/html/54fef76b059890a1b874e8ce16ade4d3.html?complication>
+
+
+### CDC
+
+<https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention?useskin=vector>
+
+
+### as of
+
+
+## Three
+
+1.  The U.S. and Russia began talks to try to end the war in Ukraine.
+
+At meetings in Saudi Arabia, Washington will push for a quick
+cease-fire, and Moscow is expected to call for large concessions.
+Ukraine wants to be a party to the talks and has said it's not
+obliged to agree to a peace deal negotiated in its absence.
+
+
+### call for
+
+<https://www.dicts.cn/dictword20181/html/4732c04a96cae8551afec1c841ce6a45.html?call%20for>
+
+
+### concession
+
+<https://www.dicts.cn/dictword20181/html/72c7b3f70891bb51525832609e9f85e6.html?concession>
 
