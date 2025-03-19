@@ -1,4 +1,7 @@
 #+OPTIONS: toc:1 ^:nil ~:nil num:nil reveal_title_slide:nil timestamp:nil
+#+FILETAGS: ANKI
+#+STARTUP: indent
+#+ANKI_DECK: English
 
 * [[https://www.youtube.com/watch?v=DFZRg8z_AJg][(10) 读懂英语新闻（第186期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
 :PROPERTIES:
@@ -836,3 +839,95 @@ The order is expected to be largely symbolic but would be
 a victory for America's English-only movement, which has
 long had ties to efforts to reduce immigration and restrict
 bilingual education.
+
+* [[https://www.bilibili.com/video/BV1pX9oYGEmb][读懂英语新闻（第211期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记_哔哩哔哩_bilibili]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+
+** One
+1. Volodymyr Zelensky, Ukraine's president, attempted to
+mend relations with America after Donald Trump
+suspended military aid to the country. Zelensky seemingly
+denied Trump's accusations that Ukraine was not "ready
+for peace" and reiterated his offer to strike a minerals deal
+with America. Earlier Marco Rubio, America's secretary of
+state, said squeezing Ukraine could "get the Russians to a
+negotiating table"
+
+*** mend
+https://www.dicts.cn/dictword20181/html/d0a320db5e5d545574981b35487c52c2.html?mend
+*** accusation
+https://www.bing.com/dict/search?q=accusation
+*** reiterate
+https://www.bing.com/dict/search?q=reiterate&lq=0&pq=&ghsh=0&ghacc=0&ghpl=
+*** strike a deal
+https://www.bing.com/dict/search?q=strike+a+deal&lq=0&pq=&ghsh=0&ghacc=0&ghpl=
+* [[https://www.bilibili.com/video/BV11gRYY2E5D][读懂英语新闻（第212期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记_哔哩哔哩_bilibili]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+** grant
+/graent/ n. 拨款
+
+** harassment
+/ha'raesmant/ n. 骚扰
+
+** set off
+:PROPERTIES:
+:ANKI_NOTE_ID: 1741657693321
+:END:
+引发
+
+** unleash
+
+* [[https://www.bilibili.com/video/BV14NQWYEEkB][读懂英语新闻（第213期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记_哔哩哔哩_bilibili]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+** One
+1. Wall Street is divided whether the Monday market meitdown
+represents something more than the short-term pain as flagged up
+increasingly by President Donald Trump's team. The difference this
+time is that it's hammering the broader market rather than just the
+megacaps. Tesla was hit more than most on Monday but got a nice vote
+of confidence from the commander-in-chief. Trump said he's going to
+buy a new Tesla this morning to support Musk, who confessed to
+struggling a bit running his business at the same time as doing his
+DOGE work. His next target: entitlement spending, including Social
+Security and Medicare.
+*** meltdown
+https://www.dicts.cn/dictword20181/html/149557d686979c7263fb7fced6e708f7.html?meltdown
+*** flag up
+https://www.oxfordlearnersdictionaries.com/definition/english/flag-up
+*** entitlement
+https://www.dicts.cn/dictword20181/html/7bece46303ff0e48aae0f800b5d543ac.html?entitlement
+** Two
+2. Aviation safety has been in the spotlight since
+January's tragic midair collision near DCA, with some
+travelers afraid that flying is suddenly more dangerous,
+despite contrary data. "I have friends and family
+[asking], 'Should I get on an airplane?' one retired
+controller tells Axios. " I'm like: 'Well, it's not there yet.'
+But it seems to be trending that way."
+*** aviation
+https://www.dicts.cn/dictword20181/html/7a7cf22660179908b33d97c2e071a0d5.html?aviation
+*** spotlight
+https://www.dicts.cn/dictword20181/html/27b2e3d5d0517d56780444b689eb54e1.html?spotlight
+** Three
+3. Federal immigration authorities detained Mahmoud
+Khalil, who was a prominent pro-Palestinian activist at
+Columbia University, over the weekend. Khalil is a lawful
+permanent resident with a green card. However, the Trump
+administration is seeking to deport him using an obscure
+legal statute.
+
+*** prominent
+https://www.dicts.cn/dictword20181/html/614ae77f26498b707832bb6879b6085e.html?prominent
+*** deport
+https://www.dicts.cn/dictword20181/html/3258f0e3ce2eb53d024deabb50b2bfdd.html?deport
+*** obscure
+https://www.dicts.cn/dictword20181/html/579278abd1ee99636b327325b4f28263.html?obscure
