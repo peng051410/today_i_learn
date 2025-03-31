@@ -507,6 +507,21 @@ This can realize by setting options
 
 ** Org copy headline only
 Use org-copy-visiable
+
+** Emacs-plus29+ install on mac15 issue
+*** [[https://github.com/d12frosted/homebrew-emacs-plus/issues/720][[General]: exec-paths not being set in Sequoia for emacs-plus@30 · Issue #720 · d12frosted/homebrew-emacs-plus]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+*** [[https://github.com/d12frosted/homebrew-emacs-plus/issues/556][Could not install emacs-plus@29 with --with-xwidgets --with-imagemagick --with-native-comp · Issue #556 · d12frosted/homebrew-emacs-plus]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+[[https://github.com/d12frosted/homebrew-emacs-plus/issues/733#issuecomment-2368746692][Solved by add path to emacs]]
+#+begin_src emacs-lisp
+(setenv "PATH" "~/Library/Python/3.9/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/sbin:/usr/sbin:/Library/TeX/texbin:~/.local/bin:~/Nustore/script:~/go/bin:/opt/local/bin")
+(setq exec-path (split-string (getenv "PATH") path-separator))
+#+end_src
 * Org hugo add shortcode
 Hugo支持短代码形式在生成html时填充模板内容，shortcode配置的html文件放在 */layouts/shortcodes* 目录下即可，下面的代码就可以实现在博客中嵌入[[https://www.bilibili.com/video/BV1pD4y1K7iw/][B站]]的视频
 #+begin_export hugo
@@ -583,11 +598,17 @@ git push new_repo_address +old_repo_branch:master
 #+end_src
 *** [[https://stackoverflow.com/questions/9527999/how-do-i-create-a-new-github-repo-from-a-branch-in-an-existing-repo][git - How do I create a new GitHub repo from a branch in an existing repo? - Stack Overflow]]
 Captured On: [2023-02-23 Thu 14:22]
+
 ** Clone single branch
 #+begin_src sh
 git clone <url> --branch <branch-to-clone> --single-branch [folder-to-store]
 #+end_src
 https://igorstechnoclub.com/my-everyday-git-commands/
+
+** Show lastest one wekk logs
+#+begin_src sh
+git log --since=1.week
+#+end_src
 * Github
 
 ** Add profile page to github
@@ -860,6 +881,15 @@ abinary = bin(1024)
 print(abinary)
 #+end_src
 
+** Set python spel env with uv
+:LOGBOOK:
+- Note taken on [2025-01-13 Mon 11:38] \\
+  https://valatka.dev/2025/01/12/on-killer-uv-feature.html
+:END:
+#+begin_src sh
+uv run --python 3.12 --with pandas python
+#+end_src
+
 ** [[https://blog.heyfe.org/blog/2022-mac-12-3-python-not-found.html][关于 Mac 12.3 出现 python not found 的解决方法 | HeyFE]]
 Captured On: [2023-12-05 Tue 19:04]
 
@@ -877,6 +907,11 @@ pyenv global 2.7.18
 ** Exist venv
 #+begin_src sh
 deactivate
+#+end_src
+
+** Python run httpServer under current  directory
+#+begin_src sh
+python3 -m http.server --directory .
 #+end_src
 * Brew
 
