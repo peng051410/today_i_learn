@@ -936,29 +936,13 @@ https://www.dicts.cn/dictword20181/html/579278abd1ee99636b327325b4f28263.html?ob
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
 ** One
-1. Mark Carney was sworn in as Canada's 24th prime minister,
-bringing the former central banker to power in the middle of an
-explosive trade war with the US. The 59-year-old took the oath
-as Canadà's new leader at a ceremony in Ottawa on Friday, five
-days after Liberal Party members voted overwhelmingly for him
-to replace Justin Trudeau as head of the party. In his first news
-conference as prime minister, Carney told reporters there has
-been "progress" in discussions with the US, after weeks of tariff
-hostilities.
+1. Mark Carney was sworn in as Canada's 24th prime minister, bringing the former central banker to power in the middle of an explosive trade war with the US. The 59-year-old took the oath as Canadà's new leader at a ceremony in Ottawa on Friday, five days after Liberal Party members voted overwhelmingly for him to replace Justin Trudeau as head of the party. In his first news conference as prime minister, Carney told reporters there has been "progress" in discussions with the US, after weeks of tariff hostilities.
 *** swear in
 https://www.bing.com/dict/search?q=swear+in
 *** oath
 https://www.dicts.cn/dictword20181/html/2245636238d9d2df37efbe013b11befc.html?oath
 ** Two
-2. A.I. systems are getting better every day
-Engineers and entrepreneurs in Silicon Valley often talk about
-the imminent creation of artificial general intelligence, or
-A.G.I., which is usually defined as something like "a general-
-purpose A.I. system that can do almost all cognitive tasks a
-human can do." Elsewhere in the world, many people scoff at
-the idea. But Sam Altman expresses optimism that we are
-nearing a breakthrough. He believes that by 2025, machines
-will think and reason like humans.
+2. A.I. systems are getting better every day Engineers and entrepreneurs in Silicon Valley often talk about the imminent creation of artificial general intelligence, or A.G.I., which is usually defined as something like "a general- purpose A.I. system that can do almost all cognitive tasks a human can do." Elsewhere in the world, many people scoff at the idea. But Sam Altman expresses optimism that we are nearing a breakthrough. He believes that by 2025, machines will think and reason like humans.
 *** entrepreneur
 https://www.dicts.cn/dictword20181/html/ad6eec7947370a5a1ffa093e1626a75b.html?entrepreneur
 *** imminent
@@ -968,17 +952,11 @@ https://www.dicts.cn/dictword20181/html/2d446d303459d689644412233e8f7bc4.html?co
 *** [#C] scoff
 https://www.dicts.cn/dictword20181/html/ad379cbb53c39f4f37b23ba2e69343d1.html?scoff
 ** Three
-3. The Trump administration is considering targeting the citizens of as many
-as 43 countries as part of a new ban on travel to the United States that would
-be broader than the restrictions imposed during President Trump's first term,
-according to officials familiar with the matter.
-4. The Panama deal rumbles on. Shares of the conglomerate that sold a
-controlling stake in Panama ports slumped in Asia after China's top office on
-Hong Kong affairs reposted a newspaper's sharp attack on the decision. The
-company, owned by one of Hong Kong's highest-profile billionaires, was
-guilty of "spineless groveling" and "selling out all Chinese people."
+1. The Trump administration is considering targeting the citizens of as many as 43 countries as part of a new ban on travel to the United States that would be broader than the restrictions imposed during President Trump's first term, according to officials familiar with the matter.
+2. The Panama deal rumbles on. Shares of the conglomerate that sold a controlling stake in Panama ports slumped in Asia after China's top office on Hong Kong affairs reposted a newspaper's sharp attack on the decision. The company, owned by one of Hong Kong's highest-profile billionaires, was guilty of "spineless groveling" and "selling out all Chinese people."
+
 *** rumble on
-https://www.bing.com/dict/search?q=rumble+on&lq=0&pq=&ghsh=0&ghacc=0&ghpl=
+[[https://www.bing.com/dict/search?q=rumble+on]]
 *** highest-profile
 https://www.bing.com/dict/search?q=highest-profile&lq=0&pq=&ghsh=0&ghacc=0&ghpl=
 * [[https://www.bilibili.com/video/BV1BmQfYiEXe][读懂英语新闻（第215期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记_哔哩哔哩_bilibili]]
