@@ -1051,15 +1051,7 @@ https://www.dicts.cn/dictword20181/html/9fe0153b91d6b96a918a886bf48b0618.html?ho
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
 ** One
-1. Egg prices are finally falling: Inventories are recovering amid a
-sudden and largely unexplained slowdown in bird flu cases. The
-average wholesale price of a dozen eggs was $3 yesterday, down
-63% from a record $8.15 in the Feb. 21 report. Retail prices, which
-typically trail wholesale, are beginning to fall as well. Agriculture
-Secretary Brooke Rollins warned that the Easter season has "the
-highest price for eggs" and prices could "inch back up." Ironically,
-as egg prices are coming down, coffee prices are poised to spike by
-double digits, Reuters reports.
+1. Egg prices are finally falling: Inventories are recovering amid a sudden and largely unexplained slowdown in bird flu cases. The average wholesale price of a dozen eggs was $3 yesterday, down 63% from a record $8.15 in the Feb. 21 report. Retail prices, which typically trail wholesale, are beginning to fall as well. Agriculture Secretary Brooke Rollins warned that the Easter season has "the highest price for eggs" and prices could "inch back up." Ironically, as egg prices are coming down, coffee prices are poised to spike by double digits, Reuters reports.
 
 *** inventory
 https://www.dicts.cn/dictword20181/html/65cf78ee6cd061e6cba358bf7f4017bb.html?inventory
@@ -1074,29 +1066,20 @@ https://www.bing.com/dict/search?q=poised+to
 *** spike
 https://www.dicts.cn/dictword20181/html/fcd072aea334ccf51b73150af851b6b4.html?spike
 ** Two
-2. Vice President Vance claimed in a brief Greenland visit yesterday
-that Denmark had failed to keep Greenland safe, and that President
-Trump is prepared to make the Arctic island "much more secure" and
-stronger economically. Trump reiterated his argument before Vance's
-trip that "we need Greenland," with the added warning that "we'll go
-as far as we have to go" to get it. But the future Vance seemed to
-propose was not of U.S. ownership but of an independent Greenland
-opting into a new security and economic partnership with the U.S.
+2. Vice President Vance claimed in a brief Greenland visit yesterday that Denmark had failed to keep Greenland safe, and that President Trump is prepared to make the Arctic island "much more secure" and stronger economically. Trump reiterated his argument before Vance's trip that "we need Greenland," with the added warning that "we'll go as far as we have to go" to get it. But the future Vance seemed to propose was not of U.S. ownership but of an independent Greenland opting into a new security and economic partnership with the U.S.
 Greenlanders overwhelmingly reject the notion of joining the U.S.
 
+*** Denmark
+https://en.wikipedia.org/wiki/Denmark?useskin=vector
 *** arctic
 https://www.dicts.cn/dictword20181/html/868e7bff58ebed3284562363fd325eb8.html?arctic
 *** reiterate
 https://www.dicts.cn/dictword20181/html/1afdcb278d17cf6fec8e9476998ccb22.html?reiterate
 ** Three
-3. A series of earthquakes in Myanmar killed 144 people and injured
-more than 700 as of Friday evening local time, authorities said. The
-first was a 7.7-magnitude quake in the early afternoon, according to
-the U.S. Geological Survey. The death toll is expected to rise.
-Tremors felt hundreds of miles away collapsed a high-rise building
-under construction in Bangkok, killing at least three people and
-injuring dozens, Thai officials said.
+3. A series of earthquakes in Myanmar killed 144 people and injured more than 700 as of Friday evening local time, authorities said. The first was a 7.7-magnitude quake in the early afternoon, according to the U.S. Geological Survey. The death toll is expected to rise. Tremors felt hundreds of miles away collapsed a high-rise building under construction in Bangkok, killing at least three people and injuring dozens, Thai officials said.
 
+*** Myanmar
+https://en.wikipedia.org/wiki/Myanmar?useskin=vector
 *** magnitude
 https://www.dicts.cn/dictword20181/html/7d0a37abeb7081cda32a067c86eebb76.html?magnitude
 *** tremor
