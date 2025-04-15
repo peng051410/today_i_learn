@@ -1235,3 +1235,52 @@ https://www.bing.com/dict/search?q=pull+away&lq=0&pq=
 
 *** rural
 https://www.dicts.cn/dictword20181/html/6e634a155b4d30709f9c14b6b4096c4e.html?rural
+* [[https://www.bilibili.com/video/BV1HFd6YhEza][读懂英语新闻（第222期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记_哔哩哔哩_bilibili]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** One
+1, Boarding passes and flight check-in could soon be obsolete.
+The International Civil Aviation Organization - the UN body that crafts airline
+policy and that the FAA takes cues from — is considering the biggest shake-up to
+air travel in 50 years, The Times of London reports. Under the new rules,
+passengers will be issued a "journey pass" when they book a flight, which will be
+continually updated with changes and replace the boarding pass. Passengers also
+will be able to upload their passports to their phones and skip manual check-in.
+Airlines will just be notified when they've arrived at the airport via facial
+recognition scanners. These changes could come in two to three years.
+
+*** take cue from
+https://www.bing.com/dict/search?q=take+cue+from
+*** shake-up
+https://www.dicts.cn/dictword20181/html/23a8ca52b8f9d2992f98d4c3e61cc639.html?shake-up
+** Two
+2. Billed on Wall Street as so rock-solid safe they're risk-free, US
+Treasury bonds have long served as first port of call for investors
+during times of panic. They rallied during the global financial crisis, on
+9/11 and even when America's own credit rating was cut.
+But now, as President Donald Trump unleashes an all-out assault on
+global trade, their status as the world's safe haven is increasingly
+coming into question. Yields, especially on longer-term debt, have
+surged in recent days while the dollar has plunged.
+
+*** port of call
+https://www.bing.com/dict/search?q=port+of+call&lq=0&pq=
+*** unleash
+https://www.dicts.cn/dictword20181/html/72714d535a70bdb2bf92895fcd69abb8.html?unleash
+*** all-out
+https://www.dicts.cn/dictword20181/html/1ca03f60d5ef10f01dadb1923bfa5199.html?all-out
+*** haven
+https://www.dicts.cn/dictword20181/html/8859f563ae23fc224ced5e6376455628.html?haven
+** Three
+3. The world's best golfers are competing this weekend in the Masters
+Tournament at Augusta National Golf Club in Georgia. It is one of the
+game's most beloved courses — a serene landscape of perfectly
+manicured Bermuda grass surrounded by majestic trees and more than 30
+varieties of bright azaleas. It is also an allergy nightmare this time of year.
+Players have tried sunglasses, medication and low-histamine diets to
+battle the conditions, which a local allergy and rheumatology expert said
+were "another order of magnitude in Augusta."
+
+*** order of magnitude
+https://www.bing.com/dict/search?q=order+of+magnitude&go=Search
