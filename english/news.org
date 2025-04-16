@@ -1118,14 +1118,7 @@ https://www.dicts.cn/dictword20181/html/dd8845d438ad923dc0a132762483d2d7.html?sc
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
 ** One
-1, From friend, to foe, Donald Trump's latest trade salvo impacts just about
-everyone. Federal Reserve Chairman Jerome Powell warned that price increases
-and weaker economic growth are more likely than they seemed a few weeks ago
-as tariffs were raised more than expected. Powell added that it was too early to
-discuss interest rate adjustments. For now, Americans worried about rising prices
-are stocking up on televisions, soy sauce and Lululemon gear, while the rest of
-the world is bracing for an influx of cheap Chinese goods. And people in remote
-parts of the globe are wondering how they got on the tariff list.
+1, From friend, to foe, Donald Trump's latest trade salvo impacts just about everyone. Federal Reserve Chairman Jerome Powell warned that price increases and weaker economic growth are more likely than they seemed a few weeks ago as tariffs were raised more than expected. Powell added that it was too early to discuss interest rate adjustments. For now, Americans worried about rising prices are stocking up on televisions, soy sauce and Lululemon gear, while the rest of the world is bracing for an influx of cheap Chinese goods. And people in remote parts of the globe are wondering how they got on the tariff list.
 
 *** foe
 https://www.dicts.cn/dictword20181/html/c7ccc89c6168463d363113a921b053cb.html?foe
@@ -1138,16 +1131,10 @@ https://www.dicts.cn/dictword20181/html/5f531bd71d97e1446bc4d8c36f6011f9.html?br
 *** influx
 https://www.dicts.cn/dictword20181/html/3255933e209b30f377e560298b7d3c26.html?influx
 ** Two
-2. With the historic two-day rout on Thursday and yesterday, the major
-indexes - the S&P 500, the Nasdaq and the Russell 2000 - are all lower
-than they were a year ago. The market capitalization of S&P stocks fell by
-$4 trillion this week. As a result, your 401(k) accounts, your children's 529
-college savings and your retirement funds have become "bottomless pits."
-All three touched all-time highs in the last six months. Now, the tech-heavy
-Nasdaq and the small-cap Russell are in a "bear market" — 20% off their
-highs — and poised to fall further. The S&P is down 17.4% from a new
-record in mid-February.
+2. With the historic two-day rout on Thursday and yesterday, the major indexes - the S&P 500, the Nasdaq and the Russell 2000 - are all lower than they were a year ago. The market capitalization of S&P stocks fell by $4 trillion this week. As a result, your 401(k) accounts, your children's 529 college savings and your retirement funds have become "bottomless pits." All three touched all-time highs in the last six months. Now, the tech-heavy Nasdaq and the small-cap Russell are in a "bear market" — 20% off their highs — and poised to fall further. The S&P is down 17.4% from a new record in mid-February.
 
+*** Russell 2000
+https://en.wikipedia.org/wiki/Russell_2000_Index?useskin=vector
 *** market capitalization
 https://www.bing.com/dict/search?q=market+capitalization
 *** bottomless pit
@@ -1155,18 +1142,10 @@ https://www.bing.com/dict/search?q=bottomless+pit&lq=0&pq=
 *** all-time
 https://www.bing.com/dict/search?q=all-time&lq=0&pq=
 ** Three
-3. You make memories as a baby, new research shows.
-Brain scans helped scientists see how infant and toddler minds
-work in the first study to observe memory activity while the
-little ones were awake. When shown images they'd seen before,
-babies looked at them longer, suggesting that they'd recalled
-seeing them previously. The research also raises the possibility
-that infant memories could be unlocked later in life.
-
+3. You make memories as a baby, new research shows. Brain scans helped scientists see how infant and toddler minds work in the first study to observe memory activity while the little ones were awake. When shown images they'd seen before, babies looked at them longer, suggesting that they'd recalled seeing them previously. The research also raises the possibility that infant memories could be unlocked later in life.
 *** infant
 https://www.dicts.cn/dictword20181/html/c844fbf89dea733bcde9c330eac2f3c9.html?infant
-
-
+        
 * [[https://www.bilibili.com/video/BV12KdNYzEq1][读懂英语新闻（第221期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记_哔哩哔哩_bilibili]]
 :PROPERTIES:
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
