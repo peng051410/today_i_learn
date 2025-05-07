@@ -624,6 +624,23 @@ https://igorstechnoclub.com/my-everyday-git-commands/
 #+begin_src sh
 git log --since=1.week
 #+end_src
+
+** git checkout tags
+https://stackoverflow.com/questions/35979642/what-is-git-tag-how-to-create-tags-how-to-checkout-git-remote-tags
+#+begin_src sh
+git fetch --all --tags --prune
+git checkout tags/<tag_name> -b <branch_name>
+#+end_src
+
+** git add all modified file
+:LOGBOOK:
+- Note taken on [2025-05-07 Wed 17:39] \\
+  https://coderwall.com/p/gf50uw/add-all-modified-files-in-git-the-easy-way
+:END:
+#+begin_src sh
+git add -u
+#+end_src
+
 * Github
 
 ** Add profile page to github
