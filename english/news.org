@@ -1432,3 +1432,54 @@ https://www.dicts.cn/dictword20181/html/76f01eb636db07f2f6856052ff539843.html?co
 
 *** recast
 https://www.dicts.cn/dictword20181/html/1a29e10210eed86e43c635bda9e435b4.html?recast
+* [[https://www.bilibili.com/video/BV1uiEgz5EoL][读懂英语新闻（第230期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记_哔哩哔哩_bilibili]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** One
+1. Bill Gates is planning to wind down his foundation
+The Gates Foundation, one of the world's most consequential
+global-health philanthropies, celebrated its 25th anniversary today
+by announcing its plans to close up shop. Bill Gates said the
+foundation would accelerate the pace of its aid spending over the
+next 20 years — giving away at least $200 billion - before ending
+his initiative decades earlier than he originally planned.
+
+*** wind down
+https://www.collinsdictionary.com/dictionary/english/wind-down
+*** close up shop
+https://dictionary.cambridge.org/dictionary/english/close-up-shop
+
+** Two
+2. Nuclear-armed neighbours India and Pakistan agreed to a
+ceasefire on Saturday after U.S. pressure and diplomacy, but within
+hours, blasts were reported from the main cities of Indian Kashmir,
+the centre of four days of fighting. The fighting had been the worst
+between the old South Asian enemies in nearly three decades and
+threatened to erupt into a full-scale war in one of the world's most
+volatile and densely populated regions.
+
+*** blast
+https://www.dicts.cn/dictword20181/html/cbd0ab64a9c11d79df23276b578d94a5.html?blast
+
+*** Kashmir
+:LOGBOOK:
+- Note taken on [2025-05-12 Mon 09:48] \\
+  由中国、印度与巴基斯坦三个国家管理
+:END:
+https://en.wikipedia.org/wiki/Kashmir?useskin=vector
+
+*** volatile
+https://www.dicts.cn/dictword20181/html/c184edbe3efd87c4456c4ffcbd932125.html?volatile
+
+** Three
+3. President Trump suggested this morning that he was
+open to sharply reducing the tariffs on imports from China.
+Trump said that an 80 percent tariff on China "seems right,"
+adding that it would be "up to" Treasury Secretary Scott
+Bessent, who is set to meet this weekend with Chinese
+negotiators. Chinese shipments to the U.S. have plunged 21
+percent from a year earlier.
+
+*** plunge
+https://www.dicts.cn/dictword20181/html/9b14e4ff1740dfe1792b969392cd5dd2.html?plunge
