@@ -889,16 +889,8 @@ https://www.bing.com/dict/search?q=strike+a+deal&lq=0&pq=&ghsh=0&ghacc=0&ghpl=
 :END:
 
 ** One
-1. Wall Street is divided whether the Monday market meitdown
-represents something more than the short-term pain as flagged up
-increasingly by President Donald Trump's team. The difference this
-time is that it's hammering the broader market rather than just the
-megacaps. Tesla was hit more than most on Monday but got a nice vote
-of confidence from the commander-in-chief. Trump said he's going to
-buy a new Tesla this morning to support Musk, who confessed to
-struggling a bit running his business at the same time as doing his
-DOGE work. His next target: entitlement spending, including Social
-Security and Medicare.
+1. Wall Street is divided whether the Monday market meitdown represents something more than the short-term pain as flagged up increasingly by President Donald Trump's team. The difference this time is that it's hammering the broader market rather than just the megacaps. Tesla was hit more than most on Monday but got a nice vote of confidence from the commander-in-chief. Trump said he's going to buy a new Tesla this morning to support Musk, who confessed to struggling a bit running his business at the same time as doing his DOGE work. His next target: entitlement spending, including Social Security and Medicare.
+
 *** meltdown
 https://www.dicts.cn/dictword20181/html/149557d686979c7263fb7fced6e708f7.html?meltdown
 *** flag up
@@ -906,24 +898,14 @@ https://www.oxfordlearnersdictionaries.com/definition/english/flag-up
 *** entitlement
 https://www.dicts.cn/dictword20181/html/7bece46303ff0e48aae0f800b5d543ac.html?entitlement
 ** Two
-2. Aviation safety has been in the spotlight since
-January's tragic midair collision near DCA, with some
-travelers afraid that flying is suddenly more dangerous,
-despite contrary data. "I have friends and family
-[asking], 'Should I get on an airplane?' one retired
-controller tells Axios. " I'm like: 'Well, it's not there yet.'
-But it seems to be trending that way."
+2. Aviation safety has been in the spotlight since January's tragic midair collision near DCA, with some travelers afraid that flying is suddenly more dangerous, despite contrary data. "I have friends and family [asking], 'Should I get on an airplane?' one retired controller tells Axios. " I'm like: 'Well, it's not there yet.' But it seems to be trending that way."
+
 *** aviation
 https://www.dicts.cn/dictword20181/html/7a7cf22660179908b33d97c2e071a0d5.html?aviation
 *** spotlight
 https://www.dicts.cn/dictword20181/html/27b2e3d5d0517d56780444b689eb54e1.html?spotlight
 ** Three
-3. Federal immigration authorities detained Mahmoud
-Khalil, who was a prominent pro-Palestinian activist at
-Columbia University, over the weekend. Khalil is a lawful
-permanent resident with a green card. However, the Trump
-administration is seeking to deport him using an obscure
-legal statute.
+3. Federal immigration authorities detained Mahmoud Khalil, who was a prominent pro-Palestinian activist at Columbia University, over the weekend. Khalil is a lawful permanent resident with a green card. However, the Trump administration is seeking to deport him using an obscure legal statute.
 
 *** prominent
 https://www.dicts.cn/dictword20181/html/614ae77f26498b707832bb6879b6085e.html?prominent
@@ -1462,5 +1444,6 @@ https://www.dicts.cn/dictword20181/html/c184edbe3efd87c4456c4ffcbd932125.html?vo
 
 ** Three
 3. President Trump suggested this morning that he was open to sharply reducing the tariffs on imports from China. Trump said that an 80 percent tariff on China "seems right," adding that it would be "up to" Treasury Secretary Scott Bessent, who is set to meet this weekend with Chinese negotiators. Chinese shipments to the U.S. have plunged 21 percent from a year earlier.
+
 *** plunge
 https://www.dicts.cn/dictword20181/html/9b14e4ff1740dfe1792b969392cd5dd2.html?plunge
