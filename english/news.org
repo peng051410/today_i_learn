@@ -1480,15 +1480,12 @@ https://www.bing.com/dict/search?q=turn%20down
 :PROPERTIES:
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
+:LOGBOOK:
+- Note taken on [2025-05-20 Tue 09:46] \\
+  [[https://www.youtube.com/watch?v=VjLjNLeNEjI][听力训练]]
+:END:
 ** One
-1. Walmart plans to raise prices this month and early this summer, when
-tariff-affected merchandise hits its store shelves. Some prices already have
-increased, the retail giant said. The duties' full impact hasn't hit yet partly due
-to stockpiling and postponed shipments from China. Shares of Walmart closed
-down 0.5%. Separately, the Fed is adjusting its policy framework to account
-for meaningful changes in the outlook for inflation and interest rates
-postpandemic, Chair Jerome Powell said. Investors are increasingly confident
-that trade tensions will ease and the U.S. economy will prove resilient.
+1. Walmart plans to raise prices this month and early this summer, when tariff-affected merchandise hits its store shelves. Some prices already have increased, the retail giant said. The duties' full impact hasn't hit yet partly due to stockpiling and postponed shipments from China. Shares of Walmart closed down 0.5%. Separately, the Fed is adjusting its policy framework to account for meaningful changes in the outlook for inflation and interest rates postpandemic, Chair Jerome Powell said. Investors are increasingly confident that trade tensions will ease and the U.S. economy will prove resilient.
 
 *** stockpiling
 https://www.dicts.cn/dictword20181/html/119ba8e06ee24b9980cca3a358729b18.html?stockpiling
@@ -1499,15 +1496,7 @@ https://www.dicts.cn/dictword20181/html/7815da847a5769d678c2da4072220f06.html?ea
 *** resilient
 https://www.dicts.cn/dictword20181/html/0c9457f4bb5b1655115920098e1ae3f4.html?resilient
 ** Two
-2. A financial reckoning has started at universities as Trump's funding cuts
-hit home. Schools such as Harvard, Columbia, Princeton and Michigan State
-are limiting their spending everything from research pauses and hiring
-freezes to eliminating desk phones and coffee in the faculty lounge. So far,
-the undergraduate experience hasn't changed at most universities, but cuts in
-the coming months could have a significant impact by fall. But prestigeat
-least at Harvard Business School-remains intact. Speaking to students
-there is on A-list celebrities' bucket lists, and their teams are inundating
-HBS with invitation requests.
+2. A financial reckoning has started at universities as Trump's funding cuts hit home. Schools such as Harvard, Columbia, Princeton and Michigan State are limiting their spending everything from research pauses and hiring freezes to eliminating desk phones and coffee in the faculty lounge. So far, the undergraduate experience hasn't changed at most universities, but cuts in the coming months could have a significant impact by fall. But prestigeat least at Harvard Business School-remains intact. Speaking to students there is on A-list celebrities' bucket lists, and their teams are inundating HBS with invitation requests.
 
 *** prestige
 https://www.dicts.cn/dictword20181/html/24a54bcd20d24b931ae731fefc970384.html?prestige
@@ -1518,14 +1507,7 @@ https://www.bing.com/dict/search?q=A-list
 *** bucket list
 https://www.bing.com/dict/search?q=bucket+list&qs=n&form=Z9LH5&sp=-1&lq=0&pq=bucket+list&sc=0-11&sk=&cvid=B5901920B2DA4080BB9BCF140989C25D
 ** Three
-3. The Pope Grew Up in This House. Now, It Could Be Yours.
-Pope Leo's childhood home will be sold to the highest bidder in
-an online auction. A house flipper bought it before Leo became
-pope and is expected to make a windfall. The same auction house
-that sold President Trump's childhood home for millions in 2017
-will take bids for the modest three-bedroom where Pope Leo XIV
-once lived.
-
+3. The Pope Grew Up in This House. Now, It Could Be Yours. Pope Leo's childhood home will be sold to the highest bidder in an online auction. A house flipper bought it before Leo became pope and is expected to make a windfall. The same auction house that sold President Trump's childhood home for millions in 2017 will take bids for the modest three-bedroom where Pope Leo XIV once lived.
 *** flipper
 https://www.dicts.cn/dictword20181/html/ccda328d5e4e1cd60169b25170a972d7.html?flipper
 *** auction
