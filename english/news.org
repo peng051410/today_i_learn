@@ -51,7 +51,7 @@ https://en.wikipedia.org/wiki/Ivy_League?useskin=vector
 
 常春藤联盟（Ivy League）是美国东北部八所私立研究型大学组成的大学体育联盟，也是全球知名的精英大学联盟，以其学术卓越、录取率极低以及社会精英地位而闻名。
 ** Two
-2. Hundreds of firefighters are racing to control a fast- moving Southern California wildfire that's threatening the wealthy town of Malibu and has forced the evacuation of thousands of residents. The Franklin fire has swelled to more than 2,700 acres and remained completely out of control as of Tuesday afternoon.
+2. Hundreds of firefighters are racing to control a fast-moving Southern California wildfire that's threatening the wealthy town of Malibu and has forced the evacuation of thousands of residents. The Franklin fire has swelled to more than 2,700 acres and remained completely out of control as of Tuesday afternoon.
 
 *** Malibu
 :LOGBOOK:
@@ -70,6 +70,8 @@ https://www.dicts.cn/dictword20181/html/7cdd8f0f5734b59e602a41fe86175a51.html?ev
 https://www.dicts.cn/dictword20181/html/943d697a82b0197f2cf4a6063218f1cc.html?rebel
 *** rush to
 https://dictionary.cambridge.org/dictionary/english/rush
+*** regime
+https://www.dicts.cn/dictword20181/html/63c5693d1234e8452cf3681d876706cf.html?regime
 *** move to
 https://www.merriam-webster.com/dictionary/move%20to
 
