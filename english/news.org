@@ -38,34 +38,21 @@ https://www.dicts.cn/dictword20181/html/c0e3157f58d94568d3ad6590ef88c905.html?in
 
 ** One
 1. Suspect in C.E.O. killing is fighting extradition
-The 26-year-old man who was charged with murder in the assassination of a
-health insurance executive in Midtown Manhattan was denied bail today.
-Mangione saw himself as a hero fighting a corrupt health insurance industry,
-the authorities said in an internal report obtained by The Times. The police
-also expressed concern that the attack could inspire violence against similar
-executives or other extreme behavior.
-Here's what we know about the suspect: Mangione was a high school
-valedictorian and an Ivy League tech graduate from a prominent Maryland
-family. The subject of a missing-person report filed in San Francisco by his
-mother last month, he had stopped communicating with friends and family
-about six months ago.
+The 26-year-old man who was charged with murder in the assassination of a health insurance executive in Midtown Manhattan was denied bail today. Mangione saw himself as a hero fighting a corrupt health insurance industry, the authorities said in an internal report obtained by The Times. The police also expressed concern that the attack could inspire violence against similar executives or other extreme behavior. Here's what we know about the suspect: Mangione was a high school valedictorian and an Ivy League tech graduate from a prominent Maryland family. The subject of a missing-person report filed in San Francisco by his mother last month, he had stopped communicating with friends and family about six months ago.
 
 *** extradition
 https://en.wikipedia.org/wiki/Extradition?useskin=vector
 
 引渡是一个复杂的问题，涉及主权、司法合作和人权等多方面因素。
 *** bail
+https://www.dicts.cn/dictword20181/html/b2968cb6e96623280f4a9d8b49a7546b.html?bail
 *** Ivy League
 https://en.wikipedia.org/wiki/Ivy_League?useskin=vector
 
 常春藤联盟（Ivy League）是美国东北部八所私立研究型大学组成的大学体育联盟，也是全球知名的精英大学联盟，以其学术卓越、录取率极低以及社会精英地位而闻名。
 ** Two
-2. Hundreds of firefighters are racing to control a fast-
-moving Southern California wildfire that's threatening
-the wealthy town of Malibu and has forced the
-evacuation of thousands of residents. The Franklin fire
-has swelled to more than 2,700 acres and remained
-completely out of control as of Tuesday afternoon.
+2. Hundreds of firefighters are racing to control a fast- moving Southern California wildfire that's threatening the wealthy town of Malibu and has forced the evacuation of thousands of residents. The Franklin fire has swelled to more than 2,700 acres and remained completely out of control as of Tuesday afternoon.
+
 *** Malibu
 :LOGBOOK:
 - Note taken on [2024-12-12 Thu 10:03] \\
@@ -74,17 +61,18 @@ completely out of control as of Tuesday afternoon.
 https://en.wikipedia.org/wiki/Malibu%2C_California?useskin=vector
 
 *** evacuation
+https://www.dicts.cn/dictword20181/html/7cdd8f0f5734b59e602a41fe86175a51.html?evacuation
+
 ** Three
-3. Syrian rebels rushed to impose order in Damascus
-after Bashar al-Assad's regime collapsed over the
-weekend. Leader Abu Mohammed al-Jawlani moved to
-form a transitional government, get the buses running
-and turn the power back on. Many foreign countries,
-including the U.S., classify his group as a terrorist
-organization.
+3. Syrian rebels rushed to impose order in Damascus after Bashar al-Assad's regime collapsed over the weekend. Leader Abu Mohammed al-Jawlani moved to form a transitional government, get the buses running and turn the power back on. Many foreign countries, including the U.S., classify his group as a terrorist organization.
+
 *** rebel
+https://www.dicts.cn/dictword20181/html/943d697a82b0197f2cf4a6063218f1cc.html?rebel
 *** rush to
+https://dictionary.cambridge.org/dictionary/english/rush
 *** move to
+https://www.merriam-webster.com/dictionary/move%20to
+
 * [[https://www.youtube.com/watch?v=zrmOoQ8bwBw][(12) 读懂英语新闻（第188期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
 :PROPERTIES:
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
@@ -1508,6 +1496,7 @@ https://www.bing.com/dict/search?q=A-list
 https://www.bing.com/dict/search?q=bucket+list&qs=n&form=Z9LH5&sp=-1&lq=0&pq=bucket+list&sc=0-11&sk=&cvid=B5901920B2DA4080BB9BCF140989C25D
 ** Three
 3. The Pope Grew Up in This House. Now, It Could Be Yours. Pope Leo's childhood home will be sold to the highest bidder in an online auction. A house flipper bought it before Leo became pope and is expected to make a windfall. The same auction house that sold President Trump's childhood home for millions in 2017 will take bids for the modest three-bedroom where Pope Leo XIV once lived.
+
 *** flipper
 https://www.dicts.cn/dictword20181/html/ccda328d5e4e1cd60169b25170a972d7.html?flipper
 *** auction
