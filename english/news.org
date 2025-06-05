@@ -1654,3 +1654,52 @@ https://www.bing.com/dict/search?q=do+the+trick
 
 *** decouple
 https://www.dicts.cn/dictword20181/html/6e96b7e9d42bf79612d32cbb0d264ad1.html?decouple
+* [[https://www.bilibili.com/video/BV1SfTEzgE1j][读懂英语新闻（第237期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记_哔哩哔哩_bilibili]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** One
+1. Turning the tide on cancer. Immunotherapy treatments
+are making strides against early and mid-stage cancers like
+gastric, colon, and head and neck, as well as advanced
+conditions. New trials show that drugs such as Opdivo,
+Imfinzi and Tecentriq are effective at reducing the risk of
+cancer recurrence and boosting survival rates, according to
+the American Society of Clinical Oncology.
+
+*** tide
+https://www.dicts.cn/dictword20181/html/a3997ac48897e0ca261806d5b4b56471.html?tide
+*** stride
+https://www.dicts.cn/dictword20181/html/5cbec875810736cd3899f9d9d00f5baa.html?stride
+*** gastric
+https://www.dicts.cn/dictword20181/html/b4ed3b53b455a74a16946bbe30787348.html?gastric
+*** Oncology
+https://www.dicts.cn/dictword20181/html/19f85f536cea4309edf073207bba1bea.html?oncology
+** Two
+2. Ukraine has detonated a massive underwater blast targeting
+the key road and rail bridge connecting the Russian-occupied
+Crimean peninsula to Russia, damaging its underwater supports.
+The operation, for which Kyiv's SBU security service claimed
+responsibility, is the second high-profile operation by Ukraine in
+days striking significant Russian assets after a sophisticated
+drone raid on Moscow's strategic bomber fleet on Sunday.
+
+*** detonate
+https://www.dicts.cn/dictword20181/html/a72d6829f2ef41af14d64d219b9b0208.html?detonate
+*** peninsula
+https://www.dicts.cn/dictword20181/html/35acdb5701f6e01948b4be91fa53b8e4.html?peninsula
+*** high-profile
+https://www.bing.com/dict/search?q=high-profile
+** Three
+3. South Korea's opposition candidate Lee Jae-myung was elected
+president. With almost 95% of the ballots counted, Lee, a left-leaning
+former labor activist, had won 48.8% of the vote while the ruling People
+Power Party's candidate Kim Moon-soo had 42.0%, according to the
+National Election Commission. The election is expected to mark a
+turning point for South Korea after six months of chaos following
+ousted leader Yoon Suk Yeol's botched attempt to revive martial law.
+
+*** oust
+https://www.bing.com/dict/search?q=oust
+*** martial
+https://www.dicts.cn/dictword20181/html/39b810aae888633550fc5da73d7ec0db.html?martial
