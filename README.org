@@ -14,6 +14,9 @@
 * [[./english/listen.org][English listen]]
 
 * [[./english/news.org][English news]]
+
+* [[./english/book.org][English books]]
+
 * [[./emacs/lisp.md][Lisp]]
 * [[./history/china_history.org][History]]
 * [[./chinese/words.org][Chinese words]]
