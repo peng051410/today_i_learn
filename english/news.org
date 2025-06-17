@@ -1752,6 +1752,10 @@ https://www.dicts.cn/dictword20181/html/5654743e4ccb3faa84b295a6ad1bde7b.html?af
 :PROPERTIES:
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
+:LOGBOOK:
+- Note taken on [2025-06-17 Tue 09:21] \\
+  https://www.youtube.com/watch?v=3dwSBCgM5y8
+:END:
 ** One
 1. Israel launched a major attack on Iran. The strikes killed Iran's top three
 generals, according to Iranian state media, and targeted military bases and
@@ -1763,10 +1767,22 @@ before and after the strike, the Trump administration distanced itself from the
 Israeli operation in public statements and private messages to allies.
 
 *** major
+:LOGBOOK:
+- Note taken on [2025-06-16 Mon 09:59] \\
+  https://github.com/peng051410/today_i_learn/issues/236
+:END:
 https://www.dicts.cn/dictword20181/html/5d612bbee634d9ce32dd899d8d324bc6.html?major
 *** target
+:LOGBOOK:
+- Note taken on [2025-06-16 Mon 10:00] \\
+  https://github.com/peng051410/today_i_learn/issues/237
+:END:
 https://www.dicts.cn/dictword20181/html/eea34adc1a61363f0bc397782412f2b7.html?target
 *** resort
+:LOGBOOK:
+- Note taken on [2025-06-16 Mon 10:00] \\
+  https://github.com/peng051410/today_i_learn/issues/238
+:END:
 https://www.dicts.cn/dictword20181/html/ba8a010fcd4958736733dacf330e2579.html?resort
 *** enrichment
 https://www.dicts.cn/dictword20181/html/bdb52c704297a602c043d3aaf9aea960.html?enrichment
@@ -1806,7 +1822,6 @@ survivor of Air India Flight AIl71. Seated in the first row of
 economy class, he managed to escape through a broken door
 on his side of the plane. The crash killed 241 passengers in
 the deadliest aviation accident in over a decade.
-
 
 *** tale
 https://www.dicts.cn/dictword20181/html/b08eccf9ce7502cf3bbf00a3598efb09.html?tale
