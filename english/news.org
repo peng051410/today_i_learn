@@ -1748,6 +1748,9 @@ I'll win her over.
 https://www.bing.com/dict/search?q=fall+out&qs=n&form=Z9LH5&sp=-1&lq=0&pq=fall+out&sc=0-8&sk=&cvid=B3ACE2A31867460286238371AA2744D4
 *** aftermath
 https://www.dicts.cn/dictword20181/html/5654743e4ccb3faa84b295a6ad1bde7b.html?aftermath
+*** jeopardy
+https://www.dicts.cn/dictword20181/html/297a5ac03e43b93c0d7cba39d778802f.html?jeopardy
+
 * [[https://www.bilibili.com/video/BV1UDM8zuEZa][读懂英语新闻（第240期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记_哔哩哔哩_bilibili]]
 :PROPERTIES:
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
@@ -1808,4 +1811,8 @@ https://www.dicts.cn/dictword20181/html/36be27ae9b82d8a7c24e6d4cfa409642.html?mi
 *** tale
 https://www.dicts.cn/dictword20181/html/b08eccf9ce7502cf3bbf00a3598efb09.html?tale
 *** manage to
+:LOGBOOK:
+- Note taken on [2025-06-17 Tue 09:49] \\
+  Seemingly simple, but give it a complex concept, achievement " cut ceaseless, manage to return chaos" .
+:END:
 https://www.bing.com/dict/search?q=manage+to
