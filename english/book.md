@@ -1,11 +1,12 @@
 
 # Table of Contents
 
--   [Albert Einstein by Saddleback Educational Publishing | Goodreads](#orgb628758)
+-   [Albert Einstein by Saddleback Educational Publishing | Goodreads](#org50f406b)
+-   [The Beatles (Graphic Biography) by Saddleback Educational Publishing | Goodreads](#org92ed355)
 
 
 
-<a id="orgb628758"></a>
+<a id="org50f406b"></a>
 
 # [Albert Einstein by Saddleback Educational Publishing | Goodreads](https://www.goodreads.com/book/show/1999220.Albert_Einstein)
 
@@ -15,7 +16,17 @@
 <https://www.dicts.cn/dictword20181/html/74632973fa27bc6903c8bd50c6234946.html?dictator>
 
 
+## for good
+
+<https://www.bing.com/dict/search?q=for%20good>
+
+
 ## Jew
+
+
+## law
+
+<https://www.dicts.cn/dictword20181/html/e12c4b84d246ecfa1c5882d094dfc124.html?law>
 
 
 ## violin
@@ -29,6 +40,8 @@
 
 
 ## scale
+
+<https://www.dicts.cn/dictword20181/html/55846f579dae607a0a9d41b0a7b699e6.html?scale>
 
 
 ## algebra
@@ -126,6 +139,11 @@
 <https://www.bing.com/dict/search?q=look+down&lq=0&pq>=
 
 
+## blame for
+
+<https://www.bing.com/dict/search?q=blame%20for>
+
+
 ## unity
 
 <https://www.dicts.cn/dictword20181/html/9af4050f881b3e53d420f23f82b7ee91.html?unity>
@@ -169,4 +187,311 @@
 ## blackmail
 
 <https://www.dicts.cn/dictword20181/html/2f8aae44b1782fe3c74a743613e4d754.html?blackmail>
+
+
+<a id="org92ed355"></a>
+
+# [The Beatles (Graphic Biography) by Saddleback Educational Publishing | Goodreads](https://www.goodreads.com/book/show/1999226.The_Beatles)
+
+1.  [Paul McCartney](https://en.wikipedia.org/wiki/Paul_McCartney?useskin=vector)
+2.  [John Lennon](https://en.wikipedia.org/wiki/John_Lennon?useskin=vector)
+3.  [George Harrison](https://en.wikipedia.org/wiki/George_Harrison?useskin=vector)
+4.  [Ringo Starr](https://en.wikipedia.org/wiki/Ringo_Starr?useskin=vector)
+
+
+## chart
+
+<https://www.dicts.cn/dictword20181/html/5245762b1ef204cddf9b42b98d28f1a2.html?chart>
+
+
+## Elvis
+
+<https://en.wikipedia.org/wiki/Elvis_Presley?useskin=vector>
+
+
+## Liverpool
+
+
+## beat
+
+<https://www.dicts.cn/dictword20181/html/a5c38472d7647b6d02d3b638a118c046.html?beat>
+
+
+## Bill Haley
+
+<https://en.wikipedia.org/wiki/Bill_Haley?useskin=vector>
+
+
+## Comets
+
+<https://en.wikipedia.org/w/index.php?title=Bill_Haley_%26_His_Comets&useskin=vector>
+
+
+## quarry
+
+<https://www.dicts.cn/dictword20181/html/989d2658f1495ed5b233fcb5ada64002.html?quarry>
+
+
+## tough
+
+<https://www.dicts.cn/dictword20181/html/bbc3f27e4cf9fbfd480aca34549f8702.html?tough>
+
+
+## pound
+
+<https://www.dicts.cn/dictword20181/html/8ae0259771e5d53e1cb2e758baac4792.html?pound>
+
+
+## chord
+
+<https://www.dicts.cn/dictword20181/html/7902510d0773b2d69c49f5b530bd6cad.html?chord>
+
+
+## run-down
+
+<https://www.dicts.cn/dictword20181/html/a538396d5bb06ec89807ae90855fde16.html?run-down>
+
+
+## the rest of
+
+<https://www.bing.com/dict/search?q=the%20rest%20of>
+
+
+## group
+
+<https://www.dicts.cn/dictword20181/html/7242b5cd1775e96d8d0485ff73d1113b.html?group>
+
+
+## single
+
+<https://www.dicts.cn/dictword20181/html/6aaa58c8808a7cb5a9edf035e1968655.html?single>
+
+
+## fuss
+
+<https://www.dicts.cn/dictword20181/html/6c20d9522e6b83787da33dba224178c7.html?fuss>
+
+
+## barge-pole
+
+<https://www.bing.com/dict/search?q=barge+pole&qs=n&form=Z9LH5&sp=-1&lq=0&pq=with+a+barge+pole&sc=0-17&sk=&cvid=9337A189809B48F08BF76189EE7E717>
+
+
+## commission
+
+<https://www.dicts.cn/dictword20181/html/4bb6638b91d003cb9455cb6168373676.html?commission>
+
+
+## set out to
+
+<https://www.bing.com/dict/search?q=set%20out%20to>
+
+
+## image
+
+<https://www.dicts.cn/dictword20181/html/2628fd1202f0df6b92ce8ed7826b2b2c.html?image>
+
+
+## clean-cut
+
+<https://www.dicts.cn/dictword20181/html/e0a3178d47a99ff8cd8da4f9f0c6f8e1.html?clean-cut>
+
+
+## look
+
+<https://www.dicts.cn/dictword20181/html/998acd0ab8aadd93c5692f4697796a13.html?look>
+
+
+## general public
+
+<https://www.bing.com/dict/search?q=general%20public>
+
+
+## interest
+
+<https://www.dicts.cn/dictword20181/html/37179047c7a9bd7000974e501c91686d.html?interest>
+
+
+## turn down
+
+<https://www.bing.com/dict/search?q=turn%20down>
+
+
+## record
+
+<https://www.dicts.cn/dictword20181/html/92e114e611c6b7a957160940b8d1a6f1.html?record>
+
+
+## faint
+
+<https://www.dicts.cn/dictword20181/html/1b9696612289618d1686c6900599b29c.html?faint>
+
+
+## riot
+
+<https://www.dicts.cn/dictword20181/html/e78fec568f63a794cf7626a3763c6494.html?riot>
+
+
+## bloody
+
+<https://www.dicts.cn/dictword20181/html/0f6551a4c952272aa8f7a206ddf6b29f.html?bloody>
+
+
+## mob
+
+<https://www.dicts.cn/dictword20181/html/9ffef4a1ed0141aa7fc5adb288672b0f.html?mob>
+
+
+## rattle
+
+<https://www.dicts.cn/dictword20181/html/2b13272abc7e2bdc0072791e67c98723.html?rattle>
+
+
+## advance
+
+<https://www.dicts.cn/dictword20181/html/4362ce4270edfaf79557f98d4e68e839.html?advance>
+
+
+## composer
+
+<https://www.dicts.cn/dictword20181/html/ac78ae3158e0a13a2acb186534ff42f3.html?composer>
+
+
+## Beethoven
+
+
+## greet
+
+<https://www.dicts.cn/dictword20181/html/ab0a180df8aac41791e1a1d441853652.html?greet>
+
+
+## hit
+
+<https://www.dicts.cn/dictword20181/html/0327cf6f59cb3c47b4be7728931abbc0.html?hit>
+
+
+## jam
+
+<https://www.dicts.cn/dictword20181/html/9e703f477a7f0101e9f9e41932783777.html?jam>
+
+
+## sell-out
+
+<https://www.dicts.cn/dictword20181/html/f2559d94f5a46c6c11a96eb7e8bf475f.html?sell-out>
+
+
+## sergeant
+
+<https://www.dicts.cn/dictword20181/html/5eca8f8a41ce90bbcffe0baa25236759.html?sergeant>
+
+
+## export
+
+<https://www.dicts.cn/dictword20181/html/91e617e61d9771410e1566b3e3b9d31f.html?export>
+
+
+## review
+
+<https://www.dicts.cn/dictword20181/html/14b1e17e5cd519fd2b9c725fe1cb9362.html?review>
+
+
+## poor
+
+<https://www.dicts.cn/dictword20181/html/3c49d6ece14a00cebacaf20844f44f35.html?poor>
+
+
+## imprison
+
+<https://www.dicts.cn/dictword20181/html/59ad57bd8ca4329a6cbb328e80cb18bc.html?imprison>
+
+
+## stamp out
+
+<https://www.bing.com/dict/search?q=stamp%20out>
+
+
+## pillow
+
+<https://www.dicts.cn/dictword20181/html/b35fa38609f2c67e2a93e007b955c9be.html?pillow>
+
+
+## hairnet
+
+<https://www.dicts.cn/dictword20181/html/f74452ae42caccd0ace6b4cb6132611a.html?hairnet>
+
+
+## wig
+
+<https://www.dicts.cn/dictword20181/html/77ece8e0239835176c24197ee8103fd4.html?wig>
+
+
+## ballad
+
+<https://www.dicts.cn/dictword20181/html/d495b47fa13313744adb5b606f929bb7.html?ballad>
+
+
+## pram
+
+<https://www.dicts.cn/dictword20181/html/2c1c715e6c3e387d25b293c349181e6f.html?pram>
+
+
+## lad
+
+<https://www.dicts.cn/dictword20181/html/2f88e2d3e07cad248992ca507d27e884.html?lad>
+
+
+## miner
+
+<https://www.dicts.cn/dictword20181/html/7c65a55800112ebe55525867337f1dfa.html?miner>
+
+
+## object to
+
+<https://www.bing.com/dict/search?q=object%20to>
+
+
+## take-off
+
+<https://www.bing.com/dict/search?q=take-off>
+
+
+## remark
+
+<https://www.dicts.cn/dictword20181/html/a4e7cefbaa19c7ab6afb8e652dbd3583.html?remark>
+
+
+## aside from
+
+<https://www.bing.com/dict/search?q=aside%20from>
+
+
+## generous
+
+<https://www.dicts.cn/dictword20181/html/3af19c08f08de2eff71826a740a382f4.html?generous>
+
+
+## big shot
+
+<https://www.bing.com/dict/search?q=big%20shot>
+
+
+## submarine
+
+<https://www.dicts.cn/dictword20181/html/837d0d06b80c5743f0106eff6d60692f.html?submarine>
+
+
+## enemy
+
+
+## cause
+
+
+## photographer
+
+<https://www.dicts.cn/dictword20181/html/a416b5cd789eb15567f3f3b718860704.html?photographer>
+
+
+## fool around
+
+<https://www.bing.com/dict/search?q=fool%20around>
 
