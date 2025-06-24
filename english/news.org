@@ -1882,15 +1882,12 @@ https://www.bing.com/dict/search?q=fan+out&qs=n&form=Z9LH5&sp=-1&lq=0&pq=fan+out
 :PROPERTIES:
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
+:LOGBOOK:
+- Note taken on [2025-06-24 Tue 09:30] \\
+  [[https://www.youtube.com/watch?v=ScWmkuEBIdM][(12) 看美剧练听力（第242期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第242期新闻精读配套听力练习 - YouTube]]
+:END:
 ** One
-1, Preventing harm before it happens is a powerful motivation, one that's
-also animating the Japanese government's crackdown on "host clubs"
-where women pay for male companionship. The clubs were long viewed as
-harmless, but their reputation is souring as an increasing number of
-younger, poorer women take on debt — or even engage in sex work — to
-pay for them. Host clubs' appeal speaks to a growing economic divide in
-Japan, while the new rules of engagement reflect government efforts to
-maintain order in a nation known for its low crime rate.
+1, Preventing harm before it happens is a powerful motivation, one that's also animating the Japanese government's crackdown on "host clubs" where women pay for male companionship. The clubs were long viewed as harmless, but their reputation is souring as an increasing number of younger, poorer women take on debt — or even engage in sex work — to pay for them. Host clubs' appeal speaks to a growing economic divide in Japan, while the new rules of engagement reflect government efforts to maintain order in a nation known for its low crime rate.
 
 *** animate
 https://www.dicts.cn/dictword20181/html/3e6ec91b503a7471b1325fc08d89d822.html?animate
@@ -1902,15 +1899,14 @@ https://www.dicts.cn/dictword20181/html/2dec010544497668440ca8015efe7621.html?co
 https://www.dicts.cn/dictword20181/html/fa7286403bdb7a467a53f10d3228c325.html?sour
 *** engage in
 https://www.bing.com/dict/search?q=engage%20in
+*** divide
+:LOGBOOK:
+- Note taken on [2025-06-24 Tue 09:42] \\
+  https://github.com/peng051410/today_i_learn/issues/225
+:END:
+https://www.dicts.cn/dictword20181/html/4f800fb6c31993b80bd293a318c1899c.html?divide
 ** Two
-2, Social Security's potential insolvency date is now one year sooner
-than reported last year.
-Due to an aging population and a smaller share of U.S. workers paying
-in, the program could become unable to pay full retirement and
-disability benefits in 2034, its trustees said. Without congressional
-action, elderly and disabled Americans could see their payments
-reduced by 19% in 2034. Changes to benefits could touch off a fierce
-public debate ahead of the 2026 midterm elections.
+2, Social Security's potential insolvency date is now one year sooner than reported last year. Due to an aging population and a smaller share of U.S. workers paying in, the program could become unable to pay full retirement and disability benefits in 2034, its trustees said. Without congressional action, elderly and disabled Americans could see their payments reduced by 19% in 2034. Changes to benefits could touch off a fierce public debate ahead of the 2026 midterm elections.
 
 *** insolvency
 https://www.dicts.cn/dictword20181/html/a856f46289009ea04a1110f0e469af74.html?insolvency
@@ -1922,14 +1918,7 @@ https://www.dicts.cn/dictword20181/html/6aaab812fb9afae684856deb642ca2d5.html?tr
 https://www.bing.com/dict/search?q=touch+off&lq=0&pq=
 
 ** Three
-3. A federal judge today ordered the Trump administration to release
-Mahmoud Khalil, the Columbia University graduate and prominent pro-
-Palestinian protester who has been jailed in Louisiana for the last three
-months. The government is seeking to deport Khalil based on a law that
-allows for the expulsion of people who oppose the nation's foreign policy
-objectives. The judge said that he had been persuaded by Khalil's
-arguments that his detention was an unlawful retaliation against his pro-
-Palestinian speech.
+3. A federal judge today ordered the Trump administration to release Mahmoud Khalil, the Columbia University graduate and prominent pro-Palestinian protester who has been jailed in Louisiana for the last three months. The government is seeking to deport Khalil based on a law that allows for the expulsion of people who oppose the nation's foreign policy objectives. The judge said that he had been persuaded by Khalil's arguments that his detention was an unlawful retaliation against his pro-Palestinian speech.
 
 *** expulsion
 https://www.dicts.cn/dictword20181/html/67248c726f909cd15209ba5ebe40fb93.html?expulsion
@@ -1938,13 +1927,7 @@ https://www.dicts.cn/dictword20181/html/80b555cde3ec6322ce5a0614dc8a60fd.html?de
 *** retaliation
 https://www.dicts.cn/dictword20181/html/33648ba318de45349b4fa8f73d61c8f8.html?retaliation
 ** Four
-4. Mr Trump said that America had "completely and
-totally obliterated" three nuclear sites in Iran: Fordow,
-Natanz and Isfahan. America probably used huge bunker-
-busting bombs, which only it possesses. Abbas Araghchi,
-Iran's foreign minister, called America's actions
-"outrageous" and "criminal" and said they would have
-"everlasting consequences"
+4. Mr Trump said that America had "completely and totally obliterated" three nuclear sites in Iran: Fordow, Natanz and Isfahan. America probably used huge bunker- busting bombs, which only it possesses. Abbas Araghchi, Iran's foreign minister, called America's actions "outrageous" and "criminal" and said they would have "everlasting consequences"
 
 *** obliterate
 https://www.dicts.cn/dictword20181/html/2114fafbdced9127cf7a7c634ef907ae.html?obliterate
