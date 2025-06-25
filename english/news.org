@@ -122,36 +122,36 @@ https://www.dicts.cn/dictword20181/html/7d8ba6ebb64b009730594b4ecbea4c84.html?ch
 :PROPERTIES:
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
+:LOGBOOK:
+- Note taken on [2025-06-25 Wed 09:53] \\
+  [[https://www.youtube.com/watch?v=UzzqHPzyrCo][(13) 听懂英语新闻｜一周英语新闻听力｜纯正美音｜听力练习合集｜听新闻学英语｜单词轻松记｜一起读懂美国新闻｜听力跟读版｜第188期+第189期｜外刊精听｜(2024.12.12—12.18) - YouTube]]
+:END:
 ** One
 1. Madison mourned after a school shooting
-A makeshift memorial grew on a sidewalk outside a Christian
-school in Madison, Wis., where a teenage student fatally shot a
-teacher and a fellow student yesterday. Police identified the
-shooter as Natalie Rupnow, a 15-year-old student who died from
-what appeared to be a self-inflicted gunshot wound. Much is
-still unknown about the attack.
+A makeshift memorial grew on a sidewalk outside a Christian school in Madison, Wis., where a teenage student fatally shot a teacher and a fellow student yesterday. Police identified the shooter as Natalie Rupnow, a 15-year-old student who died from what appeared to be a self-inflicted gunshot wound. Much is still unknown about the attack.
+
 *** Madison
 https://en.wikipedia.org/wiki/Madison,_Wisconsin?useskin=vector
 *** mourn
+https://www.dicts.cn/dictword20181/html/8299d11f09eca98fe03b27d4bffe01b6.html?mourn
 *** makeshift
+:LOGBOOK:
+- Note taken on [2025-06-25 Wed 09:40] \\
+  https://www.dicts.cn/dictword20181/html/6a7b4fb01a458ab97ef70f192aec3011.html?makeshift
+:END:
 https://en.wiktionary.org/wiki/makeshift
 *** fellow student
+https://www.bing.com/dict/search?q=fellow%20student
 ** Two
 2. Mangione Faces First-Degree Murder Charge That Brands Him a Terrorist
-A grand jury formally indicted Luigi Mangione in the killing of Brian
-Thompson, the chief executive of UnitedHealthcare. "This was a frightening,
-well-planned, targeted murder that was intended to cause shock and attention
-and intimidation, " said Alvin L. Bragg, the Manhattan district attorney, at a
-news conference on Tuesday. A lawyer for Mr. Mangione, Karen Friedman
-Agnifilo, declined to comment on the new charges. If convicted on the highest
-charges, Mr. Mangione faces a sentence of life in prison without parole.
+A grand jury formally indicted Luigi Mangione in the killing of Brian Thompson, the chief executive of UnitedHealthcare. "This was a frightening, well-planned, targeted murder that was intended to cause shock and attention and intimidation, " said Alvin L. Bragg, the Manhattan district attorney, at a news conference on Tuesday. A lawyer for Mr. Mangione, Karen Friedman Agnifilo, declined to comment on the new charges. If convicted on the highest charges, Mr. Mangione faces a sentence of life in prison without parole.
+
 *** brand
+https://www.dicts.cn/dictword20181/html/4c9cd049681abeb1aa4bcdddbd8a0537.html?brand
 *** indict
+https://www.dicts.cn/dictword20181/html/0de29f06899f34e3dc92d2dbfef0032e.html?indict
 *** intimidation
-:LOGBOOK:
-- Note taken on [2024-12-25 Wed 09:49] \\
-  https://www.dicts.cn/dictword20181/html/22471f08fae98218f73617e7e599bc63.html?intimidate
-:END:
+https://www.dicts.cn/dictword20181/html/22471f08fae98218f73617e7e599bc63.html?intimidate
 
 *** declined
 :LOGBOOK:
@@ -160,15 +160,17 @@ charges, Mr. Mangione faces a sentence of life in prison without parole.
 :END:
 
 *** parole
+:LOGBOOK:
+- Note taken on [2025-06-25 Wed 09:38] \\
+  https://www.dicts.cn/dictword20181/html/3beac348a0aec4b349c19fe5b8eb62e8.html?parole
+:END:
 https://en.wikipedia.org/wiki/Parole?useskin=vector
+
 ** Three
-3. A Russian general was killed today by a bomb on a
-Moscow street. Ukraine claimed responsibility for what
-appears to be one of the most brazen assassinations since
-Russia's full-scale invasion nearly three years ago.
-Yesterday, Kyiv had blamed him for the "massive use of
-banned chemical weapons" in Ukraine.
+3. A Russian general was killed today by a bomb on a Moscow street. Ukraine claimed responsibility for what appears to be one of the most brazen assassinations since Russia's full-scale invasion nearly three years ago. Yesterday, Kyiv had blamed him for the "massive use of banned chemical weapons" in Ukraine.
+
 *** what appears to be
+https://www.bing.com/dict/search?q=what%20appears%20to%20be
 *** brazen
 :LOGBOOK:
 - Note taken on [2024-12-25 Wed 09:53] \\
@@ -176,6 +178,7 @@ banned chemical weapons" in Ukraine.
 :END:
 
 *** full-scale
+https://www.bing.com/dict/search?q=full-scale
 *** Kyiv
 https://en.wikipedia.org/wiki/Kyiv?useskin=vector
 
