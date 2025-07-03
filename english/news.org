@@ -2126,5 +2126,45 @@ https://www.bing.com/dict/search?q=scale%20back
 
 ** hang out
 https://www.bing.com/dict/search?q=hang%20out
-
+        
 ** I have a fover to ask you 
+* [[https://www.bilibili.com/video/BV1ry34z4E5X][读懂英语新闻（第245期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记_哔哩哔哩_bilibili]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** One
+1. The Senate muscled through Trump's big policy bill
+Senate Republicans managed to secure exactly enough votes today to pass the party's marquee bill to slash taxes and social safety net programs. The legislation, which was designed to deliver on President Trump's agenda, passed with a 51- to-50 margin after Vice President JD Vance cast the tiebreaking vote. The bill now heads to the House, where it still must pass before becoming law. Yale University economists forecast that the bill will cost the bottom 20% of taxpayers an average of $560 a year while giving a boost of $6,055 to those at the top end.
+
+*** secure
+:LOGBOOK:
+- Note taken on [2025-07-03 Thu 09:45] \\
+  https://github.com/peng051410/today_i_learn/issues/258
+:END:
+https://www.dicts.cn/dictword20181/html/a7dcc8c825c47387ace525c537b3eff6.html?secure
+*** marquee
+https://www.dicts.cn/dictword20181/html/ba3dbf2943a83cc4d5df53e265e36133.html?marquee
+*** slash
+https://www.dicts.cn/dictword20181/html/ff42d5ab765a076f7a9b5c724838ce00.html?slash
+*** tiebreaking
+https://www.bing.com/dict/search?q=tiebreaking&lq=0&pq=
+*** top end
+https://www.bing.com/dict/search?q=top+end&qpvt=top+end
+** Two
+2. Trump visited 'Alligator Alcatraz'
+The president jetted off to Florida this morning to visit an abandoned airport in the Everglades that is being turned into a migrant detention center. Trump and his allies have decided to call the site "Alligator Alcatraz, " to highlight the remote location and dangerous local wildlife that they believe will make it difficult to escape. Environmental groups have sued to stop the project, arguing that environmental regulations have been disregarded in a rush to build the facility.
+
+*** alligator
+https://www.dicts.cn/dictword20181/html/f415042e19650994a6e6452590321f13.html?alligator
+*** disregard
+https://www.dicts.cn/dictword20181/html/8c3f7e04c9b834dca3d407ac585bd7d9.html?disregard
+** Three
+3. This summer blockbuster might feel familiar
+It's been 32 years since dinosaurs started roaming the earth again — that is, since the original "Jurassic Park" opened in theaters. This week, the seventh entry in the series, "Jurassic World Rebirth," is hoping to draw a flood of nostalgic holiday- week moviegoers.
+
+*** roam
+https://www.dicts.cn/dictword20181/html/04d6817a165f4df5fe8d37799fc2f00a.html?roam
+*** nostalgic
+https://www.dicts.cn/dictword20181/html/b9bc3cafb7f3f019b7e41263ec56217a.html?nostalgic
+*** moviegoer
+https://www.dicts.cn/dictword20181/html/c0e0b33be863b5c3627b3463869f3eda.html?moviegoer
