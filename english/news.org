@@ -2366,3 +2366,56 @@ https://www.dicts.cn/dictword20181/html/01b43f213d62b318a7e2c22fc2534284.html?dr
 :PROPERTIES:
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
+* [[https://www.youtube.com/watch?v=UqZTvo1hyM8][(36) 读懂英语新闻（第250期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** One
+1. President Trump signed the GENIUS Act into law, which means many mainstream
+banks will soon try to make stablecoins a part of everyday life. A stablecoin is a
+cryptocurrency pegged to a stable asset like the dollar. With clear legal guidelines for the
+most promising blockchain application, many companies are going to jump into the
+business. There are two ways stablecoins might improve everyday lives.
+1.Savings. On exchanges like Coinbase and apps like Paypal, users can buy stablecoins with
+dollars and earn 4% interest on their money (for now). That blows away bank savings rates.
+2.Shopping. Osama Bari, with the D24 Fintech Group, predicts instant rebates could come
+soon for stablecoin transactions. So a consumer might get an instant $2 back on a $100
+watch. That's partly because retailers don't pay interchange fees when they get paid with
+stablecoins.
+
+*** peg
+https://www.dicts.cn/dictword20181/html/d7b43da32340dc3ab7cf9fcd72f4516c.html?peg
+*** blow away
+https://www.bing.com/dict/search?q=blow%20away
+*** rebate
+https://www.dicts.cn/dictword20181/html/b3e8075b6c4b8f43f8913865b20cb5d6.html?rebate
+** Two
+2. Beef prices are at record highs, and industry experts tell Axios
+they could stay that way into 2026 and beyond. Ground beef averaged
+$6.12 a pound in June, up nearly 12% from a year ago, according to
+federal data released this week. Steak prices jumped 8% year-over-
+year, per the latest Consumer Price Index. America's beef supply
+chain is being strained from multiple angles. A multi-year drought
+shrank cattle herds, and global imports are under threat - but
+consumer demand remains strong.
+
+*** ground beef
+https://www.bing.com/dict/search?q=ground%20beef
+*** year-over-year
+https://www.bing.com/dict/search?q=year-over-year&qs=n&form=Z9LH5&sp=-1&lq=0&pq=year-over-year&sc=0-14&sk=&cvid=C1A5201FFD4A4FC9B6F43D2A91277AE2
+*** per
+https://www.dicts.cn/dictword20181/html/0f760967fc2ed6eb704f6ee33b3524ac.html?per
+** Three
+3. Obamacare insurers want double-digit premium hikes next year.
+The companies say they need big rate increases for the coverage
+formally known as Affordable Care Act marketplace plans due to
+rising healthcare costs and changing federal policy, including cuts
+to subsidies that help consumers pay for plans. Some enrollees
+could see increases of more than 20%.
+
+*** insurer
+https://www.dicts.cn/dictword20181/html/bdd86ccfc54633acd0855ca653eb660f.html?insurer
+*** premium
+https://www.dicts.cn/dictword20181/html/de5b84eb2223c06364802d01e4cd736b.html?premium
+*** enrollee
+https://www.dicts.cn/dictword20181/html/6b48db463fb217d920d1913267860fc7.html?enrollee
