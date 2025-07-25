@@ -2419,14 +2419,7 @@ https://www.bing.com/dict/search?q=short%20position
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
 ** One
-1. Mike Johnson, the Republican speaker of America's
-House of Representatives, will dismiss the chamber early
-for summer to avoid an awkward vote related to Jeffrey
-Epstein. For days Democrats, joined by some Republicans,
-have been trying to force a vote that would compel the
-Trump administration to release documents about the late
-convicted paedophile. The House will re-convene in
-September.
+1. Mike Johnson, the Republican speaker of America's House of Representatives, will dismiss the chamber early for summer to avoid an awkward vote related to Jeffrey Epstein. For days Democrats, joined by some Republicans, have been trying to force a vote that would compel the Trump administration to release documents about the late convicted paedophile. The House will re-convene in September.
 
 *** dismiss
 https://www.dicts.cn/dictword20181/html/c50b878738f3df54f238b013cb5a7a8b.html?dismiss
@@ -2434,14 +2427,13 @@ https://www.dicts.cn/dictword20181/html/c50b878738f3df54f238b013cb5a7a8b.html?di
 https://www.dicts.cn/dictword20181/html/4d2def4e2ec34cd4d8b567fc3f02b185.html?convene
 ** Two
 2. Are we witnessing the demise of late-night?
-Last night, on his late-night show, Jon Stewart delivered
-an expletive-laden defense of his friend Stephen Colbert,
-whose "Late Show" is set to be canceled. Stewart
-acknowledged that the industry's business model was
-struggling, but also suggested that CBS made the decision
-to cancel the show in an effort to appease the president.
+Last night, on his late-night show, Jon Stewart delivered an expletive-laden defense of his friend Stephen Colbert, whose "Late Show" is set to be canceled. Stewart acknowledged that the industry's business model was struggling, but also suggested that CBS made the decision to cancel the show in an effort to appease the president.
 
 *** witness
+:LOGBOOK:
+- Note taken on [2025-07-25 Fri 09:50] \\
+  https://github.com/peng051410/today_i_learn/issues/265
+:END:
 https://www.dicts.cn/dictword20181/html/ef905c3db9995f703b48318c591c4149.html?witness
 *** demise
 https://www.dicts.cn/dictword20181/html/5c1681f0aee77373673ec2c8402eb752.html?demise
@@ -2454,14 +2446,7 @@ https://www.bing.com/dict/search?q=in+effort+to&FORM=HDRSC6
 *** appease
 https://www.dicts.cn/dictword20181/html/d8780efad91b5252b6dacfe578ac8faf.html?appease
 ** Three
-3. Mahjong - the centuries-old Chinese strategy game
-often associated with older generations in the Asian
-diaspora — has a new wave of young players. Between
-2023 and 2024, the number of mahjong events on
-Eventbrite surged 179% in the U.S. In Houston, one of
-the cities leading mahjong's revival, local company
-That's aMAHJzing is offering lessons and hosting
-tournaments.
+3. Mahjong - the centuries-old Chinese strategy game often associated with older generations in the Asian diaspora — has a new wave of young players. Between 2023 and 2024, the number of mahjong events on Eventbrite surged 179% in the U.S. In Houston, one of the cities leading mahjong's revival, local company That's aMAHJzing is offering lessons and hosting tournaments.
 
 *** diaspora
 https://www.bing.com/dict/search?q=diaspora
@@ -2471,3 +2456,11 @@ https://www.bing.com/dict/search?q=a+wave+of&qs=n&form=Z9LH5&sp=-1&lq=0&pq=a+wav
 https://www.dicts.cn/dictword20181/html/4b6e605ebbccfe217f192c0608255214.html?revival
 *** tournament
 https://www.dicts.cn/dictword20181/html/2ac9f0e3f288e40603ed5d9e5102f1db.html?tournament
+
+* [[https://www.youtube.com/watch?v=jOb_iz0qMHs][(41) 一周听力合集（第250期+第251期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第251期新闻精读配套听力练习 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+** aside from
+https://www.bing.com/dict/search?q=aside%20from
