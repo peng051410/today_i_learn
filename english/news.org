@@ -2470,32 +2470,20 @@ https://www.bing.com/dict/search?q=aside%20from
 :END:
 ** One
 1. The White House will release $5.5 billion for schools
-The Trump administration announced today that it would release $5.5
-billion in frozen education funds, after an unexpected delay sent
-school districts around the country scrounging for the lost dollars
-before the new school year begins. The money was part of nearly $7
-billion in education funding that had been approved by Congress and
-was set to be released on July 1. It included funds to help train and
-recruit teachers, particularly in low-income areas. It also included
-money for arts and music education in low-income districts, help for
-children learning English and support for children of migrant
-farmworkers.
+The Trump administration announced today that it would release $5.5 billion in frozen education funds, after an unexpected delay sent school districts around the country scrounging for the lost dollars before the new school year begins. The money was part of nearly $7 billion in education funding that had been approved by Congress and was set to be released on July 1. It included funds to help train and recruit teachers, particularly in low-income areas. It also included money for arts and music education in low-income districts, help for children learning English and support for children of migrant farmworkers.
 
 *** district
+:LOGBOOK:
+- Note taken on [2025-07-29 Tue 09:55] \\
+  https://github.com/peng051410/today_i_learn/issues/266
+:END:
 https://www.dicts.cn/dictword20181/html/3cb68141663a2e804f754219bff248a8.html?district
 *** scrounge
 https://www.dicts.cn/dictword20181/html/e9eadb0e14a81878c148f50aca16653f.html?scrounge
 *** recruit
 https://www.dicts.cn/dictword20181/html/222fc4bea043c771c2d32236ad5ea700.html?recruit
 ** Two
-2. Donald Trump signed executive orders to supercharge US
-artificial intelligence development. The president is so keen
-on winning the Al race that he even considered breaking up
-chipmaking heavyweight Nvidia, only to find out "it's not so
-easy in that business." With a market value topping $4
-trillion, Nvidia is powering the Al charge, and CEO Jensen
-Huang-long leery of politics-is becoming a reluctant
-diplomat between Washington and Beijing.
+2. Donald Trump signed executive orders to supercharge US artificial intelligence development. The president is so keen on winning the Al race that he even considered breaking up chipmaking heavyweight Nvidia, only to find out "it's not so easy in that business." With a market value topping $4 trillion, Nvidia is powering the Al charge, and CEO Jensen Huang-long leery of politics-is becoming a reluctant diplomat between Washington and Beijing.
 
 *** supercharge
 https://www.dicts.cn/dictword20181/html/17f2060491c462fec5d92bb06d69d0fb.html?supercharge
@@ -2505,13 +2493,14 @@ https://www.dicts.cn/dictword20181/html/f801f1532e9d7cd728012de634dc783f.html?he
 https://www.dicts.cn/dictword20181/html/cb228a63aa629e942e6eb1b31cc33a4c.html?leery
 ** Three
 3. How many steps do you really need in a day?
-Decades of research has shown that walking offers
-significant health benefits, for the heart and even the brain.
-But experts we talked to emphasized that there's no
-evidence behind the recommendation to take 10,000 steps a
-day. The real number, according to a new study, is around
-7,000 steps a day (or roughly three miles). It doesn't hurt to
-do more, but the overall health benefits quickly level out.
+Decades of research has shown that walking offers significant health benefits, for the heart and even the brain. But experts we talked to emphasized that there's no evidence behind the recommendation to take 10,000 steps a day. The real number, according to a new study, is around 7,000 steps a day (or roughly three miles). It doesn't hurt to do more, but the overall health benefits quickly level out.
 
 *** level out
 https://www.bing.com/dict/search?q=level%20out
+* [[https://www.youtube.com/watch?v=Fpfe6h4JNAs][(44) 看美剧练听力（第252期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第252期新闻精读配套听力练习 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** walls have ears
+https://www.bing.com/dict/search?q=walls+have+ears&lq=0&pq=
+
