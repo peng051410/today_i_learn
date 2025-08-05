@@ -2571,17 +2571,9 @@ https://www.dicts.cn/dictword20181/html/d3783ba17e85096693ab64991e5780cd.html?ig
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
 
-
 ** One
-1, President Trump fired the top Bureau of Labor Statistics official after a weak
-jobs report.
-He said BLS Commissioner Erika McEntarfer would be "replaced with someone
-much more competent and qualified" and claimed without evidence that the jobs
-numbers were manipulated for political purposes. Trump's move throws the
-quality of America's statistical apparatus into question. McEntarfer couldn't
-immediately be reached for comment. The data showed a dramatic drop in the
-number of jobs created in May and June—258,000 fewer than initially reported
-and 73,000 jobs gained in June, falling short of expectations.
+1, President Trump fired the top Bureau of Labor Statistics official after a weak jobs report.
+He said BLS Commissioner Erika McEntarfer would be "replaced with someone much more competent and qualified" and claimed without evidence that the jobs numbers were manipulated for political purposes. Trump's move throws the quality of America's statistical apparatus into question. McEntarfer couldn't immediately be reached for comment. The data showed a dramatic drop in the number of jobs created in May and June—258,000 fewer than initially reported and 73,000 jobs gained in June, falling short of expectations.
 
 *** competent
 https://www.dicts.cn/dictword20181/html/7d0c51cc6af4beec25654ad44760e5c9.html?competent
@@ -2596,13 +2588,7 @@ https://www.dicts.cn/dictword20181/html/8349694de54166b92c9b2958d6908300.html?ap
 https://www.bing.com/dict/search?q=fall%20short
 
 ** Two
-2. Mr Trump ordered two nuclear submarines to be positioned
-in "appropriate regions", ', in response to "highly provocative
-statements" made by Dmitry Medvedev, Russia's former
-president. On Tuesday Mr Trump threatened Russia with tariffs
-if it did not reach a ceasefire with Ukraine within 10 days. This
-week Mr Medvedev accused the American president of "playing
-the ultimatum game with Russia".
+2. Mr Trump ordered two nuclear submarines to be positioned in "appropriate regions", ', in response to "highly provocative statements" made by Dmitry Medvedev, Russia's former president. On Tuesday Mr Trump threatened Russia with tariffs if it did not reach a ceasefire with Ukraine within 10 days. This week Mr Medvedev accused the American president of "playing the ultimatum game with Russia".
 
 *** provocative
 https://www.dicts.cn/dictword20181/html/19c95525cd7271a819984bf7ffc097b1.html?provocative
@@ -2610,14 +2596,7 @@ https://www.dicts.cn/dictword20181/html/19c95525cd7271a819984bf7ffc097b1.html?pr
 
 ** Three
 3. The U.S. is paying more than 150,000 people not to work
-The Trump administration's human resources division said today that
-about 154,000 federal employees had accepted the government's offer to
-resign in exchange for several months of pay. It amounted to the largest
-reduction to the federal work force in the modern era. And yet, it still
-represented just a portion of the total number of workers who have left
-the federal government since the beginning of the Trump administration
-in January. The tally did not include the thousands of people who were
-laid off or fired
+The Trump administration's human resources division said today that about 154,000 federal employees had accepted the government's offer to resign in exchange for several months of pay. It amounted to the largest reduction to the federal work force in the modern era. And yet, it still represented just a portion of the total number of workers who have left the federal government since the beginning of the Trump administration in January. The tally did not include the thousands of people who were laid off or fired
 
 *** amount to
 https://www.bing.com/dict/search?q=amount%20to
@@ -2630,3 +2609,17 @@ https://www.dicts.cn/dictword20181/html/aa6e7d8bb5997a553f32bb0a93b6398c.html?ta
 
 *** lay off
 https://www.bing.com/dict/search?q=laid%20off
+* [[https://www.youtube.com/watch?v=vg90I2FJhgY][(48) 看美剧练听力（第254期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第252期新闻精读配套听力练习 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** appointment
+:LOGBOOK:
+- Note taken on [2025-08-05 Tue 09:43] \\
+  https://github.com/peng051410/today_i_learn/issues/267
+:END:
+https://www.dicts.cn/dictword20181/html/21d1419e60c4ad3e09a93ef73e254a8c.html?appointment
+** fraction
+https://www.dicts.cn/dictword20181/html/0b9b520beed01257bc248a3bfc342ac2.html?fraction
+** corporation
+https://www.dicts.cn/dictword20181/html/2202840e31abd26638b65bda2f718351.html?corporation
