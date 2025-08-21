@@ -1,93 +1,94 @@
 
 # Table of Contents
 
--   [(10) 读懂英语新闻（第186期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org1e7a3db)
--   [(10) 读懂英语新闻（第187期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org11b3351)
--   [(12) 读懂英语新闻（第188期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org0709ba0)
--   [(13) 读懂英语新闻（第189期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org31fcaab)
--   [(15) 读懂英语新闻（第190期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgd9f72c6)
--   [(15) 读懂英语新闻（第191期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org27b1d08)
--   [(18) 读懂英语新闻（第192期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org316adf1)
--   [(19) 读懂英语新闻（第193期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orga44d0af)
--   [(3) 读懂英语新闻（第194期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgfabec8a)
--   [(3) 读懂英语新闻（第195期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org589ab7a)
--   [(19) 读懂英语新闻（第204期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org65597e9)
--   [(4) 读懂英语新闻（第205期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgfb38e86)
--   [(4) 读懂英语新闻（第206期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgdd108e8)
--   [读懂英语新闻（第207期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org113d3b8)
--   [读懂英语新闻（第208期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org63e9846)
--   [读懂英语新闻（第209期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgb8c6bb3)
--   [读懂英语新闻（第203期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org3767fd1)
--   [读懂英语新闻（第210期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgc351b9e)
--   [读懂英语新闻（第211期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgab6707f)
--   [读懂英语新闻（第212期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org9968ae5)
--   [读懂英语新闻（第213期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org1d18ac1)
--   [读懂英语新闻（第214期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org51dfc81)
--   [读懂英语新闻（第215期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgf651b26)
--   [读懂英语新闻（第216期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orge381560)
--   [读懂英语新闻（第217期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgb14ad40)
--   [(35) 读懂英语新闻（第218期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org686fd2a)
--   [读懂英语新闻（第219期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org1a4ac59)
--   [读懂英语新闻（第220期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orga2f6f76)
--   [读懂英语新闻（第221期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org3767782)
--   [读懂英语新闻（第222期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org7ff9a46)
--   [读懂英语新闻（第223期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgacbdea6)
--   [读懂英语新闻（第224期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgeeced42)
--   [读懂英语新闻（第225期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org9f92f94)
--   [(47) 如何养成好习惯，改掉坏习惯｜英语外刊精读｜词汇量暴涨｜英语阅读｜英语听力｜英文写作｜一起读懂美国新闻｜趣味学英语｜《经济学人》文章精读｜外刊精读第125期 - YouTube](#orgd4930aa)
--   [读懂英语新闻（第226期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org5978fa4)
--   [读懂英语新闻（第227期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org1ebadab)
--   [读懂英语新闻（第228期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org4b9f255)
--   [读懂英语新闻（第229期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org96557b8)
--   [读懂英语新闻（第230期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org1f28406)
--   [读懂英语新闻（第231期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org53c2403)
--   [读懂英语新闻（第232期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org964d157)
--   [读懂英语新闻（第233期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org49a346d)
--   [读懂英语新闻（第234期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgd42a5ce)
--   [读懂英语新闻（第235期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org266673c)
--   [读懂英语新闻（第236期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org1a04397)
--   [读懂英语新闻（第237期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgb44ef70)
--   [读懂英语新闻（第238期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org4a9262b)
--   [读懂英语新闻（第239期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org0ce8e1f)
--   [读懂英语新闻（第240期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orge41c475)
--   [读懂英语新闻（第241期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org48df37c)
--   [读懂英语新闻（第242期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org0433864)
--   [读懂英语新闻（第243期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgb3f6d25)
--   [(14) 一周听力合集（第242期+第243期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第243期新闻精读配套听力练习 - YouTube](#orge1a1baa)
--   [读懂英语新闻（第244期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org3b59a67)
--   [(18) 看美剧练听力（第244期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第244期新闻精读配套听力练习 - YouTube](#orgef8b7f4)
--   [读懂英语新闻（第245期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orga28dc5a)
--   [一周听力合集（第244期+第245期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第245期新闻精读配套听力练习 - YouTube](#org5275acb)
--   [(22) 读懂英语新闻（第246期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org676d8e2)
--   [(22) 看美剧练听力（第246期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第246期新闻精读配套听力练习 - YouTube](#org56e390f)
--   [读懂英语新闻（第247期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orga102fee)
--   [(26) 一周听力合集（第246期+第247期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第247期新闻精读配套听力练习 - YouTube](#org1480cde)
--   [(29) 读懂英语新闻（第248期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgba40877)
--   [(31) 看美剧练听力（第248期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第248期新闻精读配套听力练习 - YouTube](#org19dbb46)
--   [(33) 读懂英语新闻（第249期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org23515da)
--   [(33) 一周听力合集（第248期+第249期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第249期新闻精读配套听力练习 - YouTube](#orgba82793)
--   [(36) 读懂英语新闻（第250期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org6a1b9f9)
--   [(38) 看美剧练听力（第250期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第250期新闻精读配套听力练习 - YouTube](#org9680c3f)
--   [(41) 读懂英语新闻（第251期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org2fca305)
--   [(41) 一周听力合集（第250期+第251期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第251期新闻精读配套听力练习 - YouTube](#org33b7687)
--   [(44) 读懂英语新闻（第252期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgc169341)
--   [(44) 看美剧练听力（第252期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第252期新闻精读配套听力练习 - YouTube](#org550abc5)
--   [(45) 读懂英语新闻（第253期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org381eaa4)
--   [(47) 一周听力合集（第252期+第253期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第253期新闻精读配套听力练习 - YouTube](#org47b1b17)
--   [读懂英语新闻（第254期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org651f79b)
--   [(48) 看美剧练听力（第254期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第252期新闻精读配套听力练习 - YouTube](#org158940c)
--   [(50) 读懂英语新闻（第255期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org6ff259e)
--   [(50) 一周听力合集（第254期+第255期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第255期新闻精读配套听力练习 - YouTube](#org8d567e6)
--   [(52) 读懂英语新闻（第256期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgae1b081)
--   [(53) 看美剧练听力（第256期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第256期新闻精读配套听力练习 - YouTube](#org09c9362)
--   [(54) 读懂英语新闻（第257期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org24e4732)
--   [(55) 一周听力合集（第256期+第257期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第257期新闻精读配套听力练习 - YouTube](#orga04eace)
--   [(59) 读懂英语新闻（第258期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org63e56a1)
--   [(61) 看美剧练听力（第258期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第258期新闻精读配套听力练习 - YouTube](#org3a219e2)
+-   [(10) 读懂英语新闻（第186期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orga741058)
+-   [(10) 读懂英语新闻（第187期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgf5c03a7)
+-   [(12) 读懂英语新闻（第188期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org4fc35e7)
+-   [(13) 读懂英语新闻（第189期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org1ecbf1e)
+-   [(15) 读懂英语新闻（第190期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgf7094e8)
+-   [(15) 读懂英语新闻（第191期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgf10912f)
+-   [(18) 读懂英语新闻（第192期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgacae0c3)
+-   [(19) 读懂英语新闻（第193期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgcf1b148)
+-   [(3) 读懂英语新闻（第194期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgb08d30e)
+-   [(3) 读懂英语新闻（第195期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org804f935)
+-   [(19) 读懂英语新闻（第204期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgc6f63ce)
+-   [(4) 读懂英语新闻（第205期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgcaefee4)
+-   [(4) 读懂英语新闻（第206期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orga475366)
+-   [读懂英语新闻（第207期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgdcb32e1)
+-   [读懂英语新闻（第208期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orga2ed5a2)
+-   [读懂英语新闻（第209期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org94fc355)
+-   [读懂英语新闻（第203期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org8b15188)
+-   [读懂英语新闻（第210期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org3b42f5a)
+-   [读懂英语新闻（第211期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgf46a646)
+-   [读懂英语新闻（第212期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgc71182d)
+-   [读懂英语新闻（第213期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgfbf78e1)
+-   [读懂英语新闻（第214期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org753e814)
+-   [读懂英语新闻（第215期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgd911947)
+-   [读懂英语新闻（第216期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgc384785)
+-   [读懂英语新闻（第217期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org1e47813)
+-   [(35) 读懂英语新闻（第218期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgdfda0aa)
+-   [读懂英语新闻（第219期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org4fe446d)
+-   [读懂英语新闻（第220期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orge5d2923)
+-   [读懂英语新闻（第221期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgd552265)
+-   [读懂英语新闻（第222期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org7da4b0c)
+-   [读懂英语新闻（第223期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgd0b5f33)
+-   [读懂英语新闻（第224期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org2819f7b)
+-   [读懂英语新闻（第225期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org5c5c15a)
+-   [(47) 如何养成好习惯，改掉坏习惯｜英语外刊精读｜词汇量暴涨｜英语阅读｜英语听力｜英文写作｜一起读懂美国新闻｜趣味学英语｜《经济学人》文章精读｜外刊精读第125期 - YouTube](#org03f7b79)
+-   [读懂英语新闻（第226期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org2db39d0)
+-   [读懂英语新闻（第227期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org7b8130f)
+-   [读懂英语新闻（第228期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org0a2bacb)
+-   [读懂英语新闻（第229期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org9ce386c)
+-   [读懂英语新闻（第230期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org01412af)
+-   [读懂英语新闻（第231期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgc440eb2)
+-   [读懂英语新闻（第232期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org802ce47)
+-   [读懂英语新闻（第233期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgdeee097)
+-   [读懂英语新闻（第234期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org834646f)
+-   [读懂英语新闻（第235期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org790a5a8)
+-   [读懂英语新闻（第236期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org73dcc5d)
+-   [读懂英语新闻（第237期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org7b15e17)
+-   [读懂英语新闻（第238期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orge0bd8ef)
+-   [读懂英语新闻（第239期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org5c08578)
+-   [读懂英语新闻（第240期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org90a2378)
+-   [读懂英语新闻（第241期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgbc6fc1c)
+-   [读懂英语新闻（第242期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org7dbab57)
+-   [读懂英语新闻（第243期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org0ce8aea)
+-   [(14) 一周听力合集（第242期+第243期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第243期新闻精读配套听力练习 - YouTube](#orgcfcae2f)
+-   [读懂英语新闻（第244期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgc9ae567)
+-   [(18) 看美剧练听力（第244期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第244期新闻精读配套听力练习 - YouTube](#org431ca01)
+-   [读懂英语新闻（第245期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgc20c34d)
+-   [一周听力合集（第244期+第245期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第245期新闻精读配套听力练习 - YouTube](#orgbac2965)
+-   [(22) 读懂英语新闻（第246期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org1f3f1ad)
+-   [(22) 看美剧练听力（第246期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第246期新闻精读配套听力练习 - YouTube](#org9f0fbc2)
+-   [读懂英语新闻（第247期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgf7104f5)
+-   [(26) 一周听力合集（第246期+第247期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第247期新闻精读配套听力练习 - YouTube](#org90911f1)
+-   [(29) 读懂英语新闻（第248期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org120781a)
+-   [(31) 看美剧练听力（第248期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第248期新闻精读配套听力练习 - YouTube](#orge51fcab)
+-   [(33) 读懂英语新闻（第249期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org2528e83)
+-   [(33) 一周听力合集（第248期+第249期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第249期新闻精读配套听力练习 - YouTube](#org4b4eda3)
+-   [(36) 读懂英语新闻（第250期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgf50567e)
+-   [(38) 看美剧练听力（第250期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第250期新闻精读配套听力练习 - YouTube](#org25b3794)
+-   [(41) 读懂英语新闻（第251期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org1a38206)
+-   [(41) 一周听力合集（第250期+第251期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第251期新闻精读配套听力练习 - YouTube](#org6e75626)
+-   [(44) 读懂英语新闻（第252期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org900797c)
+-   [(44) 看美剧练听力（第252期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第252期新闻精读配套听力练习 - YouTube](#org7717592)
+-   [(45) 读懂英语新闻（第253期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgb073ca4)
+-   [(47) 一周听力合集（第252期+第253期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第253期新闻精读配套听力练习 - YouTube](#orga766dcc)
+-   [读懂英语新闻（第254期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org84da73d)
+-   [(48) 看美剧练听力（第254期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第252期新闻精读配套听力练习 - YouTube](#org770df07)
+-   [(50) 读懂英语新闻（第255期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org664777a)
+-   [(50) 一周听力合集（第254期+第255期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第255期新闻精读配套听力练习 - YouTube](#orgf525036)
+-   [(52) 读懂英语新闻（第256期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgb48f184)
+-   [(53) 看美剧练听力（第256期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第256期新闻精读配套听力练习 - YouTube](#orgb25e20b)
+-   [(54) 读懂英语新闻（第257期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgbbb9998)
+-   [(55) 一周听力合集（第256期+第257期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第257期新闻精读配套听力练习 - YouTube](#org7e9618f)
+-   [(59) 读懂英语新闻（第258期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org2e76208)
+-   [(61) 看美剧练听力（第258期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第258期新闻精读配套听力练习 - YouTube](#org01f978a)
+-   [(64) 读懂英语新闻（第259期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTub](#orgdb7b278)
 
 
 
-<a id="org1e7a3db"></a>
+<a id="orga741058"></a>
 
 # [(10) 读懂英语新闻（第186期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=DFZRg8z_AJg)
 
@@ -134,7 +135,7 @@
 <https://www.dicts.cn/dictword20181/html/c0e3157f58d94568d3ad6590ef88c905.html?interstate>
 
 
-<a id="org11b3351"></a>
+<a id="orgf5c03a7"></a>
 
 # [(10) 读懂英语新闻（第187期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=46AovK1-eX4)
 
@@ -205,7 +206,7 @@ The 26-year-old man who was charged with murder in the assassination of a health
 <https://www.merriam-webster.com/dictionary/move%20to>
 
 
-<a id="org0709ba0"></a>
+<a id="org4fc35e7"></a>
 
 # [(12) 读懂英语新闻（第188期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=zrmOoQ8bwBw)
 
@@ -298,7 +299,7 @@ The 26-year-old man who was charged with murder in the assassination of a health
 <https://www.dicts.cn/dictword20181/html/7d8ba6ebb64b009730594b4ecbea4c84.html?chef>
 
 
-<a id="org31fcaab"></a>
+<a id="org1ecbf1e"></a>
 
 # [(13) 读懂英语新闻（第189期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=0V-erwAAzeM)
 
@@ -383,7 +384,7 @@ A grand jury formally indicted Luigi Mangione in the killing of Brian Thompson, 
 <https://en.wikipedia.org/wiki/Kyiv?useskin=vector>
 
 
-<a id="orgd9f72c6"></a>
+<a id="orgf7094e8"></a>
 
 # [(15) 读懂英语新闻（第190期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=xv5OLy8J5wU)
 
@@ -460,7 +461,7 @@ expensive in aviation history— ended in 2017.
 <https://en.wikipedia.org/wiki/Aviation?useskin=vector>
 
 
-<a id="org27b1d08"></a>
+<a id="orgf10912f"></a>
 
 # [(15) 读懂英语新闻（第191期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=Gb63l2VsyWQ)
 
@@ -556,7 +557,7 @@ intense consternation of their leaders.
 ### consternation
 
 
-<a id="org316adf1"></a>
+<a id="orgacae0c3"></a>
 
 # [(18) 读懂英语新闻（第192期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=SDEGEVFrvOM)
 
@@ -630,7 +631,7 @@ Researchers hope that one day the tool could be a
 standard part of assessing health.
 
 
-<a id="orga44d0af"></a>
+<a id="orgcf1b148"></a>
 
 # [(19) 读懂英语新闻（第193期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=1law8VzRdNE)
 
@@ -711,7 +712,7 @@ folks wanted exercise they could do alone and outdoors.
 <https://en.wikipedia.org/w/index.php?title=Generation_Z&useskin=vector>
 
 
-<a id="orgfabec8a"></a>
+<a id="orgb08d30e"></a>
 
 # [(3) 读懂英语新闻（第194期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=oz75nCQjgCA)
 
@@ -763,7 +764,7 @@ jail time. The sentencing is set for Jan. 10.
 ### spare
 
 
-<a id="org589ab7a"></a>
+<a id="org804f935"></a>
 
 # [(3) 读懂英语新闻（第195期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=AEK8NHChUGs)
 
@@ -833,7 +834,7 @@ remain as prime minister until a new leader is selected.
 ### step down
 
 
-<a id="org65597e9"></a>
+<a id="orgc6f63ce"></a>
 
 # [(19) 读懂英语新闻（第204期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=x8jeSzbSsqQ)
 
@@ -900,7 +901,7 @@ recommended time, rinse with water, and voilà.
 ### grime
 
 
-<a id="orgfb38e86"></a>
+<a id="orgcaefee4"></a>
 
 # [(4) 读懂英语新闻（第205期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=LBUKbSskiSU)
 
@@ -961,7 +962,7 @@ rivalry with Altman, replied to the post: "Swindler," he said.
 ### bid
 
 
-<a id="orgdd108e8"></a>
+<a id="orga475366"></a>
 
 # [(4) 读懂英语新闻（第206期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=vlYkm1B2rO0)
 
@@ -1074,7 +1075,7 @@ Trump delayed it taking effect.
 <https://en.wikipedia.org/wiki/United_States_Department_of_Justice?useskin=vector>
 
 
-<a id="org113d3b8"></a>
+<a id="orgdcb32e1"></a>
 
 # [读懂英语新闻（第207期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV14XAre8EBq/)
 
@@ -1167,7 +1168,7 @@ obliged to agree to a peace deal negotiated in its absence.
 <https://www.dicts.cn/dictword20181/html/72c7b3f70891bb51525832609e9f85e6.html?concession>
 
 
-<a id="org63e9846"></a>
+<a id="orga2ed5a2"></a>
 
 # [读懂英语新闻（第208期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1QdASebEza/)
 
@@ -1274,7 +1275,7 @@ company's Medicare billing practices.
 <https://www.dicts.cn/dictword20181/html/906e9536aedfd51e936f35d40aa275f5.html?bulletproof>
 
 
-<a id="orgb8c6bb3"></a>
+<a id="org94fc355"></a>
 
 # [读懂英语新闻（第209期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1YwP7egEXi/)
 
@@ -1335,7 +1336,7 @@ ago, more than any other company in history.
 ### take the helm
 
 
-<a id="org3767fd1"></a>
+<a id="org8b15188"></a>
 
 # [读懂英语新闻（第203期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1kRP1eqEod/)
 
@@ -1398,7 +1399,7 @@ the person's identity and a possible motive.
 <https://www.dicts.cn/dictword20181/html/9abeeab96ad5d9e275c206d799ebf554.html?suspect>
 
 
-<a id="orgc351b9e"></a>
+<a id="org3b42f5a"></a>
 
 # [读懂英语新闻（第210期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV13s98Y2EWr/)
 
@@ -1466,7 +1467,7 @@ long had ties to efforts to reduce immigration and restrict
 bilingual education.
 
 
-<a id="orgab6707f"></a>
+<a id="orgf46a646"></a>
 
 # [读懂英语新闻（第211期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1pX9oYGEmb)
 
@@ -1504,7 +1505,7 @@ negotiating table"
 <https://www.bing.com/dict/search?q=strike+a+deal&lq=0&pq=&ghsh=0&ghacc=0&ghpl>=
 
 
-<a id="org9968ae5"></a>
+<a id="orgc71182d"></a>
 
 # [读懂英语新闻（第212期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV11gRYY2E5D)
 
@@ -1527,7 +1528,7 @@ negotiating table"
 ## unleash
 
 
-<a id="org1d18ac1"></a>
+<a id="orgfbf78e1"></a>
 
 # [读懂英语新闻（第213期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV14NQWYEEkB)
 
@@ -1587,7 +1588,7 @@ negotiating table"
 <https://www.dicts.cn/dictword20181/html/579278abd1ee99636b327325b4f28263.html?obscure>
 
 
-<a id="org51dfc81"></a>
+<a id="org753e814"></a>
 
 # [读懂英语新闻（第214期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1h5QaY5EuJ)
 
@@ -1648,7 +1649,7 @@ negotiating table"
 <https://www.bing.com/dict/search?q=highest-profile&lq=0&pq=&ghsh=0&ghacc=0&ghpl>=
 
 
-<a id="orgf651b26"></a>
+<a id="orgd911947"></a>
 
 # [读懂英语新闻（第215期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1BmQfYiEXe)
 
@@ -1693,7 +1694,7 @@ negotiating table"
 <https://www.dicts.cn/dictword20181/html/93863ab0d70ebbb435fe8282f94f4cec.html?waive>
 
 
-<a id="orge381560"></a>
+<a id="orgc384785"></a>
 
 # [读懂英语新闻（第216期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1NwozYNEAZ)
 
@@ -1778,7 +1779,7 @@ negotiating table"
 <https://www.dicts.cn/dictword20181/html/5d431c4c9da0db78baed8e747aed99c4.html?curb>
 
 
-<a id="orgb14ad40"></a>
+<a id="org1e47813"></a>
 
 # [读懂英语新闻（第217期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1uFZKYnERb)
 
@@ -1843,7 +1844,7 @@ negotiating table"
 <https://www.dicts.cn/dictword20181/html/9fe0153b91d6b96a918a886bf48b0618.html?hoax>
 
 
-<a id="org686fd2a"></a>
+<a id="orgdfda0aa"></a>
 
 # [(35) 读懂英语新闻（第218期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=R90KpyjZ-pE)
 
@@ -1930,7 +1931,7 @@ Greenlanders overwhelmingly reject the notion of joining the U.S.
 <https://www.dicts.cn/dictword20181/html/0ddb66aade4ddc78a58c7d86f845df04.html?high-rise>
 
 
-<a id="org1a4ac59"></a>
+<a id="org4fe446d"></a>
 
 # [读懂英语新闻（第219期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1fufKYTE2D)
 
@@ -1985,7 +1986,7 @@ Greenlanders overwhelmingly reject the notion of joining the U.S.
 <https://www.dicts.cn/dictword20181/html/dd8845d438ad923dc0a132762483d2d7.html?scenario>
 
 
-<a id="orga2f6f76"></a>
+<a id="orge5d2923"></a>
 
 # [读懂英语新闻（第220期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1vzRqYVEaG)
 
@@ -2055,7 +2056,7 @@ Greenlanders overwhelmingly reject the notion of joining the U.S.
 <https://www.dicts.cn/dictword20181/html/c844fbf89dea733bcde9c330eac2f3c9.html?infant>
 
 
-<a id="org3767782"></a>
+<a id="orgd552265"></a>
 
 # [读懂英语新闻（第221期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV12KdNYzEq1)
 
@@ -2115,7 +2116,7 @@ Greenlanders overwhelmingly reject the notion of joining the U.S.
 <https://www.dicts.cn/dictword20181/html/6e634a155b4d30709f9c14b6b4096c4e.html?rural>
 
 
-<a id="org7ff9a46"></a>
+<a id="org7da4b0c"></a>
 
 # [读懂英语新闻（第222期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1HFd6YhEza)
 
@@ -2170,7 +2171,7 @@ Greenlanders overwhelmingly reject the notion of joining the U.S.
 <https://www.bing.com/dict/search?q=order+of+magnitude&go=Search>
 
 
-<a id="orgacbdea6"></a>
+<a id="orgd0b5f33"></a>
 
 # [读懂英语新闻（第223期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1kToTY6E7c)
 
@@ -2215,7 +2216,7 @@ Greenlanders overwhelmingly reject the notion of joining the U.S.
 1.  Judge Scolds Government for Doing 'Nothing' to Retum Deported Man The Trump administration, which admitted to wrongly sending a man to a notorious prison in El Salvador (violating a court order in the process) and declined to try and get him back, on Friday went a step further. Lawyers for Trump, despite an order by the US Supreme Court, refused to tell a federal judge where the man was or what it's doing to get him back.
 
 
-<a id="orgeeced42"></a>
+<a id="org2819f7b"></a>
 
 # [读懂英语新闻（第224期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV185Lwz1EUi)
 
@@ -2266,7 +2267,7 @@ A team of researchers is offering what it contends is the strongest indication y
 <https://www.dicts.cn/dictword20181/html/c448f63b92d7692963027c56a300fa6f.html?sow>
 
 
-<a id="org9f92f94"></a>
+<a id="org5c5c15a"></a>
 
 # [读懂英语新闻（第225期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1MML8zWEmi)
 
@@ -2326,7 +2327,7 @@ A team of researchers is offering what it contends is the strongest indication y
 <https://www.dicts.cn/dictword20181/html/149557d686979c7263fb7fced6e708f7.html?meltdown>
 
 
-<a id="orgd4930aa"></a>
+<a id="org03f7b79"></a>
 
 # [(47) 如何养成好习惯，改掉坏习惯｜英语外刊精读｜词汇量暴涨｜英语阅读｜英语听力｜英文写作｜一起读懂美国新闻｜趣味学英语｜《经济学人》文章精读｜外刊精读第125期 - YouTube](https://www.youtube.com/watch?v=J5D9SSRsREw)
 
@@ -2386,7 +2387,7 @@ A team of researchers is offering what it contends is the strongest indication y
 <https://www.dicts.cn/dictword20181/html/b46ae7c13e4e70678d63abc4ae4802cf.html?willpower>
 
 
-<a id="org5978fa4"></a>
+<a id="org2db39d0"></a>
 
 # [读懂英语新闻（第226期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1mCLqzkE44)
 
@@ -2446,7 +2447,7 @@ A team of researchers is offering what it contends is the strongest indication y
 <https://www.dicts.cn/dictword20181/html/8c3f7e04c9b834dca3d407ac585bd7d9.html?disregard>
 
 
-<a id="org1ebadab"></a>
+<a id="org7b8130f"></a>
 
 # [读懂英语新闻（第227期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1NUGtzqEAb)
 
@@ -2496,7 +2497,7 @@ A team of researchers is offering what it contends is the strongest indication y
 <https://www.dicts.cn/dictword20181/html/c4f3dbe665b404e474f5748025dc8b78.html?proliferate>
 
 
-<a id="org4b9f255"></a>
+<a id="org0a2bacb"></a>
 
 # [读懂英语新闻（第228期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1qtVPzoEJh)
 
@@ -2556,7 +2557,7 @@ A team of researchers is offering what it contends is the strongest indication y
 <https://en.wikipedia.org/w/index.php?title=Internal_Revenue_Service&useskin=vector>
 
 
-<a id="org96557b8"></a>
+<a id="org9ce386c"></a>
 
 # [读懂英语新闻（第229期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1rtVhzrExr)
 
@@ -2621,7 +2622,7 @@ A team of researchers is offering what it contends is the strongest indication y
 <https://www.dicts.cn/dictword20181/html/1a29e10210eed86e43c635bda9e435b4.html?recast>
 
 
-<a id="org1f28406"></a>
+<a id="org01412af"></a>
 
 # [读懂英语新闻（第230期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1uiEgz5EoL)
 
@@ -2671,7 +2672,7 @@ A team of researchers is offering what it contends is the strongest indication y
 <https://www.dicts.cn/dictword20181/html/9b14e4ff1740dfe1792b969392cd5dd2.html?plunge>
 
 
-<a id="org53c2403"></a>
+<a id="orgc440eb2"></a>
 
 # [读懂英语新闻（第231期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1jhEqzaEMS)
 
@@ -2736,7 +2737,7 @@ A team of researchers is offering what it contends is the strongest indication y
 <https://www.bing.com/dict/search?q=turn%20down>
 
 
-<a id="org964d157"></a>
+<a id="org802ce47"></a>
 
 # [读懂英语新闻（第232期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1sEJVzjEd3)
 
@@ -2811,7 +2812,7 @@ A team of researchers is offering what it contends is the strongest indication y
 <https://www.dicts.cn/dictword20181/html/4db909f14e81c33dac5d809701ed7835.html?windfall>
 
 
-<a id="org49a346d"></a>
+<a id="orgdeee097"></a>
 
 # [读懂英语新闻（第233期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1zBJ6z7ERN)
 
@@ -2878,7 +2879,7 @@ suggesting the Vatican as a host.
 <https://en.wikipedia.org/wiki/Vatican_City?useskin=vector>
 
 
-<a id="orgd42a5ce"></a>
+<a id="org834646f"></a>
 
 # [读懂英语新闻（第234期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV11Sj3ziEWc)
 
@@ -2943,7 +2944,7 @@ suggesting the Vatican as a host.
 <https://www.bing.com/dict/search?q=blockbuster&FORM=HDRSC6>
 
 
-<a id="org266673c"></a>
+<a id="org790a5a8"></a>
 
 # [读懂英语新闻（第235期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1jfjzzPERb)
 
@@ -3035,7 +3036,7 @@ A third person was arrested today in New York City for kidnapping a man and tort
 <https://www.dicts.cn/dictword20181/html/2db895f5546b98ced6a818a7f072c273.html?cast>
 
 
-<a id="org1a04397"></a>
+<a id="org73dcc5d"></a>
 
 # [读懂英语新闻（第236期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1bK7kzcEko)
 
@@ -3102,7 +3103,7 @@ The salutary effect of music on infants is more about happiness than smarts. A n
 <https://www.dicts.cn/dictword20181/html/6e96b7e9d42bf79612d32cbb0d264ad1.html?decouple>
 
 
-<a id="orgb44ef70"></a>
+<a id="org7b15e17"></a>
 
 # [读懂英语新闻（第237期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1SfTEzgE1j)
 
@@ -3167,7 +3168,7 @@ The salutary effect of music on infants is more about happiness than smarts. A n
 <https://www.dicts.cn/dictword20181/html/39b810aae888633550fc5da73d7ec0db.html?martial>
 
 
-<a id="org4a9262b"></a>
+<a id="orge0bd8ef"></a>
 
 # [读懂英语新闻（第238期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV14hTRzKEW2)
 
@@ -3229,7 +3230,7 @@ Four years ago, an unconscious Kentucky man began to awaken as he was about to b
 <https://www.dicts.cn/dictword20181/html/eceea88f3a73cd22b701884412fcbc1a.html?sidestep>
 
 
-<a id="org0ce8e1f"></a>
+<a id="org5c08578"></a>
 
 # [读懂英语新闻（第239期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1oJMHztEEN)
 
@@ -3296,7 +3297,7 @@ I'll win her over.
 <https://www.dicts.cn/dictword20181/html/297a5ac03e43b93c0d7cba39d778802f.html?jeopardy>
 
 
-<a id="orge41c475"></a>
+<a id="org90a2378"></a>
 
 # [读懂英语新闻（第240期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1UDM8zuEZa)
 
@@ -3396,7 +3397,7 @@ I'll win her over.
 <https://www.bing.com/dict/search?q=manage+to>
 
 
-<a id="org48df37c"></a>
+<a id="orgbc6fc1c"></a>
 
 # [读懂英语新闻（第241期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1AwNHzFEAb)
 
@@ -3498,7 +3499,7 @@ is fanning out from the South.
 <https://www.bing.com/dict/search?q=fan+out&qs=n&form=Z9LH5&sp=-1&lq=0&pq=fan+out&sc=0-7&sk=&cvid=03B7290EF52B46DAA8F17D27E3E97CCC>
 
 
-<a id="org0433864"></a>
+<a id="org7dbab57"></a>
 
 # [读懂英语新闻（第242期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1y8KWzrEXe)
 
@@ -3603,7 +3604,7 @@ is fanning out from the South.
 <https://www.dicts.cn/dictword20181/html/2bb8509bab1514fd552c4e002f80fe5b.html?everlasting>
 
 
-<a id="orgb3f6d25"></a>
+<a id="org0ce8aea"></a>
 
 # [读懂英语新闻（第243期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1geKnzGEnz)
 
@@ -3694,7 +3695,7 @@ former deputy governor of the People's Bank of China.
 <https://www.dicts.cn/dictword20181/html/f5abf61ad032a38166765604c198fcac.html?deputy>
 
 
-<a id="orge1a1baa"></a>
+<a id="orgcfcae2f"></a>
 
 # [(14) 一周听力合集（第242期+第243期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第243期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=j5oMlAwV3Nw)
 
@@ -3719,7 +3720,7 @@ former deputy governor of the People's Bank of China.
 <https://www.bing.com/dict/search?q=one-time>
 
 
-<a id="org3b59a67"></a>
+<a id="orgc9ae567"></a>
 
 # [读懂英语新闻（第244期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1PV3AzhEd6)
 
@@ -3794,7 +3795,7 @@ military campaign against the private armies of the traffickers.
 <https://www.bing.com/dict/search?q=scale%20back>
 
 
-<a id="orgef8b7f4"></a>
+<a id="org431ca01"></a>
 
 # [(18) 看美剧练听力（第244期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第244期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=doFSKmhWlZ4)
 
@@ -3807,7 +3808,7 @@ military campaign against the private armies of the traffickers.
 ## I have a fover to ask you
 
 
-<a id="orga28dc5a"></a>
+<a id="orgc20c34d"></a>
 
 # [读懂英语新闻（第245期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1ry34z4E5X)
 
@@ -3888,12 +3889,12 @@ It's been 32 years since dinosaurs started roaming the earth again — that is, 
 <https://www.dicts.cn/dictword20181/html/c0e0b33be863b5c3627b3463869f3eda.html?moviegoer>
 
 
-<a id="org5275acb"></a>
+<a id="orgbac2965"></a>
 
 # [一周听力合集（第244期+第245期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第245期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=OXEJUnzRQGg)
 
 
-<a id="org676d8e2"></a>
+<a id="org1f3f1ad"></a>
 
 # [(22) 读懂英语新闻（第246期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=QYlc44zT5Jk)
 
@@ -3973,7 +3974,7 @@ It's been 32 years since dinosaurs started roaming the earth again — that is, 
 <https://www.dicts.cn/dictword20181/html/b3fa1ea91efb53bb05b814f24f804433.html?mogul>
 
 
-<a id="org56e390f"></a>
+<a id="org9f0fbc2"></a>
 
 # [(22) 看美剧练听力（第246期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第246期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=3mg9wNU0k2Y)
 
@@ -4008,7 +4009,7 @@ It's been 32 years since dinosaurs started roaming the earth again — that is, 
 <https://www.bing.com/dict/search?q=run%20away>
 
 
-<a id="orga102fee"></a>
+<a id="orgf7104f5"></a>
 
 # [读懂英语新闻（第247期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1KFGAzPEGC)
 
@@ -4058,7 +4059,7 @@ It's been 32 years since dinosaurs started roaming the earth again — that is, 
 <https://www.dicts.cn/dictword20181/html/2e835e9ce313e4633258f5af3e51939e.html?heighten>
 
 
-<a id="org1480cde"></a>
+<a id="org90911f1"></a>
 
 # [(26) 一周听力合集（第246期+第247期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第247期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=7iaJNYSUTZc)
 
@@ -4078,7 +4079,7 @@ It's been 32 years since dinosaurs started roaming the earth again — that is, 
 <https://www.dicts.cn/dictword20181/html/33f8786e1cf360390ddf31637b469457.html?cavalry>
 
 
-<a id="orgba40877"></a>
+<a id="org120781a"></a>
 
 # [(29) 读懂英语新闻（第248期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=W_sLANCI9dg)
 
@@ -4165,7 +4166,7 @@ More than 900 years ago, a 230-foot work of embroidery depicting the 1066 Norman
 <https://www.dicts.cn/dictword20181/html/79674190e8eb58a9b2827e4235e5eb3c.html?epic>
 
 
-<a id="org19dbb46"></a>
+<a id="orge51fcab"></a>
 
 # [(31) 看美剧练听力（第248期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第248期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=GZX9WTdrJzY)
 
@@ -4175,7 +4176,7 @@ More than 900 years ago, a 230-foot work of embroidery depicting the 1066 Norman
 <https://www.bing.com/dict/search?q=sick%20of>
 
 
-<a id="org23515da"></a>
+<a id="org2528e83"></a>
 
 # [(33) 读懂英语新闻（第249期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=xFWo2N5XqPw)
 
@@ -4239,12 +4240,12 @@ Rainfall flooded New York City's subways yet again last night. The subterranean 
 <https://www.dicts.cn/dictword20181/html/01b43f213d62b318a7e2c22fc2534284.html?drainage>
 
 
-<a id="orgba82793"></a>
+<a id="org4b4eda3"></a>
 
 # [(33) 一周听力合集（第248期+第249期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第249期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=VGsCY2ga1Ck)
 
 
-<a id="org6a1b9f9"></a>
+<a id="orgf50567e"></a>
 
 # [(36) 读懂英语新闻（第250期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=UqZTvo1hyM8)
 
@@ -4311,7 +4312,7 @@ The companies say they need big rate increases for the coverage formally known a
 <https://www.dicts.cn/dictword20181/html/6b48db463fb217d920d1913267860fc7.html?enrollee>
 
 
-<a id="org9680c3f"></a>
+<a id="org25b3794"></a>
 
 # [(38) 看美剧练听力（第250期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第250期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=9wM32ZKvM-A)
 
@@ -4331,7 +4332,7 @@ The companies say they need big rate increases for the coverage formally known a
 <https://www.bing.com/dict/search?q=short%20position>
 
 
-<a id="org2fca305"></a>
+<a id="org1a38206"></a>
 
 # [(41) 读懂英语新闻（第251期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=wOdUToxL0CQ)
 
@@ -4413,7 +4414,7 @@ Last night, on his late-night show, Jon Stewart delivered an expletive-laden def
 <https://www.dicts.cn/dictword20181/html/2ac9f0e3f288e40603ed5d9e5102f1db.html?tournament>
 
 
-<a id="org33b7687"></a>
+<a id="org6e75626"></a>
 
 # [(41) 一周听力合集（第250期+第251期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第251期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=jOb_iz0qMHs)
 
@@ -4423,7 +4424,7 @@ Last night, on his late-night show, Jon Stewart delivered an expletive-laden def
 <https://www.bing.com/dict/search?q=aside%20from>
 
 
-<a id="orgc169341"></a>
+<a id="org900797c"></a>
 
 # [(44) 读懂英语新闻（第252期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=8nUS1KpNhBs)
 
@@ -4482,7 +4483,7 @@ Decades of research has shown that walking offers significant health benefits, f
 <https://www.bing.com/dict/search?q=level%20out>
 
 
-<a id="org550abc5"></a>
+<a id="org7717592"></a>
 
 # [(44) 看美剧练听力（第252期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第252期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=Fpfe6h4JNAs)
 
@@ -4492,7 +4493,7 @@ Decades of research has shown that walking offers significant health benefits, f
 <https://www.bing.com/dict/search?q=walls+have+ears&lq=0&pq>=
 
 
-<a id="org381eaa4"></a>
+<a id="orgb073ca4"></a>
 
 # [(45) 读懂英语新闻（第253期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=r0nyZgnR3V4)
 
@@ -4566,7 +4567,7 @@ from 125% to 10%. China similarly cut retaliatory levies.
 <https://www.dicts.cn/dictword20181/html/2672cbdf2bb3323156febe9d9ac08d96.html?reciprocal>
 
 
-<a id="org47b1b17"></a>
+<a id="orga766dcc"></a>
 
 # [(47) 一周听力合集（第252期+第253期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第253期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=4KlZnJ8kNqI)
 
@@ -4581,7 +4582,7 @@ from 125% to 10%. China similarly cut retaliatory levies.
 <https://www.dicts.cn/dictword20181/html/d3783ba17e85096693ab64991e5780cd.html?ignition>
 
 
-<a id="org651f79b"></a>
+<a id="org84da73d"></a>
 
 # [读懂英语新闻（第254期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1ijtuz6EEc)
 
@@ -4649,7 +4650,7 @@ The Trump administration's human resources division said today that about 154,00
 <https://www.bing.com/dict/search?q=laid%20off>
 
 
-<a id="org158940c"></a>
+<a id="org770df07"></a>
 
 # [(48) 看美剧练听力（第254期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第252期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=vg90I2FJhgY)
 
@@ -4669,7 +4670,7 @@ The Trump administration's human resources division said today that about 154,00
 <https://www.dicts.cn/dictword20181/html/2202840e31abd26638b65bda2f718351.html?corporation>
 
 
-<a id="org6ff259e"></a>
+<a id="org664777a"></a>
 
 # [(50) 读懂英语新闻（第255期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=U8dH2EJIfZM)
 
@@ -4744,7 +4745,7 @@ The Trump administration's human resources division said today that about 154,00
 <https://www.dicts.cn/dictword20181/html/5b68371adb73c7b845c3a9a9e05946e9.html?ouster>
 
 
-<a id="org8d567e6"></a>
+<a id="orgf525036"></a>
 
 # [(50) 一周听力合集（第254期+第255期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第255期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=QOOrUkE4Cf0)
 
@@ -4769,7 +4770,7 @@ The Trump administration's human resources division said today that about 154,00
 <https://www.dicts.cn/dictword20181/html/14d08caf163ed162df8a81df7da71bcf.html?veto>
 
 
-<a id="orgae1b081"></a>
+<a id="orgb48f184"></a>
 
 # [(52) 读懂英语新闻（第256期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=KAT5yz-fipI)
 
@@ -4836,7 +4837,7 @@ Interest in cosmetic acupuncture has grown significantly in recent years as many
 <https://www.dicts.cn/dictword20181/html/19f55bceb013b366f4620d786b08ff17.html?plump>
 
 
-<a id="org09c9362"></a>
+<a id="orgb25e20b"></a>
 
 # [(53) 看美剧练听力（第256期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第256期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=fYmpO3DpvZo)
 
@@ -4861,7 +4862,7 @@ Interest in cosmetic acupuncture has grown significantly in recent years as many
 <https://www.dicts.cn/dictword20181/html/42c2d2e2f830bfaba9bbcaad39ffcec1.html?spoil>
 
 
-<a id="org24e4732"></a>
+<a id="orgbbb9998"></a>
 
 # [(54) 读懂英语新闻（第257期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=l7e0A9_tCWg)
 
@@ -4928,7 +4929,7 @@ Intense heat has settled in this week across much of Europe. It's expected to be
 <https://www.dicts.cn/dictword20181/html/fc63a97a66570e60cd692cc720c5250e.html?dismissive>
 
 
-<a id="orga04eace"></a>
+<a id="org7e9618f"></a>
 
 # [(55) 一周听力合集（第256期+第257期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第257期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=OCfCzyj5HTk)
 
@@ -4943,7 +4944,7 @@ Intense heat has settled in this week across much of Europe. It's expected to be
 <https://www.dicts.cn/dictword20181/html/2cfda9d639fb1a24b2936efb6e8e24c9.html?ornamental>
 
 
-<a id="org63e56a1"></a>
+<a id="org2e76208"></a>
 
 # [(59) 读懂英语新闻（第258期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=uh6Glb0gr0Q)
 
@@ -4993,7 +4994,7 @@ Intense heat has settled in this week across much of Europe. It's expected to be
 <https://www.bing.com/dict/search?q=rip+current&qs=n&form=Z9LH5&sp=-1&lq=0&pq=rip+current&sc=0-11&sk=&cvid=739AF036334947409EB4C6245D2F1BFE>
 
 
-<a id="org3a219e2"></a>
+<a id="org01f978a"></a>
 
 # [(61) 看美剧练听力（第258期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第258期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=KVMgmODsDGk)
 
@@ -5001,4 +5002,60 @@ Intense heat has settled in this week across much of Europe. It's expected to be
 ## windfall
 
 <https://www.dicts.cn/dictword20181/html/4db909f14e81c33dac5d809701ed7835.html?windfall>
+
+
+<a id="orgdb7b278"></a>
+
+# [(64) 读懂英语新闻（第259期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTub](https://www.youtube.com/watch?v=y8j6kky_mq0)
+
+
+## One
+
+1.  New graduates are having an especially tough time landing a
+
+job right now: The share of unemployed Americans who are new
+to the workforce is at a 37-year high. It's a sign of how reluctant
+companies have been to hire amid ongoing economic uncertainty.
+13.4% of unemployed Americans in July were "new labor force
+entrants," those looking for jobs with no prior work experience,
+including new high school and college graduates.
+
+
+### workforce
+
+<https://www.dicts.cn/dictword20181/html/279a2d4c09aafe80e425a550fb78304b.html?workforce>
+
+
+## Two
+
+1.  The White House wants a meeting between Russia's Vladimir Putin
+
+and Ukraine's Volodymyr Zelensky to take place before the end of the
+month. Trump said on Truth Social that he'd called Putin yesterday and
+"began the arrangements for a meeting" between Putin and Zelensky, to
+be followed by yet another summit, this time also including Trump. In
+an interview on Fox News this morning, Trump said that no U.S.
+ground forces will go to Ukraine as part of any peace deal with Russia,
+but he is open to providing Ukraine with military air support.
+
+
+### take place
+
+<https://www.bing.com/dict/search?q=take%20place>
+
+
+## Three
+
+1.  National Guard troops from Republican-led states began
+
+arriving in Washington to support Trump's law enforcement
+takeover of the capital. About 869 Guard members were
+already in the city, with governors pledging about 1,000
+more. Most have been deployed to tourist sites and metro
+stations rather than high-crime areas.
+
+
+### enforcement
+
+<https://www.dicts.cn/dictword20181/html/8bba731e0025f4310ce7ae6ca4f3e93e.html?enforcement>
 
