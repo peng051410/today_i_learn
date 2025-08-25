@@ -2855,3 +2855,68 @@ https://www.dicts.cn/dictword20181/html/adac72e2c0229c9b90c90660e0ab516d.html?sc
 https://www.dicts.cn/dictword20181/html/18d03458448bfe87ef5af98c602cc4f8.html?tier
 ** hail
 https://www.dicts.cn/dictword20181/html/2aa53a93fd426048019d6bf52bd695db.html?hail
+* [[https://www.youtube.com/watch?v=2Hx4ow1uDx0][(64) 读懂英语新闻（第260期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** One
+1. Fed chair signaled that interest rates could soon come down
+In a speech this morning, Jerome Powell, the chair of the Federal
+Reserve, sent his strongest signal yet that the central bank was
+preparing to restart interest rate cuts. Powell held back from explicitly
+endorsing an imminent cut, but his decision to emphasize the labor
+market's vulnerabilities made clear that borrowing costs are likely to
+be reduced next month.Stocks rose after Powell's comments.
+
+*** explicitly
+:LOGBOOK:
+- Note taken on [2025-08-25 Mon 09:45] \\
+  https://github.com/peng051410/today_i_learn/issues/272
+:END:
+https://www.dicts.cn/dictword20181/html/69729ca7527e1fba6a40f21f6e178210.html?explicitly
+
+*** endorse
+https://www.dicts.cn/dictword20181/html/389d5dfab7b1f337950d2d6647e538ca.html?endorse
+
+** Two
+2. Gaza City and the surrounding areas are officially
+suffering from famine, a group of U.N.-backed food
+security experts announced today, nearly two years into
+an unrelenting war in which Israel has blocked most
+aid from entering Gaza. The group said that at least half
+a million people in the area were facing the most
+severe conditions it measures: starvation, acute
+malnutrition and death.
+
+*** famine
+https://www.dicts.cn/dictword20181/html/8fee955c3fb5b3ebfcd7288c448768e0.html?famine
+
+*** unrelenting
+https://www.dicts.cn/dictword20181/html/c8a181cfffca989dc4a49c88bc89f570.html?unrelenting
+
+*** starvation
+https://www.dicts.cn/dictword20181/html/1b68b274f35bab0f4437bc5cabe7ead5.html?starvation
+
+*** acute 
+:LOGBOOK:
+- Note taken on [2025-08-25 Mon 09:49] \\
+  https://github.com/peng051410/today_i_learn/issues/273
+:END:
+https://www.dicts.cn/dictword20181/html/82a6ca77dbe9fdc058bff5e534cf358a.html?acute
+
+*** malnutrition
+https://www.dicts.cn/dictword20181/html/7a2b305c0bacc929610525ae913f4aaf.html?malnutrition
+
+** Three
+3. F.B.I. agents spent hours today searching the home and
+office of John Bolton, who served as President Trump's national
+security adviser during his first term but has since become a
+vocal critic of Trump. The searches were part of an investigation
+into accusations that Bolton leaked sensitive national security
+information to the news media in an effort to damage the
+president, an official said. The scenes of federal agents entering
+the home of a prominent critic of the president raised fresh
+concerns about the Trump administration's motives.
+
+*** vocal
+https://www.dicts.cn/dictword20181/html/1def361f6d7a2628edb6a52223eef3b3.html?vocal
