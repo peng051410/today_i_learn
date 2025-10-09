@@ -3270,3 +3270,65 @@ https://www.dicts.cn/dictword20181/html/6a649f54ed06b14bcd68052930c7b899.html?ha
 :END:
 ** time off
 https://www.bing.com/dict/search?q=time%20off
+* [[https://www.youtube.com/watch?v=bssy3fFfr7o][(1) 读懂英语新闻（第268期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** One
+1. President Trump said he and the Chinese leader approved a
+preliminary agreement for a group of investors to take control of
+TikTok's U.S. operations. Under the framework, the consortium
+would oversee the video-sharing app through a new entity that
+would operate algorithms using technology licensed from
+TikTok's Chinese parent ByteDance. The structure is designed to
+alleviate Washington's national-security concerns. The Trump
+administration is expected to collect a multibillion-dollar fee from
+investors as part of the complicated transaction, the latest in a
+string of lucrative government deals with the private sector.
+
+*** preliminary
+:LOGBOOK:
+- Note taken on [2025-10-09 Thu 09:12] \\
+  https://github.com/peng051410/today_i_learn/issues/282
+:END:
+https://www.dicts.cn/dictword20181/html/72754bbbb218c58614613cf68a1c07aa.html?preliminary
+*** consortium
+https://www.dicts.cn/dictword20181/html/fe633a152d12b2662f88b2899c6bb482.html?consortium
+*** alleviate
+https://www.dicts.cn/dictword20181/html/20f64df0ed29e53650b265ae510c66cc.html?alleviate
+*** lucrative
+https://www.dicts.cn/dictword20181/html/4ab3e3e9545f3f21508f481814d928e4.html?lucrative
+** Two
+2. Meta unveiled its $799 Ray-Ban Display smart
+glasses with a built-in screen. The specs- which put
+texts, maps and Al-powered answers into your line of
+vision—are part of Meta's effort to build its own
+consumer electronics ecosystem. It may not be time to
+leave that phone in your pocket just yet, but it looks
+like we're getting there.
+
+*** line of vision
+https://www.bing.com/dict/search?q=line+of+vision
+** Three
+3. Trump is expected to sign a proclamation that
+would move to extensively overhaul the H-1B visa
+program, requiring a $100,000 fee for applications in
+a bid to curb overuse. The move is the latest
+immigration reform by the administration and would
+heavily affect the technology industry in particular, as
+it relies heavily on H-1Bs.
+
+*** extensive
+:LOGBOOK:
+- Note taken on [2025-10-09 Thu 09:14] \\
+  https://github.com/peng051410/today_i_learn/issues/283
+:END:
+https://www.dicts.cn/dictword20181/html/3287e446551b070db94f478cfb4ce766.html?extensive
+*** proclamation
+https://www.dicts.cn/dictword20181/html/5ec7571e539abdcf2fba008351a7d358.html?proclamation
+*** move to
+https://www.bing.com/dict/search?q=move%20to
+*** in a bid to
+https://www.bing.com/dict/search?q=in%20a%20bid%20to
+*** curb
+https://www.dicts.cn/dictword20181/html/5d431c4c9da0db78baed8e747aed99c4.html?curb
