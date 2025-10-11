@@ -3315,9 +3315,63 @@ https://www.bing.com/dict/search?q=in+a+bid+to
 
 *** curb
 https://www.dicts.cn/dictword20181/html/5d431c4c9da0db78baed8e747aed99c4.html?curb
-
 * [[https://www.youtube.com/watch?v=zn7WNJr4rbM][(2) 看美剧练听力（第268期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第268期新闻精读配套听力练习 - YouTube]]
 :PROPERTIES:
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
 
+
+* [[https://www.youtube.com/watch?v=RmRpJR0591E][(2) 读懂英语新闻（第269期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+
+** One
+1. President Trump appeared this morning in front of a gathering of the United
+Nations General Assembly and went on the attack. He argued that the U.N. was
+feckless and ineffective, and accused both allies and foes across the world of
+allowing immigration and renewable energy to destroy "a large part of the free
+world." Trump also aired other grievances, often veering off script. He questioned
+whether the U.N. should exist; he attacked leaders who recognized a Palestinian
+state; he insulted London's mayor; and he complained about windmills ruining
+beautiful landscapes. After his speech, Trump sat down with Ukraine's president
+and shifted his stance on the war against Russia. He said he now believed that
+Ukraine could regain all of its territory lost to Russia.
+
+*** United Nations General Assembly
+https://en.wikipedia.org/wiki/United_Nations_General_Assembly?useskin=vector
+
+*** air
+:LOGBOOK:
+- Note taken on [2025-10-11 Sat 09:27] \\
+  https://github.com/peng051410/today_i_learn/issues/142
+:END:
+https://www.dicts.cn/dictword20181/html/fe50b8cc64e65a04bdc8346b5ba1f51a.html?air
+
+** Two
+2. The president hosted a White house event this afternoon
+about autism. He criticized the childhood vaccine schedule
+and recommended against the use of the painkiller Tylenol
+during pregnancy. Trump declared that there was a link
+between rising autism rates and the use of the painkiller,
+despite inconclusive research on the topic.
+
+*** inconclusive
+https://www.dicts.cn/dictword20181/html/8600be66f9a71b3077716c725e80954b.html?inconclusive
+
+** Three
+3. After the administration clarified that the proposed
+$100,000 fee would only apply to new applications starting
+next year, some prominent industry leaders were offering
+measured enthusiasm for the policy. A number of startup
+founders and investors argued that the size of the fee creates a
+barrier that only large, well-capitalized companies will be able
+to navigate. The biggest recipients of H-1B visas include
+Amazon, Microsoft and Meta.
+
+*** recipient
+https://www.dicts.cn/dictword20181/html/8487e032152e75f5d6f120dff8c3dc5a.html?recipient
+
+*** navigate
+https://www.dicts.cn/dictword20181/html/f7d20116266c15ac0d0d6b7031758ace.html?navigate
