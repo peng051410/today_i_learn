@@ -3379,3 +3379,68 @@ https://www.dicts.cn/dictword20181/html/f7d20116266c15ac0d0d6b7031758ace.html?na
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
 
+* [[https://www.youtube.com/watch?v=mCY73w9pDBw][(2) 读懂英语新闻（第270期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+
+
+
+** One
+1. Amazon reached a $2.5 billion settlement with the FTC over
+allegations it duped customers into signing up for Prime and created
+a confusing cancellation process. The e-commerce giant will pay a
+$1 billion civil penalty, the largest in FTC history, and create a $1.5
+billion fund to pay back to consumers, according to court
+documents. It'll also include a simpler way to cancel Prime. The
+FTC has said nearly 40 million consumers were affected.
+
+*** FTC
+https://en.wikipedia.org/wiki/Federal_Trade_Commission?useskin=vector
+
+*** civil
+:LOGBOOK:
+- Note taken on [2025-10-14 Tue 10:08] \\
+  https://github.com/peng051410/today_i_learn/issues/284
+:END:
+https://www.dicts.cn/dictword20181/html/3c60c7b84aece3b90c153ff8d81184a3.html?civil
+
+** Two
+2. The gunman who attacked the N.F.L. office building had C.T.E.
+A man with an AR-15-style rifle walked into a Midtown Manhattan
+office building two months ago and killed four people, then fatally shot
+himself in the chest. The building houses N.F.L. headquarters. The
+gunman, who played football in high school, had a note in his wallet
+that said that he believed he had brain trauma and accused the league of
+covering up the dangers of the game. Today, the New York City medical
+examiner's office announced that it had confirmed through an autopsy
+that the shooter had chronic traumatic encephalopathy, the degenerative
+brain disease known as C.T.E. that has been linked to repeated head
+injuries in football.
+
+*** trauma
+https://www.dicts.cn/dictword20181/html/735ed421a3c6cb1ad0fe0a6307390915.html?trauma
+
+*** chronic
+https://www.dicts.cn/dictword20181/html/1abdcb2ec73ba75b0b99d75c3b6e1468.html?chronic
+
+*** cover up
+https://www.bing.com/dict/search?q=cover%20up
+
+** Three
+3. U.S. stocks rose after investors brushed off Trump's latest round of
+tariffs.
+The administration's announcements late yesterday about new duties on
+drugs, trucks and furniture including 50% on kitchen cabinets, 30% on
+upholstered furniture and 25% on heavy trucks didn't spark the kind of
+market volatility seen with the Liberation Day tariffs in April. The duties
+are due to take effect on Wednesday. Meanwhile, economists are
+questioning whether new levies will dampen imports and help U.S.
+businesses as intended.
+
+*** brush off
+https://www.bing.com/dict/search?q=brush+off&lq=0&pq=
+
+*** volatility
+https://www.dicts.cn/dictword20181/html/9befd9d0bd14980d910edab68327bbc1.html?volatility
