@@ -1255,6 +1255,10 @@ https://www.dicts.cn/dictword20181/html/4d26d0bc4ac3e7c9b8e3234c057e5465.html?do
 ** cortex
 https://www.dicts.cn/dictword20181/html/98757cbdc03fb96de57b6745b78da920.html?cortex
 ** cognitive
+:LOGBOOK:
+- Note taken on [2025-10-21 Tue 09:34] \\
+  https://github.com/peng051410/today_i_learn/issues/226
+:END:
 https://www.dicts.cn/dictword20181/html/2d446d303459d689644412233e8f7bc4.html?cognitive
 ** work out
 https://www.bing.com/dict/search?q=work+out
@@ -3474,3 +3478,40 @@ https://www.dicts.cn/dictword20181/html/e22eff70b2aed4c7b02586e94e13dac6.html?te
 
 ** kick off
 https://www.bing.com/dict/search?q=kick%20off
+
+* [[https://www.youtube.com/watch?v=5OhNacE-cW0][(4) 读懂英语新闻（第272期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+** One
+1. Takaichi Sanae won the contest to lead Japan's ruling Liberal Democratic Party, replacing Ishiba Shigeru, who stepped down in September. Ms Takaichi, a nationalist security hawk, defeated Koizumi Shinjiro, the agriculture minister, in a run-off. She is set to be appointed as the country's prime minister after a parliamentary vote on October 15th. She would be the country's first female one.
+
+*** contest
+https://www.dicts.cn/dictword20181/html/bb9f1c3a433c7403db2f4b26dbe35719.html?contest
+
+*** run-off
+https://www.bing.com/dict/search?q=run-off
+
+*** parliamentary
+https://www.dicts.cn/dictword20181/html/c03c34b1f8eb75d519f120e53970c02b.html?parliamentary
+
+** Two
+2. Jane Goodall's death initiated Netflix's newest show
+A 55-minute interview with the revered conservationist Jane Goodall was released today on Netflix, just two days after her death at 91. It ended with a message for viewers that she knew would only be seen after she died: "You may not know it, you may not find it, but your life matters, and you are here for a reason," Goodall said. The episode was the first of "Famous Last Words," a series of late-in-life interviews that Netflix promises to keep closely guarded until after the subject has died.
+
+*** Jane Goodall
+https://en.wikipedia.org/wiki/Jane_Goodall?useskin=vector
+
+*** interview
+https://www.dicts.cn/dictword20181/html/64c5d85f283c2903daf41d6310562285.html?interview
+
+*** late-in-life
+https://www.bing.com/dict/search?q=late-in-life
+
+** Three
+3. Video games are shaping boys, for better and worse
+In the last decade and a half, boys and young men ages 15 to 24 more than doubled their average time spent playing video games. The games have become a central way that boys build real friendships. Researchers say they can improve cognitive and problem-solving skills. But teachers say the games disrupt focus; economists link them to a decline in work hours; and readers cited video games as a chief reason for struggles in boys and young men.
+
+*** disrupt
+https://www.dicts.cn/dictword20181/html/e88a7c2f8a816d9bc9838ee19ee9f526.html?disrupt
