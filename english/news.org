@@ -3526,6 +3526,47 @@ https://www.dicts.cn/dictword20181/html/e88a7c2f8a816d9bc9838ee19ee9f526.html?di
 - Note taken on [2025-10-22 Wed 09:48] \\
   https://github.com/peng051410/today_i_learn/issues/285
 :END:
+https://www.dicts.cn/dictword20181/html/8ce8d4eb8f35f21c267ded88901fc2a9.html?motion
 
 ** likeness
 https://www.dicts.cn/dictword20181/html/56e30d93b140ba86da64b3f6ac874040.html?likeness
+* [[https://www.youtube.com/watch?v=iwIGhyUf8Nc][(5) 读懂英语新闻（第273期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** One
+1. Tesla unveiled cheaper, stripped-down versions of its bestselling sedan and SUV. The "standard" Model 3 and Model Y lack features like vegan leather seats and power-adjusted steering wheels. They cost $36,990 and $39,990, respectively. That puts them among the least-expensive electric vehicles for sale in the U.S. and better positions Tesla to compete globally against low-cost EVs from China. The new lower prices don't quite cover the recently expired $7,500 EV tax credit.
+
+*** sedan
+:LOGBOOK:
+- Note taken on [2025-10-23 Thu 09:52] \\
+  https://en.wikipedia.org/wiki/Sedan_(automobile)?useskin=vector
+:END:
+https://www.dicts.cn/dictword20181/html/49cc6baf0b3b537800be098b834afe14.html?sedan
+
+*** steering wheel
+:LOGBOOK:
+- Note taken on [2025-10-23 Thu 09:54] \\
+  https://en.wikipedia.org/wiki/Steering_wheel?useskin=vector
+:END:
+https://www.bing.com/dict/search?q=steering%20wheel
+
+** Two
+2. US Supreme Court justices, led by Samuel Alito, expressed skepticism about "conversion therapy" bans. Hearing arguments in Washington Tuesday, the court's Republican-appointed justices and one Democratic-appointed justice questioned the constitutionality of Colorado's ban on what critics call "conversion therapy," or attempts by counselors to change a minor's sexual orientation or gender identity. A Christian counselor is challenging the 2019 law as violating her free speech rights.
+
+*** scepticism
+https://www.dicts.cn/dictword20181/html/55939eab25218a7197c8c1a76de2319a.html?scepticism
+
+*** counselor
+https://www.dicts.cn/dictword20181/html/fa2a455b1022737bcb07478f99ed04fe.html?counselor
+
+** Three
+3. Gold futures rise above $4,000 per ounce for the first time
+Gold futures soared above $4,000 per troy ounce for the first time Tuesday, as many investors seek a safe place to park their money during the continuing U.S. government shutdown. Gold futures are up about 50% since the start of 2025.
+
+*** park
+:LOGBOOK:
+- Note taken on [2025-10-23 Thu 09:44] \\
+  https://github.com/peng051410/today_i_learn/issues/286
+:END:
+https://www.dicts.cn/dictword20181/html/d36477cdd8933f99f7bf43808f33a55f.html?park
