@@ -3582,3 +3582,28 @@ https://www.dicts.cn/dictword20181/html/d36477cdd8933f99f7bf43808f33a55f.html?pa
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
 
+
+* [[https://www.youtube.com/watch?v=Bc1cwqTXgxg][(8) 读懂英语新闻（第274期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+** One
+1, President Trump said he'd hit China with an additional 100% tariff in response to Beijing's new restrictions on exports of rare-earth minerals. The extra levy would accompany new export controls on critical software products, both of which will start Nov. 1, the president posted on Truth Social. Beijing dominates processing capabilities for rare-earth minerals— critical components of products such as semiconductors, electric vehicles, and jet fighters. In the latest tensions flareup, Trump also suggested an expected meeting with the Chinese leader in South Korea would no longer happen.
+
+** Two
+2. The Venezuelan opposition leader María Corina Machado, who built a powerful social movement challenging the country's authoritarian president, has been living in hiding since last year. Today, she was awarded the Nobel Peace Prize. Machado has supported the Trump administration's military actions off Venezuela and its approach to Maduro. But Trump has sought the peace prize for himself, and the White House was unhappy with the choice: "The Nobel Committee proved they place politics over peace, " its communications director posted on social media.
+
+*** authoritarian
+https://www.dicts.cn/dictword20181/html/6687509e0be315cac6b87200712ba77e.html?authoritarian
+
+** Three
+3. The White House cut more jobs
+Russell Vought, the White House budget director, said on social media that "RIFs have begun." That's short for reduction in force, bureacratese for layoffs. Vought did not say how many federal employees, or at which agencies, would be cut. But a White House official described the forthcoming downsizing as substantial. Trump has threatened to seize on the government shutdown to eliminate what he has described as "Democrat" agencies.
+
+*** substantial
+:LOGBOOK:
+- Note taken on [2025-10-27 Mon 09:39] \\
+  https://github.com/peng051410/today_i_learn/issues/288
+:END:
+https://www.dicts.cn/dictword20181/html/726c0ede6a1a22a14e95cc7300f2419b.html?substantial
