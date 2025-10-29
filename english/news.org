@@ -3618,4 +3618,44 @@ https://www.dicts.cn/dictword20181/html/5b1a79cfce5abb1a894444ff2219a131.html?fo
 :PROPERTIES:
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
+* [[https://www.youtube.com/watch?v=vPrMdYmJzQM][(8) 读懂英语新闻（第275期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** One
+1. Israel said that Hamas had transferred the bodies of four more hostages to the Red Cross. Earlier Israel accused the militant group of being too slow to return deceased hostages and said it would limit the flow of aid and keep the Rafah border crossing between Gaza and Egypt closed. Meanwhile Donald Trump insisted Hamas must disarm, or else "we will disarm them".
 
+*** Red Cross
+https://en.wikipedia.org/w/index.php?title=International_Red_Cross_and_Red_Crescent_Movement&useskin=vector
+
+*** deceased
+https://www.dicts.cn/dictword20181/html/3a4ab85a7fb5246cf9fd4347ba5df4f3.html?deceased
+
+*** border crossing
+https://www.bing.com/dict/search?q=border+crossing&FORM=HDRSC6
+
+** Two
+2. Jerome Powell signalled that the Federal Reserve could cut interest rates again this year, after lowering them in September for the first time in 2025. The Fed chair said that risks to America's labour market "appear to have risen" and suggested they outweigh those posed by inflation. Investors expect America's central bank to cut rates by another 0.25% this month.
+
+*** signal
+:LOGBOOK:
+- Note taken on [2025-10-29 Wed 09:45] \\
+  https://github.com/peng051410/today_i_learn/issues/290
+:END:
+https://www.dicts.cn/dictword20181/html/f8ae13be0e003d256d0dd0d3058898aa.html?signal
+
+*** outweigh
+https://www.dicts.cn/dictword20181/html/6c16966fbc49677ad9b37ba748c88b56.html?outweigh
+
+** Three
+3. After 14 October 2025, Microsoft will no longer provide standard free software updates, security fixes or technical assistance to Windows 10 PCs. This means computers running the software will still work but it will steadily become more vulnerable to viruses and malware as bugs and security holes are discovered. Figures for September suggest four in 10 of those using Microsoft Windows worldwide were still using Windows 10, despite the introduction of its successor, Windows 11, in 2021.
+
+*** steady
+:LOGBOOK:
+- Note taken on [2025-10-29 Wed 09:49] \\
+  https://github.com/peng051410/today_i_learn/issues/291
+:END:
+https://www.dicts.cn/dictword20181/html/08e2c3a8603390d76194a9219cb8750b.html?steady
+
+*** successor
+https://www.dicts.cn/dictword20181/html/f51fc2b94c22835001447bc29e4a91bf.html?successor
