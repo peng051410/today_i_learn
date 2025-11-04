@@ -3704,6 +3704,9 @@ https://www.dicts.cn/dictword20181/html/268c76ed8bd3ac42645897abaca590a0.html?in
 *** symptom
 https://www.dicts.cn/dictword20181/html/f443fe6061b199cc9ace54d786a220fe.html?symptom
 
+*** frozen shoulder
+https://en.wikipedia.org/w/index.php?title=Adhesive_capsulitis_of_the_shoulder&useskin=vector
+
 *** cholesterol
 https://www.dicts.cn/dictword20181/html/d5ea5123dd18ebbc8337a7c0807a4f18.html?cholesterol
 
@@ -3718,3 +3721,51 @@ https://www.dicts.cn/dictword20181/html/88e519b4b13a58ad7a24c613b3b536fe.html?ma
 ** crusade
 https://www.dicts.cn/dictword20181/html/7dd7a019901b1c2dbcde6b43636905d2.html?crusade
 
+
+* [[https://www.youtube.com/watch?v=vlYRl-9IdkI][(12) 读懂英语新闻（第277期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+** One
+1. Sanae Takaichi was elected today as the new leader of Japan, making her the first female prime minister in a country where women have long struggled for influence. Like her mentor, the former Prime Minister Shinzo Abe, Takaichi is expected to lead Japan to the right. Takaichi defies easy labels. She is a veteran conservative lawmaker, but she's also a fan of heavy metal music and Kawasaki motorcycles. And unlike most Japanese leaders, she does not come from a prominent political family.
+
+*** mentor
+https://www.dicts.cn/dictword20181/html/d06453238e48b9953cb943bb06e4934f.html?mentor
+
+*** defy
+https://www.bing.com/dict/search?q=defy
+
+** Two
+2. Thieves broke into the Louvre and made off with a set of priceless jewels.
+In just seven minutes, the thieves used a portable elevator to reach a balcony outside a gilded gallery on the museum's second floor, cut a hole in a window with an angle grinder and smashed display cases before speeding away on a motorcycle along the Seine River. Officials said that they are trying to establish the full list of stolen artifacts but that the speed and precision of the crime suggests experienced criminals who had spent time planning the heist.
+
+*** make off
+https://www.bing.com/dict/search?q=made%20off
+
+*** balcony
+https://www.dicts.cn/dictword20181/html/b848a26d869a44e029ef46fa041a8300.html?balcony
+
+*** angle grinder
+https://en.wikipedia.org/wiki/Angle_grinder?useskin=vector
+
+*** artifact
+https://www.dicts.cn/dictword20181/html/c319c391dc4176e8a78b08662cb010c9.html?artifact
+
+*** precision
+https://www.dicts.cn/dictword20181/html/f41869aec622cdea92916d859e95bc46.html?precision
+
+** Three
+3. Amazon's reputation as a reliable provider of cloud services took a hit on Monday when an outage lasting some 15 hours disrupted the operations of hundreds of companies from Apple to McDonald's and maybe your office, too. The incident, which some analysts are calling Amazon's worst outage since 2021, occurred at a challenging moment for the Amazon Web Services cloud unit, which has long touted reliability and accountability as a core piece of its pitch to customers.
+
+*** take a hit
+https://www.bing.com/dict/search?q=take+a+hit
+
+*** outage
+https://www.dicts.cn/dictword20181/html/b13d548fd07c0780c7dc5c175fcef6be.html?outage
+
+*** accountable
+https://www.dicts.cn/dictword20181/html/3f64299e597a217de67fb1e09aa949bb.html?accountable
+
+*** pitch
+https://www.dicts.cn/dictword20181/html/9bdaccdde8fe1faa1c2e500063dc1608.html?pitch
