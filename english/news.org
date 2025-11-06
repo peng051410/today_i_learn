@@ -3779,3 +3779,56 @@ https://www.dicts.cn/dictword20181/html/9bdaccdde8fe1faa1c2e500063dc1608.html?pi
 
 ** cage
 https://www.dicts.cn/dictword20181/html/6458b65afa86a41c8e6c1af11181cb8b.html?cage
+* [[https://www.youtube.com/watch?v=nNxX32-06SY][(13) 读懂英语新闻（第278期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** One
+1. With their distinctive shaggy orange manes, pale blue faces and dense fur covering their hands and feet, it's hard to mistake China's endangered golden snub-nosed monkeys for any other animal. These rare and charismatic monkeys, unique to the frigid mountains of central China, have recently joined the country's famous pandas as furry envoys to zoos in Europe for the first time — on loan for 10 years from the same government-overseen group that coordinates official panda exchanges, AP reports.
+
+*** pale
+:LOGBOOK:
+- Note taken on [2025-11-06 Thu 09:41] \\
+  https://github.com/peng051410/today_i_learn/issues/292
+:END:
+https://www.dicts.cn/dictword20181/html/2afccc09958c7fe75b2020d30cf64686.html?pale
+*** endanger
+https://www.dicts.cn/dictword20181/html/3735d54bcc0759ce386d66774c4135f7.html?endanger
+*** charismatic
+https://www.dicts.cn/dictword20181/html/8af61c8ba9566c06ca5543181ddfaa10.html?charismatic
+** Two
+2. From budget-friendly Botox to luxury facelifts, America is in its heyday of plastic surgery. Several forces collided to make plastic surgery more mainstream. Weight-loss drugs like Ozempic fuel demand for "maintenance" work to tighten skin or restore lost volume, often called "Ozempic face." Better equipment and skill have yielded faster recovery and subtler results.Botox and fillers are now buy-now-pay-later routine care, backed by private equity in a market exploding across urban centers and suburbia. Younger patients are bringing the cosmetic surgery industry a fresh round of potentially lifelong customers.
+
+*** heyday
+https://www.dicts.cn/dictword20181/html/a90272d94fce3008f9691484b320bb11.html?heyday
+*** plastic surgery
+https://www.bing.com/dict/search?q=plastic%20surgery
+*** subtle
+:LOGBOOK:
+- Note taken on [2025-11-06 Thu 09:44] \\
+  https://github.com/peng051410/today_i_learn/issues/293
+:END:
+https://www.dicts.cn/dictword20181/html/50e135c6f7b59a6ab4c66aabc22bb021.html?subtle
+*** volume
+:LOGBOOK:
+- Note taken on [2025-11-06 Thu 09:45] \\
+  https://github.com/peng051410/today_i_learn/issues/294
+:END:
+https://www.dicts.cn/dictword20181/html/20047b642c17f48e4aff22f0bca11808.html?volume
+*** equity
+https://www.dicts.cn/dictword20181/html/c2482b6dd37cbe6576fa547dd0550fb3.html?equity
+*** lifelong
+https://www.dicts.cn/dictword20181/html/67f140fe5cb3a4d39274644196f79cd2.html?lifelong
+** Three
+3. The U.S. deployed an aircraft carrier, and its accompanying warships and attack planes, to waters off Latin America, a major escalation of the operation in the Caribbean. Defense Secretary Pete Hegseth also announced that the U.S. had struck another ship in the region, killing six. In all, the U.S. has killed 43 people in 10 strikes. The White House has made no legal argument explaining its claim that it can summarily kill people suspected of smuggling drugs. The U.S. announced economic sanctions on Colombia's president, Gustavo Petro, after he criticized the operation in the Caribbean.
+
+*** aircraft carrier
+https://www.bing.com/dict/search?q=aircraft%20carrier
+*** summary
+:LOGBOOK:
+- Note taken on [2025-11-06 Thu 09:54] \\
+  https://github.com/peng051410/today_i_learn/issues/295
+:END:
+https://www.dicts.cn/dictword20181/html/299422e94bef9b753a8edda7a6f943ed.html?summary
+*** sanction
+https://www.dicts.cn/dictword20181/html/e307751ab49c3dc1a8cfd12cd29afb0f.html?sanction
