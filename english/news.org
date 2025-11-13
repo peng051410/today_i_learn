@@ -3821,6 +3821,10 @@ https://www.bing.com/dict/search?q=aircraft%20carrier
 :END:
 https://www.dicts.cn/dictword20181/html/299422e94bef9b753a8edda7a6f943ed.html?summary
 *** sanction
+:LOGBOOK:
+- Note taken on [2025-11-11 Tue 09:55] \\
+  https://github.com/peng051410/today_i_learn/issues/298
+:END:
 https://www.dicts.cn/dictword20181/html/e307751ab49c3dc1a8cfd12cd29afb0f.html?sanction
 * [[https://www.youtube.com/watch?v=2mY2S7mJ7io][(14) 看美剧练听力（第278期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第278期新闻精读配套听力练习 - YouTube]]
 :PROPERTIES:
@@ -3905,3 +3909,12 @@ https://www.dicts.cn/dictword20181/html/5617faa606313862bb91cc25e471c685.html?co
 ** Three
 3. What to know about chemicals and Parkinson's disease
 It's the world's fastest-growing brain disorder. But some doctors believe Parkinson's is also one of the most preventable, saying environmental factors might increase our risk of developing the disease. They recommend taking steps such as minimizing exposure to dry-cleaning chemicals and not living near golf courses that use lots of herbicides.
+
+* [[https://www.youtube.com/watch?v=UcjNQ-72IJM][(18) 看美剧练听力（第280期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第280期新闻精读配套听力练习 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+
+** put up with
+https://www.bing.com/dict/search?q=put+up+with
