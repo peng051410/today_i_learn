@@ -3874,7 +3874,6 @@ https://www.bing.com/dict/search?q=usher+in&qs=n&form=Z9LH5&sp=-1&lq=0&pq=usher+
   听力剪辑错了
 :END:
 
-
 * [[https://www.youtube.com/watch?v=4-C2rC9QNIc][(17) 读懂英语新闻（第280期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
 :PROPERTIES:
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
@@ -3915,6 +3914,56 @@ It's the world's fastest-growing brain disorder. But some doctors believe Parkin
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
 
-
 ** put up with
 https://www.bing.com/dict/search?q=put+up+with
+* [[https://www.youtube.com/watch?v=PKu8cVf4O18][(19) 读懂英语新闻（第281期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** One
+1. Dick Cheney, who died yesterday at 84, was widely regarded as the most powerful vice president in American history. He was George W. Bush's closest adviser, with an almost unlimited portfolio, making him the architect of U.S. policies in an era of war and economic change. He had a profound impact on U.S. national security. He helped engineer the Persian Gulf war in 1991, and he took a leading role in responding to the Sept. 11 attacks. Late in life, he shocked his fellow Republicans by announcing that he would vote for Kamala Harris.
+
+*** Dick Cheney
+https://en.wikipedia.org/wiki/Dick_Cheney?useskin=vector
+
+*** profound
+:LOGBOOK:
+- Note taken on [2025-11-14 Fri 10:09] \\
+  https://github.com/peng051410/today_i_learn/issues/300
+:END:
+https://www.dicts.cn/dictword20181/html/57b3a584f5be3c7bbda64a854a7a33ab.html?profound
+
+*** portfolio
+https://www.dicts.cn/dictword20181/html/dc2e4131929aeca25729778f8d3ff368.html?portfolio
+
+*** impact
+:LOGBOOK:
+- Note taken on [2025-11-14 Fri 10:11] \\
+  https://github.com/peng051410/today_i_learn/issues/301
+:END:
+https://www.dicts.cn/dictword20181/html/088ef70b509299bb99da3345c722f8dc.html?impact
+
+*** engineer
+https://www.dicts.cn/dictword20181/html/3b669ef7917f82fc11c036699daa3635.html?engineer
+
+** Two
+2. The Trump administration has developed a range of options for military action in Venezuela. Officials said Trump was reluctant to approve operations that might place American troops at risk. But some of his top advisers are pressing for one of the most aggressive options: sending Special Operations forces to capture or kill Venezuela's leader, Nicolás Maduro.
+
+*** Venezuela
+https://en.wikipedia.org/wiki/Venezuela?useskin=vector
+
+*** press
+:LOGBOOK:
+- Note taken on [2025-11-14 Fri 10:03] \\
+  https://github.com/peng051410/today_i_learn/issues?q=press
+:END:
+https://www.dicts.cn/dictword20181/html/cf79ef47e1e73135f304c4be0f1d3f1d.html?press
+** Three
+3. Apple is preparing a low-cost laptop aimed at luring away customers from Chromebooks and entry-level Windows PCs. The budget Mac, code-named J700, is said to be in active testing, with Apple planning its launch in the first half of next year. The cheaper device will target people who primarily browse the web, work on documents or conduct light media editing. Apple is also targeting would-be iPad buyers who might prefer a traditional laptop experience instead.
+
+*** budget
+:LOGBOOK:
+- Note taken on [2025-11-14 Fri 09:57] \\
+  https://github.com/peng051410/today_i_learn/issues/299
+:END:
+https://www.dicts.cn/dictword20181/html/8286210c8b28c4d8d4d7af8457d75721.html?budget
