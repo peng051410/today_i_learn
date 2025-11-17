@@ -15,6 +15,8 @@
 
 * [[./english/news.org][English news]]
 
+* [[./english/news-intensive.org][English news intensive]]
+
 * [[./english/book.org][English books]]
 
 * [[./emacs/lisp.md][Lisp]]
@@ -623,7 +625,7 @@ git clone <url> --branch <branch-to-clone> --single-branch [folder-to-store]
 #+end_src
 https://igorstechnoclub.com/my-everyday-git-commands/
 
-** Show lastest one wekk logs
+** Show lastest one week logs
 #+begin_src sh
 git log --since=1.week
 #+end_src
@@ -642,6 +644,11 @@ git checkout tags/<tag_name> -b <branch_name>
 :END:
 #+begin_src sh
 git add -u
+#+end_src
+
+** show branch where from
+#+begin_src sh
+git reflog show --date=local | grep 分支名
 #+end_src
 
 * Github
