@@ -4072,4 +4072,33 @@ https://en.wikipedia.org/wiki/Issey_Miyake?useskin=vector
 :END:
 ** intrigue
 https://www.dicts.cn/dictword20181/html/c3b65f46450076830340cae0380e0ca5.html?intrigue
-** nausea
+
+* [[https://www.bilibili.com/video/BV1MyyFBbEf9/][读懂英语新闻（第285期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记_哔哩哔哩_bilibili]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+** One
+1. Congress on Tuesday was poised to approve a bill that would compel the Justice Department to release its files on Epstein. An overwhelming 427 to 1 House vote was to be followed by Senate approval. Trump, who recently folded in his opposition to the files' release, is expected to sign it. What those files will eventually show, however, is anyone's guess. In August, Bloomberg's FOIA Files revealed that the FBI had been redacting Trump's name.
+
+*** anyone's guess
+https://www.bing.com/dict/search?q=anyone%27s+guess
+
+** Two
+2. The Trump administration is announcing a new initiative for foreigners traveling to the U.S. for the World Cup next year that will allow them to get interviews for visas more quickly. The administration is balancing President Trump's tough-on-migration stance with an influx of global travelers for the soccer tournament. Dubbed "FIFA Pass," it will allow those who have purchased World Cup tickets through FIFA to get expedited visa appointments.
+
+*** influx
+https://www.dicts.cn/dictword20181/html/3255933e209b30f377e560298b7d3c26.html?influx
+
+** Three
+3. Al bubble fears hit U.S. stocks, which dropped for a fourth straight session. Lofty valuations and a pile-up of debt to build data centers have led some investors to question the price of Al-linked stocks. Exhibit A: Nvidia and Microsoft announced they'd invest up to $15 billion in Anthropic, which will purchase $30 billion of computing capacity from Microsoft Azure. Exhibit B: AI data center developers desperately need electricity-and bitcoin miners are eager to assist.
+
+*** lofty
+https://www.dicts.cn/dictword20181/html/219da1c225185bb9c96b43ecc0ffd904.html?lofty
+
+*** pile-up
+https://www.bing.com/dict/search?q=pile-up
+
+*** desperately
+https://www.dicts.cn/dictword20181/html/dd6cdd541ea011d9e458ad6ea255b8a1.html?desperately
+
