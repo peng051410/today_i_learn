@@ -4184,4 +4184,54 @@ https://www.dicts.cn/dictword20181/html/3187a87b14431f9d68aff9e598223d2f.html?cr
 - Note taken on [2025-12-04 Thu 10:01] \\
   多么高的评价
 :END:
+* [[https://www.youtube.com/watch?v=fzqYrufriP4][(8) 读懂英语新闻（第288期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** One
+1, Donald Trump called for "reverse migration" in the US as he outlined a further crackdown on immigration following the shooting of two National Guard members in Washington. Hours after announcing that one of the soldiers had died from her injuries, the president proposed measures such as permanently pausing admissions from "third world" countries and revoking citizenship for some naturalized migrants.
+
+*** outline
+:LOGBOOK:
+- Note taken on [2025-12-05 Fri 09:31] \\
+  https://github.com/peng051410/today_i_learn/issues/307
+:END:
+https://www.dicts.cn/dictword20181/html/5e553df1382037741e55546964a913ef.html?outline
+*** measure
+:LOGBOOK:
+- Note taken on [2025-12-05 Fri 09:31] \\
+  https://github.com/peng051410/today_i_learn/issues/208
+:END:
+https://www.dicts.cn/dictword20181/html/38788fcfcfadd94d0b90d9ebab09ff43.html?measure
+** Two
+2. The death toll from Hong Kong's high-rise complex fire rose to 128, although it's unclear how many people are still unaccounted for. Authorities had only recently warned the renovators about fire hazards, and attention has turned to plastic sheeting and bamboo scaffolding traditionally used in construction in the city.
+
+*** high-rise
+https://www.dicts.cn/dictword20181/html/0ddb66aade4ddc78a58c7d86f845df04.html?high-rise
+*** complex
+:LOGBOOK:
+- Note taken on [2025-12-05 Fri 09:47] \\
+  https://github.com/peng051410/today_i_learn/issues/308
+:END:
+https://www.dicts.cn/dictword20181/html/d5c9bd2497e6e9673078b1800904e8e2.html?complex
+*** unaccounted for
+https://www.bing.com/dict/search?q=unaccounted%20for
+*** hazard
+https://www.dicts.cn/dictword20181/html/cd0914b5321ad6d4598b55d3dca88f0a.html?hazard
+*** bamboo
+https://www.dicts.cn/dictword20181/html/308744cc93d5dfd5634d1820ed92726d.html?bamboo
+** Three
+3. Nearly two-thirds of registered voters believe a college degree isn't worth the cost - a stunning shift in sentiment from just one decade ago, according to an NBC News poll out this morning. The eye-popping shift "comes against the backdrop of several major trends shaping the job market and the education world, from exploding college tuition prices to rapid changes in the modern economy" - namely, AI. 63% agreed that it's "not worth the cost because people often graduate without specific job skills and with a large amount of debt to pay off."
+
+*** sentiment
+https://www.dicts.cn/dictword20181/html/bf50102120449e561addbbc2e19aa11f.html?sentiment
+*** backdrop
+https://www.dicts.cn/dictword20181/html/515fe3a2526281e5a716a7889ea0f220.html?backdrop
+*** explode
+https://www.dicts.cn/dictword20181/html/bbf6ca9a710210d4cf64a3f4901cd83c.html?explode
+
+* [[https://www.youtube.com/watch?v=S3cfot5otDc][(11) 看美剧练听力（第288期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第288期新闻精读配套听力练习 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
 
