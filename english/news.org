@@ -4295,3 +4295,46 @@ https://www.dicts.cn/dictword20181/html/286b12dd0a64f4566193e62b2ebf8ef7.html?of
 :END:
 ** conspiracy
 https://www.dicts.cn/dictword20181/html/2c6409454c73946d755a71e45635ca36.html?conspiracy
+
+* [[https://www.youtube.com/watch?v=bKUU93rBB34][(15) 读懂英语新闻（第290期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+
+** One
+1. A titan of American architecture died
+Frank Gehry, one of the most formidable and original talents in the history of American architecture, died today at 96. Gehry was one of the first architects to grasp the potential of computer design, which he used to give sculptural bravura to his masterpieces. His greatest popular success was the Guggenheim Museum Bilbao - a wildly exuberant, titanium-clad museum that helped turn a rusty port town into an international destination.
+
+*** Frank Gehry
+https://en.wikipedia.org/wiki/Frank_Gehry?useskin=vector
+
+*** formidable
+https://www.dicts.cn/dictword20181/html/bff378854aa71d4f1a960a692bd6f036.html?formidable
+
+*** grasp
+https://www.dicts.cn/dictword20181/html/9f907cdc4aeaaabb8fb520d7f1d4c405.html?grasp
+
+*** masterpiece
+https://www.dicts.cn/dictword20181/html/8a22e3b1015177e501c75729ad85f38d.html?masterpiece
+
+*** Guggenheim Museum Bilbao
+https://en.wikipedia.org/wiki/Guggenheim_Museum_Bilbao?useskin=vector
+
+*** museum
+https://www.dicts.cn/dictword20181/html/a6644e2a36ffabf8b1183da4c484193e.html?museum
+
+** Two
+2. The Supreme Court will decide if Trump can end the practice of granting citizenship to children born in the U.S. The justices agreed to hear the Trump administration's appeal of a lower-court ruling that found an executive order limiting birthright citizenship if neither parent is a U.S. citizen or permanent legal resident unconstitutional. The case will likely be argued in the spring, with a decision expected before the end of June.
+
+*** Supreme Court
+https://en.wikipedia.org/wiki/Supreme_court?useskin=vector
+
+** Three
+3. A key CDC vaccine panel voted to eliminate a recommendation that all newborns receive a first dose of hepatitis B vaccine. The 8-3 decision came after the committee heard presentations from vaccine skeptics. Scientists have credited the decades-old hepatitis B guidance with helping decrease rates of infection. Proponents of the change argued not enough is known about the vaccine's potential risks and that most babies aren't likely to contract the virus.
+
+*** dose
+https://www.dicts.cn/dictword20181/html/e5748811a4d355d950288ecde1e77793.html?dose
+
+*** contract
+https://www.dicts.cn/dictword20181/html/aec322e6a8b245093ef5b0632a31b458.html?contract
