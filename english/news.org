@@ -4389,3 +4389,40 @@ https://www.bing.com/dict/search?q=thrown%20out
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
 
+
+* [[https://www.youtube.com/watch?v=6iJ1IlDWZUQ][(19) 读懂英语新闻（第292期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+** One
+1. The European Union agreed to freeze Russian assets in Europe indefinitely. The EU approved a legal workaround that blocks access to €210bn ($246bn) until Russia ends its war in Ukraine and contributes to rebuilding the country. Meanwhile America said that it would send its overseas envoy, Steve Witkoff, to meet European leaders in Germany this weekend in its latest push for a peace deal.
+
+** Two
+2. Hot dog! Disney is investing $1 billion in OpenAI and licensing its characters for short, Al-generated, user-prompted videos. The entertainment giant's three-year licensing deal covers more than 200 Disney, Marvel, Star Wars and Pixar characters. The companies didn't disclose the financial terms. Disney yesterday sent a cease-and-desist letter to Google accusing the tech titan of using copyright material to train its Al systems and allowing its tools to output material that violates copyrights. Google didn't immediately respond to a request for comment.
+
+*** cease-and-desist
+https://www.bing.com/dict/search?q=cease-and-desist
+
+*** violate
+https://www.dicts.cn/dictword20181/html/ce2ac71b8641fa28536f4773934245ed.html?violate
+
+** Three
+3. Greg Abel's rise as Warren Buffett's heir looked almost accidental. Now, as the accountant-turned-energy boss finally takes charge of $1 trillion conglomerate Berkshire Hathaway, he'll command a $382 billion war chest. But he and his team inherit no shortage of challenges.
+
+*** Greg Abel
+https://en.wikipedia.org/wiki/Greg_Abel?useskin=vector
+
+*** heir
+https://www.dicts.cn/dictword20181/html/e145a02dd6df3b59b75854fece3b67fc.html?heir
+
+*** command
+:LOGBOOK:
+- Note taken on [2025-12-17 Wed 09:32] \\
+  https://github.com/peng051410/today_i_learn/issues/310
+:END:
+https://www.dicts.cn/dictword20181/html/1a3c106b8f59cb47a76324b870bf1e03.html?command
+
+*** war chest
+https://www.bing.com/dict/search?q=war%20chest
+
