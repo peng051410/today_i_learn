@@ -4446,7 +4446,6 @@ https://www.bing.com/dict/search?q=in%20good%20shape
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
 
-
 ** One
 1. The police arrested Nick Reiner, the son of the director Rob Reiner and Michele Singer Reiner, on suspicion of murdering his parents. They were found stabbed to death in their Los Angeles home. Nick, 32, had struggled with drug addiction since he was a teenager and once estimated he had been in treatment 18 times. Rob Reiner's career spanned decades and gave us some of the most memorable films of the late 20th century, including "When Harry Met Sally ... and "The Princess Bride."
 
@@ -4477,3 +4476,58 @@ Police officers went door to door this afternoon across Providence, R.I., in sea
 
 *** custody
 https://www.dicts.cn/dictword20181/html/67a8858bc059c393eab720c359fa25dd.html?custody
+
+* [[https://www.youtube.com/watch?v=GTsnYwJ-XJY][(24) 一周听力合集（第292期+第293期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第293期新闻精读配套听力练习 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+:LOGBOOK:
+- Note taken on [2025-12-22 Mon 09:56] \\
+  音与内容不一致，前面也出现过，不知道是怎么回事
+:END:
+
+
+* [[https://www.youtube.com/watch?v=9ZoESPcPKTQ][(25) 读懂英语新闻（第294期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+
+** One
+1. Are you ready to revisit Pandora?
+The biggest movie of this weekend is "Avatar: Fire and Ash," the third installment in James Cameron's franchise exploring the lush alien world of the Na'vi. The first two "Avatar" films rank among the top-three grossing movies of all time. And if you liked those, our critic Manohla Dargis writes in her review, you will most likely succumb to this one's visual charms as well, even if its shallow dialogue falls short of its epic spectacle.
+
+*** ash
+https://www.dicts.cn/dictword20181/html/e4e35d823157b4b154f8c4ea119b77fb.html?ash
+
+*** franchise
+https://www.dicts.cn/dictword20181/html/19fc5834efb1cbdbfb9dbae0431760c1.html?franchise
+
+*** succumb
+https://www.dicts.cn/dictword20181/html/3e9874c3ba7282c1676c69816d693f13.html?succumb
+
+*** shallow
+https://www.dicts.cn/dictword20181/html/50383598b1329c6f951031fb029219db.html?shallow
+
+*** spectacle
+https://www.dicts.cn/dictword20181/html/e7cc51ffbc4c96316ac8c6df1a513a73.html?spectacle
+
+** Two
+2. TikTok has signed a deal to divest its U.S. entity to a joint venture controlled by American investors.A deal would end a yearslong saga to force TikTok's Chinese parent ByteDance to sell the company's U.S. operation to domestic owners to address national security concerns. Oracle, Silver Lake and Abu Dhabi-based MGX will collectively own 45% of the U.S. entity, which will be called "TikTok USDS Joint Venture LLC." The U.S. joint venture will be responsible for American data protection, algorithm security, content moderation and software assurance, per the memo.
+
+*** saga
+https://www.dicts.cn/dictword20181/html/487c659478cb8c94bc9cad61a21c6bba.html?saga
+
+*** [#A] domestic
+:LOGBOOK:
+- Note taken on [2025-12-23 Tue 09:42] \\
+  https://github.com/peng051410/today_i_learn/issues/312
+:END:
+https://www.dicts.cn/dictword20181/html/31994f0c83e297f4017c1510abb38eee.html?domestic
+
+*** moderation
+https://www.dicts.cn/dictword20181/html/c693479ac138aa8a145cfa204070c3bf.html?moderation
+
+** Three
+3. More drugmakers reached deals with the White House to lowerprices.
+Nine companies including Bristol-Myers Squibb, GSK and Merck said they would reduce U.S. prices on drugs to levels comparable with those charged in other wealthy countries, which are generally much lower. In return, the companies get administration-backed reprieves from potential new U.S. tariffs for three years. Shares in the companies were up on the news.
