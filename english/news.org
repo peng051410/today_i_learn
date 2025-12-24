@@ -4208,7 +4208,7 @@ https://www.dicts.cn/dictword20181/html/38788fcfcfadd94d0b90d9ebab09ff43.html?me
 
 *** high-rise
 https://www.dicts.cn/dictword20181/html/0ddb66aade4ddc78a58c7d86f845df04.html?high-rise
-*** complex
+*** [#A] complex
 :LOGBOOK:
 - Note taken on [2025-12-05 Fri 09:47] \\
   https://github.com/peng051410/today_i_learn/issues/308
@@ -4262,7 +4262,7 @@ https://en.wikipedia.org/w/index.php?title=Michael_%26_Susan_Dell_Foundation&use
 *** better known as
 https://www.bing.com/dict/search?q=better%20known%20as
 
-*** seed
+*** [#A] seed
 https://www.dicts.cn/dictword20181/html/4d22a6ab407b14d340bcca742bcf0ebc.html?seed
 
 ** Three
@@ -4321,7 +4321,7 @@ https://www.dicts.cn/dictword20181/html/8a22e3b1015177e501c75729ad85f38d.html?ma
 *** Guggenheim Museum Bilbao
 https://en.wikipedia.org/wiki/Guggenheim_Museum_Bilbao?useskin=vector
 
-*** museum
+*** [#A] museum
 https://www.dicts.cn/dictword20181/html/a6644e2a36ffabf8b1183da4c484193e.html?museum
 
 ** Two
@@ -4336,7 +4336,7 @@ https://en.wikipedia.org/wiki/Supreme_court?useskin=vector
 *** dose
 https://www.dicts.cn/dictword20181/html/e5748811a4d355d950288ecde1e77793.html?dose
 
-*** contract
+*** [#A] contract
 https://www.dicts.cn/dictword20181/html/aec322e6a8b245093ef5b0632a31b458.html?contract
 
 * [[https://www.youtube.com/watch?v=fIB61w_dDLM][(16) 看美剧练听力（第290期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第290期新闻精读配套听力练习 - YouTube]]
@@ -4357,7 +4357,7 @@ https://www.dicts.cn/dictword20181/html/aec322e6a8b245093ef5b0632a31b458.html?co
 ** One
 1. Donald Trump gave Nvidia permission to ship its H200 chip to China in exchange for a 25% surcharge, a move that potentially allows the Al darling to regain billions of dollars in lost business from a key global market. Trump added that shipments would only go to "approved customers," and that chipmakers such as Intel and AMD would also be eligible. Still, it remains to be seen if China allows its firms to buy those chips.
 
-*** still
+*** [#A] still
 :LOGBOOK:
 - Note taken on [2025-12-15 Mon 09:48] \\
   https://github.com/peng051410/today_i_learn/issues/309
@@ -4431,7 +4431,7 @@ https://www.bing.com/dict/search?q=war%20chest
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
 
-** question
+** [#A] question
 :LOGBOOK:
 - Note taken on [2025-12-18 Thu 10:03] \\
   https://github.com/peng051410/today_i_learn/issues/311
@@ -4491,8 +4491,7 @@ https://www.dicts.cn/dictword20181/html/67a8858bc059c393eab720c359fa25dd.html?cu
 :PROPERTIES:
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
-
-
+        
 ** One
 1. Are you ready to revisit Pandora?
 The biggest movie of this weekend is "Avatar: Fire and Ash," the third installment in James Cameron's franchise exploring the lush alien world of the Na'vi. The first two "Avatar" films rank among the top-three grossing movies of all time. And if you liked those, our critic Manohla Dargis writes in her review, you will most likely succumb to this one's visual charms as well, even if its shallow dialogue falls short of its epic spectacle.
@@ -4531,3 +4530,17 @@ https://www.dicts.cn/dictword20181/html/c693479ac138aa8a145cfa204070c3bf.html?mo
 ** Three
 3. More drugmakers reached deals with the White House to lowerprices.
 Nine companies including Bristol-Myers Squibb, GSK and Merck said they would reduce U.S. prices on drugs to levels comparable with those charged in other wealthy countries, which are generally much lower. In return, the companies get administration-backed reprieves from potential new U.S. tariffs for three years. Shares in the companies were up on the news.
+
+* [[https://www.youtube.com/watch?v=4C2uVxsr4Jg][(28) 看美剧练听力（第294期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第294期新闻精读配套听力练习 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+** in a minute
+https://www.bing.com/dict/search?q=in%20a%20minute
+
+** marble
+https://www.dicts.cn/dictword20181/html/8b6bc1cd7b83749d3cf4728f4383b0bf.html?marble
+
+** weep
+https://www.dicts.cn/dictword20181/html/4184471cdb9a8601586e5c5e10767a1d.html?weep
