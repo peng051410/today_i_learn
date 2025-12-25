@@ -95,7 +95,7 @@ https://www.dicts.cn/dictword20181/html/cb117eba831e03c6c0c0737250a885cf.html?fa
 ** Three
 3. The NYPD is investigating a number of 'WANTED' posters of senior executives that are showing up in parts of Manhattan. They included images of UnitedHealth's Brian Thompson, who was murdered last week, as well as executives from American Express, Goldman Sachs, Bank of America and JPMorgan Chase. The arrest of Luigi Mangione this week has failed to fill in some key details of Thompson's killing, while dark glee over the murder is stoking fear among insurers about copycats.
 
-*** WANTED poster
+*** poster
 https://en.wikipedia.org/wiki/Wanted_poster?useskin=vector
 *** fill in
 https://www.bing.com/dict/search?q=fill%20in
@@ -4528,7 +4528,7 @@ https://www.dicts.cn/dictword20181/html/31994f0c83e297f4017c1510abb38eee.html?do
 https://www.dicts.cn/dictword20181/html/c693479ac138aa8a145cfa204070c3bf.html?moderation
 
 ** Three
-3. More drugmakers reached deals with the White House to lowerprices.
+3. More drugmakers reached deals with the White House to lowerprices
 Nine companies including Bristol-Myers Squibb, GSK and Merck said they would reduce U.S. prices on drugs to levels comparable with those charged in other wealthy countries, which are generally much lower. In return, the companies get administration-backed reprieves from potential new U.S. tariffs for three years. Shares in the companies were up on the news.
 
 * [[https://www.youtube.com/watch?v=4C2uVxsr4Jg][(28) 看美剧练听力（第294期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第294期新闻精读配套听力练习 - YouTube]]
@@ -4544,3 +4544,28 @@ https://www.dicts.cn/dictword20181/html/8b6bc1cd7b83749d3cf4728f4383b0bf.html?ma
 
 ** weep
 https://www.dicts.cn/dictword20181/html/4184471cdb9a8601586e5c5e10767a1d.html?weep
+
+* [[https://www.youtube.com/watch?v=50VamdfBvgk][(28) 读懂英语新闻（第295期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+
+** One
+:LOGBOOK:
+- Note taken on [2025-12-25 Thu 09:52] \\
+  正好与听的播客的嘉宾提到的美国总统在对外事务上权力很大
+:END:
+1. The Trump administration abruptly recalled nearly 30 career ambassadors at U.S. embassies around the world, according to multiple officials familiar with the matter. The U.S. already had around 80 vacant ambassador spots worldwide. The mass recall a year into the administration, coupled with the numerous top-level overseas posts already sitting empty, is without modern historic precedent, current and former veteran State Department officials said. A senior department official said that the recall was part of a standard process to reassess ambassadors in any administration and that it's the president's right to ensure he has envoys in place who advance his foreign-policy agenda.
+
+*** veteran
+https://www.dicts.cn/dictword20181/html/e315d4b0d6990f948944f61b27d3573b.html?veteran
+
+*** precedent
+https://www.dicts.cn/dictword20181/html/85362276bedac9fe3fa52ba043f8ecf2.html?precedent
+
+** Two
+2. Gold and silver soared to all-time highs, with bullion climbing as much as 2.4% to surpass the previous record of $4,381 an ounce, while silver rallied as much as 3.4%, closing in on $70 an ounce. The move extends a blistering rally that has put both metals firmly on course for their strongest annual performance since 1979.
+
+** Three
+3. The Trump administration is offering undocumented migrants $3,000 and paid travel if they agree to leave the country voluntarily before the end of the year. That's triple the $1,000 payout the government unveiled in May. The move is part of a holiday-season campaign aimed at speeding up deportations.
