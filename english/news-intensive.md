@@ -1,11 +1,12 @@
 
 # Table of Contents
 
--   [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org84da378)
+-   [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgbed8f5a)
+-   [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org92d38b3)
 
 
 
-<a id="org84da378"></a>
+<a id="orgbed8f5a"></a>
 
 # [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=GvqIuDE2Vlc)
 
@@ -68,4 +69,84 @@
 ### horizon
 
 <https://www.dicts.cn/dictword20181/html/9f9627a538428ef9e326d0822f18a5fe.html?horizon>
+
+
+<a id="org92d38b3"></a>
+
+# [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=XTxFYQHuwQg&t=580s)
+
+
+## One
+
+1.  OpenAI just closed one of the largest fundraising rounds in history, valuing the company at $157 billion, a huge leap for a scrappy startup run by a handful of executives. But as OpenAl races to build a global business, it has been roiled by an exodus of top officials and much of the brain trust that put the startup on the map, including most recently Chief Technology Officer Mira Murati. Employees at various levels of the company are now wrestling with exhaustion as concerns grow that OpenAl's initial commitment to responsible Al development may be wavering.
+
+
+### handful
+
+<https://www.dicts.cn/dictword20181/html/4cc990869bf1ea540cc19de926e21ad8.html?handful>
+
+
+### exodus
+
+<https://www.dicts.cn/dictword20181/html/88d47704c04d38de0d31a16d9dcee8f8.html?exodus>
+
+
+### brain trust
+
+<https://www.bing.com/dict/search?q=brain%20trust>
+
+
+### put on the map
+
+<https://www.bing.com/dict/search?q=put%20on%20the%20map>
+
+
+### Mira Murati
+
+<https://en.wikipedia.org/wiki/Mira_Murati?useskin=vector>
+
+
+### exhaustion
+
+<https://www.dicts.cn/dictword20181/html/133671edbf82717d47938a7ad853b251.html?exhaustion>
+
+
+### commitment
+
+<https://www.dicts.cn/dictword20181/html/032440e053f16f776518b5bb9335901b.html?commitment>
+
+
+## Two
+
+1.  Victor Rambros and Gary Ruvkin won the Nobel prize for physiology or medicine for their discovery of micro-RNA and "its role in post-transcriptional gene regulation". The Nobel Assembly of the Karolinska Institute, in Stockholm, which awards the prize, said that micro-RNAs are crucial "for how organisms develop and function". The American scientists will share a prize of 11m Swedish kronor ($1.06m).
+
+
+### regulation
+
+<https://www.dicts.cn/dictword20181/html/d6e0f5d2a825315c8dc1353a3016a126.html?regulation>
+
+
+### organism
+
+<https://www.dicts.cn/dictword20181/html/ce399c7fc789891f07a8a6150a18d853.html?organism>
+
+
+## Three
+
+1.  Melania Trump made an extraordinary declaration in an eagerly awaited memoir to be published a month from election day: she is a passionate supporter of a woman's right to control her own body- including the right to abortion. Melania Trump has rarely expressed political views in public. Her book, Melania, which reveals the former first lady to be so firmly out of step with most of her own party, will be published in the US next Tuesday.
+
+
+### passionate
+
+<https://www.dicts.cn/dictword20181/html/050079603ca6079746440c2aaa474d3b.html?passionate>
+
+
+### abortion
+
+<https://www.dicts.cn/dictword20181/html/d4e74a47a656294b00edfb3ea5808c87.html?abortion>
+
+
+### out of step
+
+<https://www.bing.com/dict/search?q=out%20of%20step>
 
