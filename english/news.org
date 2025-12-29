@@ -66,8 +66,9 @@ https://www.dicts.cn/dictword20181/html/7cdd8f0f5734b59e602a41fe86175a51.html?ev
 ** Three
 3. Syrian rebels rushed to impose order in Damascus after Bashar al-Assad's regime collapsed over the weekend. Leader Abu Mohammed al-Jawlani moved to form a transitional government, get the buses running and turn the power back on. Many foreign countries, including the U.S., classify his group as a terrorist organization.
 
-*** rebel
+*** [#A] rebel
 https://www.dicts.cn/dictword20181/html/943d697a82b0197f2cf4a6063218f1cc.html?rebel
+
 *** rush to
 https://dictionary.cambridge.org/dictionary/english/rush
 *** regime
@@ -153,11 +154,8 @@ https://www.dicts.cn/dictword20181/html/0de29f06899f34e3dc92d2dbfef0032e.html?in
 *** intimidation
 https://www.dicts.cn/dictword20181/html/22471f08fae98218f73617e7e599bc63.html?intimidate
 
-*** declined
-:LOGBOOK:
-- Note taken on [2024-12-25 Wed 09:49] \\
+*** [#A] declined
   https://www.dicts.cn/dictword20181/html/fe911eb0a594a4f847ef6f0548db4270.html?decline
-:END:
 
 *** parole
 :LOGBOOK:
@@ -196,12 +194,15 @@ arrested, the authorities said. They said they believe it was a
 deliberate attack. More than 1,000 Christmas markets pop up every
 year in Germany, and have been targeted by terrorists before.
 *** plow into
+https://www.bing.com/dict/search?q=plow%20into
 
 *** Magdeburg
 https://en.wikipedia.org/wiki/Magdeburg?useskin=vector
+
 *** deliberate
 
 *** pop up
+https://www.bing.com/dict/search?q=pop%20up
 
 ** Two
 2. Hopes were high that the Fed's rate cuts could make homes
@@ -211,9 +212,11 @@ roughly 6.1% since the central bank started lowering rates in
 September, according to Freddie Mac. And they're only poised
 to rise further. That's because mortgage rates move with the
 yield on the 10-year Treasury, which has surged this week.
-*** mortgage
+*** [#A] mortgage
 https://en.wikipedia.org/wiki/Mortgage?useskin=vector
+
 *** poised to
+https://www.bing.com/dict/search?q=poised%20to
 
 *** yield
 https://en.wikipedia.org/wiki/Yield_(finance)?useskin=vector
@@ -251,7 +254,7 @@ their flights through Thursday.
 *** American Airline
 https://en.wikipedia.org/wiki/American_Airlines?useskin=vector
 *** briefly
-*** ground
+*** [#A] ground
 *** vendor
 *** ground stop
 https://en.wikipedia.org/wiki/Ground_stop?useskin=vector
@@ -354,9 +357,9 @@ in 2023. It was the first time the benchmark index had risen more than
 2025 in an optimistic mood, believing that, with the economy on firm
 footing and the White House in their corner, the stock market will
 continue to climb.
-*** see
-*** gain
-*** ahead
+*** [#A] see
+*** [#A] gain
+*** [#A] ahead
 *** on firm footing
 *** in their corner
 :LOGBOOK:
@@ -479,7 +482,7 @@ expected to show up and Taylor Swift will almost certainly be there. Most of us
 will watch from home - a ticket costs more than most mortgage payments —
 where treats like chicken wings and artichoke dip will be the real stars.
 *** headline
-*** treat
+*** [#A] treat
 ** Two
 2. A federal judge temporarily blocked Elon Musk and some
 of his team at the Department of Government Efficiency from
@@ -500,7 +503,7 @@ making sure to cover the faucets and handles. Let the spray sit for the
 recommended time, rinse with water, and voilà.
 *** sanitize
 *** sink
-*** produce
+*** [#A] produce
 *** scrub off
 *** grime
 * [[https://www.youtube.com/watch?v=LBUKbSskiSU][(4) 读懂英语新闻（第205期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
@@ -556,7 +559,7 @@ brushed my face." He emerged unharmed.
 and his father caught it all on video.
 *** Chile
 https://en.wikipedia.org/wiki/Chile?useskin=vector
-*** brief
+*** [#A] brief
 https://www.dicts.cn/dictword20181/html/3f1c95fe12f6ed69d08688ef418c34bd.html?brief
 *** raft
 https://www.dicts.cn/dictword20181/html/220952e78c7fa4650f13a52dc7434e53.html?raft
@@ -617,7 +620,7 @@ https://en.wikipedia.org/w/index.php?title=Toronto&useskin=vector
 https://www.dicts.cn/dictword20181/html/46a6ad040c1d60d7d8e92ce24f01b059.html?evacuate
 *** tear off
 https://www.dicts.cn/dictword20181/html/8d97007ab591fb684dc7248e507eec62.html?tear%20off
-*** critically
+*** [#A] critically
 https://www.dicts.cn/dictword20181/html/82d6e5335735a5fa7e2c7c31c9e811b6.html?critically
 ** Two
 2. The worst flu season in 15 years has left hundreds of thousands
@@ -770,7 +773,8 @@ But the authorities released few other details, including
 the person's identity and a possible motive.
 *** campus
 https://www.dicts.cn/dictword20181/html/e06ab55a7671736469f7e815d5bfa2a8.html?campus
-*** suspect
+
+*** [#A] suspect
 https://www.dicts.cn/dictword20181/html/9abeeab96ad5d9e275c206d799ebf554.html?suspect
 
 * [[https://www.bilibili.com/video/BV13s98Y2EWr/][读懂英语新闻（第210期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记_哔哩哔哩_bilibili]]
@@ -844,7 +848,7 @@ https://www.bing.com/dict/search?q=strike+a+deal&lq=0&pq=&ghsh=0&ghacc=0&ghpl=
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
 
-** grant
+** [#A] grant
 /graent/ n. 拨款
 
 ** harassment
@@ -984,8 +988,10 @@ https://www.dicts.cn/dictword20181/html/5d431c4c9da0db78baed8e747aed99c4.html?cu
 https://www.dicts.cn/dictword20181/html/8bdf972695b48db350ab15e395b8d6bb.html?mock
 *** get off to a rough start
 https://ludwig.guru/s/off+to+a+rough+start
-*** dog
+
+*** [#A] dog
 [[https://www.bing.com/dict/search?q=dog]]
+
 *** boycott
 https://www.dicts.cn/dictword20181/html/0925893610ba1e18664ff3c7e630ff7c.html?boycott
 ** Two
@@ -1371,8 +1377,10 @@ https://en.wikipedia.org/w/index.php?title=Internal_Revenue_Service&useskin=vect
 
 *** Alcatraz
 https://en.wikipedia.org/w/index.php?title=Alcatraz_Island&useskin=vector
-*** draw
+
+*** [#A] draw
 https://www.dicts.cn/dictword20181/html/ecd0945aec433e9cb67c32aa352cb3b3.html?draw
+
 *** tourist attraction
 https://www.bing.com/dict/search?q=tourist+attraction
 *** ruthless
@@ -4569,3 +4577,12 @@ https://www.dicts.cn/dictword20181/html/85362276bedac9fe3fa52ba043f8ecf2.html?pr
 
 ** Three
 3. The Trump administration is offering undocumented migrants $3,000 and paid travel if they agree to leave the country voluntarily before the end of the year. That's triple the $1,000 payout the government unveiled in May. The move is part of a holiday-season campaign aimed at speeding up deportations.
+
+* [[https://www.youtube.com/watch?v=l7GGgtlTvSY][(34) 一周听力合集（第294期+第295期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第295期新闻精读配套听力练习 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+
+** free and clear
+https://www.bing.com/dict/search?q=free%20and%20clear
