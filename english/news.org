@@ -1468,7 +1468,7 @@ https://www.dicts.cn/dictword20181/html/ae2220a2ed64bf105f4f40716e5d3653.html?ul
 *** resort
 https://www.dicts.cn/dictword20181/html/ba8a010fcd4958736733dacf330e2579.html?resort
 
-*** bar
+*** [#A] bar
 https://www.dicts.cn/dictword20181/html/de1f3011fd620acb0252c9fed1a3a8c7.html?bar
 
 *** turn down
@@ -1565,7 +1565,7 @@ https://en.wikipedia.org/wiki/Vatican_City?useskin=vector
 https://www.dicts.cn/dictword20181/html/364105bf289a953e6dbbe7aac726f777.html?enroll
 *** revoke
 https://www.dicts.cn/dictword20181/html/a7e563aa4ca507e84869cdc518f4e55b.html?revoke
-*** pull
+*** [#A] pull
 https://www.dicts.cn/dictword20181/html/2ae016aa93638fa1068d65834ac5a75f.html?pull
 ** Two
 2. It was a big week for testy exchanges. When South African President Cyril Ramaphosa sat down with Donald Trump on Wednesday, the US president upbraided Ramaphosa over claims of genocide against White Afrikaner farmers — a widely debunked accusation that the US has used to justify ceasing most aid to the country. It was the latest in a series of broadsides and reneged pledges that are fostering ill will toward the US across African countries.
@@ -1625,7 +1625,7 @@ https://www.bing.com/dict/search?q=hand+over&qs=n&form=Z9LH5&sp=-1&lq=0&pq=hand+
 https://www.dicts.cn/dictword20181/html/95be45f6d499915d959a17cb0e94a288.html?embassy
 *** sever
 https://www.dicts.cn/dictword20181/html/168142f6310a85af90b2663b279aa13b.html?sever
-*** cast
+*** [#A] cast
 https://www.dicts.cn/dictword20181/html/2db895f5546b98ced6a818a7f072c273.html?cast
 * [[https://www.bilibili.com/video/BV1bK7kzcEko][读懂英语新闻（第236期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记_哔哩哔哩_bilibili]]
 :PROPERTIES:
@@ -1777,13 +1777,13 @@ https://www.dicts.cn/dictword20181/html/297a5ac03e43b93c0d7cba39d778802f.html?je
 ** One
 1. Israel launched a major attack on Iran. The strikes killed Iran's top three generals, according to Iranian state media, and targeted military bases and nuclear sites across the country. Tehran launched drones at Israel in response. Israel described the strikes as a last resort to keep Iran from acquiring nuclear weapons. Its military said it struck Natanz, Iran's main nuclear enrichment facility. Israel also killed top Iranian generals and scientists. In the hours before and after the strike, the Trump administration distanced itself from the Israeli operation in public statements and private messages to allies.
 
-*** major
+*** [#A] major
 :LOGBOOK:
 - Note taken on [2025-06-16 Mon 09:59] \\
   https://github.com/peng051410/today_i_learn/issues/236
 :END:
 https://www.dicts.cn/dictword20181/html/5d612bbee634d9ce32dd899d8d324bc6.html?major
-*** target
+*** [#A] target
 :LOGBOOK:
 - Note taken on [2025-06-16 Mon 10:00] \\
   https://github.com/peng051410/today_i_learn/issues/237
@@ -1852,7 +1852,7 @@ is now seriously considering sending in American aircraft to help refuel
 Israeli combat jets and to try to take out Iran's nuclear site deep
 underground at Fordo with 30,000-pound bombs.
 
-*** raise
+*** [#A] raise
 https://www.dicts.cn/dictword20181/html/414408a2e72c24acdd6ced10c9c2c7b7.html?raise
 *** profess
 https://www.dicts.cn/dictword20181/html/6e722781592a70e8fef823354ddf63f1.html?profess
@@ -1914,7 +1914,7 @@ https://www.dicts.cn/dictword20181/html/2dec010544497668440ca8015efe7621.html?co
 https://www.dicts.cn/dictword20181/html/fa7286403bdb7a467a53f10d3228c325.html?sour
 *** engage in
 https://www.bing.com/dict/search?q=engage%20in
-*** divide
+*** [#A] divide
 :LOGBOOK:
 - Note taken on [2025-06-24 Tue 09:42] \\
   https://github.com/peng051410/today_i_learn/issues/225
@@ -2047,7 +2047,7 @@ months, a development that "will fundamentally
 change" the Chinese economy, according to Zhu Min, a
 former deputy governor of the People's Bank of China.
        
-*** deputy
+*** [#A] deputy
 :LOGBOOK:
 - Note taken on [2025-06-26 Thu 09:50] \\
   https://www.bing.com/dict/search?q=deputy&lq=0&pq=
@@ -2069,7 +2069,7 @@ https://www.dicts.cn/dictword20181/html/5fe1e12a84349626bf02ab2079019db3.html?co
   https://github.com/peng051410/today_i_learn/issues/253
 :END:
 https://www.dicts.cn/dictword20181/html/4e2429949305627aa57e8464ac0af118.html?dignity
-** attack
+** [#A] attack
 :LOGBOOK:
 - Note taken on [2025-06-27 Fri 09:53] \\
   https://github.com/peng051410/today_i_learn/issues/254
@@ -2148,7 +2148,7 @@ https://www.bing.com/dict/search?q=hang%20out
 1. The Senate muscled through Trump's big policy bill
 Senate Republicans managed to secure exactly enough votes today to pass the party's marquee bill to slash taxes and social safety net programs. The legislation, which was designed to deliver on President Trump's agenda, passed with a 51- to-50 margin after Vice President JD Vance cast the tiebreaking vote. The bill now heads to the House, where it still must pass before becoming law. Yale University economists forecast that the bill will cost the bottom 20% of taxpayers an average of $560 a year while giving a boost of $6,055 to those at the top end.
 
-*** secure
+*** [#A] secure
 :LOGBOOK:
 - Note taken on [2025-07-03 Thu 09:45] \\
   https://github.com/peng051410/today_i_learn/issues/258
@@ -2243,7 +2243,7 @@ https://www.dicts.cn/dictword20181/html/b3fa1ea91efb53bb05b814f24f804433.html?mo
 :END:
 ** rat
 https://www.dicts.cn/dictword20181/html/f09937863c7a03e807271c2dc3d28c8c.html?rat
-** refugee
+** [#A] refugee
 https://www.dicts.cn/dictword20181/html/cd50b5efe629142a523c8bfd4507778c.html?refugee
 ** work out
 https://www.bing.com/dict/search?q=work%20out
@@ -2398,7 +2398,7 @@ https://www.dicts.cn/dictword20181/html/b3e8075b6c4b8f43f8913865b20cb5d6.html?re
 https://www.bing.com/dict/search?q=ground%20beef
 *** year-over-year
 https://www.bing.com/dict/search?q=year-over-year&qs=n&form=Z9LH5&sp=-1&lq=0&pq=year-over-year&sc=0-14&sk=&cvid=C1A5201FFD4A4FC9B6F43D2A91277AE2
-*** per
+*** [#A] per
 :LOGBOOK:
 - Note taken on [2025-07-22 Tue 09:31] \\
   https://github.com/peng051410/today_i_learn/issues/261
@@ -2484,7 +2484,7 @@ https://www.bing.com/dict/search?q=aside%20from
 1. The White House will release $5.5 billion for schools
 The Trump administration announced today that it would release $5.5 billion in frozen education funds, after an unexpected delay sent school districts around the country scrounging for the lost dollars before the new school year begins. The money was part of nearly $7 billion in education funding that had been approved by Congress and was set to be released on July 1. It included funds to help train and recruit teachers, particularly in low-income areas. It also included money for arts and music education in low-income districts, help for children learning English and support for children of migrant farmworkers.
 
-*** district
+*** [#A] district
 :LOGBOOK:
 - Note taken on [2025-07-29 Tue 09:55] \\
   https://github.com/peng051410/today_i_learn/issues/266
@@ -2613,7 +2613,7 @@ The Trump administration's human resources division said today that about 154,00
 *** amount to
 https://www.bing.com/dict/search?q=amount%20to
 
-*** represent
+*** [#A] represent
 https://www.dicts.cn/dictword20181/html/50cb8f3066f551e0052532a8a7bbaf9b.html?represent
 
 *** tally
@@ -2673,7 +2673,7 @@ https://www.dicts.cn/dictword20181/html/4b9eab23a4784f3a9d706ad430512d50.html?ta
 *** strick down
 https://www.bing.com/dict/search?q=strike+down&qpvt=struck+down
 
-*** stake
+*** [#A] stake
 https://www.dicts.cn/dictword20181/html/64a5d834c31810e05bb5a2c32b7dc523.html?stake
 
 *** ouster
@@ -2711,7 +2711,7 @@ https://www.dicts.cn/dictword20181/html/23d8d2aded621f036f9ed824694aa282.html?ce
 *** narrow margin
 https://www.bing.com/dict/search?q=narrow%20margin
 
-*** house
+*** [#A] house
 :LOGBOOK:
 - Note taken on [2025-08-11 Mon 09:32] \\
   https://github.com/peng051410/today_i_learn/issues/55
@@ -3156,14 +3156,14 @@ The family of the media mogul Rupert Murdoch announced today that the eldest son
 *** succession
 https://www.dicts.cn/dictword20181/html/42e21fc78e774c0bb1613e35d0e18cdb.html?succession
 
-*** secure
+*** [#A] secure
 :LOGBOOK:
 - Note taken on [2025-09-15 Mon 10:22] \\
   https://github.com/peng051410/today_i_learn/issues/258
 :END:
 https://www.dicts.cn/dictword20181/html/a7dcc8c825c47387ace525c537b3eff6.html?secur
 
-*** conservative
+*** [#A] conservative
 :LOGBOOK:
 - Note taken on [2025-09-15 Mon 10:23] \\
   https://github.com/peng051410/today_i_learn/issues/280
@@ -3185,7 +3185,7 @@ https://www.bing.com/dict/search?q=roll+back&qs=n&form=Z9LH5&sp=-1&lq=0&pq=roll+
 ** Three
 3. The reading skills of American high school seniors are the worst they have been since 1992, according to the nation's gold-standard exam. About a third of the 12th-graders who were tested last year did not have basic reading skills. In math, nearly half of the test takers scored below the basic level, the worst performance since 2005.
 
-*** senior
+*** [#A] senior
 https://www.dicts.cn/dictword20181/html/9094a107af8bce0079093c8dd0397731.html?senior
 
 
@@ -3248,7 +3248,7 @@ https://www.dicts.cn/dictword20181/html/e62f72f4a770973f5119dd031f612249.html?ba
 *** Luigi Mangione
 https://en.wikipedia.org/wiki/Luigi_Mangione?useskin=vector
 
-*** commit
+*** [#A] commit
 :LOGBOOK:
 - Note taken on [2025-09-25 Thu 09:37] \\
   https://github.com/peng051410/today_i_learn/issues/281
@@ -3352,7 +3352,7 @@ Ukraine could regain all of its territory lost to Russia.
 *** United Nations General Assembly
 https://en.wikipedia.org/wiki/United_Nations_General_Assembly?useskin=vector
 
-*** air
+*** [#A] air
 :LOGBOOK:
 - Note taken on [2025-10-11 Sat 09:27] \\
   https://github.com/peng051410/today_i_learn/issues/142
@@ -3402,7 +3402,7 @@ https://www.dicts.cn/dictword20181/html/f7d20116266c15ac0d0d6b7031758ace.html?na
 *** FTC
 https://en.wikipedia.org/wiki/Federal_Trade_Commission?useskin=vector
 
-*** civil
+*** [#A] civil
 :LOGBOOK:
 - Note taken on [2025-10-14 Tue 10:08] \\
   https://github.com/peng051410/today_i_learn/issues/284
@@ -3511,7 +3511,7 @@ A 55-minute interview with the revered conservationist Jane Goodall was released
 *** Jane Goodall
 https://en.wikipedia.org/wiki/Jane_Goodall?useskin=vector
 
-*** interview
+*** [#A] interview
 https://www.dicts.cn/dictword20181/html/64c5d85f283c2903daf41d6310562285.html?interview
 
 *** late-in-life
@@ -3579,7 +3579,7 @@ https://www.dicts.cn/dictword20181/html/fa2a455b1022737bcb07478f99ed04fe.html?co
 3. Gold futures rise above $4,000 per ounce for the first time
 Gold futures soared above $4,000 per troy ounce for the first time Tuesday, as many investors seek a safe place to park their money during the continuing U.S. government shutdown. Gold futures are up about 50% since the start of 2025.
 
-*** park
+*** [#A] park
 :LOGBOOK:
 - Note taken on [2025-10-23 Thu 09:44] \\
   https://github.com/peng051410/today_i_learn/issues/286
@@ -3807,7 +3807,7 @@ https://www.bing.com/dict/search?q=plastic%20surgery
   https://github.com/peng051410/today_i_learn/issues/293
 :END:
 https://www.dicts.cn/dictword20181/html/50e135c6f7b59a6ab4c66aabc22bb021.html?subtle
-*** volume
+*** [#A] volume
 :LOGBOOK:
 - Note taken on [2025-11-06 Thu 09:45] \\
   https://github.com/peng051410/today_i_learn/issues/294
@@ -3828,7 +3828,7 @@ https://www.bing.com/dict/search?q=aircraft%20carrier
   https://github.com/peng051410/today_i_learn/issues/295
 :END:
 https://www.dicts.cn/dictword20181/html/299422e94bef9b753a8edda7a6f943ed.html?summary
-*** sanction
+*** [#A] sanction
 :LOGBOOK:
 - Note taken on [2025-11-11 Tue 09:55] \\
   https://github.com/peng051410/today_i_learn/issues/298
@@ -3944,7 +3944,7 @@ https://www.dicts.cn/dictword20181/html/57b3a584f5be3c7bbda64a854a7a33ab.html?pr
 *** portfolio
 https://www.dicts.cn/dictword20181/html/dc2e4131929aeca25729778f8d3ff368.html?portfolio
 
-*** impact
+*** [#A] impact
 :LOGBOOK:
 - Note taken on [2025-11-14 Fri 10:11] \\
   https://github.com/peng051410/today_i_learn/issues/301
@@ -3960,7 +3960,7 @@ https://www.dicts.cn/dictword20181/html/3b669ef7917f82fc11c036699daa3635.html?en
 *** Venezuela
 https://en.wikipedia.org/wiki/Venezuela?useskin=vector
 
-*** press
+*** [#A] press
 :LOGBOOK:
 - Note taken on [2025-11-14 Fri 10:03] \\
   https://github.com/peng051410/today_i_learn/issues?q=press
@@ -3969,7 +3969,7 @@ https://www.dicts.cn/dictword20181/html/cf79ef47e1e73135f304c4be0f1d3f1d.html?pr
 ** Three
 3. Apple is preparing a low-cost laptop aimed at luring away customers from Chromebooks and entry-level Windows PCs. The budget Mac, code-named J700, is said to be in active testing, with Apple planning its launch in the first half of next year. The cheaper device will target people who primarily browse the web, work on documents or conduct light media editing. Apple is also targeting would-be iPad buyers who might prefer a traditional laptop experience instead.
 
-*** budget
+*** [#A] budget
 :LOGBOOK:
 - Note taken on [2025-11-14 Fri 09:57] \\
   https://github.com/peng051410/today_i_learn/issues/299
@@ -4036,7 +4036,7 @@ https://www.dicts.cn/dictword20181/html/75646d20500942af181b2f58fc68b1c4.html?er
 :END:
 ** get rid of
 https://www.bing.com/dict/search?q=get+rid+of&FORM=HDRSC6
-** spot
+** [#A] spot
 :LOGBOOK:
 - Note taken on [2025-11-21 Fri 09:26] \\
   https://github.com/peng051410/today_i_learn/issues/303
@@ -4205,7 +4205,7 @@ https://www.dicts.cn/dictword20181/html/3187a87b14431f9d68aff9e598223d2f.html?cr
   https://github.com/peng051410/today_i_learn/issues/307
 :END:
 https://www.dicts.cn/dictword20181/html/5e553df1382037741e55546964a913ef.html?outline
-*** measure
+*** [#A] measure
 :LOGBOOK:
 - Note taken on [2025-12-05 Fri 09:31] \\
   https://github.com/peng051410/today_i_learn/issues/208
