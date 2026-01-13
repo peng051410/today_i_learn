@@ -4661,13 +4661,11 @@ https://www.bing.com/dict/search?q=line%20up
 :PROPERTIES:
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
-
-
+        
 * [[https://www.youtube.com/watch?v=VZShdgXeS-8][(41) 读懂英语新闻（第298期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
 :PROPERTIES:
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
-
 
 ** One
 1. President Donald Trump announced that Americans were going to run Venezuela "until such time as we can do a safe, proper and judicious transition", after the overnight capture of the president, Nicolás Maduro, in Caracas. Mr Trump also said that American oil companies would go into the country, an arrangement that would both benefit Venezuelans and compensate America so that the intervention "won't cost us anything". Meanwhile Mr Maduro arrived in New York, where he has been indicted for drug-trafficking and supporting terrorism.
@@ -4695,6 +4693,96 @@ https://www.dicts.cn/dictword20181/html/2ee5d72fb7436af7c8d80fa995dcce60.html?co
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
 
-
 ** insane
 https://www.dicts.cn/dictword20181/html/300cfe162296d150a4cecd5d85436914.html?insane
+
+* [[https://www.bilibili.com/video/BV1PHiXB1E5U/][读懂英语新闻（第299期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记_哔哩哔哩_bilibili]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+** One
+1. The White House said it was considering "a range of options" to acquire Greenland and that using military force is "always an option". Since its intervention in Venezuela the Trump administration has set its sights on the self-governing Arctic territory, which is part of Denmark. The statement was given to Reuters hours after European countries backed Denmark's prime minister, Mette Frederiksen, in standing up for Greenland.
+
+*** [#A] acquire
+https://www.dicts.cn/dictword20181/html/bacd60be88a23f4fc6e2409707a2bef1.html?acquire
+
+*** Denmark
+https://en.wikipedia.org/wiki/Denmark?useskin=vector
+
+*** stand up
+https://www.bing.com/dict/search?q=stand+up&lq=0&pq=
+
+** Two
+2. Nvidia shares are down about 8% since hitting a record on Oct. 29, well underperforming the S&P 500 Index as investors grow concerned about the sustainability of artificial intelligence spending and the chip giant's grip on the market. Meanwhile, the chipmaker is facing more competition than ever from rivals like AMD as well as its biggest clients, including Alphabet and Amazon.
+*** grip
+https://www.dicts.cn/dictword20181/html/619d71106e28047c9b76da6a23a92484.html?grip
+
+** Three
+3. At the CES tech show in Las Vegas, Lego debuted Smart Bricks, billed as Lego's biggest innovation since the first minifigure in 1978 — 48 years ago. Kids can play "without any need for screens. In short, they are LEGO bricks that play back." The new bricks contain sensors that enable them to sense light and distance, and to provide an array of responses, essentially lights and sounds, AP notes. Preorders begin Friday. The bricks ship March 1.
+
+*** brick
+https://www.dicts.cn/dictword20181/html/dbd5032ba02584af07166bff11405ec0.html?brick
+
+*** sensor
+https://www.dicts.cn/dictword20181/html/987f5c1111bb43340a491e652479f604.html?sensor
+
+*** [#A] array
+https://www.dicts.cn/dictword20181/html/3d00921b4460385cdca7e3e02d19e0e7.html?array
+
+* [[https://www.youtube.com/watch?v=EmQrHwjF03s][(47) 一周听力合集（第298期+第299期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第299期新闻精读配套听力练习 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+
+** intelligence
+https://www.dicts.cn/dictword20181/html/32799e4a1dc2e0e78c77c1bd5ea86e22.html?intelligence
+
+** heap up
+https://www.bing.com/dict/search?q=heap+up&go=Search
+
+** lofty
+https://www.dicts.cn/dictword20181/html/219da1c225185bb9c96b43ecc0ffd904.html?lofty
+
+* [[https://www.youtube.com/watch?v=U3p72YwUS2Q][(49) 读懂英语新闻（第300期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+
+** One
+1. Protests sweeping across Iran near the two-week mark today. With the internet down in Iran and phone lines cut off, gauging the demonstrations from abroad has grown more difficult. But the death toll in the protests has grown to at least 65 people killed and over 2,300 others detained, according to the U.S.-based Human Rights Activists News Agency. Supreme Leader Ayatollah Ali Khamenei has signaled a coming clampdown despite U.S. warnings.
+
+*** gauge
+https://www.dicts.cn/dictword20181/html/f6005f345d06e157d14d199b0b6f3fb2.html?gauge
+
+** Two
+2. President Trump hosted top oil executives at the White House yesterday and urged them to invest $100 billion in Venezuela, which he suggested the U.S. may "run" for years. ExxonMobil CEO Darren Woods was blunt: "We've had our assets seized there twice. And so you can imagine to reenter a third time would require some pretty significant changes. Today, it's uninvestable."
+
+*** ExxonMobil
+https://en.wikipedia.org/wiki/ExxonMobil
+
+*** blunt
+https://www.dicts.cn/dictword20181/html/97a1ef127703c2f9ab70acc3cd1bf23e.html?blunt
+
+*** seize
+https://www.dicts.cn/dictword20181/html/d65a92028b18a1d8b4805110ed881c59.html?seize
+
+** Three
+3. A drug marketed as "pink cocaine" is turning up more often in U.S. nightclubs and busts. No two batches are the same. The potent powder is a dangerous cocktail of drugs, commonly ketamine and ecstasy, sometimes mixed with methamphetamine or fentanyl. That unpredictability sharply raises the risk of overdose." There is no antidote for pink cocaine," says Kaitlyn Brown, clinical managing director for America's Poison Centers. "All responders can do is support the patient while the drugs clear their system. "
+
+*** turn up
+https://www.bing.com/dict/search?q=turn%20up
+
+*** bust
+https://www.dicts.cn/dictword20181/html/0b84d42c105d1a16d632941c7893516a.html?bust
+
+*** batch
+https://www.dicts.cn/dictword20181/html/8d364b5389d6305bf6cc4b5ed566e9f6.html?batch
+
+*** potent
+https://www.dicts.cn/dictword20181/html/e5c284ad340c3695b0f5041f74a9ec4b.html?potent
+
+*** antidote
+https://www.dicts.cn/dictword20181/html/9bc8a446622be79358f0e6bf16f99d74.html?antidote
