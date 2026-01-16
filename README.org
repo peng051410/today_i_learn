@@ -540,6 +540,11 @@ Use org-copy-visiable
                 (lambda () (interactive)
                   (imenu--menubar-select imenu--rescan-item)))
 #+END_SRC
+** org repeated task 
+#+begin_src sh
+org-clone-subtree-with-time-shift
+#+end_src
+C-c C-x c 
 
 
 * Org hugo add shortcode
@@ -1245,6 +1250,15 @@ https://stackoverflow.com/questions/57790483/where-is-redis-installed-on-macos
 ** Read rdb file with hunman readability
 #+begin_src sh
 od -A x -t x1c -v dump.rdb
+#+end_src
+
+** Show origin content
+:LOGBOOK:
+- Note taken on [2026-01-13 Tue 16:19] \\
+  https://www.perplexity.ai/search/redisshi-yong-ming-ling-she-zh-7KuFfjWjTGqEolGt3NsGcw#1
+:END:
+#+begin_src sh
+redis-cli --raw
 #+end_src
 * Nginx
 
