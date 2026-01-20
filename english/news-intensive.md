@@ -1,12 +1,13 @@
 
 # Table of Contents
 
--   [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgbed8f5a)
--   [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org92d38b3)
+-   [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org2460421)
+-   [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgf3cd1ee)
+-   [(52) 一周英语新闻精学（第3期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org665c72c)
 
 
 
-<a id="orgbed8f5a"></a>
+<a id="org2460421"></a>
 
 # [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=GvqIuDE2Vlc)
 
@@ -71,7 +72,7 @@
 <https://www.dicts.cn/dictword20181/html/9f9627a538428ef9e326d0822f18a5fe.html?horizon>
 
 
-<a id="org92d38b3"></a>
+<a id="orgf3cd1ee"></a>
 
 # [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=XTxFYQHuwQg&t=580s)
 
@@ -149,4 +150,106 @@
 ### out of step
 
 <https://www.bing.com/dict/search?q=out%20of%20step>
+
+
+<a id="org665c72c"></a>
+
+# [(52) 一周英语新闻精学（第3期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=-opUKYtSj9g)
+
+
+## One
+
+1.  Han Kang was awarded the Nobel Prize in Literature
+
+The Swedish Academy announced today that it had awarded this year's Nobel Prize in Literature to the South Korean author Han Kang. She is best known for her surreal, subversive novel "The Vegetarian," and she is the first writer from her country to receive the award. The prize's organizer said that Han received the honor "for her intense poetic prose that confronts historical traumas and exposes the fragility of human life."
+
+
+### literature
+
+<https://www.dicts.cn/dictword20181/html/10161a7632fce11daeca710ee78f6037.html?literature>
+
+
+### Swedish Academy
+
+<https://en.wikipedia.org/wiki/Swedish_Academy?useskin=vector>
+
+
+### confront
+
+<https://www.dicts.cn/dictword20181/html/05736a228cee58ff382dd364c95277a6.html?confront>
+
+
+## Two
+
+1.  The Nobel committee has put the spotlight back on global inequalities. Bestowing its prestigious economics prize on Daron Acemoglu, Simon Johnson and James A. Robinson is a reminder that income disparities among and within nations are just as important as climate change, the Al "revolution" and ageing societies. It is a much-needed wake-up call. The wealthiest 20% of the world's countries are now around 30 times richer than the poorest 20%, the Royal Swedish Academy of Sciences noted. And the gap is persisting even though poor countries have become richer.
+
+
+### bestow
+
+<https://www.dicts.cn/dictword20181/html/ed939e1682167ca75d029b3eb8f5ba33.html?bestow>
+
+
+### prestigious
+
+<https://www.dicts.cn/dictword20181/html/9d406b2bd8ad234e1822388017a91a17.html?prestigious>
+
+
+### disparate
+
+<https://www.dicts.cn/dictword20181/html/1145d8f51d1102b6f375074f1fed4b92.html?disparate>
+
+
+### wake-up call
+
+<https://www.bing.com/dict/search?q=wake-up%20call>
+
+
+## Three
+
+1.  Elon Musk's SpaceX achieved a significant milestone on Sunday by catching the massive booster stage from its Starship rocket in a pair of robotic arms as it fell back to the company's launchpad in southern Texas. It is the first time SpaceX has attempted the bold manoeuvre, one it sees as crucial to its goal of developing fully reusable rockets capable of ferrying humans, scientific equipment and supplies to the moon and onwards to Mars.
+
+
+### Texas
+
+<https://en.wikipedia.org/wiki/Texas?useskin=vector>
+
+
+### manoeuvre
+
+<https://www.dicts.cn/dictword20181/html/5216225ad56b776fdf815b9b4796d593.html?manoeuvre>
+
+
+### ferry
+
+<https://www.dicts.cn/dictword20181/html/5658c4c379e88fc7526a19869609f7b9.html?ferry>
+
+
+### onward
+
+<https://www.dicts.cn/dictword20181/html/35b2fd65dcab5816b7fe2c7c010b15a4.html?onward>
+
+
+## Four
+
+4, Rafael Nadal, the 38-year-old Spanish tennis legend, released a video today to announce that he would retire after next month's Davis Cup. He is widely considered to be one of the greatest tennis players of all time. Nadal won 22 Grand Slam titles and was by far the most dominant clay-court player ever.
+
+
+### Davis Cup
+
+<https://en.wikipedia.org/wiki/Davis_Cup?useskin=vector>
+
+
+### Grand Slam
+
+<https://en.wikipedia.org/wiki/Grand_Slam_(tennis)?useskin=vector>
+
+
+### clay-court
+
+<https://www.bing.com/dict/search?q=clay-court>
+
+
+### by far
+
+<https://www.bing.com/dict/search?q=by+far&lq=0&pq>=
 
