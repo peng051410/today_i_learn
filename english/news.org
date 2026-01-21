@@ -4799,7 +4799,6 @@ https://www.dicts.cn/dictword20181/html/0b84d42c105d1a16d632941c7893516a.html?bu
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
 
-
 ** One
 1. Trump threatens to use brute force to lower prices
 With many Americans frustrated over the high cost of living, the president has embraced a strategy of brute force. He has pressured the Federal Reserve in an effort to make mortgages more attractive, demanded credit card companies lower their fees and lashed out at businesses over high costs, among other threats. Consumer prices were 2.7 percent higher than a year ago, according to the latest data, and food prices climbed sharply last month.
@@ -4828,6 +4827,30 @@ https://www.dicts.cn/dictword20181/html/31c70222fa13dbc17000c6c324ddd220.html?pr
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
 
-
 ** fist
 https://www.dicts.cn/dictword20181/html/d3818eae2938c4a0400daba891818f78.html?fist
+
+* [[https://www.bilibili.com/video/BV15GkaBXEpt][读懂英语新闻（第302期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记_哔哩哔哩_bilibili]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+
+** One
+1. What's the best activity for longevity?
+Research has repeatedly shown that regular exercise is one of the most effective ways to lengthen your life. Even just a few minutes a day has real benefits. However, some activities seem to come with extra benefits. In particular, tennis has been linked with longevity. One study found that tennis players lived almost 10 years longer than their sedentary peers — and longer than soccer players, cyclists and swimmers. That may be because tennis is a full-body workout that often involves socializing and can be played later in life.
+
+*** longevity
+https://www.dicts.cn/dictword20181/html/e291106ed285bcc652fe84de0e883fe1.html?longevity
+
+** Two
+2. Venezuelan opposition leader María Corina Machado said she "presented" President Trump with her Nobel Peace Prize during an Oval Office meeting yesterday. Trump, who has publicly campaigned for the prize, wrote on Truth Social: "María presented me with her Nobel Peace Prize for the work I have done. Such a wonderful gesture of mutual respect."
+
+*** mutual
+https://www.dicts.cn/dictword20181/html/fc64263140871358a7e9c55f8bc57904.html?mutual
+
+** Three
+3. Donald Trump announced that he would impose escalating tarifis on Denmark and other European countries, including Britain, France and Germany, that fail to support his bid to purchase Greenland. Writing on his Truth Social platform, he threatened a 10% levy on all goods starting on February 1st, increasing to 25% on June 1st. His threats followed mass protests in Denmark and Greenland in response to America's push to acquire the Arctic territory.
+
+*** Arctic
+https://en.wikipedia.org/wiki/Arctic?useskin=vector
