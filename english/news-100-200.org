@@ -1,0 +1,470 @@
+#+OPTIONS: toc:1 ^:nil ~:nil num:nil reveal_title_slide:nil timestamp:nil
+#+FILETAGS: ANKI
+#+STARTUP: indent
+#+ANKI_DECK: English
+
+* [[https://www.youtube.com/watch?v=DFZRg8z_AJg][(10) 读懂英语新闻（第186期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** One
+1, Judges rejected TikTok's effort to avoid a U.S. ban TikTok, a video app used by more than 170 million Americans, moved one step closer today to disappearing from the U.S. market. A panel of federal judges unanimously upheld a new law that requires the app's Chinese owner to either sell TikTok to a non-Chinese owner by mid-January or face a nationwide ban in the U.S. While Donald Trump has promised to save the app, the law is set to go into effect the day before his inauguration and it's unclear how he could evade an act of Congress and whether he wants to risk much political capital on this given his hawkish stance on China.
+
+*** uphold
+https://www.dicts.cn/dictword20181/html/989df1761b1b75533204b66f97db2cfc.html?uphold
+*** inauguration
+https://www.dicts.cn/dictword20181/html/9750f77fcc333d0063e48dc4a46a7dab.html?inauguration
+*** evade
+https://www.dicts.cn/dictword20181/html/229c6d84081dfac701273bd8616fe3f6.html?evade
+** Two
+2. N.Y.P.D. said the shooting suspect may have left the city New York's police commissioner said today that the man who fatally shot a health insurance executive in Midtown Manhattan might have left the city. The authorities said they have video of the man taking a cab to an interstate bus station in Upper Manhattan and entering it on the day of the attack, but never exiting. So far, there have been no arrests and the authorities have not established a motive.
+
+*** NYPD
+:LOGBOOK:
+- Note taken on [2024-12-11 Wed 09:51] \\
+  纽约市警察局（NYPD）是美国最大的市警局，下设多个部门，负责维护纽约市治安。
+:END:
+https://en.wikipedia.org/w/index.php?title=New_York_City_Police_Department&useskin=vector
+*** Manhattan
+https://en.wikipedia.org/wiki/Manhattan?useskin=vector
+*** interstate
+https://en.wikipedia.org/w/index.php?title=Interstate_Highway_System&useskin=vector
+
+https://www.dicts.cn/dictword20181/html/c0e3157f58d94568d3ad6590ef88c905.html?interstate
+* [[https://www.youtube.com/watch?v=46AovK1-eX4][(10) 读懂英语新闻（第187期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+** One
+1. Suspect in C.E.O. killing is fighting extradition
+The 26-year-old man who was charged with murder in the assassination of a health insurance executive in Midtown Manhattan was denied bail today. Mangione saw himself as a hero fighting a corrupt health insurance industry, the authorities said in an internal report obtained by The Times. The police also expressed concern that the attack could inspire violence against similar executives or other extreme behavior. Here's what we know about the suspect: Mangione was a high school valedictorian and an Ivy League tech graduate from a prominent Maryland family. The subject of a missing-person report filed in San Francisco by his mother last month, he had stopped communicating with friends and family about six months ago.
+
+*** extradition
+https://en.wikipedia.org/wiki/Extradition?useskin=vector
+
+引渡是一个复杂的问题，涉及主权、司法合作和人权等多方面因素。
+*** bail
+https://www.dicts.cn/dictword20181/html/b2968cb6e96623280f4a9d8b49a7546b.html?bail
+*** Ivy League
+https://en.wikipedia.org/wiki/Ivy_League?useskin=vector
+
+常春藤联盟（Ivy League）是美国东北部八所私立研究型大学组成的大学体育联盟，也是全球知名的精英大学联盟，以其学术卓越、录取率极低以及社会精英地位而闻名。
+** Two
+2. Hundreds of firefighters are racing to control a fast-moving Southern California wildfire that's threatening the wealthy town of Malibu and has forced the evacuation of thousands of residents. The Franklin fire has swelled to more than 2,700 acres and remained completely out of control as of Tuesday afternoon.
+
+*** Malibu
+:LOGBOOK:
+- Note taken on [2024-12-12 Thu 10:03] \\
+  马里布独特的地理位置、气候条件和历史文化，使其成为一个备受瞩目的海滨城市，但同时也面临着自然灾害和环境保护等方面的挑战。
+:END:
+https://en.wikipedia.org/wiki/Malibu%2C_California?useskin=vector
+
+*** evacuation
+https://www.dicts.cn/dictword20181/html/7cdd8f0f5734b59e602a41fe86175a51.html?evacuation
+
+** Three
+3. Syrian rebels rushed to impose order in Damascus after Bashar al-Assad's regime collapsed over the weekend. Leader Abu Mohammed al-Jawlani moved to form a transitional government, get the buses running and turn the power back on. Many foreign countries, including the U.S., classify his group as a terrorist organization.
+
+*** [#A] rebel
+https://www.dicts.cn/dictword20181/html/943d697a82b0197f2cf4a6063218f1cc.html?rebel
+
+*** rush to
+https://dictionary.cambridge.org/dictionary/english/rush
+*** regime
+https://www.dicts.cn/dictword20181/html/63c5693d1234e8452cf3681d876706cf.html?regime
+*** move to
+https://www.merriam-webster.com/dictionary/move%20to
+
+* [[https://www.youtube.com/watch?v=zrmOoQ8bwBw][(12) 读懂英语新闻（第188期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** One
+1. Trump had his perfect 1980s day. He rang the bell to open the stock exchange and was named Person of the Year by Time magazine. Trump, speaking with Time, pledged to start pardoning Jan. 6 rioters once he enters office. He sounded open to banning some childhood vaccines and reversing protections for transgender kids. During the campaign, Trump said he'd lower grocery prices. Yesterday, he told Time that "it's hard to bring things down once they're up," but he added that he was still hopeful.
+
+*** pardon
+https://www.dicts.cn/dictword20181/html/85220aa4f9c05244644b05582ec1136d.html?pardon
+*** rioter
+https://www.dicts.cn/dictword20181/html/9484d9d841e0df3024a750062075561e.html?rioter
+*** it's hard to bring things down once they're up
+** Two
+2. Lisa Su - chief executive of chipmaker AMD — is TIME's " CEO of the Year." AMD's stock price has increased 50x since Su took over a decade ago, fueled by Al - as well as smart planning that put the company in a position to benefit when some of its rivals, like Intel, have faltered. "It really is one of the great turnaround stories of modern American business history," Chris Miller, a historian of the semiconductor industry, told TIME.
+
+*** falter
+https://www.dicts.cn/dictword20181/html/cb117eba831e03c6c0c0737250a885cf.html?falter
+** Three
+3. The NYPD is investigating a number of 'WANTED' posters of senior executives that are showing up in parts of Manhattan. They included images of UnitedHealth's Brian Thompson, who was murdered last week, as well as executives from American Express, Goldman Sachs, Bank of America and JPMorgan Chase. The arrest of Luigi Mangione this week has failed to fill in some key details of Thompson's killing, while dark glee over the murder is stoking fear among insurers about copycats.
+
+*** poster
+https://en.wikipedia.org/wiki/Wanted_poster?useskin=vector
+*** fill in
+https://www.bing.com/dict/search?q=fill%20in
+*** glee
+https://www.dicts.cn/dictword20181/html/26c4d110ea2fe58dc4ea910d2fddae86.html?glee
+*** stoke
+https://www.dicts.cn/dictword20181/html/0ed4f4b78b9f510d92ee35b57826ee9a.html?stoke
+*** copycat
+https://www.dicts.cn/dictword20181/html/01082bf951b1606a60cc68b82c4e6ea4.html?copycat
+** Four
+1. Extreme weather this year across chili planting regions from Mexico to India has sapped supply, pushed up prices and-worst of all-distorted their flavor. The perfect growing conditions for chili peppers and other crops are becoming harder to find as climate change increases the frequency of weather extremes such as drought and floods, according to researchers. Some suppliers are under pressure and chefs will soon be forced to innovate.
+
+*** chili
+https://www.dicts.cn/dictword20181/html/445eef9240b6e8d4e3ff6b0c0ebd6538.html?chili
+*** sap
+https://www.dicts.cn/dictword20181/html/533238291a2d9da6fe24026d0ab1eed7.html?sap
+*** flavor
+https://www.dicts.cn/dictword20181/html/239912541da6d31b48cadb3c5443cf11.html?flavor
+*** drought
+https://www.dicts.cn/dictword20181/html/31525edc0f83746564600e3570dcf834.html?drought
+*** chef
+https://www.dicts.cn/dictword20181/html/7d8ba6ebb64b009730594b4ecbea4c84.html?chef
+* [[https://www.youtube.com/watch?v=0V-erwAAzeM][(13) 读懂英语新闻（第189期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+:LOGBOOK:
+- Note taken on [2025-06-25 Wed 09:53] \\
+  [[https://www.youtube.com/watch?v=UzzqHPzyrCo][(13) 听懂英语新闻｜一周英语新闻听力｜纯正美音｜听力练习合集｜听新闻学英语｜单词轻松记｜一起读懂美国新闻｜听力跟读版｜第188期+第189期｜外刊精听｜(2024.12.12—12.18) - YouTube]]
+:END:
+** One
+1. Madison mourned after a school shooting
+A makeshift memorial grew on a sidewalk outside a Christian school in Madison, Wis., where a teenage student fatally shot a teacher and a fellow student yesterday. Police identified the shooter as Natalie Rupnow, a 15-year-old student who died from what appeared to be a self-inflicted gunshot wound. Much is still unknown about the attack.
+
+*** Madison
+https://en.wikipedia.org/wiki/Madison,_Wisconsin?useskin=vector
+*** mourn
+https://www.dicts.cn/dictword20181/html/8299d11f09eca98fe03b27d4bffe01b6.html?mourn
+*** makeshift
+:LOGBOOK:
+- Note taken on [2025-06-25 Wed 09:40] \\
+  https://www.dicts.cn/dictword20181/html/6a7b4fb01a458ab97ef70f192aec3011.html?makeshift
+:END:
+https://en.wiktionary.org/wiki/makeshift
+*** fellow student
+https://www.bing.com/dict/search?q=fellow%20student
+** Two
+2. Mangione Faces First-Degree Murder Charge That Brands Him a Terrorist
+A grand jury formally indicted Luigi Mangione in the killing of Brian Thompson, the chief executive of UnitedHealthcare. "This was a frightening, well-planned, targeted murder that was intended to cause shock and attention and intimidation, " said Alvin L. Bragg, the Manhattan district attorney, at a news conference on Tuesday. A lawyer for Mr. Mangione, Karen Friedman Agnifilo, declined to comment on the new charges. If convicted on the highest charges, Mr. Mangione faces a sentence of life in prison without parole.
+
+*** brand
+https://www.dicts.cn/dictword20181/html/4c9cd049681abeb1aa4bcdddbd8a0537.html?brand
+*** indict
+https://www.dicts.cn/dictword20181/html/0de29f06899f34e3dc92d2dbfef0032e.html?indict
+*** intimidation
+https://www.dicts.cn/dictword20181/html/22471f08fae98218f73617e7e599bc63.html?intimidate
+
+*** [#A] declined
+  https://www.dicts.cn/dictword20181/html/fe911eb0a594a4f847ef6f0548db4270.html?decline
+
+*** parole
+:LOGBOOK:
+- Note taken on [2025-06-25 Wed 09:38] \\
+  https://www.dicts.cn/dictword20181/html/3beac348a0aec4b349c19fe5b8eb62e8.html?parole
+:END:
+https://en.wikipedia.org/wiki/Parole?useskin=vector
+
+** Three
+3. A Russian general was killed today by a bomb on a Moscow street. Ukraine claimed responsibility for what appears to be one of the most brazen assassinations since Russia's full-scale invasion nearly three years ago. Yesterday, Kyiv had blamed him for the "massive use of banned chemical weapons" in Ukraine.
+
+*** what appears to be
+https://www.bing.com/dict/search?q=what%20appears%20to%20be
+*** brazen
+:LOGBOOK:
+- Note taken on [2024-12-25 Wed 09:53] \\
+  https://www.dicts.cn/dictword20181/html/73cd04c35219dfdd2975c5c74bde97b6.html?brazen
+:END:
+
+*** full-scale
+https://www.bing.com/dict/search?q=full-scale
+*** Kyiv
+https://en.wikipedia.org/wiki/Kyiv?useskin=vector
+
+* [[https://www.youtube.com/watch?v=xv5OLy8J5wU][(15) 读懂英语新闻（第190期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+** One
+1. A driver plowed a vehicle into a Christmas market in the city of
+Magdeburg in central Germany this evening, killing at least two
+people and injuring more than 65 others, 14 of them severely. The
+driver, identified as a 50-year-old Saudi Arabian citizen, was
+arrested, the authorities said. They said they believe it was a
+deliberate attack. More than 1,000 Christmas markets pop up every
+year in Germany, and have been targeted by terrorists before.
+*** plow into
+https://www.bing.com/dict/search?q=plow%20into
+
+*** Magdeburg
+https://en.wikipedia.org/wiki/Magdeburg?useskin=vector
+
+*** deliberate
+
+*** pop up
+https://www.bing.com/dict/search?q=pop%20up
+
+** Two
+2. Hopes were high that the Fed's rate cuts could make homes
+more affordable, but so far, that hasn't happened. Average rates
+on 30-year mortgages have climbed to around 6.7% from
+roughly 6.1% since the central bank started lowering rates in
+September, according to Freddie Mac. And they're only poised
+to rise further. That's because mortgage rates move with the
+yield on the 10-year Treasury, which has surged this week.
+*** [#A] mortgage
+https://en.wikipedia.org/wiki/Mortgage?useskin=vector
+
+*** poised to
+https://www.bing.com/dict/search?q=poised%20to
+
+*** yield
+https://en.wikipedia.org/wiki/Yield_(finance)?useskin=vector
+** Three
+3. Anthony Loke, Malaysia's transportation minister, announced
+plans for a robotics company to renew a search for the plane that
+disappeared in 2014. "We think that this is another attempt to find
+[Malaysia Airlines Flight] 370, and it is our responsibility, and our
+obligation, and our commitment to the families." The flight was en
+route to Beijing from Kuala Lumpur with 239 people on board. An
+approximately $150 million multiyear search effort-the most
+expensive in aviation history— ended in 2017.
+*** en route
+:LOGBOOK:
+- Note taken on [2024-12-24 Tue 09:48] \\
+  on the way
+:END:
+
+*** aviation
+https://en.wikipedia.org/wiki/Aviation?useskin=vector
+* [[https://www.youtube.com/watch?v=Gb63l2VsyWQ][(15) 读懂英语新闻（第191期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** One
+1, American Airlines briefly grounded all U.S. flights
+On one of the busiest travel days of the year, American Airlines grounded all
+its flights in the U.S. this morning for about an hour. American said a vendor
+technology issue had affected systems needed to release flights. While
+relatively brief, the ground stop could result in heavy delays in the coming
+days. Tens of millions of people fly from mid-December to shortly after New
+Year's Day, and a travel record is expected to be set this year. The airline
+issued a waiver allowing people flying through some airports to reschedule
+their flights through Thursday.
+*** American Airline
+https://en.wikipedia.org/wiki/American_Airlines?useskin=vector
+*** briefly
+*** [#A] ground
+*** vendor
+*** ground stop
+https://en.wikipedia.org/wiki/Ground_stop?useskin=vector
+*** waiver
+** Two
+2. Believe it or not, there's a long tradition of Santa Claus
+polls. The Times ran one in 1985 and, over the years, belief has
+held quite steady, even if some parents now wonder if joy will
+turn to trauma for their children when the truth comes out.
+Americans don't just believe in Santa. They approve of his
+performance. In a 2020 poll, 73 percent of respondents gave
+him a positive rating.
+*** believe it or not
+*** Santa Claus
+https://en.wikipedia.org/wiki/Santa_Claus?useskin=vector
+*** trauma
+*** come out
+** Three
+3. President-elect Trump has big plans to make America
+greater — in terms of square mileage. He has floated
+acquiring Greenland, reclaiming the Panama Canal,
+annexing Canada, and potentially invading Mexico - to the
+intense consternation of their leaders.
+*** in terms of
+*** float
+*** reclaim
+*** Panama Canal
+https://en.wikipedia.org/wiki/Panama_Canal?useskin=vector
+*** annex
+*** consternation
+
+* [[https://www.youtube.com/watch?v=SDEGEVFrvOM][(18) 读懂英语新闻（第192期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+
+** One
+1, "Physical and technical external interference" caused the plane crash
+that killed 38 people flying to southern Russia, Azerbaijan Airlines said.
+That's the closest officials have come to confirming mounting suspicions
+that a Russian air-defense system downed the jet. Russia's aviation
+authority said that the plane had tried to land in Grozny in Russia's
+Chechnya region amid difficult conditions during a Ukrainian drone
+strike. Missiles are now the biggest killer of airline passengers, aviation
+safety data show.
+*** Azerbaijan Airline
+https://en.wikipedia.org/wiki/Azerbaijan_Airlines?useskin=vector
+*** mounting
+:LOGBOOK:
+- Note taken on [2024-12-31 Tue 10:00] \\
+  https://en.wiktionary.org/wiki/mounting
+:END:
+
+*** drone
+** Two
+2. Musk vowed last night to "go to war" to defend the H-1B visa program for
+foreign tech workers, branding some Republican opponents as "hateful,
+unrepentant racists." The MAGA-DOGE civil war that erupted over the last 48
+hours has hit a tipping point, with President-elect Trump's new techno-libertarian
+coalition of billionaires taking full aim at his base. Steve Bannon, one of the
+longest-tenured voices in Trump's orbit, had multiple guests on his show this week
+to talk about his hardline anti-H-1B views. Bannon tells Axios he helped kick off
+the debate with a now-viral Gettr post calling out a lack of support for the Black
+and Hispanic communities in Big Tech.
+*** unrepentant
+*** tipping point
+:LOGBOOK:
+- Note taken on [2024-12-31 Tue 10:00] \\
+  https://en.wiktionary.org/wiki/tipping_point
+:END:
+
+*** take aim at
+*** Steve Bannon
+https://en.wikipedia.org/wiki/Steve_Bannon?useskin=vector
+*** kick off
+*** call out
+:LOGBOOK:
+- Note taken on [2024-12-31 Tue 10:04] \\
+  https://en.wiktionary.org/wiki/call_out
+:END:
+
+** Three
+3. Your so-called face age can tell doctors important
+information about your health. Scans of face photos can
+estimate people's "biological age." A study found that
+an Al-trained model did a better job than doctors of
+predicting how long cancer patients will live.
+Researchers hope that one day the tool could be a
+standard part of assessing health.
+* [[https://www.youtube.com/watch?v=1law8VzRdNE][(19) 读懂英语新闻（第193期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** One
+1. Wall Street sees more gains ahead
+The S&P 500 index was down slightly today, the final trading day of
+2024, but it rose about 23.3 percent this year, roughly matching its gain
+in 2023. It was the first time the benchmark index had risen more than
+20 percent in consecutive years since 1998. Investors are heading into
+2025 in an optimistic mood, believing that, with the economy on firm
+footing and the White House in their corner, the stock market will
+continue to climb.
+*** [#A] see
+*** [#A] gain
+*** [#A] ahead
+*** on firm footing
+*** in their corner
+:LOGBOOK:
+- Note taken on [2025-01-02 Thu 09:50] \\
+  来自拳击
+:END:
+
+** Two
+2. Jimmy Carter, the 39th US president who brokered peace between
+Israel and Egypt in the historic Camp David Accords, has died at 100.
+His one-term presidency was marred by high inflation, an oil shortage
+and the Iran hostage crisis, but some of his most notable achievements
+came after he left the White Househis humanitarian work won him
+the 2002 Nobel Peace Prize. The former president will get a state
+funeral, and Joe Biden designated Jan. 9 as a national day of mourning.
+*** Jimmy Carter
+https://en.wikipedia.org/wiki/Jimmy_Carter?useskin=vector
+*** broker
+:LOGBOOK:
+- Note taken on [2025-01-03 Fri 09:35] \\
+  https://www.dicts.cn/dictword20181/html/f9f7e3234c205ab0e2874dd07c3bd46d.html?broker
+:END:
+
+*** Egypt
+https://en.wikipedia.org/wiki/Egypt?useskin=vector
+*** mar
+:LOGBOOK:
+- Note taken on [2025-01-03 Fri 09:36] \\
+  https://www.dicts.cn/dictword20181/html/897567e13a4312342fb2dace4bec593f.html?mar
+:END:
+
+** Three
+3. More people of all sizes and speeds are taking on
+26.2-mile runs, thanks to super-cushioned sneakers,
+running groups and the races' appeal to Gen Z athletes.
+The pandemic helped fuel the running craze because
+folks wanted exercise they could do alone and outdoors.
+*** sneaker
+https://en.wikipedia.org/wiki/Sneakers?useskin=vector
+*** Gen Z
+https://en.wikipedia.org/w/index.php?title=Generation_Z&useskin=vector
+* [[https://www.youtube.com/watch?v=oz75nCQjgCA][(3) 读懂英语新闻（第194期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** One
+1. Alcoholic drinks like beer and wine should carry warnings of their links to
+cancer, the US's top doctor said. Evidence of links between drinking and cancer
+has been rising for decades, yet fewer than half of Americans recognize that it
+raises their chances of developing several cancers, Surgeon General Vivek
+Murthy said Friday. Alcohol causes about 100,000 cases of cancer and 20,000
+related deaths each year in the US, far more than the 13,500 alcohol-associated
+annual traffic fatalities. Adding a cancer warning would highlight severe health
+concerns for products that more than 70% of US adults consume at least once a
+week, with some $260 billion in 2022 nationwide sales. Shares of drinks makers
+declined after the announcement.
+*** Surgeon General
+https://en.wikipedia.org/wiki/Surgeon_general?useskin=vector
+** Three
+3. The Green Beret who blew up a Tesla outside a Trump hotel in
+Las Vegas left notes praising Donald Trump and Elon Musk. Friends
+said he had struggled with P.T.S.D. and mental health issues.
+*** Green Beret
+https://en.wikipedia.org/w/index.php?title=United_States_Army_Special_Forces&useskin=vector
+*** blew up
+** Four
+4. A New York judge upheld Donald Trump's criminal conviction in
+the hush-money trial, but signaled that he was likely to spare Trump
+jail time. The sentencing is set for Jan. 10.
+*** spare
+* [[https://www.youtube.com/watch?v=AEK8NHChUGs][(3) 读懂英语新闻（第195期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** One
+1 • Wildfires are spreading rapidly in Los Angeles, fanned by a
+fierce windstorm. Gusts of up to 100 m.p.h., stronger than any the
+region has seen in a decade, are forecast to blow through the night.
+The flames are threatening Pacific Palisades, an affluent coastal
+neighborhood that is home to about 24,000 people, roughly 20
+miles west of downtown Los Angeles. Officials ordered residents
+to evacuate immediately.
+*** gust
+*** evacuate
+** Two
+2 • Donald Trump said today at a news conference that he
+would not rule out the use of military or economic coercion
+to retake control of the Panama Canal and to force Denmark
+to sell Greenland to the U.S. He also suggested that Canada
+should become a U.S. state by getting "rid of that artificially
+drawn line." The four nations have rejected his entreaties.
+*** rule out
+*** coercion
+*** Denmark
+*** entreaty
+** Three
+3 • Prime Minister Justin Trudeau is resigning after more
+than nine years leading Canada, bowing to sagging
+approval numbers and a rebellion within his own party.
+Currently the longest-serving leader of any Group of Seven
+country, the 53-year-old said Monday he'll step down as
+head of the governing Liberal Party within months. He will
+remain as prime minister until a new leader is selected.
+*** bow
+*** sag
+*** rebellion
+*** Group of Seven
+*** step down
