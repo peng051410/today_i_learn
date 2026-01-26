@@ -1,26 +1,27 @@
 
 # Table of Contents
 
--   [news-100-200](#org2074b20)
--   [news-200-300](#orgd0d315b)
--   [(51) 读懂英语新闻（第301期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org5a4937b)
--   [(51) 一周听力合集（第300期+第301期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第301期新闻精读配套听力练习 - YouTube](#org7bd0820)
--   [读懂英语新闻（第302期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orga3a2e09)
--   [(57) 看美剧练听力（第302期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第302期新闻精读配套听力练习 - YouTube](#orga0d4b61)
+-   [news-100-200](#org36bb802)
+-   [news-200-300](#org61feef1)
+-   [(51) 读懂英语新闻（第301期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org018885b)
+-   [(51) 一周听力合集（第300期+第301期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第301期新闻精读配套听力练习 - YouTube](#org913f4e7)
+-   [读懂英语新闻（第302期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org40a3bce)
+-   [(57) 看美剧练听力（第302期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第302期新闻精读配套听力练习 - YouTube](#orgf2af715)
+-   [(59) 读懂英语新闻（第303期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org42d1676)
 
 
 
-<a id="org2074b20"></a>
+<a id="org36bb802"></a>
 
 # [news-100-200](./news-100-200.md)
 
 
-<a id="orgd0d315b"></a>
+<a id="org61feef1"></a>
 
 # [news-200-300](./news-200-300.md)
 
 
-<a id="org5a4937b"></a>
+<a id="org018885b"></a>
 
 # [(51) 读懂英语新闻（第301期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=_kyKBD2NEdQ)
 
@@ -64,7 +65,7 @@ Six federal prosecutors in Minnesota resigned today over the Trump administratio
 <https://www.dicts.cn/dictword20181/html/31c70222fa13dbc17000c6c324ddd220.html?prosecutor>
 
 
-<a id="org7bd0820"></a>
+<a id="org913f4e7"></a>
 
 # [(51) 一周听力合集（第300期+第301期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第301期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=g2rP3Bw5LFw)
 
@@ -74,7 +75,7 @@ Six federal prosecutors in Minnesota resigned today over the Trump administratio
 <https://www.dicts.cn/dictword20181/html/d3818eae2938c4a0400daba891818f78.html?fist>
 
 
-<a id="orga3a2e09"></a>
+<a id="org40a3bce"></a>
 
 # [读懂英语新闻（第302期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV15GkaBXEpt)
 
@@ -111,7 +112,7 @@ Research has repeatedly shown that regular exercise is one of the most effective
 <https://en.wikipedia.org/wiki/Arctic?useskin=vector>
 
 
-<a id="orga0d4b61"></a>
+<a id="orgf2af715"></a>
 
 # [(57) 看美剧练听力（第302期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第302期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=9uxZlZ7C6Xg)
 
@@ -119,4 +120,68 @@ Research has repeatedly shown that regular exercise is one of the most effective
 ## dormant
 
 <https://www.dicts.cn/dictword20181/html/0a37fb433c659bba5ec0e5b130b62b23.html?dormant>
+
+
+<a id="org42d1676"></a>
+
+# [(59) 读懂英语新闻（第303期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=0_78c8bBzBE)
+
+
+## One
+
+1.  Canadian Prime Minister Mark Carney used a major address in Davos to urge world leaders to see the reality of a world that's increasingly governed by superpower aggression. Recent events have shown the "rules-based international order" is effectively dead, Carney said, which means Canada and other countries have no choice but to create new alliances to oppose pressure tactics and intimidation.
+
+
+### Davos
+
+<https://en.wikipedia.org/wiki/Davos?useskin=vector>
+
+
+### effective
+
+<https://www.dicts.cn/dictword20181/html/25926b7d34dd0f019fe250777f933563.html?effective>
+
+
+### tactic
+
+<https://www.dicts.cn/dictword20181/html/d58d0ac1436d0103df3c7ce6d139e6fe.html?tactic>
+
+
+## Two
+
+1.  Fewer people are jumping off the Golden Gate Bridge
+
+The Golden Gate Bridge, the iconic span that hangs between San Francisco Bay and the Pacific Ocean, has been the site of more than 2,000 confirmed suicide leaps since it opened in 1937. For decades, the death toll hovered around 30 a year. But now, after the completion of a $224 million project to install stainless-steel nets below the bridge, the number of suicides has noticeably dropped. There were none in the second half of 2025.
+
+
+### jump off
+
+<https://www.bing.com/dict/search?q=jump%20off>
+
+
+### Golden Gate Bridge
+
+<https://en.wikipedia.org/wiki/Golden_Gate_Bridge?useskin=vector>
+
+
+### stainless-steel
+
+<https://en.wikipedia.org/w/index.php?title=Stainless_steel&useskin=vector>
+
+
+## Three
+
+1.  After deadly train crash, investigators focus on the track
+
+Spanish authorities struggled today to identify those killed in Sunday's high-speed train collision, which left at least 41 people dead. Investigators there are focusing on whether a track problem may have caused the incident, and a train undercarriage found in a stream may be a clue.
+
+
+### track
+
+<https://www.dicts.cn/dictword20181/html/9577da8e56547833c5c7982a66c0df80.html?track>
+
+
+### stream
+
+<https://www.dicts.cn/dictword20181/html/fdd35a283c3c1e300ca192e9fdea4e7f.html?stream>
 
