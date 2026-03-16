@@ -545,7 +545,10 @@ Use org-copy-visiable
 org-clone-subtree-with-time-shift
 #+end_src
 C-c C-x c 
-
+** 中断阻塞的lisp执行
+#+begin_src sh
+pkill -USR2 emacs
+#+end_src
 
 * Org hugo add shortcode
 Hugo支持短代码形式在生成html时填充模板内容，shortcode配置的html文件放在 */layouts/shortcodes* 目录下即可，下面的代码就可以实现在博客中嵌入[[https://www.bilibili.com/video/BV1pD4y1K7iw/][B站]]的视频
@@ -1075,6 +1078,13 @@ cd ~/Library/LaunchAgents
 cd /Library/LaunchAgents
 cd /Library/LaunchDaemons
 #+end_src
+
+** Check tmuitl exclude folders
+适用于使用 tmuitl addexclution /path 命令
+#+begin_src sh
+sudo mdfind "com_apple_backup_excludeItem = com.apple.backupd"
+#+end_src
+
 * Linux
 
 ** Change default program
