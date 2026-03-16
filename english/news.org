@@ -517,7 +517,6 @@ https://www.dicts.cn/dictword20181/html/c9f97fe365bc5002147d52cf013b4b2f.html?re
 :CAPTURED_ON: [2024-01-05 Fri 14:22]
 :END:
 
-
 ** One
 1. The US-Israeli war in Iran continues to disrupt shipments and push up fuel costs. Soaring prices for diesel-used in freight, power and heating —will add to the cost of transportation, a key component of inflation. The widening conflict also has made one thing clear: At a time when investors are rushing to safety, the dollar remains the premier asset of choice. As stocks swoon, and even gold and Treasuries tumble, the dollar's rise stands out. Since the US and Israel first attacked Iran on Saturday, the US currency has staged its biggest two-day rally in nearly a year.
 
@@ -550,3 +549,21 @@ https://www.dicts.cn/dictword20181/html/ced1d15acc02f4ceded48b49fb40f205.html?es
 
 ** Three
 3. Decades of research has found that people with pets, especially dogs, tend to be healthier than people without them. They have lower blood pressure, a reduced risk of heart disease and, according to one analysis, a 24 percent lower risk of dying from all causes over the course of 10 years. One theory is that dog owners are more physically active because they walk more often. Another suggests that dogs improve mental health.
+* [[https://www.youtube.com/watch?v=JJElVt-zQSU][(114) 读懂英语新闻（第316期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2024-01-05 Fri 14:22]
+:END:
+** One
+1. Iran's president rejected Donald Trump's demand for Iran's "unconditional surrender". Masoud Pezeshkian apologised to neighbouring Gulf states attacked by his country since the war with America and Israel began. He later added that Iran was targeting only American military facilities in the region. However, Iranian missile and drone launches continued. The Iranian Revolutionary Guard Corps said it had launched an attack on the American base in Juffair, Bahrain.
+
+** Two
+2. Trump said he wasn't concerned about rising gasoline prices caused by the Iran war, saying "if they rise, they rise. " He called the U.S. military operation in Iran "far more important than having gasoline prices go up a little bit," claiming that "They'll drop very rapidly when this is over." That came as the national average gas price rose 27 cents in the last week to $3.25 a gallon.
+
+** Three
+3. More than 100 substances widely used in common US foods, supplements and beverages underwent no health and safety review by the US Food and Drug Administration, a new analysis of federal records finds. The review of FDA records by the Environmental Working Group (EWG) non-profit reveals that diverse products across the food pyramid, such as Capri Sun drinks, Kettle and Fire organic broth, Acme smoked fish, and Quaker Oats snack bars, use a range of substances that have not undergone review by regulators.
+
+*** Food and Drug Administration
+https://en.wikipedia.org/wiki/Food_and_Drug_Administration
+
+*** diverse
+https://www.dicts.cn/dictword20181/html/5eaeafdbd718e021a60136308060abd6.html?diverse
