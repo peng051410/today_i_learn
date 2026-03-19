@@ -1,55 +1,56 @@
 
 # Table of Contents
 
--   [news-100-200](#orga91e292)
--   [news-200-300](#orgbae42d9)
--   [(51) 读懂英语新闻（第301期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org8f42c44)
--   [(51) 一周听力合集（第300期+第301期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第301期新闻精读配套听力练习 - YouTube](#orgecd8542)
--   [读懂英语新闻（第302期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#orgf3ac4e4)
--   [(57) 看美剧练听力（第302期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第302期新闻精读配套听力练习 - YouTube](#org3a41c75)
--   [(59) 读懂英语新闻（第303期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgb71ec99)
--   [(62) 一周听力合集（第302期+第303期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第303期新闻精读配套听力练习 - YouTube](#orga793668)
--   [读懂英语新闻（第304期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org08f348f)
--   [(63) 看美剧练听力（第304期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第304期新闻精读配套听力练习 - YouTube](#org075736d)
--   [(64) 读懂英语新闻（第305期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org0e9b2f3)
--   [(68) 一周听力合集（第304期+第305期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第305期新闻精读配套听力练习 - YouTube](#orge7fb8b0)
--   [(70) 读懂英语新闻（第306期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgfc1be0e)
--   [(70) 看美剧练听力（第306期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第3066期新闻精读配套听力练习 - YouTube](#orgb49c313)
--   [(70) 读懂英语新闻（第307期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgc5e1530)
--   [(96) 一周听力合集（第306期+第307期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第307期新闻精读配套听力练习 - YouTube](#org9d9a455)
--   [(97) 读懂英语新闻（第308期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgd52edc1)
--   [(99) 读懂英语新闻（第309期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgc890ee1)
--   [(100) 一周听力合集（第308期+第309期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第309期新闻精读配套听力练习 - YouTube](#org3161886)
--   [(103) 读懂英语新闻（第310期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org682be8c)
--   [(106) 看美剧练听力（第310期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第310期新闻精读配套听力练习 - YouTube](#orgb779869)
--   [(106) 读懂英语新闻（第311期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org4db856a)
--   [(106) 一周听力合集（第310期+第311期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第311期新闻精读配套听力练习 - YouTube](#org6598926)
--   [读懂英语新闻（第312期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgd4e9147)
--   [(110) 看美剧练听力（第312期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第312期新闻精读配套听力练习 - YouTube](#org785a2fe)
--   [(111) 读懂英语新闻（第313期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org51c8a72)
--   [(111) 一周听力合集（第312期+第313期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第313期新闻精读配套听力练习 - YouTube](#orge6d2516)
--   [(111) 读懂英语新闻（第314期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org3320182)
--   [(111) 看美剧练听力（第314期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第314期新闻精读配套听力练习 - YouTube](#org3fe5ea5)
--   [(111) 读懂英语新闻（第315期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org10a5cfe)
--   [(114) 读懂英语新闻（第316期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgd2ccbc1)
--   [(114) 看美剧练听力（第316期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第316期新闻精读配套听力练习 - YouTube](#org3a9ea37)
--   [(114) 读懂英语新闻（第317期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org93ece8a)
--   [(114) 一周听力合集（第316期+第317期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第317期新闻精读配套听力练习 - YouTube](#orga13fb00)
--   [(114) 读懂英语新闻（第318期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org2299b39)
+-   [news-100-200](#org96a50ed)
+-   [news-200-300](#orgfd98a0d)
+-   [(51) 读懂英语新闻（第301期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org019b254)
+-   [(51) 一周听力合集（第300期+第301期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第301期新闻精读配套听力练习 - YouTube](#org588a7e2)
+-   [读懂英语新闻（第302期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org91f0efe)
+-   [(57) 看美剧练听力（第302期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第302期新闻精读配套听力练习 - YouTube](#orgb70e6c0)
+-   [(59) 读懂英语新闻（第303期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org13c26b4)
+-   [(62) 一周听力合集（第302期+第303期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第303期新闻精读配套听力练习 - YouTube](#orgffb9684)
+-   [读懂英语新闻（第304期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](#org2372296)
+-   [(63) 看美剧练听力（第304期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第304期新闻精读配套听力练习 - YouTube](#orgebffff0)
+-   [(64) 读懂英语新闻（第305期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org7deccd7)
+-   [(68) 一周听力合集（第304期+第305期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第305期新闻精读配套听力练习 - YouTube](#org30e8707)
+-   [(70) 读懂英语新闻（第306期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org31535de)
+-   [(70) 看美剧练听力（第306期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第3066期新闻精读配套听力练习 - YouTube](#org7fd9ad9)
+-   [(70) 读懂英语新闻（第307期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgaca5179)
+-   [(96) 一周听力合集（第306期+第307期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第307期新闻精读配套听力练习 - YouTube](#orgee1d3a2)
+-   [(97) 读懂英语新闻（第308期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org9f8c8bb)
+-   [(99) 读懂英语新闻（第309期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org0863e60)
+-   [(100) 一周听力合集（第308期+第309期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第309期新闻精读配套听力练习 - YouTube](#org9bee04b)
+-   [(103) 读懂英语新闻（第310期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgf0c8b25)
+-   [(106) 看美剧练听力（第310期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第310期新闻精读配套听力练习 - YouTube](#org8e3fae5)
+-   [(106) 读懂英语新闻（第311期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgb02e2c4)
+-   [(106) 一周听力合集（第310期+第311期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第311期新闻精读配套听力练习 - YouTube](#org0e598f0)
+-   [读懂英语新闻（第312期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org6374b39)
+-   [(110) 看美剧练听力（第312期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第312期新闻精读配套听力练习 - YouTube](#org75e5fe0)
+-   [(111) 读懂英语新闻（第313期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgfe6f65d)
+-   [(111) 一周听力合集（第312期+第313期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第313期新闻精读配套听力练习 - YouTube](#orgd5b4fe8)
+-   [(111) 读懂英语新闻（第314期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org5b25dae)
+-   [(111) 看美剧练听力（第314期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第314期新闻精读配套听力练习 - YouTube](#org95bdd04)
+-   [(111) 读懂英语新闻（第315期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#org89ae201)
+-   [(114) 读懂英语新闻（第316期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgf7d4aa1)
+-   [(114) 看美剧练听力（第316期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第316期新闻精读配套听力练习 - YouTube](#orgc4444e8)
+-   [(114) 读懂英语新闻（第317期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orga8481fa)
+-   [(114) 一周听力合集（第316期+第317期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第317期新闻精读配套听力练习 - YouTube](#org08e693e)
+-   [(114) 读懂英语新闻（第318期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](#orgbc04519)
+-   [(115) 看美剧练听力（第318期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第318期新闻精读配套听力练习 - YouTube](#org05ac992)
 
 
 
-<a id="orga91e292"></a>
+<a id="org96a50ed"></a>
 
 # [news-100-200](./news-100-200.md)
 
 
-<a id="orgbae42d9"></a>
+<a id="orgfd98a0d"></a>
 
 # [news-200-300](./news-200-300.md)
 
 
-<a id="org8f42c44"></a>
+<a id="org019b254"></a>
 
 # [(51) 读懂英语新闻（第301期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=_kyKBD2NEdQ)
 
@@ -93,7 +94,7 @@ Six federal prosecutors in Minnesota resigned today over the Trump administratio
 <https://www.dicts.cn/dictword20181/html/31c70222fa13dbc17000c6c324ddd220.html?prosecutor>
 
 
-<a id="orgecd8542"></a>
+<a id="org588a7e2"></a>
 
 # [(51) 一周听力合集（第300期+第301期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第301期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=g2rP3Bw5LFw)
 
@@ -103,7 +104,7 @@ Six federal prosecutors in Minnesota resigned today over the Trump administratio
 <https://www.dicts.cn/dictword20181/html/d3818eae2938c4a0400daba891818f78.html?fist>
 
 
-<a id="orgf3ac4e4"></a>
+<a id="org91f0efe"></a>
 
 # [读懂英语新闻（第302期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV15GkaBXEpt)
 
@@ -140,7 +141,7 @@ Research has repeatedly shown that regular exercise is one of the most effective
 <https://en.wikipedia.org/wiki/Arctic?useskin=vector>
 
 
-<a id="org3a41c75"></a>
+<a id="orgb70e6c0"></a>
 
 # [(57) 看美剧练听力（第302期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第302期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=9uxZlZ7C6Xg)
 
@@ -150,7 +151,7 @@ Research has repeatedly shown that regular exercise is one of the most effective
 <https://www.dicts.cn/dictword20181/html/0a37fb433c659bba5ec0e5b130b62b23.html?dormant>
 
 
-<a id="orgb71ec99"></a>
+<a id="org13c26b4"></a>
 
 # [(59) 读懂英语新闻（第303期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=0_78c8bBzBE)
 
@@ -214,7 +215,7 @@ Spanish authorities struggled today to identify those killed in Sunday's high-sp
 <https://www.dicts.cn/dictword20181/html/fdd35a283c3c1e300ca192e9fdea4e7f.html?stream>
 
 
-<a id="orga793668"></a>
+<a id="orgffb9684"></a>
 
 # [(62) 一周听力合集（第302期+第303期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第303期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=pW-ibJl2-UE)
 
@@ -229,7 +230,7 @@ Spanish authorities struggled today to identify those killed in Sunday's high-sp
 <https://www.dicts.cn/dictword20181/html/e9795bd9cfc73ee676039a1eb1b35437.html?pour>
 
 
-<a id="org08f348f"></a>
+<a id="org2372296"></a>
 
 # [读懂英语新闻（第304期）｜听新闻学英语｜词汇量暴涨｜英语听力｜英文写作提升｜英语阅读｜单词轻松记\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1PTzhB4Ejm)
 
@@ -286,7 +287,7 @@ Kirk Milhoan, a doctor who leads the federal panel that recommends vaccines for 
 <https://www.dicts.cn/dictword20181/html/101a03bacf841a718473b07c62e727df.html?panel>
 
 
-<a id="org075736d"></a>
+<a id="orgebffff0"></a>
 
 # [(63) 看美剧练听力（第304期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第304期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=_9G1-3_BxMQ)
 
@@ -296,7 +297,7 @@ Kirk Milhoan, a doctor who leads the federal panel that recommends vaccines for 
 <https://www.bing.com/dict/search?q=mess%20up>
 
 
-<a id="org0e9b2f3"></a>
+<a id="org7deccd7"></a>
 
 # [(64) 读懂英语新闻（第305期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=inaNRx11FGQ)
 
@@ -340,7 +341,7 @@ Meta, Snap, TikTok and YouTube will be forced to confront such questions in a se
 <https://www.dicts.cn/dictword20181/html/e73958ad5aad92f3dabf50fd2aef96f3.html?monetary>
 
 
-<a id="orge7fb8b0"></a>
+<a id="org30e8707"></a>
 
 # [(68) 一周听力合集（第304期+第305期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第305期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=nDU25kwv2tw)
 
@@ -355,7 +356,7 @@ Meta, Snap, TikTok and YouTube will be forced to confront such questions in a se
 <https://www.dicts.cn/dictword20181/html/9a1e874c68ea993a0f122a5010ba1ce0.html?rid>
 
 
-<a id="orgfc1be0e"></a>
+<a id="org31535de"></a>
 
 # [(70) 读懂英语新闻（第306期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=KeZ8UvfO4ME)
 
@@ -416,7 +417,7 @@ In Germany, it is second nature for people to open their windows a few times eac
 <https://www.dicts.cn/dictword20181/html/cea5e8dc8edb7f6c6dd91ef221c446e1.html?mold>
 
 
-<a id="orgb49c313"></a>
+<a id="org7fd9ad9"></a>
 
 # [(70) 看美剧练听力（第306期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第3066期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=yLUOYdhXKoM)
 
@@ -436,7 +437,7 @@ In Germany, it is second nature for people to open their windows a few times eac
 <https://www.bing.com/dict/search?q=spare%20me>
 
 
-<a id="orgc5e1530"></a>
+<a id="orgaca5179"></a>
 
 # [(70) 读懂英语新闻（第307期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=LX9JWXgDXUE)
 
@@ -486,7 +487,7 @@ In Germany, it is second nature for people to open their windows a few times eac
 <https://www.dicts.cn/dictword20181/html/8cda19a94b02ce40d7a08344248d346b.html?encompass>
 
 
-<a id="org9d9a455"></a>
+<a id="orgee1d3a2"></a>
 
 # [(96) 一周听力合集（第306期+第307期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第307期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=5Bw1K2OIBKk)
 
@@ -506,7 +507,7 @@ In Germany, it is second nature for people to open their windows a few times eac
 <https://www.dicts.cn/dictword20181/html/b1a46b58dc65767214595a986a658560.html?tender>
 
 
-<a id="orgd52edc1"></a>
+<a id="org9f8c8bb"></a>
 
 # [(97) 读懂英语新闻（第308期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=4qe9rCJwd60)
 
@@ -551,7 +552,7 @@ In Germany, it is second nature for people to open their windows a few times eac
 <https://www.dicts.cn/dictword20181/html/ec8fc5920012723d70db343d47fff341.html?incentive>
 
 
-<a id="orgc890ee1"></a>
+<a id="org0863e60"></a>
 
 # [(99) 读懂英语新闻（第309期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=bCZJ1et43_0)
 
@@ -601,7 +602,7 @@ In Germany, it is second nature for people to open their windows a few times eac
 1.  Takaichi emerged Sunday from a snap election with a historic majority that arguably gives her a mandate for a more assertive foreign policy. Chinese leaders must now decide whether to maintain economic pressure on Tokyo, or find an off-ramp.
 
 
-<a id="org3161886"></a>
+<a id="org9bee04b"></a>
 
 # [(100) 一周听力合集（第308期+第309期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第309期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=fVLWMMiV4z0)
 
@@ -616,7 +617,7 @@ In Germany, it is second nature for people to open their windows a few times eac
 <https://www.bing.com/dict/search?q=back%20down>
 
 
-<a id="org682be8c"></a>
+<a id="orgf0c8b25"></a>
 
 # [(103) 读懂英语新闻（第310期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=DqmqYGD0nLY)
 
@@ -651,7 +652,7 @@ In Germany, it is second nature for people to open their windows a few times eac
 <https://www.dicts.cn/dictword20181/html/755befddde157a5ddd3663cd03b62ec3.html?reassure>
 
 
-<a id="orgb779869"></a>
+<a id="org8e3fae5"></a>
 
 # [(106) 看美剧练听力（第310期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第310期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=vpP-CLLTkMo)
 
@@ -661,7 +662,7 @@ In Germany, it is second nature for people to open their windows a few times eac
 <https://www.dicts.cn/dictword20181/html/77704f1869014a2f8f4f4eba7c0c211e.html?stroke>
 
 
-<a id="org4db856a"></a>
+<a id="orgb02e2c4"></a>
 
 # [(106) 读懂英语新闻（第311期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=FEl_yW3RxZU)
 
@@ -706,7 +707,7 @@ In Germany, it is second nature for people to open their windows a few times eac
 <https://en.wikipedia.org/wiki/Bayer?useskin=vector>
 
 
-<a id="org6598926"></a>
+<a id="org0e598f0"></a>
 
 # [(106) 一周听力合集（第310期+第311期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第311期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=p92o59CT59A)
 
@@ -731,7 +732,7 @@ In Germany, it is second nature for people to open their windows a few times eac
 <https://www.dicts.cn/dictword20181/html/6b1d7be725d7ff375573a34329404dc0.html?fertile>
 
 
-<a id="orgd4e9147"></a>
+<a id="org6374b39"></a>
 
 # [读懂英语新闻（第312期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=5t2TfJu1j1Q)
 
@@ -785,12 +786,12 @@ It's a first step that would be designed to pressure Tehran into a nuclear agree
 <https://www.bing.com/dict/search?q=give%20away>
 
 
-<a id="org785a2fe"></a>
+<a id="org75e5fe0"></a>
 
 # [(110) 看美剧练听力（第312期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第312期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=-66PiDkikvU)
 
 
-<a id="org51c8a72"></a>
+<a id="orgfe6f65d"></a>
 
 # [(111) 读懂英语新闻（第313期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=EsN3NMyMW80)
 
@@ -832,7 +833,7 @@ A new survey found that 54 percent of students ages 13 to 17 said they had used 
 <https://www.dicts.cn/dictword20181/html/c427a72e34c18772748228e83e607bf6.html?linger>
 
 
-<a id="orge6d2516"></a>
+<a id="orgd5b4fe8"></a>
 
 # [(111) 一周听力合集（第312期+第313期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第313期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=oJNnfvof5GE)
 
@@ -852,7 +853,7 @@ A new survey found that 54 percent of students ages 13 to 17 said they had used 
 <https://www.dicts.cn/dictword20181/html/7a2cfab2440d1c76baa3e249ce6d24bc.html?glad>
 
 
-<a id="org3320182"></a>
+<a id="org5b25dae"></a>
 
 # [(111) 读懂英语新闻（第314期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=H49XumnomWQ)
 
@@ -902,12 +903,12 @@ A new survey found that 54 percent of students ages 13 to 17 said they had used 
 <https://www.dicts.cn/dictword20181/html/c9f97fe365bc5002147d52cf013b4b2f.html?revive>
 
 
-<a id="org3fe5ea5"></a>
+<a id="org95bdd04"></a>
 
 # [(111) 看美剧练听力（第314期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第314期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=8Yme2EVqXnQ)
 
 
-<a id="org10a5cfe"></a>
+<a id="org89ae201"></a>
 
 # [(111) 读懂英语新闻（第315期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=BBQWOVAn4ZY)
 
@@ -967,7 +968,7 @@ A new survey found that 54 percent of students ages 13 to 17 said they had used 
 1.  Decades of research has found that people with pets, especially dogs, tend to be healthier than people without them. They have lower blood pressure, a reduced risk of heart disease and, according to one analysis, a 24 percent lower risk of dying from all causes over the course of 10 years. One theory is that dog owners are more physically active because they walk more often. Another suggests that dogs improve mental health.
 
 
-<a id="orgd2ccbc1"></a>
+<a id="orgf7d4aa1"></a>
 
 # [(114) 读懂英语新闻（第316期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=JJElVt-zQSU)
 
@@ -997,12 +998,12 @@ A new survey found that 54 percent of students ages 13 to 17 said they had used 
 <https://www.dicts.cn/dictword20181/html/5eaeafdbd718e021a60136308060abd6.html?diverse>
 
 
-<a id="org3a9ea37"></a>
+<a id="orgc4444e8"></a>
 
 # [(114) 看美剧练听力（第316期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第316期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=oC6eMMFvAoU)
 
 
-<a id="org93ece8a"></a>
+<a id="orga8481fa"></a>
 
 # [(114) 读懂英语新闻（第317期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=dJ-xs4mpDNA)
 
@@ -1047,7 +1048,7 @@ A new survey found that 54 percent of students ages 13 to 17 said they had used 
 <https://www.dicts.cn/dictword20181/html/f7d20116266c15ac0d0d6b7031758ace.html?navigate>
 
 
-<a id="orga13fb00"></a>
+<a id="org08e693e"></a>
 
 # [(114) 一周听力合集（第316期+第317期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第317期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=McwF-RupPKA)
 
@@ -1057,7 +1058,7 @@ A new survey found that 54 percent of students ages 13 to 17 said they had used 
 <https://www.bing.com/dict/search?q=pass%20out>
 
 
-<a id="org2299b39"></a>
+<a id="orgbc04519"></a>
 
 # [(114) 读懂英语新闻（第318期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=Hyr3RXj2kE8)
 
@@ -1110,4 +1111,29 @@ A new survey found that 54 percent of students ages 13 to 17 said they had used 
 ## Three
 
 1.  The White House wants to build an underground center to provide security screening for visitors, the latest step in the Trump administration's plan to overhaul the grounds, AP's Darlene Superville reports. The 33,000-square-foot center would have seven lanes. Construction could begin as early as August: The White House said it wants the facility open by July 2028, six months before President Trump's term ends.
+
+
+<a id="org05ac992"></a>
+
+# [(115) 看美剧练听力（第318期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第318期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=RHN7gvfqqSA)
+
+
+## in a way
+
+<https://www.bing.com/dict/search?q=in%20a%20way>
+
+
+## envy
+
+<https://www.dicts.cn/dictword20181/html/bf13e5b2d7098d3f81252d5ff6b86c68.html?envy>
+
+
+## eternal
+
+<https://www.dicts.cn/dictword20181/html/1c0751be716fd2eecc61842b1302b972.html?eternal>
+
+
+## abyss
+
+<https://www.dicts.cn/dictword20181/html/0be9e301fd3f778763b2171014747912.html?abyss>
 
