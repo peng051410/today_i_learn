@@ -1,13 +1,14 @@
 
 # Table of Contents
 
--   [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org2460421)
--   [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgf3cd1ee)
--   [(52) 一周英语新闻精学（第3期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org665c72c)
+-   [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgdee0624)
+-   [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org9c6e039)
+-   [(52) 一周英语新闻精学（第3期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org943bc3f)
+-   [一周英语新闻精学（第4期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻](#org3553ff0)
 
 
 
-<a id="org2460421"></a>
+<a id="orgdee0624"></a>
 
 # [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=GvqIuDE2Vlc)
 
@@ -72,7 +73,7 @@
 <https://www.dicts.cn/dictword20181/html/9f9627a538428ef9e326d0822f18a5fe.html?horizon>
 
 
-<a id="orgf3cd1ee"></a>
+<a id="org9c6e039"></a>
 
 # [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=XTxFYQHuwQg&t=580s)
 
@@ -152,7 +153,7 @@
 <https://www.bing.com/dict/search?q=out%20of%20step>
 
 
-<a id="org665c72c"></a>
+<a id="org943bc3f"></a>
 
 # [(52) 一周英语新闻精学（第3期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=-opUKYtSj9g)
 
@@ -252,4 +253,85 @@ The Swedish Academy announced today that it had awarded this year's Nobel Prize 
 ### by far
 
 <https://www.bing.com/dict/search?q=by+far&lq=0&pq>=
+
+
+<a id="org3553ff0"></a>
+
+# [一周英语新闻精学（第4期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻](https://www.youtube.com/watch?v=evqLwNrFFxE)
+
+
+## One
+
+1.  For the past 15 years, all you've needed to do to achieve double-digit returns on your money was park it in an S&P 500 index fund, reinvest dividends, and forget about it. That happy ride may be over, according to a new note from Goldman Sachs that has Wall Street abuzz. The S&P is on track to return only about 3% a year in the coming decade, Goldman's portfolio strategy group estimates. Much of the subpar projection is rooted in the extraordinary concentration of the recent stock market runup.
+
+
+### park
+
+<https://www.dicts.cn/dictword20181/html/d36477cdd8933f99f7bf43808f33a55f.html?park>
+
+
+### dividend
+
+<https://www.dicts.cn/dictword20181/html/fa1a53a659b1550f70c5c30172cf6f15.html?dividend>
+
+
+### ride
+
+<https://www.dicts.cn/dictword20181/html/5b91cb491198973137a420cda7011348.html?ride>
+
+
+### Goldman Sachs
+
+<https://en.wikipedia.org/wiki/Goldman_Sachs>
+
+
+## Two
+
+2、How to Spend $45 Million 
+With apologies to Jane Austen, it is a truth universally acknowledged that an investor in possession of a good fortune must be in want of a good asset. When Citadel founder Ken Griffin paid nearly $45 million for a Stegosaurus skeleton — dubbed "Apex" — he joined a small but growing cohort of wealthy individuals who have been bidding up fossil prices at auctions. Steve Brusatte, a University of Edinburgh professor who specializes in dinosaurs, argues that billionaire bone collectors are robbing researchers of the secrets of the fossils they're hiding away.
+
+
+### bid up
+
+<https://www.bing.com/dict/search?q=bid%20up>
+
+
+### fossil
+
+<https://www.dicts.cn/dictword20181/html/5f5fc85c2a04ca4a1496549a83701417.html?fossil>
+
+
+## Three
+
+1.  Elon Musk's pro-Trump super PAC will give away $1 million a day until Election Day to a "random" registered voter who signs his petition supporting "free speech and the right to bear arms." Federal election law, however, prohibits paying citizens to persuade them to vote. It's also illegal to solicit votes or registrations with "anything having monetary value, including cash, liquor, lottery chances, and welfare benefits such as food stamps."
+
+
+### petition
+
+<https://www.dicts.cn/dictword20181/html/af19929dd67af687bf4ba5991a7bbca2.html?petition>
+
+
+### give away
+
+<https://www.bing.com/dict/search?q=give+away&lq=0&pq>=
+
+
+### bear arms
+
+<https://www.bing.com/dict/search?q=bear%20arms>
+
+
+### solicit
+
+<https://www.dicts.cn/dictword20181/html/55d44b5f1a197a8b4033a2feefe1b80b.html?solicit>
+
+
+### monetary
+
+<https://www.dicts.cn/dictword20181/html/e73958ad5aad92f3dabf50fd2aef96f3.html?monetary>
+
+
+### welfare
+
+<https://www.dicts.cn/dictword20181/html/3543f69c6def96479c2463bda863be0a.html?welfare>
 
