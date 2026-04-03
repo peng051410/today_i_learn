@@ -1,14 +1,15 @@
 
 # Table of Contents
 
--   [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgdee0624)
--   [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org9c6e039)
--   [(52) 一周英语新闻精学（第3期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org943bc3f)
--   [一周英语新闻精学（第4期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻](#org3553ff0)
+-   [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org008428a)
+-   [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org8d7566f)
+-   [(52) 一周英语新闻精学（第3期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgadb1ef4)
+-   [一周英语新闻精学（第4期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻](#orgb0701da)
+-   [(126) 一周英语新闻精学（第5期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orge466609)
 
 
 
-<a id="orgdee0624"></a>
+<a id="org008428a"></a>
 
 # [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=GvqIuDE2Vlc)
 
@@ -73,7 +74,7 @@
 <https://www.dicts.cn/dictword20181/html/9f9627a538428ef9e326d0822f18a5fe.html?horizon>
 
 
-<a id="org9c6e039"></a>
+<a id="org8d7566f"></a>
 
 # [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=XTxFYQHuwQg&t=580s)
 
@@ -153,7 +154,7 @@
 <https://www.bing.com/dict/search?q=out%20of%20step>
 
 
-<a id="org943bc3f"></a>
+<a id="orgadb1ef4"></a>
 
 # [(52) 一周英语新闻精学（第3期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=-opUKYtSj9g)
 
@@ -255,7 +256,7 @@ The Swedish Academy announced today that it had awarded this year's Nobel Prize 
 <https://www.bing.com/dict/search?q=by+far&lq=0&pq>=
 
 
-<a id="org3553ff0"></a>
+<a id="orgb0701da"></a>
 
 # [一周英语新闻精学（第4期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻](https://www.youtube.com/watch?v=evqLwNrFFxE)
 
@@ -334,4 +335,63 @@ With apologies to Jane Austen, it is a truth universally acknowledged that an in
 ### welfare
 
 <https://www.dicts.cn/dictword20181/html/3543f69c6def96479c2463bda863be0a.html?welfare>
+
+
+<a id="orge466609"></a>
+
+# [(126) 一周英语新闻精学（第5期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=SgQXWHYxfFY)
+
+
+## One
+
+1.  Boeing launched a nearly $19 billion share sale that would help the beleaguered plane-maker boost its liquidity. It's also weighing options for its Starliner space capsule operations-getting rid of that business would free Boeing of a deeply troubled program that has racked up more than $1.8 billion in charges.
+
+
+### rack up
+
+<https://www.bing.com/dict/search?q=rack%20up>
+
+
+## Two
+
+1.  Washington Post Says It Will Stop Endorsing Presidential Candidates
+
+The decision was made by Jeff Bezos, the paper's owner, according to a person with knowledge of the talks. Will Lewis, the chief executive, said the paper was "returning to our roots" of not making endorsements for the office. 200,000+ people canceled their Post subscriptions after Friday's announcement, NPR reports. Three members of the 10-person editorial board left the board.
+
+
+## Three
+
+1.  Lost Maya city with temple pyramids and plazas discovered in Mexico
+
+After swapping machetes and binoculars for computer screens and laser mapping, a team of researchers have stumbled on a lost Maya city of temple pyramids, enclosed plazas and a reservoir, all of which had been hidden for centuries by the Mexican jungle.
+
+
+### laser
+
+<https://www.dicts.cn/dictword20181/html/54d10a80d836868d25c77b17e6165921.html?laser>
+
+
+### stumble on
+
+<https://www.bing.com/dict/search?q=stumble%20on>
+
+
+### reservoir
+
+<https://www.dicts.cn/dictword20181/html/4b32fceea635948586c182983bf93b00.html?reservoir>
+
+
+### jungle
+
+<https://www.dicts.cn/dictword20181/html/80021a6132984a2abc59e28a7b0d006c.html?jungle>
+
+
+## Four
+
+1.  A fire in a ballot box in southwestern Washington destroyed hundreds of ballots in a county where the congressional race could help determine control of the US House of Representatives. Clark County Auditor Greg Kimsey said county officials are working through the damaged ballots to contact as many voters as possible and send them replacements.
+
+
+### work through
+
+<https://www.bing.com/dict/search?q=work+through&lq=0&pq>=
 
