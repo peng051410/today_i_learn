@@ -1,15 +1,16 @@
 
 # Table of Contents
 
--   [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org008428a)
--   [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org8d7566f)
--   [(52) 一周英语新闻精学（第3期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgadb1ef4)
--   [一周英语新闻精学（第4期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻](#orgb0701da)
--   [(126) 一周英语新闻精学（第5期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orge466609)
+-   [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org3797244)
+-   [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org741625b)
+-   [(52) 一周英语新闻精学（第3期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org15b1f5b)
+-   [一周英语新闻精学（第4期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻](#orgd68aec8)
+-   [(126) 一周英语新闻精学（第5期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgb262e40)
+-   [(132) 一周英语新闻精学（第6期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org3c1b814)
 
 
 
-<a id="org008428a"></a>
+<a id="org3797244"></a>
 
 # [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=GvqIuDE2Vlc)
 
@@ -74,7 +75,7 @@
 <https://www.dicts.cn/dictword20181/html/9f9627a538428ef9e326d0822f18a5fe.html?horizon>
 
 
-<a id="org8d7566f"></a>
+<a id="org741625b"></a>
 
 # [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=XTxFYQHuwQg&t=580s)
 
@@ -154,7 +155,7 @@
 <https://www.bing.com/dict/search?q=out%20of%20step>
 
 
-<a id="orgadb1ef4"></a>
+<a id="org15b1f5b"></a>
 
 # [(52) 一周英语新闻精学（第3期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=-opUKYtSj9g)
 
@@ -256,7 +257,7 @@ The Swedish Academy announced today that it had awarded this year's Nobel Prize 
 <https://www.bing.com/dict/search?q=by+far&lq=0&pq>=
 
 
-<a id="orgb0701da"></a>
+<a id="orgd68aec8"></a>
 
 # [一周英语新闻精学（第4期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻](https://www.youtube.com/watch?v=evqLwNrFFxE)
 
@@ -337,7 +338,7 @@ With apologies to Jane Austen, it is a truth universally acknowledged that an in
 <https://www.dicts.cn/dictword20181/html/3543f69c6def96479c2463bda863be0a.html?welfare>
 
 
-<a id="orge466609"></a>
+<a id="orgb262e40"></a>
 
 # [(126) 一周英语新闻精学（第5期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=SgQXWHYxfFY)
 
@@ -394,4 +395,60 @@ After swapping machetes and binoculars for computer screens and laser mapping, a
 ### work through
 
 <https://www.bing.com/dict/search?q=work+through&lq=0&pq>=
+
+
+<a id="org3c1b814"></a>
+
+# [(132) 一周英语新闻精学（第6期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=ObCb0Ur8kNI)
+
+
+## One
+
+1.  Last year, the World's 50 Best Restaurants, an influential survey of more than 1,000 culinary experts, awarded its No. 1 ranking to Central, a restaurant in Lima, Peru. It was a crowning moment for Peruvians, who pride themselves on their unique national cuisine, which merges Indigenous ingredients - tropical fruits, mountain grains and seafood - with soy sauce and French fries, sashimi and pesto.
+
+
+### The World's 50 Best Restaurant
+
+<https://en.wikipedia.org/wiki/The_World%27s_50_Best_Restaurants>
+
+
+### crowing
+
+
+### indigenous
+
+
+## Two
+
+1.  A man who took in an orphaned squirrel and made it a social media star vowed Saturday that New York state's decision to seize and euthanize the animal "won't go unheard." The state Department of Environmental Conservation took the animals Wednesday from Longo's home and animal sanctuary in rural Pine City, near the Pennsylvania border. The agency said it had gotten complaints that wildlife was being kept illegally and potentially unsafely. The DEC and the Chemung County Health Department said Friday that the squirrel and raccoon were euthanized so they could be tested for rabies after Peanut bit someone involved in the investigation.
+
+
+### go unheard
+
+<https://www.bing.com/dict/search?q=go%20unheard>
+
+
+### sanctuary
+
+<https://www.dicts.cn/dictword20181/html/1e7b8c97b4e7652d17eb1c9e803ed68a.html?sanctuary>
+
+
+## Three
+
+1.  In a cavernous multi-story mall, customers peruse rows of glass display cabinets chock full of bracelets, rings, necklaces and other finely crafted treasures. This is Shuibei, a former fishing village in southern China that's become the epicenter of the nation's voracious appetite for gold. More than 10,000 businesses are clustered across several city blocks, and the items on display are an increasingly important store of value amid China's stock market volatility and the freefall of its property sector.
+
+
+### treasure
+
+<https://www.dicts.cn/dictword20181/html/fc243939dad993f59b3942172fc63da4.html?treasure>
+
+
+### cluster
+
+<https://www.dicts.cn/dictword20181/html/ede0e65cf178824735c6da48e152e870.html?cluster>
+
+
+### volatile
+
+<https://www.dicts.cn/dictword20181/html/c184edbe3efd87c4456c4ffcbd932125.html?volatile>
 
