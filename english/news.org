@@ -965,8 +965,7 @@ https://www.dicts.cn/dictword20181/html/756d8d192309fb3b7f4e027eed5f83d3.html?pr
 * [[https://www.youtube.com/watch?v=gcBAN18QL2E][(131) 读懂英语新闻（第328期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
 :PROPERTIES:
 :CAPTURED_ON: [2026-04-20 Mon 09:40]
-:END:
-
+:END
 
 ** One
 1. The Justice Department is preparing to sue some major egg producers for allegedly coordinating pricing through an information service that benchmarks prices for the industry, people familiar with the matter said. The civil antitrust lawsuit would target companies that significantly hiked egg prices in 2024 and 2025 due to a supply shortage attributed to avian flu. A case could be filed as soon as next month, but the DOJ and the egg producers could instead reach a settlement, the people said
@@ -1049,3 +1048,31 @@ https://www.dicts.cn/dictword20181/html/2f7331ac6b8803925412868ea7e483bb.html?st
 
 ** courting
 https://www.dicts.cn/dictword20181/html/5fe1e12a84349626bf02ab2079019db3.html?court
+* [[https://www.youtube.com/watch?v=kiU9qI6QFk8][(134) 读懂英语新闻（第330期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2026-04-27 Mon 09:34]
+:END:
+** One
+1. The Trump administration said it would allow executions by firing squad and restore the use of lethal injections in federal death-penalty cases.
+The Justice Department said many of the limits the Biden administration put on carrying out federal death sentences would be removed. President Trump, in his first term, reactivated the federal death penalty after a 17-year hiatus and put 13 inmates to death in its final months. Since his return to office, the DOJ is seeking death sentences against 44 defendants.
+
+*** firing squad
+https://www.bing.com/dict/search?q=firing%20squad
+
+*** lethal
+https://www.dicts.cn/dictword20181/html/a82566e24578620c5e8627b267e3ec5d.html?lethal
+** Two
+2. Jerome Powell, the Federal Reserve chair and frequent target of President Trump's scorn, is no longer under federal criminal investigation, the Justice Department announced today. The move could clear the path for Powell's Trump-appointed successor, Kevin Warsh, to win confirmation in the Senate. A key Republican senator, Thom Tillis of North Carolina, vowed to block Warsh's confirmation unless the matter was dropped.
+
+*** scorn
+https://www.dicts.cn/dictword20181/html/7c80be8d6ecd8b5b76b2775ce970382e.html?scorn
+
+** Three
+3. Elon Musk has used SpaceX as a piggy bank
+SpaceX is the jewel of Elon Musk's business empire, a dominant force in the private space industry. It has also lent Musk hundreds of millions of dollars, and injected funds into his other struggling businesses, often with tiny interest rates. While legal, the moves benefited Musk to an unusual degree, even in the opaque world of private companies. Some SpaceX investors were concerned that he was prioritizing himself over other shareholders.
+
+*** piggy bank
+https://www.bing.com/dict/search?q=piggy%20bank
+
+*** opaque
+https://www.dicts.cn/dictword20181/html/fb0c80511e9f8bcf62c27ca5ea55fe1d.html?opaque
