@@ -973,7 +973,10 @@ https://www.dicts.cn/dictword20181/html/756d8d192309fb3b7f4e027eed5f83d3.html?pr
 ** Two
 2. New research is giving us an understanding of how the Colorado River, which carved the Grand Canyon, arrived at the region 6.6 million years ago, Reuters reports. The study — published this week in the journal Science - found the river began to flow into a basin in northeastern Arizona, forming a wide and shallow lake east of where the Grand Canyon later took shape.
 
-*** Colorado River
+*** Colorado River                                                            :blog:
+:PROPERTIES:
+:ID:       DB8A25F7-5665-47DD-ADFE-4528A07C9D3E
+:END:
 https://en.wikipedia.org/wiki/Colorado_River?useskin=vector
 
 *** carve
@@ -1082,3 +1085,24 @@ https://www.dicts.cn/dictword20181/html/fb0c80511e9f8bcf62c27ca5ea55fe1d.html?op
 :END:
 ** courtesy
 https://www.dicts.cn/dictword20181/html/3f586c2668c632ef45ca99e39119cf6a.html?courtesy
+* [[https://www.youtube.com/watch?v=JlQs8c83ek0][(137) 读懂英语新闻（第331期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2026-04-30 Thu 09:31]
+:END:
+** One
+1. Prosecutors charged the suspected White House Correspondents' Dinner gunman with attempting to assassinate President Trump. Cole Allen, 31, is accused of opening fire Saturday outside the event at a Washington hotel, where he was a guest. He faces a potential life sentence. One of his federal public defenders stressed that Allen was presumed innocent and said he had no prior arrests or convictions on his record.
+
+*** [#A] correspondent
+https://www.dicts.cn/dictword20181/html/8a2b3e7d7a18c5e1218ce12ec5b18527.html?correspondent
+
+*** [#A] stress
+https://www.dicts.cn/dictword20181/html/31660aa9040ab4fdd1af894db65afc56.html?stress
+
+** Two
+2. South Korea is aging faster than any other nation. Over the last 15 years, the number of people over 65 has doubled to more than one fifth of the population, creating huge challenges for doctors, social workers and caregivers.In response, many Korean cities are using A.I. tools to check in on tens of thousands of older adults who live alone. The technology has problems, but the bots have been embraced with a level of warmth that has surprised even their creators.
+
+** Three
+3. A controversial proposal in California to temporarily increase taxes on billionaires has enough signatures to qualify for the November ballot, a labor union backing the measure says. The proposal would impose a one-time, 5% tax on the net worth of individuals worth more than $1 billion living in the state as of Jan. 1, 2026. Real estate, pensions and retirement accounts are excluded. The goal is to generate $100 billion in revenue, which would largely be used to offset federal funding cuts to healthcare for low-income people.
+
+*** controversial
+https://www.dicts.cn/dictword20181/html/ef4db58f31d7ed1e1135983d94a77726.html?controversial
