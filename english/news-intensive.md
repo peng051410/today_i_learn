@@ -1,17 +1,18 @@
 
 # Table of Contents
 
--   [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgd59faa2)
--   [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org3c48378)
--   [(52) 一周英语新闻精学（第3期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org2f2f632)
--   [一周英语新闻精学（第4期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻](#orga53f769)
--   [(126) 一周英语新闻精学（第5期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org3c6da74)
--   [(132) 一周英语新闻精学（第6期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org084d474)
--   [(137) 一周英语新闻精学（第7期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org7ebacff)
+-   [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org7845dbf)
+-   [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgef28f44)
+-   [(52) 一周英语新闻精学（第3期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgabb730b)
+-   [一周英语新闻精学（第4期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻](#org6d3d0ad)
+-   [(126) 一周英语新闻精学（第5期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org59262a9)
+-   [(132) 一周英语新闻精学（第6期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org1467be4)
+-   [(137) 一周英语新闻精学（第7期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgc309514)
+-   [(141) 一周英语新闻精学（第8期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org584c00e)
 
 
 
-<a id="orgd59faa2"></a>
+<a id="org7845dbf"></a>
 
 # [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=GvqIuDE2Vlc)
 
@@ -76,7 +77,7 @@
 <https://www.dicts.cn/dictword20181/html/9f9627a538428ef9e326d0822f18a5fe.html?horizon>
 
 
-<a id="org3c48378"></a>
+<a id="orgef28f44"></a>
 
 # [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=XTxFYQHuwQg&t=580s)
 
@@ -156,7 +157,7 @@
 <https://www.bing.com/dict/search?q=out%20of%20step>
 
 
-<a id="org2f2f632"></a>
+<a id="orgabb730b"></a>
 
 # [(52) 一周英语新闻精学（第3期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=-opUKYtSj9g)
 
@@ -258,7 +259,7 @@ The Swedish Academy announced today that it had awarded this year's Nobel Prize 
 <https://www.bing.com/dict/search?q=by+far&lq=0&pq>=
 
 
-<a id="orga53f769"></a>
+<a id="org6d3d0ad"></a>
 
 # [一周英语新闻精学（第4期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻](https://www.youtube.com/watch?v=evqLwNrFFxE)
 
@@ -339,7 +340,7 @@ With apologies to Jane Austen, it is a truth universally acknowledged that an in
 <https://www.dicts.cn/dictword20181/html/3543f69c6def96479c2463bda863be0a.html?welfare>
 
 
-<a id="org3c6da74"></a>
+<a id="org59262a9"></a>
 
 # [(126) 一周英语新闻精学（第5期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=SgQXWHYxfFY)
 
@@ -398,7 +399,7 @@ After swapping machetes and binoculars for computer screens and laser mapping, a
 <https://www.bing.com/dict/search?q=work+through&lq=0&pq>=
 
 
-<a id="org084d474"></a>
+<a id="org1467be4"></a>
 
 # [(132) 一周英语新闻精学（第6期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=ObCb0Ur8kNI)
 
@@ -458,7 +459,7 @@ After swapping machetes and binoculars for computer screens and laser mapping, a
 <https://www.dicts.cn/dictword20181/html/c184edbe3efd87c4456c4ffcbd932125.html?volatile>
 
 
-<a id="org7ebacff"></a>
+<a id="orgc309514"></a>
 
 # [(137) 一周英语新闻精学（第7期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=-O5glO--TMo)
 
@@ -526,4 +527,44 @@ the US.
 ### underestimate
 
 <https://www.dicts.cn/dictword20181/html/a51930a31f131d1e5421a219c15041ce.html?underestimate>
+
+
+<a id="org584c00e"></a>
+
+# [(141) 一周英语新闻精学（第8期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=9otGAyeHRtk)
+
+
+## One
+
+1.  Novo Nordisk is launching its top-selling Wegovy obesity drug in China at a fraction of the US price, a key step in unlocking a big, fast-growing market for its blockbuster franchise. Initial prescriptions for the drug are expected to be issued in Shanghai this week. While many patients in the US and Europe rely on insurance providers for at least a portion of the drug's costs, Chinese buyers will largely have to pay out of pocket. Novo is exploring ways to make the drug more affordable, including commercial insurance.
+
+
+### Novo Nordisk
+
+<https://en.wikipedia.org/wiki/Novo_Nordisk?useskin=vector>
+
+
+### franchise
+
+<https://www.dicts.cn/dictword20181/html/19fc5834efb1cbdbfb9dbae0431760c1.html?franchise>
+
+
+### out of pocket
+
+<https://www.bing.com/dict/search?q=out+of+pocket>
+
+
+## Two
+
+2、Slaying dragons for 20 years You might not have played World of Warcraft, but you probably know of it. The game, which turns 20 this year, inspired an Emmy-winning "South Park" episode and a (not-so-great) movie. Its fans include celebrities like Henry Cavill and Mila Kunis. The game was truly huge. When it was released 20 years ago, so many people tried to play that the servers struggled for weeks to handle the demand. At its peak, WoW had more than 12 million monthly subscribers worldwide, making it one of the biggest games of its time. More than 100 million people have played it at one point or another.
+
+
+### at one point or another
+
+<https://ludwig.guru/s/at+one+point+or+another>
+
+
+## Three
+
+1.  A significant number of young adults get their news from social media "news influencers" that generally don't have traditional journalism training or news experience, according to new data from Pew Research Center. Nearly 40% of young adults under 30 rely on these news influencers to stay updated on current events and politics, Pew found. The vast majority of those influencers—77%—aren't affiliated with a news organization or have never worked in the news industry.
 
