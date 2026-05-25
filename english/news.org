@@ -1144,7 +1144,6 @@ https://www.dicts.cn/dictword20181/html/4918ade7b17c69f56d4721047a781042.html?ar
 :CAPTURED_ON: [2026-05-08 Fri 09:21]
 :END:
 
-
 * [[https://www.youtube.com/watch?v=tKoZVEntfHc][(139) 读懂英语新闻（第333期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读 - YouTube]]
 :PROPERTIES:
 :CAPTURED_ON: [2026-05-08 Fri 09:26]
@@ -1316,3 +1315,28 @@ https://www.bing.com/dict/search?q=tax+return&lq=0&pq=
 
 ** avert
 https://www.dicts.cn/dictword20181/html/ce64bf2611e36a4281307757d4b20301.html?avert
+
+* [[https://www.youtube.com/watch?v=1XDd_d3zsUw][(150) Understanding English News (Episode 338) | Learn English Through News | Rapid Vocabulary Expansio... - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2026-05-25 Mon 09:35]
+:END:
+** One
+1. Most green-card applicants will need to go abroad to apply for permanent residency at an American consulate, the Trump administration announced. Today, foreigners file from within the U.S. The change marks a shift in how the immigration system has functioned for decades, and will affect immigrants in the country illegally as well as foreign professionals sponsored by U.S. companies. Leaving the U.S. to comply with the new policy means risking losing whatever legal status they held and being unable to return.
+
+*** consulate
+https://www.dicts.cn/dictword20181/html/6be82dc5acf83a39429f1e73d75831b3.html?consulate
+
+*** comply with
+https://www.bing.com/dict/search?q=comply%20with
+
+** Two
+2. Anthropic is said to be near the close of its latest funding round, which may top $30 billion at a valuation above $900 billion, vaulting it ahead of rival OpenAI to become the world's most valuable Al company. The company has developed a series of artificial intelligence tools aimed at overhauling the way businesses handle tasks from coding to cybersecurity, and in doing so has shaken equities markets to their core.
+
+*** vault
+https://www.dicts.cn/dictword20181/html/6a69b991ca8544fa56ce0f9bc151d822.html?vault
+
+** Three
+3. This year's Atlantic hurricane season is expected to be below average in storm activity for the first time in more than a decade, according to NOAA meteorologists' annual forecast. Residents should still take the season seriously and prepare. "It's very important to understand that it only takes one," NOAA administrator Neil Jacobs told reporters.
+
+*** NOAA
+https://en.wikipedia.org/w/index.php?title=National_Oceanic_and_Atmospheric_Administration&useskin=vector
