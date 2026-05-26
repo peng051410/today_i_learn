@@ -1,19 +1,20 @@
 
 # Table of Contents
 
--   [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgedb8b4c)
--   [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org1ee47cb)
--   [(52) 一周英语新闻精学（第3期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org40c8fce)
--   [一周英语新闻精学（第4期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻](#org9a3d6c4)
--   [(126) 一周英语新闻精学（第5期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org338081a)
--   [(132) 一周英语新闻精学（第6期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgac52519)
--   [(137) 一周英语新闻精学（第7期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgd8cc1b0)
--   [(141) 一周英语新闻精学（第8期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org8ab16db)
--   [(149) 一周英语新闻精学（第9期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgb478d63)
+-   [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org621620b)
+-   [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org77e1b4b)
+-   [(52) 一周英语新闻精学（第3期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orga403222)
+-   [一周英语新闻精学（第4期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻](#org7f07046)
+-   [(126) 一周英语新闻精学（第5期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org1cacbb2)
+-   [(132) 一周英语新闻精学（第6期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org519f66d)
+-   [(137) 一周英语新闻精学（第7期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org6b7496d)
+-   [(141) 一周英语新闻精学（第8期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org9098497)
+-   [(149) 一周英语新闻精学（第9期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org2753797)
+-   [(150) 一周英语新闻精学（第10期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org8ba8ca9)
 
 
 
-<a id="orgedb8b4c"></a>
+<a id="org621620b"></a>
 
 # [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=GvqIuDE2Vlc)
 
@@ -78,7 +79,7 @@
 <https://www.dicts.cn/dictword20181/html/9f9627a538428ef9e326d0822f18a5fe.html?horizon>
 
 
-<a id="org1ee47cb"></a>
+<a id="org77e1b4b"></a>
 
 # [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=XTxFYQHuwQg&t=580s)
 
@@ -158,7 +159,7 @@
 <https://www.bing.com/dict/search?q=out%20of%20step>
 
 
-<a id="org40c8fce"></a>
+<a id="orga403222"></a>
 
 # [(52) 一周英语新闻精学（第3期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=-opUKYtSj9g)
 
@@ -260,7 +261,7 @@ The Swedish Academy announced today that it had awarded this year's Nobel Prize 
 <https://www.bing.com/dict/search?q=by+far&lq=0&pq>=
 
 
-<a id="org9a3d6c4"></a>
+<a id="org7f07046"></a>
 
 # [一周英语新闻精学（第4期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻](https://www.youtube.com/watch?v=evqLwNrFFxE)
 
@@ -341,7 +342,7 @@ With apologies to Jane Austen, it is a truth universally acknowledged that an in
 <https://www.dicts.cn/dictword20181/html/3543f69c6def96479c2463bda863be0a.html?welfare>
 
 
-<a id="org338081a"></a>
+<a id="org1cacbb2"></a>
 
 # [(126) 一周英语新闻精学（第5期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=SgQXWHYxfFY)
 
@@ -400,7 +401,7 @@ After swapping machetes and binoculars for computer screens and laser mapping, a
 <https://www.bing.com/dict/search?q=work+through&lq=0&pq>=
 
 
-<a id="orgac52519"></a>
+<a id="org519f66d"></a>
 
 # [(132) 一周英语新闻精学（第6期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=ObCb0Ur8kNI)
 
@@ -460,7 +461,7 @@ After swapping machetes and binoculars for computer screens and laser mapping, a
 <https://www.dicts.cn/dictword20181/html/c184edbe3efd87c4456c4ffcbd932125.html?volatile>
 
 
-<a id="orgd8cc1b0"></a>
+<a id="org6b7496d"></a>
 
 # [(137) 一周英语新闻精学（第7期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=-O5glO--TMo)
 
@@ -530,7 +531,7 @@ the US.
 <https://www.dicts.cn/dictword20181/html/a51930a31f131d1e5421a219c15041ce.html?underestimate>
 
 
-<a id="org8ab16db"></a>
+<a id="org9098497"></a>
 
 # [(141) 一周英语新闻精学（第8期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=9otGAyeHRtk)
 
@@ -570,7 +571,7 @@ the US.
 1.  A significant number of young adults get their news from social media "news influencers" that generally don't have traditional journalism training or news experience, according to new data from Pew Research Center. Nearly 40% of young adults under 30 rely on these news influencers to stay updated on current events and politics, Pew found. The vast majority of those influencers—77%—aren't affiliated with a news organization or have never worked in the news industry.
 
 
-<a id="orgb478d63"></a>
+<a id="org2753797"></a>
 
 # [(149) 一周英语新闻精学（第9期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=G3f_1kOidJ0)
 
@@ -608,4 +609,41 @@ Fees to select seats or to sit in rows with a few extra inches of legroom have b
 ### stretch
 
 <https://www.dicts.cn/dictword20181/html/6c36942fec492a9acf7b2675e0512a9e.html?stretch>
+
+
+<a id="org8ba8ca9"></a>
+
+# [(150) 一周英语新闻精学（第10期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=gATsQszdpZo)
+
+
+## One
+
+1.  Biden's sweeping pardon of Hunter - arguably the broadest since President Ford's pardon of Richard Nixon — drew condemnation from even Biden's staunchest allies in Congress. Many sympathized with Biden's fatherly instincts, especially given the tragedies his family has endured — but warned that the pardon would further erode Americans' trust in government. For some liberal pundits, the about-face was an astonishing betrayal: Biden had explicitly ruled out pardoning his son on multiple occasions, including after it was clear Trump had won the election.
+
+
+### tragedy
+
+<https://www.dicts.cn/dictword20181/html/0964cbb4b0031851fe357c2ac4f3b2a9.html?tragedy>
+
+
+### rule out
+
+<https://www.bing.com/dict/search?q=rule%20out>
+
+
+## Two
+
+1.  Financial services company Empower surveyed more than 2,200 Americans in September and the Gen Z respondents- born between 1997 and 2012 — said they'd need to make $587,000 a year to be "financially successful." That's roughly 3x-6x what any other age group said they'd need. It's almost nine times the average U.S. salary.
+
+These results underlie a generational shift to the political right. Young voters were already moving away from a liberal worldview. But if these attitudes hold, the implications for the next few election cycles are profound.
+
+
+## Three
+
+1.  Family-friendly films - and animated movies in particular — have dominated this year's box office. Disney's "Inside Out 2" set multiple records in its $155 million domestic debut earlier this year. The movie became the highest-grossing animated film of all time — and the highest- grossing picture in North America so far this year. Universal's "Wicked," rated PG, set a record for the biggest opening weekend for a Broadway adaptation last weekend, with a $114 million domestic debut. PG-rated films have made up one-third of ticket sales at the domestic box office this year — the highest percentage since 1995.
+
+
+### box office
+
+<https://www.bing.com/dict/search?q=box%20office>
 
