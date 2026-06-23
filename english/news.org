@@ -1492,3 +1492,33 @@ https://www.bing.com/dict/search?q=sell-off&go=Search
 :CAPTURED_ON: [2026-06-11 Thu 09:01]
 :END:
 
+
+* [[https://www.youtube.com/watch?v=wxXTVqXuutY][(177) 读懂英语新闻（第343期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2026-06-23 Tue 09:46]
+:END:
+
+
+** One
+1. Anthropic is releasing a next-generation "Mythos- class" model to the general public with guardrails that remove dangerous capabilities related to areas such as cybersecurity and biological research. The large language model called Claude Fable 5 will mostly let users query Mythos, which the company previously deemed too dangerous for general release. Fable 5 will cost more than Opus 4.8, but will remember things better, the company said.
+
+*** deem
+https://www.dicts.cn/dictword20181/html/9e81211c77ddf38f9f491a7650cbcb80.html?deem
+
+** Two
+2. OpenAl is preparing to transform ChatGPT into a "superapp" that prioritizes coding tools and agents — the biggest overhaul since the chatbot launched 3½ years ago, the Financial Times reports. OpenAI is betting its future on winning lucrative business customers, escalating an enterprise arms race with Anthropic. An OpenAl employee told the paper: "Chat is dead."
+
+*** lucrative
+https://www.dicts.cn/dictword20181/html/4ab3e3e9545f3f21508f481814d928e4.html?lucrative
+
+** Three
+3. A federal judge struck down a $100,000 fee Donald Trump ordered for H-1B visa applications, providing a reprieve for US technology companies that rely on hiring skilled foreign workers. The US president's decree dramatically increasing the cost of the popular visa is an unlawful tax and must be vacated, US District Judge Leo T. Sorokin in Massachusetts said in a Monday ruling. The government is likely to appeal the decision.
+
+*** strike down
+https://www.bing.com/dict/search?go=Search&q=strike+down
+
+*** decree
+https://www.dicts.cn/dictword20181/html/559163edf8db23dc7a5f772489e798c3.html?decree
+
+*** vacate
+https://www.dicts.cn/dictword20181/html/e7f6f9d89f55f7e1d161e0b7f8e3627b.html?vacate
