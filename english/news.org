@@ -1558,3 +1558,33 @@ https://www.bing.com/dict/search?q=year-to-date
 :CAPTURED_ON: [2026-06-26 Fri 09:44]
 :END:
 
+
+* [[https://www.youtube.com/watch?v=-WQEfZYcEvk][(180) 读懂英语新闻（第345期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2026-06-30 Tue 09:34]
+:END:
+
+
+** One
+1. SpaceX's market cap surpassed Amazon's, ending the day as the world's fifth-largest public company. SpaceX's shares have surged nearly 50% in their first two days of trading and left in their wake a trail of remorseful traders who had sold too early. Social-media was littered with memes about lucky investors celebrating their windfalls, including those with just one or two SpaceX shares. Today also was the first day that investors could buy options contracts tied to SpaceX. The volume of trading smashed the first-day record Meta set in 2012.
+
+*** market cap
+https://www.bing.com/dict/search?q=market%20cap
+
+*** be littered with
+https://www.bing.com/dict/search?q=be%20littered%20with
+
+*** option contract
+https://www.bing.com/dict/search?q=option%20contract
+
+** Two
+2. Donald Trump keeps insisting that the Strait of Hormuz will be open by Friday, but his European allies have made clear on the sidelines of the Group of Seven summit that they don't share his optimism. Although the US and Iran reached an interim agreement on Sunday, they have offered differing accounts of what it entails, and no official document has been released.
+
+*** interim
+https://www.dicts.cn/dictword20181/html/7f444de53b2a2f88e79a1f9a6b5fb9d6.html?interim
+
+*** entail
+https://www.dicts.cn/dictword20181/html/d098b176a8cc4007cfbfdd2e12b7c06c.html?entail
+
+** Three
+3. The British government said today that it plans to restrict access to social media for all children under 16, starting early next year, to protect young people from harmful online content. The ban is also set to extend to some game platforms and livestreaming apps. Several other countries, including Spain and Denmark, have announced similar plans.
