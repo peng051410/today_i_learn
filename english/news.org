@@ -1747,12 +1747,10 @@ https://www.dicts.cn/dictword20181/html/bf50102120449e561addbbc2e19aa11f.html?se
 :CAPTURED_ON: [2026-07-13 Mon 09:44]
 :END:
 
-
 * [[https://www.youtube.com/watch?v=5Wv69P-pcmc][(11) 读懂英语新闻（第350期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube]]
 :PROPERTIES:
 :CAPTURED_ON: [2026-07-14 Tue 09:39]
 :END:
-
 
 ** One
 1, Hardly a day goes by without OpenAl ruffling some feathers, but this time it may be trying to smooth a few. The company has begun preliminary talks to hand the US government a 5% stake, making the case that giving the public a slice of the company is the best way to share upside from the AlI boom, the Financial Times reported.
@@ -1760,7 +1758,7 @@ https://www.dicts.cn/dictword20181/html/bf50102120449e561addbbc2e19aa11f.html?se
 *** ruffle feathers
 https://www.bing.com/dict/search?q=ruffle+feathers&lq=0&pq=
 
-*** smooth
+*** [#A] smooth
 https://www.dicts.cn/dictword20181/html/1ff868ac5e7e3e5ff4f31d782e5facbe.html?smooth
 
 *** [#A] stake
@@ -1879,7 +1877,7 @@ https://www.bing.com/dict/search?q=as%20of%20now
 :PROPERTIES:
 :CAPTURED_ON: [2026-07-21 Tue 09:33]
 :END:
-
+        
 ** tribe
 https://www.dicts.cn/dictword20181/html/d0dc7c1dab3ed14b9b9a8f594a9d4828.html?tribe
 
@@ -1887,7 +1885,6 @@ https://www.dicts.cn/dictword20181/html/d0dc7c1dab3ed14b9b9a8f594a9d4828.html?tr
 :PROPERTIES:
 :CAPTURED_ON: [2026-07-23 Thu 09:41]
 :END:
-
 
 ** One
 1, Delayed federal health tracking and limited testing are making it harder to trace the source of an ongoing outbreak of a parasitic disease that's triggering "explosive diarrhea," Axios' Herb Scribner reports. The CDC has identified at least 843 confirmed domestic cases and over 1,500 that require further analysis.
@@ -1983,7 +1980,6 @@ https://www.dicts.cn/dictword20181/html/fcc032ae954dc0bfac0d379950e0cf91.html?ca
 :CAPTURED_ON: [2026-07-28 Tue 09:44]
 :END:
 
-
 ** One
 1. Revelers celebrated in the streets of Madrid after Spain's men's national soccer team hoisted this year's World Cup trophy. Their victory over Argentina — a composed display of control-first soccer — was a thrilling end to a tournament that brought the world to its feet time and time again.
 
@@ -2005,6 +2001,7 @@ https://www.dicts.cn/dictword20181/html/8b2d412e73af85a43caba335b15986e6.html?re
 
 ** Three
 3. France voted today to become the first European country to restrict access to social media for anyone under 15. The new law also bans the use of cellphones in high schools. The country joins a wave of governments around the world promising to protect young people from online harm. In Australia, enforcement of their ban has largely failed. For France, success may rely on intervention from the European Union, which can penalize internet platforms.
+
 * [[https://www.youtube.com/watch?v=-cPrBtx5PCg][(10) Weekly Listening Compilation (Issues 354 & 355) | Intensive Vocabulary Listening | Authentic Amer... - YouTube]]
 :PROPERTIES:
 :CAPTURED_ON: [2026-07-29 Wed 09:49]
@@ -2026,7 +2023,6 @@ https://www.dicts.cn/dictword20181/html/9091a95f7b697c90e412b5613a77161c.html?re
 :CAPTURED_ON: [2026-07-30 Thu 09:25]
 :END:
 
-
 ** One
 1. Every four years, the prestigious Fields Medals are awarded to some of the most accomplished mathematicians under the age of 40. This year's prizes were handed out today to Hong Wang, Jacob Tsimerman, John Pardon and Yu Deng. They each have spent their careers working on problems that seem almost impossibly complex. But it's always fun to read about what the some of the world's sharpest minds are spending their time on. Pardon focused on theoretical loops; Wang delivered a proof about a spinning pencil.
 
@@ -2039,7 +2035,7 @@ https://en.wikipedia.org/w/index.php?title=Fields_Medal&useskin=vector
 *** hand out
 https://www.bing.com/dict/search?q=hand%20out
 
-*** sharp
+*** [#A] sharp
 https://www.dicts.cn/dictword20181/html/64d63a0c3ba2f7d3ee89fe8029b9e25a.html?sharp
 
 ** Two
@@ -2063,3 +2059,47 @@ https://www.dicts.cn/dictword20181/html/27be977a6710a95ffc64a80b617ce65e.html?bo
 *** tie up
 https://www.bing.com/dict/search?q=tie%20up
 
+
+* [[https://www.youtube.com/watch?v=7GLoO52d3GA&t=11s][(11) 美剧练听力（第356期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第356期新闻精读配套听力练习 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2026-07-31 Fri 09:27]
+:END:
+
+
+** pocket
+https://www.dicts.cn/dictword20181/html/8cb743293808bbb546ea1b7b13df33c3.html?pocket
+
+* [[https://www.youtube.com/watch?v=UyQ3p3-TDf0][(11) 读懂英语新闻（第357期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2026-07-31 Fri 09:39]
+:END:
+
+** One
+1. It has been a rough season when it comes to food-borne illnesses A salmonella outbreak led to the recall of 19 million eggs. An E. coli infection was traced to some organic blueberries. And as of its latest update, the C.D.C. has confirmed or is investigating a record 11,500 cases of cyclosporiasis, an intestinal illness caused by a parasite and transmitted through food or water contaminated with human feces. But top health regulators insisted this week that consumers could still trust what they were eating.
+
+*** [#A] recall
+https://www.dicts.cn/dictword20181/html/bb51f584dea04cf11e69cf01cf1cafea.html?recall
+
+*** parasite
+https://www.dicts.cn/dictword20181/html/026fa5087ef985a4a2d6d87f182382e9.html?parasite
+
+*** contaminate
+https://www.dicts.cn/dictword20181/html/7ff27b0c103988cb56abcd6cc136763d.html?contaminate
+
+*** feces
+https://www.dicts.cn/dictword20181/html/40ad3d4b5816708ef9d2ca9dece7a98d.html?feces
+
+** Two
+2. Al chatbots know how to make biological weapons. Some will teach you.
+After OpenAl enhanced the brain power of its chatbot last summer, hundreds of users worldwide began asking it how to make and deploy biological weapons and poisons. The models gave step-by- step instructions. OpenAI banned these accounts but didn't alert authorities.
+
+** Three
+3. A 6.8-magnitude earthquake hit southwest Japan today, igniting fires, destroying buildings, homes and highways, and injuring dozens. Rescuers searched through the rubble of a partly collapsed shopping mall after fire officials said that people appeared to be trapped inside. Social media video captured the moment that the quake damaged Kumamoto Castle, one of Japan's oldest and grandest castles.
+
+*** ignite
+https://www.dicts.cn/dictword20181/html/22476af4e043de1a66e1ff1020ef73e2.html?ignite
+
+*** rubble
+https://www.dicts.cn/dictword20181/html/c4a5696055178fa226085094c0b283cf.html?rubble
+
+        
