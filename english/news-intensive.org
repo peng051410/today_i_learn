@@ -474,7 +474,6 @@ https://www.bing.com/dict/search?q=winter%20break
 :CAPTURED_ON: [2026-08-05 Wed 09:22]
 :END:
 
-
 ** One
 1, The bald eagle is officially the national bird after President Biden yesterday signed legislation formally designating the previously unofficial American emblem. The bald eagle has symbolized America since it was chosen for the Great Seal in 1782. It's also on the president's flag, the mace of the House of Representatives, military insignia and billions of $1 bills. Benjamin Franklin criticized the original eagle design for the Great Seal, writing in a letter to his daughter that it looked more like a turkey, according to The Franklin Institute, in Philadelphia. Franklin wrote that the "Bald Eagle ... is a Bird of bad moral Character. He does not get his Living honestly ... is too lazy to fish for himself."
 
@@ -504,3 +503,55 @@ https://www.dicts.cn/dictword20181/html/541fcbd31c9856929fb67c535991aac1.html?of
 
 *** chant
 https://www.dicts.cn/dictword20181/html/4f2beaf706aba9257f2ecdb461a39cb7.html?chant
+* [[https://www.youtube.com/watch?v=RbJXBEpuaeE][(8) 一周英语新闻精学（第14期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2026-08-14 Fri 09:46]
+:END:
+** One
+1. Even in a wild election year, America's short attention span for news led to dramatic ups and downs in search trends as the media pivoted from one major story to the next. The Paris Games were the news event that saw the largest spike in interest compared to others analyzed by Axios. Only a small handful of people and news events held public attention over long periods. Trump, of course, was one of them. He became the first former president convicted of felony crimes, survived two assassination attempts and was the first Republican to win the popular vote in two decades.
+
+Attention on President Biden shot up after his catastrophic debate performance in June and peaked around July 21, when he dropped out of the race and endorsed Vice President Harris. Elon Musk attracted search interest all year. But it boomed in October and early November as he unleashed unprecedented sums of cash to get Trump elected and personally campaigned in Pennsylvania. Among celebrities and athletes, Taylor Swift once again commanded an outsize share of attention.
+
+*** [#A] wild
+https://www.dicts.cn/dictword20181/html/db732a05ef08968faca069d2c0608bbf.html?wild
+
+*** spike
+https://www.dicts.cn/dictword20181/html/688821703214b40d69cee9db5b5d524f.html?spike
+
+*** shoot up
+https://www.bing.com/dict/search?q=shoot%20up
+
+*** command
+https://www.dicts.cn/dictword20181/html/a4657ef3d69de13d3f7f50da401dc5db.html?command
+
+** Two
+** Three
+
+* [[https://www.youtube.com/watch?v=rvF2oqrTYqk][(9) 一周英语新闻精学（第15期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2026-08-18 Tue 09:42]
+:END:
+
+** One
+1. Meta is ending fact-checking and removing restrictions on speech across Facebook and Instagram. CEO Mark Zuckerberg described the change as an attempt to restore free expression on the platforms. He said that starting in the U.S., Meta will have a system, similar to X's, that lets users flag posts they think need more context. The company will continue to target illegal behavior. Facebook's content-policing expanded in the wake of Donald Trump's first presidential election; now Zuckerberg is looking to align himself and Meta with the incoming administration.
+
+*** in the wake of
+https://www.bing.com/dict/search?q=in%20the%20wake%20of
+
+** Two
+2. D.C.'s panda-conomy is taking off as the Smithsonian National Zoo's bears debut later this month. After weeks of quarantine, 3-year-olds Bao Li and Qing Bao will preview for a limited number of zoo members starting Friday. The public unveiling is Jan. 24. Locals and tourists can climb into the Bamboo Bar starting Friday. The panda-themed pop-up takes over Duke's Counter, across from the zoo. There'll be a green habitat-chic decor plus panda-rita cocktails. Expect bamboo everything, from edible garnishes to sustainable straws. Several D.C. hotels are hawking panda- themed packages.
+
+*** habitat
+https://www.dicts.cn/dictword20181/html/bbbd24f9f0528cd9b1a0c3aff0b48457.html?habitat
+
+*** straw
+https://www.dicts.cn/dictword20181/html/0e05467f3d143eab6b5cb4560ca4cb44.html?straw
+
+*** hawk
+https://www.dicts.cn/dictword20181/html/35795577323ce047398222f5c47f0dc0.html?hawk
+
+** Three
+3. Unemployed office workers are having a harder time finding new jobs.
+As of November, more than 1.6 million out-of-work Americans have been job hunting for at least six months, according to the Labor Department. That's up more than 50% since the end of 2022. The pain is largely in high- paying white-collar jobs, including in tech, law and media.
+
+        
