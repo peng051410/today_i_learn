@@ -647,3 +647,33 @@ https://www.bing.com/dict/search?q=work%20out
 
 *** check off
 https://www.bing.com/dict/search?q=check%20off
+
+* [[https://www.youtube.com/watch?v=A7_r-NdgELE][(2) 一周英语新闻精学（第18期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2026-09-03 Thu 09:36]
+:END:
+
+
+** One
+1. Microsoft and OpenAI are investigating whether data output from OpenAI's technology was obtained in an unauthorized manner by a group linked to DeepSeek, people familiar said. Donald Trump's artificial intelligence czar said there's "substantial evidence" that the Chinese AI startup leaned on the output of OpenAI's models to help develop its own technology. Meanwhile, Alibaba is touting a new Al model that's superior to DeepSeek's and Meta's.
+
+*** substantial
+https://www.dicts.cn/dictword20181/html/56778ff71362b7e0f8fc090303112d41.html?substantial
+
+*** lean on
+https://www.bing.com/dict/search?q=lean%20on
+
+*** tout
+https://www.dicts.cn/dictword20181/html/6c38be6a3697de19cb8cae586084b54e.html?tout
+
+*** superior
+https://www.dicts.cn/dictword20181/html/b01399664c733fab28c0c650d738f77e.html?superior
+
+** Two
+2. Trump's surprise announcement to halt trillions of dollars in federal spending sparked panic in Washington before the directive was temporarily put on hold by a judge. The order touched on a swath of programs as well as other forms of aid to states, cities and schools. Also at risk is funding for US universities that would disrupt scientific research. A freeze would also affect a $52 billion semiconductor subsidy program if it's allowed to proceed.
+
+*** put on hold
+https://www.bing.com/dict/search?q=put%20on%20hold
+
+** Three
+3. Call me from anywhere. Apple has been working with SpaceX and T-Mobile to add support for the Starlink network in its latest iPhone software, people familiar said. The service is also designed to work automatically, without requiring users to point their phone at the sky. Meanwhile, Apple's next watch may be able to send texts via satellite.
