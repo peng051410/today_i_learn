@@ -2427,3 +2427,38 @@ https://www.dicts.cn/dictword20181/html/8ca5964b1aff2b9c6f4091f7cfe16524.html?gl
 
 *** debris
 https://www.dicts.cn/dictword20181/html/661915ff886fa8eb72b714775a825cdf.html?debris
+
+* [[https://www.youtube.com/watch?v=5x5Bgtq1FY4][(2) Understanding English News (Episode 367) | Learn English Through News | Rapid Vocabulary Growth |... - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2026-09-16 Wed 09:28]
+:END:
+
+** One
+1. New York City Mayor Zohran Mamdani released more than 170,000 pages of records about the aftermath of the Sept. 11, 2001 attacks, including documents showing officials were weighing potential liability from toxic exposure while trying to reassure the public about the safety of Lower Manhattan. The twin towers' collapse created massive dust clouds that enveloped much of downtown, covering highly populated neighborhoods with ash, debris and harmful particles.
+
+*** weigh
+https://www.dicts.cn/dictword20181/html/2b152268b101b648d01592aa05635143.html?weigh
+
+*** liability
+https://www.dicts.cn/dictword20181/html/05bbc029928a6ec91790e3cafef7db58.html?liability
+
+*** toxic
+https://www.dicts.cn/dictword20181/html/f05dc6245a59c72a7dacc126d1373893.html?toxic
+
+*** reassure
+https://www.dicts.cn/dictword20181/html/49ece4f4f6de9f5652c3843c36f4facb.html?reassure
+
+*** ash
+https://www.dicts.cn/dictword20181/html/79878521277c1fce8dedfe4a82739a21.html?ash
+
+** Two
+1. OpenAI said today that its newest artificial intelligence tool had solved one of the most closely watched unanswered questions in mathematics, in just 88 hours. The problem, called Navier-Stokes, involves a series of equations often used to predict the weather. Humans have been working to solve it for decades.
+
+** Three
+3. U.S. health providers are increasingly either encouraging prepayment, requiring it or collecting a payment method on file during the estimate process. It is causing sticker shock for patients, and headaches for those who overpay and then try to collect refunds.
+
+*** on file
+https://www.bing.com/dict/search?q=on%20file
+
+*** sticker shock
+https://www.bing.com/dict/search?q=sticker%20shock
