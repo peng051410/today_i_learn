@@ -1,34 +1,35 @@
 
 # Table of Contents
 
--   [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgb130d37)
--   [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgba34bfa)
--   [(52) 一周英语新闻精学（第3期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org6fd5848)
--   [一周英语新闻精学（第4期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻](#org4abd861)
--   [(126) 一周英语新闻精学（第5期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org334be91)
--   [(132) 一周英语新闻精学（第6期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org0d4551b)
--   [(137) 一周英语新闻精学（第7期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org627e4b7)
--   [(141) 一周英语新闻精学（第8期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org8de3092)
--   [(149) 一周英语新闻精学（第9期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgb69624d)
--   [(150) 一周英语新闻精学（第10期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgbe66d29)
--   [(151) 一周英语新闻精学（第11期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org9a01fe1)
--   [(156) Weekly English News Intensive Study (Issue 12) | Learn English by Listening to the News | Vocabul&hellip; - YouTube](#org6b9396c)
--   [(11) 一周英语新闻精学（第13期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgfdf331f)
--   [(8) 一周英语新闻精学（第14期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org535dc6f)
--   [(9) 一周英语新闻精学（第15期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org1ef2c88)
--   [(11) 一周英语新闻精学（第16期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgc7b29a1)
--   [一周英语新闻精学（第17期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org0ef1fb1)
--   [(2) 一周英语新闻精学（第18期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgc1c6242)
--   [(2) Weekly English News Intensive Study (Issue 19) | Learn English by Listening to the News | Vocabul&hellip; - YouTube](#orgd3e557f)
--   [(2) 一周英语新闻精学（第20期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org2dd457b)
--   [(2) 一周英语新闻精学（第21期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgd09549e)
--   [(1) 一周英语新闻精学（第22期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org35cf7f5)
--   [(4) 一周英语新闻精学（第23期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org261e353)
--   [(5) 一周英语新闻精学（第24期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org3945719)
+-   [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org8903108)
+-   [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org437d5be)
+-   [(52) 一周英语新闻精学（第3期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org485f9a3)
+-   [一周英语新闻精学（第4期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻](#org933350e)
+-   [(126) 一周英语新闻精学（第5期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org7add61e)
+-   [(132) 一周英语新闻精学（第6期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org0a8702e)
+-   [(137) 一周英语新闻精学（第7期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orge880943)
+-   [(141) 一周英语新闻精学（第8期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org9c6b9f3)
+-   [(149) 一周英语新闻精学（第9期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org5c876af)
+-   [(150) 一周英语新闻精学（第10期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org22b8209)
+-   [(151) 一周英语新闻精学（第11期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org04e0294)
+-   [(156) Weekly English News Intensive Study (Issue 12) | Learn English by Listening to the News | Vocabul&hellip; - YouTube](#org77b4344)
+-   [(11) 一周英语新闻精学（第13期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org2d96140)
+-   [(8) 一周英语新闻精学（第14期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org6b6430d)
+-   [(9) 一周英语新闻精学（第15期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org315e2bc)
+-   [(11) 一周英语新闻精学（第16期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org2e34b82)
+-   [一周英语新闻精学（第17期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org56e8832)
+-   [(2) 一周英语新闻精学（第18期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org8620e8e)
+-   [(2) Weekly English News Intensive Study (Issue 19) | Learn English by Listening to the News | Vocabul&hellip; - YouTube](#orgad048a6)
+-   [(2) 一周英语新闻精学（第20期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgc951ef0)
+-   [(2) 一周英语新闻精学（第21期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org84b66c6)
+-   [(1) 一周英语新闻精学（第22期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#orgcd3e1e3)
+-   [(4) 一周英语新闻精学（第23期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org1061d7b)
+-   [(5) 一周英语新闻精学（第24期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org95bb042)
+-   [(7) 一周英语新闻精学（第25期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](#org132362c)
 
 
 
-<a id="orgb130d37"></a>
+<a id="org8903108"></a>
 
 # [(21) 一周英语新闻精学（第1期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=GvqIuDE2Vlc)
 
@@ -93,7 +94,7 @@
 <https://www.dicts.cn/dictword20181/html/9f9627a538428ef9e326d0822f18a5fe.html?horizon>
 
 
-<a id="orgba34bfa"></a>
+<a id="org437d5be"></a>
 
 # [(28) 一周英语新闻精学（第2期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=XTxFYQHuwQg&t=580s)
 
@@ -173,7 +174,7 @@
 <https://www.bing.com/dict/search?q=out%20of%20step>
 
 
-<a id="org6fd5848"></a>
+<a id="org485f9a3"></a>
 
 # [(52) 一周英语新闻精学（第3期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=-opUKYtSj9g)
 
@@ -275,7 +276,7 @@ The Swedish Academy announced today that it had awarded this year's Nobel Prize 
 <https://www.bing.com/dict/search?q=by+far&lq=0&pq>=
 
 
-<a id="org4abd861"></a>
+<a id="org933350e"></a>
 
 # [一周英语新闻精学（第4期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻](https://www.youtube.com/watch?v=evqLwNrFFxE)
 
@@ -356,7 +357,7 @@ With apologies to Jane Austen, it is a truth universally acknowledged that an in
 <https://www.dicts.cn/dictword20181/html/3543f69c6def96479c2463bda863be0a.html?welfare>
 
 
-<a id="org334be91"></a>
+<a id="org7add61e"></a>
 
 # [(126) 一周英语新闻精学（第5期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=SgQXWHYxfFY)
 
@@ -415,7 +416,7 @@ After swapping machetes and binoculars for computer screens and laser mapping, a
 <https://www.bing.com/dict/search?q=work+through&lq=0&pq>=
 
 
-<a id="org0d4551b"></a>
+<a id="org0a8702e"></a>
 
 # [(132) 一周英语新闻精学（第6期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=ObCb0Ur8kNI)
 
@@ -475,7 +476,7 @@ After swapping machetes and binoculars for computer screens and laser mapping, a
 <https://www.dicts.cn/dictword20181/html/c184edbe3efd87c4456c4ffcbd932125.html?volatile>
 
 
-<a id="org627e4b7"></a>
+<a id="orge880943"></a>
 
 # [(137) 一周英语新闻精学（第7期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=-O5glO--TMo)
 
@@ -545,7 +546,7 @@ the US.
 <https://www.dicts.cn/dictword20181/html/a51930a31f131d1e5421a219c15041ce.html?underestimate>
 
 
-<a id="org8de3092"></a>
+<a id="org9c6b9f3"></a>
 
 # [(141) 一周英语新闻精学（第8期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=9otGAyeHRtk)
 
@@ -585,7 +586,7 @@ the US.
 1.  A significant number of young adults get their news from social media "news influencers" that generally don't have traditional journalism training or news experience, according to new data from Pew Research Center. Nearly 40% of young adults under 30 rely on these news influencers to stay updated on current events and politics, Pew found. The vast majority of those influencers—77%—aren't affiliated with a news organization or have never worked in the news industry.
 
 
-<a id="orgb69624d"></a>
+<a id="org5c876af"></a>
 
 # [(149) 一周英语新闻精学（第9期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=G3f_1kOidJ0)
 
@@ -625,7 +626,7 @@ Fees to select seats or to sit in rows with a few extra inches of legroom have b
 <https://www.dicts.cn/dictword20181/html/6c36942fec492a9acf7b2675e0512a9e.html?stretch>
 
 
-<a id="orgbe66d29"></a>
+<a id="org22b8209"></a>
 
 # [(150) 一周英语新闻精学（第10期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=gATsQszdpZo)
 
@@ -662,7 +663,7 @@ These results underlie a generational shift to the political right. Young voters
 <https://www.bing.com/dict/search?q=box%20office>
 
 
-<a id="org9a01fe1"></a>
+<a id="org04e0294"></a>
 
 # [(151) 一周英语新闻精学（第11期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=loLNCmOeQMo)
 
@@ -716,7 +717,7 @@ The emerging portrait is intriguing: High school valedictorian, Ivy League-educa
 <https://www.dicts.cn/dictword20181/html/313d6d5beaaf32b46c8e346af73fac01.html?amateur>
 
 
-<a id="org6b9396c"></a>
+<a id="org77b4344"></a>
 
 # [(156) Weekly English News Intensive Study (Issue 12) | Learn English by Listening to the News | Vocabul&hellip; - YouTube](https://www.youtube.com/watch?v=8DrqhVv_9gg)
 
@@ -756,7 +757,7 @@ The emerging portrait is intriguing: High school valedictorian, Ivy League-educa
 <https://www.bing.com/dict/search?q=winter%20break>
 
 
-<a id="orgfdf331f"></a>
+<a id="org2d96140"></a>
 
 # [(11) 一周英语新闻精学（第13期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=1I-fSqwzVPg)
 
@@ -811,7 +812,7 @@ The emerging portrait is intriguing: High school valedictorian, Ivy League-educa
 <https://www.dicts.cn/dictword20181/html/4f2beaf706aba9257f2ecdb461a39cb7.html?chant>
 
 
-<a id="org535dc6f"></a>
+<a id="org6b6430d"></a>
 
 # [(8) 一周英语新闻精学（第14期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=RbJXBEpuaeE)
 
@@ -849,7 +850,7 @@ Attention on President Biden shot up after his catastrophic debate performance i
 ## Three
 
 
-<a id="org1ef2c88"></a>
+<a id="org315e2bc"></a>
 
 # [(9) 一周英语新闻精学（第15期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=rvF2oqrTYqk)
 
@@ -891,7 +892,7 @@ Attention on President Biden shot up after his catastrophic debate performance i
 As of November, more than 1.6 million out-of-work Americans have been job hunting for at least six months, according to the Labor Department. That's up more than 50% since the end of 2022. The pain is largely in high- paying white-collar jobs, including in tech, law and media.
 
 
-<a id="orgc7b29a1"></a>
+<a id="org2e34b82"></a>
 
 # [(11) 一周英语新闻精学（第16期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=Fw3kAYR7-1o)
 
@@ -950,7 +951,7 @@ The former first lady Michelle Obama will skip Donald Trump's upcoming president
 <https://www.dicts.cn/dictword20181/html/2adb0d824da679e39a60f9eab522468c.html?cordial>
 
 
-<a id="org0ef1fb1"></a>
+<a id="org56e8832"></a>
 
 # [一周英语新闻精学（第17期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=8TWHkhjFpek)
 
@@ -1034,7 +1035,7 @@ In the U.S., exercise often looks something like this: You drive to the gym, you
 <https://www.bing.com/dict/search?q=check%20off>
 
 
-<a id="orgc1c6242"></a>
+<a id="org8620e8e"></a>
 
 # [(2) 一周英语新闻精学（第18期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=A7_r-NdgELE)
 
@@ -1079,7 +1080,7 @@ In the U.S., exercise often looks something like this: You drive to the gym, you
 1.  Call me from anywhere. Apple has been working with SpaceX and T-Mobile to add support for the Starlink network in its latest iPhone software, people familiar said. The service is also designed to work automatically, without requiring users to point their phone at the sky. Meanwhile, Apple's next watch may be able to send texts via satellite.
 
 
-<a id="orgd3e557f"></a>
+<a id="orgad048a6"></a>
 
 # [(2) Weekly English News Intensive Study (Issue 19) | Learn English by Listening to the News | Vocabul&hellip; - YouTube](https://www.youtube.com/watch?v=LD0Xc5aelbU)
 
@@ -1144,7 +1145,7 @@ In the U.S., exercise often looks something like this: You drive to the gym, you
 <https://www.dicts.cn/dictword20181/html/b3907e1cbe072cae2a325024cbf78542.html?enclave>
 
 
-<a id="org2dd457b"></a>
+<a id="orgc951ef0"></a>
 
 # [(2) 一周英语新闻精学（第20期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=aqVGsy5aHiw)
 
@@ -1211,7 +1212,7 @@ At 62, Demi Moore earned her first Academy Award nomination this year for her st
 <https://www.dicts.cn/dictword20181/html/8809ffe5d223d6f6b4bfd1c6c8454af6.html?shave>
 
 
-<a id="orgd09549e"></a>
+<a id="org84b66c6"></a>
 
 # [(2) 一周英语新闻精学（第21期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=XG6YVub9-Gs)
 
@@ -1316,7 +1317,7 @@ At 62, Demi Moore earned her first Academy Award nomination this year for her st
 <https://www.dicts.cn/dictword20181/html/96ed31115f9e885bf7d5e4cbfaa9e418.html?extinct>
 
 
-<a id="org35cf7f5"></a>
+<a id="orgcd3e1e3"></a>
 
 # [(1) 一周英语新闻精学（第22期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=Za6wcRFxz6Q)
 
@@ -1411,7 +1412,7 @@ At 62, Demi Moore earned her first Academy Award nomination this year for her st
 <https://www.dicts.cn/dictword20181/html/9324d6bffb363153486d88bc53d12af8.html?stage>
 
 
-<a id="org261e353"></a>
+<a id="org1061d7b"></a>
 
 # [(4) 一周英语新闻精学（第23期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=KgRvFqKE0EU)
 
@@ -1513,7 +1514,7 @@ Cuttlefish, like their octopus cousins, use camouflage to hide from predators. T
 <https://www.dicts.cn/dictword20181/html/df8c7f53de6138780744cf80dfcc0714.html?drift>
 
 
-<a id="org3945719"></a>
+<a id="org95bb042"></a>
 
 # [(5) 一周英语新闻精学（第24期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=B3qnDHqAayQ)
 
@@ -1590,4 +1591,69 @@ The Education Department announced last night that it's slashing more than 1,300
 ### come on top of
 
 <https://idioms.thefreedictionary.com/come+on+top+of>
+
+
+<a id="org132362c"></a>
+
+# [(7) 一周英语新闻精学（第25期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube](https://www.youtube.com/watch?v=fJNzKRsa_7U)
+
+
+## One
+
+1.  A tranche of documents tied in some way to the assassination of President John F. Kennedy was released late Tuesday. No major new details were found immediately, but scholars said it would take time to sift through them all. Although presidential historians have said the release of the remaining JFK files could shed light on some details surrounding the Nov. 22, 1963, assassination, they are unlikely to upset the accepted narrative — that lone gunman Lee Harvey Oswald fired the fatal shots on Kennedy's motorcade from the sixth floor of the Texas School Book Depository in Dallas.
+
+
+### sift
+
+<https://www.dicts.cn/dictword20181/html/5fca816fbdd3da2b27359a5aadf85c00.html?sift>
+
+
+### shed light on
+
+<https://www.bing.com/dict/search?q=shed%20light%20on>
+
+
+### upset
+
+<https://www.dicts.cn/dictword20181/html/081eb33c78f4071d7333eafd594c787d.html?upset>
+
+
+### narrative
+
+<https://www.dicts.cn/dictword20181/html/6c3f4c195df5db703bc5246d9ba5231c.html?narrative>
+
+
+## Two
+
+1.  The White House dismissed a French politician's demand to return the Statue of Liberty. White House Press Secretary Karoline Leavitt said the U.S. would "absolutely not" give back the statue, adding that France "should be very grateful" for America's role in World War II. Raphaël Glucksmann, a European Parliament member, claimed the Trump administration had abandoned the statue's values, saying "We gave it to you as a gift, but apparently, you despise it."
+
+
+### despise
+
+<https://www.dicts.cn/dictword20181/html/69c831196f1029bc9b529750416eb93f.html?despise>
+
+
+## Three
+
+1.  Major League Baseball began its 2025 season today with a game between the Los Angeles Dodgers and Chicago Cubs in the baseball-mad country of Japan. The undisputed star attraction was Shohei Ohtani, Japan's answer to Babe Ruth. He is a rare player who can both pitch and hit at the highest level. Tickets went for up to $10,000, and he helped lead the Dodgers to a win.
+
+
+### Major League Baseball
+
+<https://en.wikipedia.org/wiki/Major_League_Baseball?useskin=vector>
+
+
+### Shohei Ohtani
+
+<https://en.wikipedia.org/wiki/Shohei_Ohtani?useskin=vector>
+
+
+### answer to
+
+<https://www.bing.com/dict/search?q=answer%20to>
+
+
+### pitch
+
+<https://www.dicts.cn/dictword20181/html/32ff2bf2d4956b396e17c544912949e7.html?pitch>
 
