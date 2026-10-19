@@ -1,64 +1,65 @@
 
 # Table of Contents
 
--   [news-100-200](#org4605ab1)
--   [news-200-300](#org2c80256)
--   [news-301-350](#org3115e4f)
--   [(11) Understanding English News (Episode 351) | Learn English Through News | Rapid Vocabulary Expansio&hellip; - YouTube](#org41e0f2d)
--   [(11) Weekly Listening Compilation (Issues 350 + 351) | Intensive Vocabulary Listening | Authentic Amer&hellip; - YouTube](#org6098c21)
--   [(12) Understanding English News (Ep. 352) | Learn English Through News | Rapid Vocabulary Expansion | &hellip; - YouTube](#orge1db01d)
--   [(4) Improve Your English Listening with US TV Series (Ep. 352) | Intensive Vocabulary Listening | Aut&hellip; - YouTube](#org2bf7d7e)
--   [(7) 读懂英语新闻（第353期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#org5caa051)
--   [(8) Weekly Listening Compilation (Issues 352 & 353) | Intensive Listening | Authentic American Englis&hellip; - YouTube](#org32ea338)
--   [(8) 读懂英语新闻（第354期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#org019f671)
--   [(7) Improve Your Listening Skills with American TV (Episode 354) | Intensive Vocabulary Listening | A&hellip; - YouTube](#org47e9084)
--   [(9) Understanding English News (Episode 355) | Learn English Through News | Rapid Vocabulary Growth |&hellip; - YouTube](#orgf00dbd9)
--   [(10) Weekly Listening Compilation (Issues 354 & 355) | Intensive Vocabulary Listening | Authentic Amer&hellip; - YouTube](#org6f735af)
--   [(11) 读懂英语新闻（第356期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#orgce8bfcb)
--   [(11) 美剧练听力（第356期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第356期新闻精读配套听力练习 - YouTube](#orga8e864e)
--   [(11) 读懂英语新闻（第357期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#org5de361c)
--   [(11) Weekly Listening Compilation (Issues 356 & 357) | Intensive Vocabulary Listening | Authentic Amer&hellip; - YouTube](#org3087aff)
--   [(11) 读懂英语新闻（第358期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#org8ab2289)
--   [(11) English Listening Practice with US TV Shows (Ep. 358) | Intensive Vocabulary Study | Authentic Am&hellip; - YouTube](#org9f6dc16)
--   [(13) Understanding English News (Ep. 359) | Learn English Through News | Rapid Vocabulary Expansion | &hellip; - YouTube](#orgb59e42c)
--   [(2) Weekly Listening Compilation (Ep. 358 + Ep. 359) | Intensive Vocabulary Listening | Authentic Ame&hellip; - YouTube](#org209d2af)
--   [(4) 读懂英语新闻（第360期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#org5684924)
--   [(6) American TV Show Listening Practice (Episode 360) | Intensive Vocabulary Listening | Authentic Am&hellip; - YouTube](#org41185c5)
--   [(7) 读懂英语新闻（第361期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#org8d523f8)
--   [(8) 一周听力合集（第360期+第361期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第361期新闻精读配套听力练习 - YouTube](#org54931c8)
--   [(8) 读懂英语新闻（第362期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#org5c487c8)
--   [(10) 美剧练听力（第362期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第362期新闻精读配套听力练习 - YouTube](#orge1ad4a4)
--   [(11) Understanding English News (Episode 363) | Learn English Through News | Expand Your Vocabulary | &hellip; - YouTube](#orga6b542a)
--   [(11) Weekly Listening Compilation (Issue 362 + Issue 363) | Intensive Vocabulary Listening | Authentic&hellip; - YouTube](#orgf8bc635)
--   [(11) 读懂英语新闻（第364期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#org44b3e64)
--   [(11) American TV Show Listening Practice (Episode 364) | Intensive Vocabulary Listening | Authentic Am&hellip; - YouTube](#org47bdfb8)
--   [(11) 读懂英语新闻（第365期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#orgedeb945)
--   [(1) Weekly Listening Compilation (Issues 364 + 365) | Intensive Vocabulary Practice | Authentic Ameri&hellip; - YouTube](#orgd390dd8)
--   [(2) 读懂英语新闻（第366期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#orgb284a07)
--   [(2) Understanding English News (Episode 367) | Learn English Through News | Rapid Vocabulary Growth |&hellip; - YouTube](#org8965bca)
--   [(5) Understanding English News (Episode 368) | Learn English Through News | Rapid Vocabulary Growth |&hellip; - YouTube](#org7b50022)
--   [(5) 读懂英语新闻（第369期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#org6b2626d)
--   [(5) Understanding English News (Episode 370) | Learn English Through News | Rapid Vocabulary Growth |&hellip; - YouTube](#org23a312d)
--   [(7) Understanding English News (Episode 371) | Learn English Through News | Vocabulary Booster | Read&hellip; - YouTube](#org685f6e7)
+-   [news-100-200](#orgc005a73)
+-   [news-200-300](#org0687591)
+-   [news-301-350](#org921601e)
+-   [(11) Understanding English News (Episode 351) | Learn English Through News | Rapid Vocabulary Expansio&hellip; - YouTube](#org34b9363)
+-   [(11) Weekly Listening Compilation (Issues 350 + 351) | Intensive Vocabulary Listening | Authentic Amer&hellip; - YouTube](#org7e3fdf8)
+-   [(12) Understanding English News (Ep. 352) | Learn English Through News | Rapid Vocabulary Expansion | &hellip; - YouTube](#orgd1882a8)
+-   [(4) Improve Your English Listening with US TV Series (Ep. 352) | Intensive Vocabulary Listening | Aut&hellip; - YouTube](#org5c38096)
+-   [(7) 读懂英语新闻（第353期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#orgc40f75c)
+-   [(8) Weekly Listening Compilation (Issues 352 & 353) | Intensive Listening | Authentic American Englis&hellip; - YouTube](#orgbc30c22)
+-   [(8) 读懂英语新闻（第354期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#org9a6faf3)
+-   [(7) Improve Your Listening Skills with American TV (Episode 354) | Intensive Vocabulary Listening | A&hellip; - YouTube](#org77a4515)
+-   [(9) Understanding English News (Episode 355) | Learn English Through News | Rapid Vocabulary Growth |&hellip; - YouTube](#orgbb221ee)
+-   [(10) Weekly Listening Compilation (Issues 354 & 355) | Intensive Vocabulary Listening | Authentic Amer&hellip; - YouTube](#org0f1a729)
+-   [(11) 读懂英语新闻（第356期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#orgf67b625)
+-   [(11) 美剧练听力（第356期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第356期新闻精读配套听力练习 - YouTube](#orgf531470)
+-   [(11) 读懂英语新闻（第357期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#orge32abec)
+-   [(11) Weekly Listening Compilation (Issues 356 & 357) | Intensive Vocabulary Listening | Authentic Amer&hellip; - YouTube](#org48934b6)
+-   [(11) 读懂英语新闻（第358期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#org0039287)
+-   [(11) English Listening Practice with US TV Shows (Ep. 358) | Intensive Vocabulary Study | Authentic Am&hellip; - YouTube](#org3fc329a)
+-   [(13) Understanding English News (Ep. 359) | Learn English Through News | Rapid Vocabulary Expansion | &hellip; - YouTube](#org799cc31)
+-   [(2) Weekly Listening Compilation (Ep. 358 + Ep. 359) | Intensive Vocabulary Listening | Authentic Ame&hellip; - YouTube](#orgf46fb52)
+-   [(4) 读懂英语新闻（第360期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#org9c00131)
+-   [(6) American TV Show Listening Practice (Episode 360) | Intensive Vocabulary Listening | Authentic Am&hellip; - YouTube](#orgf933ddf)
+-   [(7) 读懂英语新闻（第361期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#orgb8f0b40)
+-   [(8) 一周听力合集（第360期+第361期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第361期新闻精读配套听力练习 - YouTube](#orgaf2ea8d)
+-   [(8) 读懂英语新闻（第362期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#orgb499e2e)
+-   [(10) 美剧练听力（第362期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第362期新闻精读配套听力练习 - YouTube](#org620bbb0)
+-   [(11) Understanding English News (Episode 363) | Learn English Through News | Expand Your Vocabulary | &hellip; - YouTube](#org8c8df15)
+-   [(11) Weekly Listening Compilation (Issue 362 + Issue 363) | Intensive Vocabulary Listening | Authentic&hellip; - YouTube](#org11f6424)
+-   [(11) 读懂英语新闻（第364期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#orgb82e2f9)
+-   [(11) American TV Show Listening Practice (Episode 364) | Intensive Vocabulary Listening | Authentic Am&hellip; - YouTube](#orgaf41573)
+-   [(11) 读懂英语新闻（第365期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#org8cdea11)
+-   [(1) Weekly Listening Compilation (Issues 364 + 365) | Intensive Vocabulary Practice | Authentic Ameri&hellip; - YouTube](#orgc1324f0)
+-   [(2) 读懂英语新闻（第366期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#orgd469ccc)
+-   [(2) Understanding English News (Episode 367) | Learn English Through News | Rapid Vocabulary Growth |&hellip; - YouTube](#org604eff6)
+-   [(5) Understanding English News (Episode 368) | Learn English Through News | Rapid Vocabulary Growth |&hellip; - YouTube](#orgc1cbd1d)
+-   [(5) 读懂英语新闻（第369期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#org4c67501)
+-   [(5) Understanding English News (Episode 370) | Learn English Through News | Rapid Vocabulary Growth |&hellip; - YouTube](#org95e5844)
+-   [(7) Understanding English News (Episode 371) | Learn English Through News | Vocabulary Booster | Read&hellip; - YouTube](#org34b0996)
+-   [(10) 读懂英语新闻（第372期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](#org8f6aa6c)
 
 
 
-<a id="org4605ab1"></a>
+<a id="orgc005a73"></a>
 
 # [news-100-200](./news-100-200.md)
 
 
-<a id="org2c80256"></a>
+<a id="org0687591"></a>
 
 # [news-200-300](./news-200-300.md)
 
 
-<a id="org3115e4f"></a>
+<a id="org921601e"></a>
 
 # [news-301-350](./news-301-350.md)
 
 
-<a id="org41e0f2d"></a>
+<a id="org34b9363"></a>
 
 # [(11) Understanding English News (Episode 351) | Learn English Through News | Rapid Vocabulary Expansio&hellip; - YouTube](https://www.youtube.com/watch?v=B91Dgb8fJKI)
 
@@ -125,7 +126,7 @@ Bath & Body Works hit the jackpot when it released Japanese Cherry Blossom in 20
 <https://www.dicts.cn/dictword20181/html/23aa5f1c5af83f132c450d9021acb019.html?fragrance>
 
 
-<a id="org6098c21"></a>
+<a id="org7e3fdf8"></a>
 
 # [(11) Weekly Listening Compilation (Issues 350 + 351) | Intensive Vocabulary Listening | Authentic Amer&hellip; - YouTube](https://www.youtube.com/watch?v=HmNmOg9oo0w)
 
@@ -135,7 +136,7 @@ Bath & Body Works hit the jackpot when it released Japanese Cherry Blossom in 20
 <https://www.dicts.cn/dictword20181/html/688821703214b40d69cee9db5b5d524f.html?spike>
 
 
-<a id="orge1db01d"></a>
+<a id="orgd1882a8"></a>
 
 # [(12) Understanding English News (Ep. 352) | Learn English Through News | Rapid Vocabulary Expansion | &hellip; - YouTube](https://www.youtube.com/watch?v=SZwSHSsUHa4)
 
@@ -182,7 +183,7 @@ State and local governments, as well as federal regulators, are playing catch-up
 <https://www.bing.com/dict/search?q=as%20of%20now>
 
 
-<a id="org2bf7d7e"></a>
+<a id="org5c38096"></a>
 
 # [(4) Improve Your English Listening with US TV Series (Ep. 352) | Intensive Vocabulary Listening | Aut&hellip; - YouTube](https://www.youtube.com/watch?v=JFWOPMd5aJE)
 
@@ -192,7 +193,7 @@ State and local governments, as well as federal regulators, are playing catch-up
 <https://www.dicts.cn/dictword20181/html/d0dc7c1dab3ed14b9b9a8f594a9d4828.html?tribe>
 
 
-<a id="org5caa051"></a>
+<a id="orgc40f75c"></a>
 
 # [(7) 读懂英语新闻（第353期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](https://www.youtube.com/watch?v=Yy4t2vVT0hY)
 
@@ -247,7 +248,7 @@ State and local governments, as well as federal regulators, are playing catch-up
 <https://www.dicts.cn/dictword20181/html/1bd5b859c5f5020fea5bb57aa1a6f125.html?shuttle>
 
 
-<a id="org32ea338"></a>
+<a id="orgbc30c22"></a>
 
 # [(8) Weekly Listening Compilation (Issues 352 & 353) | Intensive Listening | Authentic American Englis&hellip; - YouTube](https://www.youtube.com/watch?v=0dXpdr65Z60)
 
@@ -277,7 +278,7 @@ State and local governments, as well as federal regulators, are playing catch-up
 <https://www.dicts.cn/dictword20181/html/b00108822a89701e5f2d9533a665e0cc.html?rite>
 
 
-<a id="org019f671"></a>
+<a id="org9a6faf3"></a>
 
 # [(8) 读懂英语新闻（第354期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](https://www.youtube.com/watch?v=l04b-inG64s)
 
@@ -329,7 +330,7 @@ New rule would cap duration of visas at four years and require holders to apply 
 <https://www.dicts.cn/dictword20181/html/97bee575fa449af6f7db39d89110f485.html?reminiscent>
 
 
-<a id="org47e9084"></a>
+<a id="org77a4515"></a>
 
 # [(7) Improve Your Listening Skills with American TV (Episode 354) | Intensive Vocabulary Listening | A&hellip; - YouTube](https://www.youtube.com/watch?v=WqlH3Miu_oA)
 
@@ -339,7 +340,7 @@ New rule would cap duration of visas at four years and require holders to apply 
 <https://www.dicts.cn/dictword20181/html/fcc032ae954dc0bfac0d379950e0cf91.html?cattle>
 
 
-<a id="orgf00dbd9"></a>
+<a id="orgbb221ee"></a>
 
 # [(9) Understanding English News (Episode 355) | Learn English Through News | Rapid Vocabulary Growth |&hellip; - YouTube](https://www.youtube.com/watch?v=6wgwtyyYVpw)
 
@@ -381,7 +382,7 @@ The Times has uncovered hundreds of A.I.-generated videos designed to sell suppl
 1.  France voted today to become the first European country to restrict access to social media for anyone under 15. The new law also bans the use of cellphones in high schools. The country joins a wave of governments around the world promising to protect young people from online harm. In Australia, enforcement of their ban has largely failed. For France, success may rely on intervention from the European Union, which can penalize internet platforms.
 
 
-<a id="org6f735af"></a>
+<a id="org0f1a729"></a>
 
 # [(10) Weekly Listening Compilation (Issues 354 & 355) | Intensive Vocabulary Listening | Authentic Amer&hellip; - YouTube](https://www.youtube.com/watch?v=-cPrBtx5PCg)
 
@@ -406,7 +407,7 @@ The Times has uncovered hundreds of A.I.-generated videos designed to sell suppl
 <https://www.dicts.cn/dictword20181/html/9091a95f7b697c90e412b5613a77161c.html?recess>
 
 
-<a id="orgce8bfcb"></a>
+<a id="orgf67b625"></a>
 
 # [(11) 读懂英语新闻（第356期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](https://www.youtube.com/watch?v=hhs6py2s5gA)
 
@@ -471,7 +472,7 @@ The Times has uncovered hundreds of A.I.-generated videos designed to sell suppl
 <https://www.bing.com/dict/search?q=tie%20up>
 
 
-<a id="orga8e864e"></a>
+<a id="orgf531470"></a>
 
 # [(11) 美剧练听力（第356期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第356期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=7GLoO52d3GA&t=11s)
 
@@ -481,7 +482,7 @@ The Times has uncovered hundreds of A.I.-generated videos designed to sell suppl
 <https://www.dicts.cn/dictword20181/html/8cb743293808bbb546ea1b7b13df33c3.html?pocket>
 
 
-<a id="org5de361c"></a>
+<a id="orge32abec"></a>
 
 # [(11) 读懂英语新闻（第357期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](https://www.youtube.com/watch?v=UyQ3p3-TDf0)
 
@@ -533,7 +534,7 @@ After OpenAl enhanced the brain power of its chatbot last summer, hundreds of us
 <https://www.dicts.cn/dictword20181/html/c4a5696055178fa226085094c0b283cf.html?rubble>
 
 
-<a id="org3087aff"></a>
+<a id="org48934b6"></a>
 
 # [(11) Weekly Listening Compilation (Issues 356 & 357) | Intensive Vocabulary Listening | Authentic Amer&hellip; - YouTube](https://www.youtube.com/watch?v=ML_nSr3Btqo)
 
@@ -543,7 +544,7 @@ After OpenAl enhanced the brain power of its chatbot last summer, hundreds of us
 <https://www.dicts.cn/dictword20181/html/cb4f79c000a348bc0015c8c875c330cd.html?swell>
 
 
-<a id="org8ab2289"></a>
+<a id="org0039287"></a>
 
 # [(11) 读懂英语新闻（第358期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](https://www.youtube.com/watch?v=cw_vhX9lnTY)
 
@@ -578,7 +579,7 @@ After OpenAl enhanced the brain power of its chatbot last summer, hundreds of us
 1.  The artful boomer. Nearly $1 trillion of art is expected to change hands in the coming decade as the generation born during the post-war baby boom bequeaths its vast trove of collectibles. Problem is, there won't be enough buyers or museums to absorb it all.
 
 
-<a id="org9f6dc16"></a>
+<a id="org3fc329a"></a>
 
 # [(11) English Listening Practice with US TV Shows (Ep. 358) | Intensive Vocabulary Study | Authentic Am&hellip; - YouTube](https://www.youtube.com/watch?v=21b8Gw-S9w8)
 
@@ -588,7 +589,7 @@ After OpenAl enhanced the brain power of its chatbot last summer, hundreds of us
 <https://www.dicts.cn/dictword20181/html/879efd5ef69f78694236f8902148c8dc.html?wit>       
 
 
-<a id="orgb59e42c"></a>
+<a id="org799cc31"></a>
 
 # [(13) Understanding English News (Ep. 359) | Learn English Through News | Rapid Vocabulary Expansion | &hellip; - YouTube](https://www.youtube.com/watch?v=ZwjjSx77oDI)
 
@@ -643,7 +644,7 @@ After OpenAl enhanced the brain power of its chatbot last summer, hundreds of us
 <https://www.dicts.cn/dictword20181/html/1070395ef733c433c61c62112378cb95.html?gear>
 
 
-<a id="org209d2af"></a>
+<a id="orgf46fb52"></a>
 
 # [(2) Weekly Listening Compilation (Ep. 358 + Ep. 359) | Intensive Vocabulary Listening | Authentic Ame&hellip; - YouTube](https://www.youtube.com/watch?v=fc5tx1lAsy0)
 
@@ -653,7 +654,7 @@ After OpenAl enhanced the brain power of its chatbot last summer, hundreds of us
 <https://www.dicts.cn/dictword20181/html/3013cbade66457ea36f340901e630773.html?chance>
 
 
-<a id="org5684924"></a>
+<a id="org9c00131"></a>
 
 # [(4) 读懂英语新闻（第360期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](https://www.youtube.com/watch?v=lc9nb2NnGag)
 
@@ -693,12 +694,12 @@ After OpenAl enhanced the brain power of its chatbot last summer, hundreds of us
 1.  Trump signed two executive orders targeting birthright citizenship - one aimed at limiting who qualifies and the other at restricting visas for some pregnant women. Aides say the orders do not go against the Supreme Court ruling upholding the right.
 
 
-<a id="org41185c5"></a>
+<a id="orgf933ddf"></a>
 
 # [(6) American TV Show Listening Practice (Episode 360) | Intensive Vocabulary Listening | Authentic Am&hellip; - YouTube](https://www.youtube.com/watch?v=1eM2Bm5gEOw)
 
 
-<a id="org8d523f8"></a>
+<a id="orgb8f0b40"></a>
 
 # [(7) 读懂英语新闻（第361期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](https://www.youtube.com/watch?v=ioJ1RgVbBEo)
 
@@ -733,12 +734,12 @@ After OpenAl enhanced the brain power of its chatbot last summer, hundreds of us
 1.  A 7.4-magnitude earthquake struck Colombia, trapping people under collapsed buildings and presenting an early challenge to the country's new president. Local officials reported more than 100 killed in the country's west. Authorities said the death count could rise because an unknown number of people were trapped under rubble after the quake hit at 7:34 a.m. local time.
 
 
-<a id="org54931c8"></a>
+<a id="orgaf2ea8d"></a>
 
 # [(8) 一周听力合集（第360期+第361期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力合集｜美剧听力｜第361期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=3Qi8IeKXEZw)
 
 
-<a id="org5c487c8"></a>
+<a id="orgb499e2e"></a>
 
 # [(8) 读懂英语新闻（第362期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](https://www.youtube.com/watch?v=m7dEdmWZZXI)
 
@@ -788,12 +789,12 @@ After OpenAl enhanced the brain power of its chatbot last summer, hundreds of us
 <https://www.bing.com/dict/search?q=dip%20into>
 
 
-<a id="orge1ad4a4"></a>
+<a id="org620bbb0"></a>
 
 # [(10) 美剧练听力（第362期）｜词汇精听｜纯正美音｜英语新闻精听｜听新闻学英语｜单词轻松记｜听力跟读版｜英语听力｜美剧听力｜第362期新闻精读配套听力练习 - YouTube](https://www.youtube.com/watch?v=iuVsRN4tUl4)
 
 
-<a id="orga6b542a"></a>
+<a id="org8c8df15"></a>
 
 # [(11) Understanding English News (Episode 363) | Learn English Through News | Expand Your Vocabulary | &hellip; - YouTube](https://www.youtube.com/watch?v=WCwapMqd89A)
 
@@ -828,7 +829,7 @@ After OpenAl enhanced the brain power of its chatbot last summer, hundreds of us
 <https://www.dicts.cn/dictword20181/html/93225ab7d5aaebece75ea9546457eabb.html?yield>
 
 
-<a id="orgf8bc635"></a>
+<a id="org11f6424"></a>
 
 # [(11) Weekly Listening Compilation (Issue 362 + Issue 363) | Intensive Vocabulary Listening | Authentic&hellip; - YouTube](https://www.youtube.com/watch?v=s2oRzpwzr6c)
 
@@ -843,7 +844,7 @@ After OpenAl enhanced the brain power of its chatbot last summer, hundreds of us
 <https://www.dicts.cn/dictword20181/html/635b8ea863a0b77c9d7d9cc8ce28d5ce.html?freelancer>
 
 
-<a id="org44b3e64"></a>
+<a id="orgb82e2f9"></a>
 
 # [(11) 读懂英语新闻（第364期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](https://www.youtube.com/watch?v=CY9wBA7W33k)
 
@@ -883,7 +884,7 @@ After OpenAl enhanced the brain power of its chatbot last summer, hundreds of us
 <https://www.dicts.cn/dictword20181/html/e12a610c9421a4ddabe0580674ffb33b.html?affluent>
 
 
-<a id="org47bdfb8"></a>
+<a id="orgaf41573"></a>
 
 # [(11) American TV Show Listening Practice (Episode 364) | Intensive Vocabulary Listening | Authentic Am&hellip; - YouTube](https://www.youtube.com/watch?v=8m9NJrUT_aE)
 
@@ -893,7 +894,7 @@ After OpenAl enhanced the brain power of its chatbot last summer, hundreds of us
 <https://www.dicts.cn/dictword20181/html/1608c38997c7ccaf10cd287b9ee2447e.html?colonial>
 
 
-<a id="orgedeb945"></a>
+<a id="org8cdea11"></a>
 
 # [(11) 读懂英语新闻（第365期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](https://www.youtube.com/watch?v=BsM8U-Kc8AA)
 
@@ -950,7 +951,7 @@ Standardized testing requirements, which fell out of fashion during the Covid er
 <https://www.dicts.cn/dictword20181/html/7cee957c6fca27b4b3cd889587d352eb.html?essay>
 
 
-<a id="orgd390dd8"></a>
+<a id="orgc1324f0"></a>
 
 # [(1) Weekly Listening Compilation (Issues 364 + 365) | Intensive Vocabulary Practice | Authentic Ameri&hellip; - YouTube](https://www.youtube.com/watch?v=J4lQA6v-cWo)
 
@@ -965,7 +966,7 @@ Standardized testing requirements, which fell out of fashion during the Covid er
 <https://www.dicts.cn/dictword20181/html/2acbd7c109708b8c7b9bc4d4cf953b83.html?pierce>
 
 
-<a id="orgb284a07"></a>
+<a id="orgd469ccc"></a>
 
 # [(2) 读懂英语新闻（第366期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](https://www.youtube.com/watch?v=S57DDLOeS0A)
 
@@ -1027,7 +1028,7 @@ Declaring today that "space is the hot thing, " the president signed an executiv
 <https://www.dicts.cn/dictword20181/html/661915ff886fa8eb72b714775a825cdf.html?debris>
 
 
-<a id="org8965bca"></a>
+<a id="org604eff6"></a>
 
 # [(2) Understanding English News (Episode 367) | Learn English Through News | Rapid Vocabulary Growth |&hellip; - YouTube](https://www.youtube.com/watch?v=5x5Bgtq1FY4)
 
@@ -1082,7 +1083,7 @@ Declaring today that "space is the hot thing, " the president signed an executiv
 <https://www.bing.com/dict/search?q=sticker%20shock>
 
 
-<a id="org7b50022"></a>
+<a id="orgc1cbd1d"></a>
 
 # [(5) Understanding English News (Episode 368) | Learn English Through News | Rapid Vocabulary Growth |&hellip; - YouTube](https://www.youtube.com/watch?v=ZKY9iBzunjs)
 
@@ -1132,7 +1133,7 @@ Declaring today that "space is the hot thing, " the president signed an executiv
 <https://www.dicts.cn/dictword20181/html/049d38decf97edd08fdbeb0725441aaa.html?contain>
 
 
-<a id="org6b2626d"></a>
+<a id="org4c67501"></a>
 
 # [(5) 读懂英语新闻（第369期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](https://www.youtube.com/watch?v=W43hVMUMU6A)
 
@@ -1209,7 +1210,7 @@ Tobacco companies have long complained that the agency's review process is much 
 <https://www.bing.com/dict/search?q=hit%20the%20market>
 
 
-<a id="org23a312d"></a>
+<a id="org95e5844"></a>
 
 # [(5) Understanding English News (Episode 370) | Learn English Through News | Rapid Vocabulary Growth |&hellip; - YouTube](https://www.youtube.com/watch?v=FrPkl52O7A4)
 
@@ -1264,7 +1265,7 @@ Tobacco companies have long complained that the agency's review process is much 
 <https://www.dicts.cn/dictword20181/html/133cd7db630d9d5578cedade73efbac7.html?rape>
 
 
-<a id="org685f6e7"></a>
+<a id="org34b0996"></a>
 
 # [(7) Understanding English News (Episode 371) | Learn English Through News | Vocabulary Booster | Read&hellip; - YouTube](https://www.youtube.com/watch?v=OqrR47hk5PE)
 
@@ -1306,4 +1307,46 @@ Jonathan the giant tortoise was born in the early 1830s, when Andrew Jackson was
 ### angler
 
 <https://www.dicts.cn/dictword20181/html/25dfc97515496490f602e61575286299.html?angler>
+
+
+<a id="org8f6aa6c"></a>
+
+# [(10) 读懂英语新闻（第372期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube](https://www.youtube.com/watch?v=RllGBKHq_Bs)
+
+
+## One
+
+1.  Pope Leo underwent surgery yesterday that confirmed he has lung cancer, Axios' Josephine Walker writes. The news came just hours after doctors removed the lower lobe of his right lung. The Holy See Press Office said the cancer is lung adenocarcinoma, which earlier tests had led his medical team to suspect. Leo, 71, said Sunday that the nodule "was detected at a very early stage and is well localized."
+
+
+### lobe
+
+<https://www.dicts.cn/dictword20181/html/3c53578d16991539f9b9afec9f9e00bd.html?lobe>
+
+
+### localize
+
+<https://www.dicts.cn/dictword20181/html/b97639db84392583515faebb4fb22b3f.html?localize>
+
+
+## Two
+
+1.  Cornell University has banned parties at fraternity houses for the rest of the academic year and will add experienced sexual assault investigators to its police force in response to allegations of a gang rape that have shocked the campus and nation.
+
+
+## Three
+
+1.  Bleached coral can recover through touch, a study finds
+
+Almost by accident, researchers in a California lab discovered that a piece of healthy coral could help heal a ghostly, heat-shocked piece just by touching it. Surprisingly, the scientists said, the sick coral was able to regain its color in weeks, not the months it might take in the wild. The finding, announced today, raises new possibilities for treating reefs that are devastated by marine heat waves, which are becoming more frequent because of climate change.
+
+
+### bleach
+
+<https://www.dicts.cn/dictword20181/html/96293d861e3e60786affa66185961473.html?bleach>
+
+
+### devastate
+
+<https://www.dicts.cn/dictword20181/html/486a5e275f768c61186c9e6432796e88.html?devastate>
 
