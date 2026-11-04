@@ -845,6 +845,79 @@ https://www.dicts.cn/dictword20181/html/96293d861e3e60786affa66185961473.html?bl
 
 *** devastate
 https://www.dicts.cn/dictword20181/html/486a5e275f768c61186c9e6432796e88.html?devastate
+* [[https://www.youtube.com/watch?v=nX6X_W5Vm14][(15) 读懂英语新闻（第373期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2026-10-27 Tue 09:27]
+:END:
+** One
+1. State and federal officials warn of rabies risks
+Rabid beavers were found at a Maryland state park. Three baby goats from a traveling petting zoo tested positive for rabies in North Carolina. California and Idaho noted an uptick in rabid bats. Now, federal officials are warning about an apparent increase in "human rabies exposures."
+
+*** rabies
+https://www.dicts.cn/dictword20181/html/84d5a43c9220b3aef051cc32242aa144.html?rabies
+
+** Two
+2. A.I. discovers a critical security flaw
+Using OpenAI's advanced artificial intelligence models, researchers unearthed major bugs in PHP - a piece of software that, by some estimates, is used in 70 percent of all websites and apps. The U.S. and other governments urged websites to immediately install updates to patch the flaw, but security professionals warned that the fallout could be significant.
+
+*** flaw
+https://www.dicts.cn/dictword20181/html/7e8414ea742d6cccd0fb97216999e173.html?flaw
+
+*** unearth
+https://www.dicts.cn/dictword20181/html/59f9e022e563a22090063d95652cb784.html?unearth
+
+*** patch
+https://www.dicts.cn/dictword20181/html/a8a2d8c5fab59696b5ffad2554497af0.html?patch
+
+*** fallout
+https://www.dicts.cn/dictword20181/html/84bc889ad4daa6c391d18e06ced7a985.html?fallout
+
+** Three
+3. Elon Musk said SpaceX and Tesla are studying a possible merger, saying the idea has "a lot of merit." The potential $3.5 trillion combination would be the biggest-ever corporate merger and would bring together assets spanning electric cars, Al data centers, rockets and satellites. Separately, Musk said ASML and other key providers of chipmaking machines have expedited supplies for his ambitious Terafab semiconductor manufacturing project.
+
+*** merit
+https://www.dicts.cn/dictword20181/html/365e647a26465619ad195b2855bed84b.html?merit
+
+*** span
+https://www.dicts.cn/dictword20181/html/aab443cacbaf807ba4e378a07e912f55.html?span
+
+*** expedite
+https://www.dicts.cn/dictword20181/html/df4f1d8c14b28c86091e333ebce828fb.html?expedite
+
+*** Terafab
+https://en.wikipedia.org/wiki/Terafab?useskin=vector
+
+* [[https://www.youtube.com/watch?v=gDhdq_5ttDM][Understanding English News (Episode 374) | Learn English Through News | Rapid Vocabulary Expansio... - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2026-11-04 Wed 10:27]
+:END:
+
+** One
+1. Mike Valladao — a systems engineer at a cybersecurity company in the Bay Area — has spent four decades moonlighting as "Farmer Mike," the "Picasso of Pumpkin Carvers." He's sculpted hundreds of gourds into ghoulish faces, seaside landscapes, witches, dragons and pop culture figures like Yoda and Charlie Brown. Valladao uses Atlantic pumpkins weighing 100 to 1,000 pounds. They have thick skins that allow him to cut protruding facial features shallow or deep.
+
+*** moonlight
+https://www.dicts.cn/dictword20181/html/f5bc4973ddc902c37024da4025093c03.html?moonlight
+
+*** sculpt
+https://www.dicts.cn/dictword20181/html/6eb33d0c3a8f4f981fd0d4a96073ca8e.html?sculpt
+
+*** witch
+https://www.dicts.cn/dictword20181/html/92c81dcf348017c1dd81107026472929.html?witch
+
+** Two
+2. For those planning to buy candy to give out this weekend, don't be surprised to spend more and get less. Prices for popular sweets are up roughly 15 percent from last year, and the average price for a 100-count bag is up 71 percent over the last five years. Some families are cutting their bowls with toys and salty snacks or considering switching off their porch lights.
+
+** Three
+3. Horror bookstores are multiplying
+Reading for fun may be declining in America, but horror fiction is booming. And it's not just during spooky season: Sales in the genre are up 39 percent over the last year, and horror-focused bookshops are popping up to meet the demand.
+
+*** multiply
+https://www.dicts.cn/dictword20181/html/79dbcd27d521a1d52b5331a18f65fc56.html?multiply
+
+*** pop up
+https://www.bing.com/dict/search?q=pop%20up
+
+
 
 
 
