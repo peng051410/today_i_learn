@@ -617,9 +617,15 @@ https://www.dicts.cn/dictword20181/html/2acbd7c109708b8c7b9bc4d4cf953b83.html?pi
 Declaring today that "space is the hot thing, " the president signed an executive order to establish a space academy, similar to the Naval Academy in Maryland or the Coast Guard Academy in Connecticut. Plans are still preliminary, but the order said that the academy would feed its graduates into the U.S. Space Force and NASA.
 
 *** Naval Academy
+:PROPERTIES:
+:ID:       8D9304AA-54E1-4509-A0EE-83712E876048
+:END:
 https://en.wikipedia.org/wiki/United_States_Naval_Academy?useskin=vector
 
 *** Coast Guard Academy
+:PROPERTIES:
+:ID:       91A825CC-A224-4DD1-83D8-A9420B9BEBE3
+:END:
 https://en.wikipedia.org/w/index.php?title=United_States_Coast_Guard_Academy&useskin=vector
 
 ** Two
@@ -916,8 +922,39 @@ https://www.dicts.cn/dictword20181/html/79dbcd27d521a1d52b5331a18f65fc56.html?mu
 
 *** pop up
 https://www.bing.com/dict/search?q=pop%20up
+* [[https://www.youtube.com/watch?v=hZDy3H6LV2E][Understanding English News (Episode 375) | Learn English Through News | Boost Your Vocabulary | R... - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2026-11-09 Mon 09:39]
+:END:
+** One
+1. Democrats' midterm sweep has shaken up the 2028 presidential map. Despite divides between centrists and far-left candidates, the party unified around a message of affordability to pull off a stunning victory. Democrats will enter 2027 with a comfortable Senate majority and a House majority that is expected to rival the size that former President Obama had in his first term in office. They will also hold the governorships in all seven battleground states that decided the 2024 presidential election.
 
+*** sweep
+https://www.dicts.cn/dictword20181/html/edb591cf95a219dd604b836376383775.html?sweep
 
+*** shake up
+https://www.bing.com/dict/search?q=shake%20up
 
+*** pull off
+https://www.bing.com/dict/search?q=pull%20off
 
+*** comfortable
+https://www.dicts.cn/dictword20181/html/bd3beb8f0138484b54ed7e25b2b74ec7.html?comfortable
 
+** Two
+2. High interest rates, punishing gas prices and broad economic anxiety have dented sales of everything from RVs to boats. But that downturn hasn't come for Harley-Davidson. In its primary market of North America, the bike maker has recorded year-over-year retail-sales growth in each of the last four quarters, and is on track for the first full-year increase since 2021.
+
+*** dent
+https://www.dicts.cn/dictword20181/html/9e4b6ec123eae4b6a9deecd01dcf0f23.html?dent
+
+*** Harley-Davidson
+https://en.wikipedia.org/wiki/Harley-Davidson?useskin=vector
+
+** Three
+3. The British government has long struggled to get people to prepare for existential threats. The British find it a little embarrassing to make a fuss about something that may never happen. Better to "keep calm and carry on," as the wartime slogan put it, than to be seen cleaning shelves of bottled water and canned tuna. But now a tongue-in-cheek approach to the end of the world might be getting through.
+
+*** make a fuss
+https://www.bing.com/dict/search?q=make+a+fuss&lq=0&pq=
+
+*** get through
+https://www.bing.com/dict/search?q=get+through&lq=0&pq=
