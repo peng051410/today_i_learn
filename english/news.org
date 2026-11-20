@@ -891,6 +891,9 @@ https://www.dicts.cn/dictword20181/html/aab443cacbaf807ba4e378a07e912f55.html?sp
 https://www.dicts.cn/dictword20181/html/df4f1d8c14b28c86091e333ebce828fb.html?expedite
 
 *** Terafab
+:PROPERTIES:
+:ID:       071BC5F1-FF28-4A6C-92CC-CDD332862FFF
+:END:
 https://en.wikipedia.org/wiki/Terafab?useskin=vector
 
 * [[https://www.youtube.com/watch?v=gDhdq_5ttDM][Understanding English News (Episode 374) | Learn English Through News | Rapid Vocabulary Expansio... - YouTube]]
@@ -982,3 +985,36 @@ https://www.dicts.cn/dictword20181/html/d97f4c8d1ed60955aaf55347373cc252.html?ba
 
 *** delicacy
 https://www.dicts.cn/dictword20181/html/a3de1f681d8b25732bb78afffa33f020.html?delicacy
+
+* [[https://www.youtube.com/watch?v=kp9afcSv_Ro][Understanding English News (Episode 377) | Learn English Through News | Boost Your Vocabulary | R... - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2026-11-20 Fri 09:31]
+:END:
+
+** One
+1. At a meeting with employees Wednesday, Nvidia interim Chief Executive Officer Colette Kress reiterated her confidence in the company after the ouster of its longtime leader — and made clear again that he won't be coming back. Still, it wasn't enough for investors. The embattled chipmaker — even after yesterday's sunny projections - sank 3%, taking the market down with it.
+
+*** interim
+:PROPERTIES:
+:ID:       BB09F191-7FBD-4554-8AF9-80D8924E5F6C
+:END:
+https://www.dicts.cn/dictword20181/html/922437b8d3b654a6dd6b7da449c468d9.html?interim
+
+*** reiterate
+https://www.dicts.cn/dictword20181/html/75bd5585a3ca32da077b798d643e4f55.html?reiterate
+
+*** projection
+https://www.dicts.cn/dictword20181/html/d2254eab58799109dd1910937977338d.html?projection
+
+** Two
+2. Yesterday Anthropic was shooting for the moon when it came to elevated share pricing. Today it's Mars: The Al company is said to have priced its shares for tomorrow's initial public offering at $83 apiece. That's well above yesterday's $70 to $78 range.
+
+*** elevate
+https://www.dicts.cn/dictword20181/html/457f086780511024a57b2901803bea62.html?elevate
+
+** Three
+3. Grown-ups are fueling a toy boom. Adult-only households made up 55% of US sales in the first half, splurging on Lego, Jellycats and collectibles and putting 2026 on track for the industry's strongest growth year.
+
+*** grown-up
+https://www.dicts.cn/dictword20181/html/7cd441cfa608729afe3b787ed6e289f0.html?grown-up
+
