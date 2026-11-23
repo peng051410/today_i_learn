@@ -951,6 +951,9 @@ https://www.dicts.cn/dictword20181/html/bd3beb8f0138484b54ed7e25b2b74ec7.html?co
 https://www.dicts.cn/dictword20181/html/9e4b6ec123eae4b6a9deecd01dcf0f23.html?dent
 
 *** Harley-Davidson
+:PROPERTIES:
+:ID:       55E5B6FB-EC51-4F32-8316-679EC3F2567C
+:END:
 https://en.wikipedia.org/wiki/Harley-Davidson?useskin=vector
 
 ** Three
