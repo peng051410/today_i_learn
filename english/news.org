@@ -1020,4 +1020,47 @@ https://www.dicts.cn/dictword20181/html/457f086780511024a57b2901803bea62.html?el
 
 *** grown-up
 https://www.dicts.cn/dictword20181/html/7cd441cfa608729afe3b787ed6e289f0.html?grown-up
+* [[https://www.youtube.com/watch?v=_Mzy-5yJQDo][读懂英语新闻（第378期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜趣味学英语 ｜真人美音朗读学英语 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2026-11-26 Thu 09:26]
+:END:
+** One
+1. Jensen Huang apologized to Nvidia staff and told them that he was in therapy.
+During an all-hands meeting at the company's headquarters, the reinstated CEO also thanked the Trump administration for providing Nvidia with quick access to intelligence that he said helped the board determine that the national security risks the company faced in reinstating him were low, according to people familiar with the matter. Huang is slated to face a bipartisan maelstrom when he appears for a congressional hearing next week.
+
+*** therapy
+https://www.dicts.cn/word.html?w=therapy
+
+Music therapy can improve mood.
+
+*** reinstate
+https://www.dicts.cn/word.html?w=reinstate
+
+The company decided to reinstate him.
+
+*** slate
+https://www.dicts.cn/word.html?w=slate
+
+The new film is slated for release next summer.
+
+*** maelstrom 
+https://www.dicts.cn/word.html?w=maelstrom
+
+The city was caught in a maelstrom of political unrest.
+
+** Two
+2. Measles is typically thought of as a childhood disease. But now that the virus has spread through the country at levels not reached in decades, millions of American adults may be at greater risk.The danger is greatest for those who are unvaccinated, but even vaccinated adults born before 1989 may no longer be sufficiently protected because they were probably given one dose in childhood instead of the current two-dose regimen.
+
+*** regimen
+https://www.dicts.cn/word.html?w=regimen
+
+She follow a strict exercise regimen every morning.
+
+** Three
+3. China's Huawei Technologies was convicted of fraud in a U.S. criminal trial. During a two-month trial in federal court in Brooklyn, prosecutors accused Huawei and several subsidiaries of operating as a racketeering conspiracy to expand the company's business empire. Huawei's legal team argued prosecutors were criminalizing regular business activity.
+
+*** fraud
+https://www.dicts.cn/word.html?w=fraud
+
+He was convicted of fraud and sendt to prison.
 
