@@ -1389,3 +1389,87 @@ The company funnelled millions into research and development.
 
 *** pull back
 https://www.bing.com/dict/search?q=pull%20back
+* [[https://www.youtube.com/watch?v=ucxInJeo888][一周英语新闻精学（第35期）｜听新闻学英语｜词汇量暴涨｜英语读报｜美国新闻解读｜英语听力｜英文写作提升｜英语阅读｜时事英文｜单词轻松记｜精读英语新闻｜如何读懂英文新闻｜英语纠音｜真人美音朗读 - YouTube]]
+:PROPERTIES:
+:CAPTURED_ON: [2026-11-27 Fri 09:31]
+:END:
+** One
+1. SpaceX's Starship rocket suffered a leak, tumbled out of control in space and disintegrated as it hurtled back to Earth during a test yesterday. That follows flights in January and March that exploded after takeoff. It's not the only disappointment for Elon Musk, who told CBS that Donald Trump's tax bill undercuts DOGE efforts. Speaking of Trump, the US president warned in a social media post that Vladimir Putin is "playing with fire." Russia has in recent days escalated its aerial attacks against Ukraine, and Trump is considering new sanctions on Moscow, which CNN reported may come soon.
+
+*** disintegrate
+https://www.dicts.cn/word.html?w=disintegrate
+
+The old building began to disintegrate after years of neglect.
+
+*** tumble
+https://www.dicts.cn/word.html?w=tumble
+
+Whe watched the leaves tumble in the autumn wind.
+
+*** undercut
+https://www.dicts.cn/word.html?w=undercut
+
+The company tried to undercut its rivals with low prices.
+
+*** aerial
+https://www.dicts.cn/word.html?w=aerial
+
+An aerial photographer captured the storm from above.
+
+** Two
+2. Dario Amodei - CEO of Anthropic, one of the world's most powerful creators of artificial intelligence — has a blunt, scary warning for the U.S. government and all of us: AI could wipe out half of all entry-level white-collar jobs — and spike unemployment to 10-20% in the next one to five years. Amodei said AI companies and government need to stop "sugar-coating" what's coming: the possible mass elimination of jobs across technology, finance, law, consulting and other white-collar professions, especially entry-level gigs. Hardly anyone is paying attention. Lawmakers don't get it or don't believe it. CEOs are afraid to talk about it. Many workers won't realize the risks posed by the possible job apocalypse — until after it hits.
+
+Amodei — who had just rolled out the latest versions of his own Al, which can code at near-human levels — said the technology holds unimaginable possibilities to unleash mass good and bad at scale: "Cancer is cured, the economy grows at 10% a year, the budget is balanced — and 20% of people don't have jobs." That's one very possible scenario rattling in his mind as Al power expands exponentially.
+
+*** Dario Amodei
+https://en.wikipedia.org/wiki/Dario_Amodei?useskin=vector
+
+*** blunt
+https://www.dicts.cn/word.html?w=blunt
+
+He gave a blunt anwser to the question.
+
+*** wipe out
+https://www.bing.com/dict/search?q=wipe%20out
+
+*** gig
+https://www.dicts.cn/word.html?w=gig
+
+He got a gig at the local club.
+
+*** apocalypse
+https://www.dicts.cn/word.html?w=apocalypse
+
+Many fear the apocalypse will bring an end to civilization.
+
+*** roll out
+https://www.bing.com/dict/search?q=roll%20out
+
+*** unleash
+https://www.dicts.cn/word.html?w=unleash
+
+The new policy could unleash a wave of innovation.
+
+*** exponentially
+https://www.dicts.cn/word.html?w=exponentially
+
+Technology is advancing exponentially.
+
+** Three
+3. People are worried about what tiny particles of plastic are doing to our bodies. The bits are in our air, soil, water and food, where we consume them. Read what you can do to avoid exposure: Stop drinking from plastic water bottles, especially if they've been sitting out in the sun. Avoid heating food in plastic containers. Use glass or steel for food storage. Eat more fresh fruits and vegetables — highly processed foods contain more microplastics. Regularly vacuum your house and use an air purifier.
+
+*** soil
+https://www.dicts.cn/word.html?w=soil
+
+The soil is rich and fertile here.
+
+*** vacuum
+https://www.dicts.cn/word.html?w=vacuum
+
+She cleaned the floor with a vacuum.
+
+*** purifier
+https://www.dicts.cn/word.html?id=342832
+
+This air purifier removes dust and pollen.
+
